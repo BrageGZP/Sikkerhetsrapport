@@ -22,8 +22,12 @@
     main { max-width: 1100px; margin: 0 auto; padding: 2rem; }
     section { margin-bottom: 3rem; }
     section h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-bottom: 1.25rem; }
-    .article-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; }
+    .article-scroll { display: flex; gap: 1rem; overflow-x: auto; padding-bottom: 0.75rem; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
+    .article-scroll::-webkit-scrollbar { height: 6px; }
+    .article-scroll::-webkit-scrollbar-track { background: var(--navy-mid); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; min-width: 280px; max-width: 320px; flex-shrink: 0; scroll-snap-align: start; }
     .card:hover { border-color: var(--accent); }
     .card .source { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
     .card h3 { font-size: 0.95rem; margin: 0.35rem 0; }
@@ -54,7 +58,7 @@
     <div class="fallback-notice">&#9432; Ingen nye nyheter siden sist — viser de siste tilgjengelige artiklene.</div>
     {% endif %}
     {% if sections.nyheter %}
-    <div class="article-grid">
+    <div class="article-scroll">
       {% for a in sections.nyheter %}
       <div class="card" {% if a.language == 'en' %}lang="en"{% endif %}>
         <div class="source">{{ a.source }}</div>
@@ -75,7 +79,7 @@
     <div class="fallback-notice">&#9432; Ingen nye regelverksoppdateringer siden sist — viser de siste tilgjengelige artiklene.</div>
     {% endif %}
     {% if sections.regelverk %}
-    <div class="article-grid">
+    <div class="article-scroll">
       {% for a in sections.regelverk %}
       <div class="card">
         <div class="source">{{ a.source }}</div>
@@ -96,7 +100,7 @@
     <div class="fallback-notice">&#9432; No new ROV/technology articles since last update — showing most recent available.</div>
     {% endif %}
     {% if sections.rov_teknologi %}
-    <div class="article-grid">
+    <div class="article-scroll">
       {% for a in sections.rov_teknologi %}
       <div class="card">
         <div class="source">{{ a.source }}</div>

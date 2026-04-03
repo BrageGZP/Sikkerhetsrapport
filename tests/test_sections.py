@@ -43,10 +43,10 @@ def test_too_old_nyheter_article_uses_fallback():
     assert len(result["nyheter"]) == 1
     assert "nyheter" in fallback
 
-def test_section_capped_at_10():
-    articles = [_a("Forsvaret.no", title=f"News {i}", days_old=i) for i in range(15)]
+def test_section_capped_at_max():
+    articles = [_a("Forsvaret.no", title=f"News {i}", days_old=i) for i in range(35)]
     result, _ = assign_and_organize(articles, now=NOW)
-    assert len(result["nyheter"]) == 10
+    assert len(result["nyheter"]) == 30
 
 def test_sorted_newest_first():
     articles = [_a("Forsvaret.no", title=f"News {i}", days_old=i) for i in range(3)]

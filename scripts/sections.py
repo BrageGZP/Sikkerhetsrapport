@@ -14,7 +14,7 @@ MAX_AGE = {
     "rov_teknologi": 30,
 }
 
-MAX_COUNT = 10
+MAX_COUNT = 30
 
 
 def _matches_section3(article: Article) -> bool:

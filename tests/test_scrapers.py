@@ -24,18 +24,30 @@ FORSVARET_JSON = {
     ],
 }
 
+ARTICLE_HTML = """<html><head>
+<meta property="og:description" content="Ny øvelse tester minerydding i Oslofjorden.">
+</head><body></body></html>"""
+
 @responses_mock.activate
 def test_scrape_forsvaret_returns_articles():
+    responses_mock.add(responses_mock.GET, FORSVARET_API, json=FORSVARET_JSON)
+    # Mock individual article page requests for ingress fetching
     responses_mock.add(
         responses_mock.GET,
-        FORSVARET_API,
-        json=FORSVARET_JSON,
+        "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/ny-oevelse-minerydding",
+        body=ARTICLE_HTML.encode("utf-8"), content_type="text/html; charset=utf-8",
+    )
+    responses_mock.add(
+        responses_mock.GET,
+        "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/styrker-beredskapen",
+        body=ARTICLE_HTML.encode("utf-8"), content_type="text/html; charset=utf-8",
     )
     articles = scrape_forsvaret()
     assert len(articles) >= 1
     assert articles[0].source == "Forsvaret.no"
     assert articles[0].language == "no"
     assert articles[0].url.startswith("https://www.forsvaret.no")
+    assert articles[0].summary == "Ny øvelse tester minerydding i Oslofjorden."
 
 @responses_mock.activate
 def test_scrape_forsvaret_returns_empty_on_http_error(caplog):

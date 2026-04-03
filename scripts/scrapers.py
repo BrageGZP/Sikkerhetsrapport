@@ -41,11 +41,24 @@ def _warn_if_empty(source: str, articles: list[Article]) -> list[Article]:
     return articles
 
 
+def _fetch_forsvaret_ingress(url: str) -> str:
+    """Fetch a Forsvaret.no article page and return its og:description as ingress."""
+    html = _get_html(url)
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    meta = soup.find("meta", {"property": "og:description"})
+    if meta and meta.get("content"):
+        return meta["content"].strip()
+    return ""
+
+
 def scrape_forsvaret() -> list[Article]:
     """Fetch news articles from Forsvaret.no via JSON API.
 
     The site changed to dynamic loading (2026-04-03); articles are no longer
     present in the static HTML but served from a list-card-service endpoint.
+    Ingress is fetched from each article's og:description meta tag.
     """
     try:
         resp = requests.get(FORSVARET_API, headers=HEADERS, timeout=15)
@@ -69,10 +82,10 @@ def scrape_forsvaret() -> list[Article]:
             articles.append(Article(
                 title=title,
                 url=url,
-                published=_parse_datetime_attr(None),  # No date in listing API
+                published=_parse_datetime_attr(None),
                 source="Forsvaret.no",
                 language="no",
-                summary="",
+                summary=_fetch_forsvaret_ingress(url),
             ))
         except Exception as exc:
             logger.warning("Skipping malformed Forsvaret article: %s", exc)

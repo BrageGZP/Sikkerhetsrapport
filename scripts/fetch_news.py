@@ -7,7 +7,7 @@ from scripts.rss_fetcher import fetch_all_rss
 from scripts.scrapers import fetch_all_norwegian
 from scripts.keywords import matches_keywords
 from scripts.dedup import deduplicate
-from scripts.sections import assign_and_organize
+from scripts.sections import assign_and_organize, SECTION2_SOURCES
 from scripts.renderer import render
 
 logging.basicConfig(
@@ -26,8 +26,9 @@ def run() -> None:
     articles = fetch_all_rss() + fetch_all_norwegian()
     logging.info("Fetched %d articles total", len(articles))
 
-    # 2. Filter by keywords
-    articles = [a for a in articles if matches_keywords(a)]
+    # 2. Filter by keywords — regulatory sources (Kystverket, Sjøfartsdirektoratet)
+    # are pre-selected as relevant and bypass the keyword filter
+    articles = [a for a in articles if a.source in SECTION2_SOURCES or matches_keywords(a)]
     logging.info("%d articles after keyword filter", len(articles))
 
     # 3. Deduplicate

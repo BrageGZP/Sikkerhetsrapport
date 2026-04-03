@@ -4,12 +4,21 @@ from scripts.models import Article
 KEYWORDS_NO = [
     "mine", "minerydding", "undervann", "rov", "havnesikkerhet",
     "maritim sikkerhet", "sjøforsvar", "ubåt", "mcm",
+    "kongsberg", "minesveiper", "minejakting", "minekrig",
+    "undervannsdroner", "autonomt undervannsfartøy",
 ]
 
 KEYWORDS_EN = [
     "naval mine", "underwater rov", "mine countermeasure", "mcm",
     "uuv", "auv", "underwater security", "port security",
     "subsea defense", "rov defense",
+    # Industry / competitor tracking
+    "kongsberg maritime", "saab kockums", "eca group", "atlas elektronik",
+    "teledyne marine", "hydroid", "remus", "double eagle", "seafox",
+    "hugin", "l3harris", "thales underwater", "general dynamics mission",
+    "mine hunting", "mine sweeping", "mine warfare", "minehunter",
+    "underwater drone", "autonomous underwater vehicle",
+    "unmanned underwater", "underwater warfare",
 ]
 
 ALL_KEYWORDS = KEYWORDS_NO + KEYWORDS_EN

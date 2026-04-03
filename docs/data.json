@@ -1,9 +1,226 @@
 {
-  "generated_at": "2026-04-03T15:48:28Z",
+  "generated_at": "2026-04-03T15:53:01Z",
   "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [],
-    "regelverk": [],
+    "regelverk": [
+      {
+        "title": "Dårlig vær stopper tokt ved U-864",
+        "url": "https://www.kystverket.no/nyheter/darlig-var-stopper-tokt-ved-u-864/",
+        "published": "2026-04-01T07:25:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Arbeidet suspendert.",
+        "section": "regelverk"
+      },
+      {
+        "title": "LMZ Pluto er på vei til land",
+        "url": "https://www.kystverket.no/nyheter/lmz-pluto-aksjon-vellykket/",
+        "published": "2026-03-30T12:18:50Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Bulkskipet LMZ Pluto fikk motorstans tirsdag 24. mars, og drev ubemannet etter at mannskapet ble...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ny satellitt styrker beredskapen i norske havområder",
+        "url": "https://www.kystverket.no/nyheter/ny-satellitt-styrker-beredskapen-i-norske-havomrader/",
+        "published": "2026-03-29T09:32:22Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Oppskytingen av AISSat-4 er en viktig brikke i å sikre trygg ferdsel, beredskap og kontroll i noe...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Status: Dypvannskaia i Mo i Rana",
+        "url": "https://www.kystverket.no/nyheter/status-dypvannskaia-i-mo-i-rana/",
+        "published": "2026-03-27T09:40:44Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ønsker å leie kontorlokaler til losformidling i Lødingen",
+        "url": "https://www.kystverket.no/nyheter/pa-jakt-etter-kontorlokaler-i-lodingen/",
+        "published": "2026-03-23T08:56:22Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket trenger midlertidige lokaler til losformidling/loskontor i Lødingen fra september 2026...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ny omfattende undersøkelse av U‑864 starter denne uken",
+        "url": "https://www.kystverket.no/nyheter/ny-omfattende-undersokelse-av-u864-starter-denne-uken/",
+        "published": "2026-03-19T11:29:05Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket setter denne uken i gang en ny og omfattende undersøkelse av ubåtvraket U‑864 utenfor...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kronikk: Når transport blir forsvar",
+        "url": "https://www.kystverket.no/nyheter/kronikk-nar-transport-blir-forsvar/",
+        "published": "2026-03-09T13:56:59Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Når vi i Norge snakker om forsvar, ser vi for oss soldater, uniformer og militært materiell klare...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Oppdatert kostnadsanslag for Stad skipstunnel er levert",
+        "url": "https://www.kystverket.no/nyheter/oppdatert-kostnadsanslag-for-stad-skipstunnel-er-levert/",
+        "published": "2026-03-06T11:39:38Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har i dag levert et oppdatert beslutnings- og kostnadsgrunnlag for Stad skipstunnel ti...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Mer enn 30 fyrstasjoner skal pusses opp i år",
+        "url": "https://www.kystverket.no/nyheter/over-30-fyrstasjoner-skal-pusses-opp-i-ar/",
+        "published": "2026-03-05T14:46:10Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I 2026 vil Kystverket legge ned en betydelig innsats for å redusere vedlikeholdsetterslepet på...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Skip på grunn utenfor Langesund",
+        "url": "https://www.kystverket.no/nyheter/skip-pa-grunn-utenfor-langesund/",
+        "published": "2026-03-05T10:31:03Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Venter på taubåt.",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ny losdirektør i Kystverket",
+        "url": "https://www.kystverket.no/nyheter/ny-losdirektor-i-kystverket/",
+        "published": "2026-03-05T09:51:05Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har ansatt Jo Even Tomren som ny losdirektør. Med bred erfaring fra maritim sektor går...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Delvis stenging av Sotraleia frå 4. mars",
+        "url": "https://www.kystverket.no/nyheter/delvis-stenging-av-sotraleia-fra-4.-mars",
+        "published": "2026-03-03T08:48:02Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Arbeidet med den nye Sotrabrua i Vestland fylke går inn i ein fase der det blir behov for...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket deltar på Rederikonferansen - påmelding har åpnet",
+        "url": "https://www.kystverket.no/nyheter/kystverket-deltar-pa-rederikonferansen---pamelding-har-apnet/",
+        "published": "2026-02-27T12:36:38Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket bidrar med flere innslag i årets rederikonferanse, der tema er sikkerhet, konkurransek...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Det kan være dritskummelt - men det går fint!",
+        "url": "https://www.kystverket.no/nyheter/det-kan-vare-dritskummelt---men-det-gar-fint/",
+        "published": "2026-02-13T13:57:26Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Siv er en av Kystverkets statsloser.",
+        "section": "regelverk"
+      },
+      {
+        "title": "Samarbeid styrker beredskapen i Nordland",
+        "url": "https://www.kystverket.no/nyheter/iua-samarbeidsavtale-nordland/",
+        "published": "2026-02-06T13:15:40Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Ny avtale mellom Kystverket og IUAene i Nordland.",
+        "section": "regelverk"
+      },
+      {
+        "title": "Søk støtte til tiltak som gjør havnene mer effektive og miljøvennlige",
+        "url": "https://www.kystverket.no/nyheter/sok-stotte-til-tiltak-som-gjor-havnene-mer-effektive-og-miljovennlige/",
+        "published": "2026-01-30T13:19:11Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket lyser nå ut midler gjennom tilskuddsordningen for effektive og miljøvennlige havner....",
+        "section": "regelverk"
+      },
+      {
+        "title": "Bryter is i nord og i sør",
+        "url": "https://www.kystverket.no/nyheter/bryter-is-i-nord-og-i-sor/",
+        "published": "2026-01-30T12:57:50Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Akkurat nå har vinterkulda ført til isdannelse i deler av norske farvann, både i sør og nord. Vi...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Leie av lokaler til losstasjon i Trondheim",
+        "url": "https://www.kystverket.no/nyheter/leie-av-lokaler-til-losstasjon-i-trondheim/",
+        "published": "2026-01-29T08:38:28Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket ønsker å leie lokaler til losstasjon i Trondheim, helst i nærheten av Trondheim sentrum.",
+        "section": "regelverk"
+      },
+      {
+        "title": "DGPS avviklet",
+        "url": "https://www.kystverket.no/nyheter/dgps-avviklet/",
+        "published": "2026-01-27T10:10:12Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Fra i dag 27. januar 2026 er Kystverkets DGPS-tjeneste i Norge avviklet. Beslutningen om avviklin...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Sammen om økt beredskap og grønn omstilling i et krevende geopolitisk landskap",
+        "url": "https://www.kystverket.no/nyheter/cruisekonferansen-2026-sammen-om-okt-beredskap-og-gronn-omstilling-i-et-krevende-geopolitisk-landskap/",
+        "published": "2026-01-23T10:25:37Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Cruisenæringen og norske myndigheter var samlet under Den norske Cruisekonferansen 22. januar for...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Nytt rekordår for cruise i Norge",
+        "url": "https://www.kystverket.no/nyheter/nytt-rekordar-for-cruise-i-norge/",
+        "published": "2026-01-20T19:02:39Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "2025 ble et nytt rekordår for cruiseaktivitet langs norskekysten. Over 3900 cruiseskip-anløp...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Seks fyrstasjoner søker nye leietakere",
+        "url": "https://www.kystverket.no/nyheter/seks-fyrstasjoner-soker-nye-leietakere/",
+        "published": "2026-01-20T13:58:46Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Det skjer ikke ofte at seks fyr samtidig lyses ut for nye leietakere. Nå inviterer Kystverket...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Vil du leie et fyr? Slik går du fram",
+        "url": "https://www.kystverket.no/nyheter/slik-soker-du-om-a-fa-leie-kystverkets-fyrstasjoner/",
+        "published": "2026-01-20T13:55:25Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Drømmer du om å gi nytt liv til et fyr – ytterst mot havet, med historie i veggene og kystkultur ...",
+        "section": "regelverk"
+      },
+      {
+        "title": "Parafinvoks funnet på strender langs Oslofjorden",
+        "url": "https://www.kystverket.no/nyheter/parafinvoks-i-oslofjorden/",
+        "published": "2026-01-19T11:13:25Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Vi ønsker at publikum rapporterer funn.",
+        "section": "regelverk"
+      }
+    ],
     "rov_teknologi": [
       {
         "title": "French Suffren-class submarine launches and recovers U.S. Navy UUV",

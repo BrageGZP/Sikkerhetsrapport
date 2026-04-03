@@ -22,8 +22,12 @@
     main { max-width: 1100px; margin: 0 auto; padding: 2rem; }
     section { margin-bottom: 3rem; }
     section h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-bottom: 1.25rem; }
-    .article-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; }
+    .article-scroll { display: flex; gap: 1rem; overflow-x: auto; padding-bottom: 0.75rem; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
+    .article-scroll::-webkit-scrollbar { height: 6px; }
+    .article-scroll::-webkit-scrollbar-track { background: var(--navy-mid); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; min-width: 280px; max-width: 320px; flex-shrink: 0; scroll-snap-align: start; }
     .card:hover { border-color: var(--accent); }
     .card .source { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
     .card h3 { font-size: 0.95rem; margin: 0.35rem 0; }
@@ -32,6 +36,7 @@
     .card .date { font-size: 0.75rem; color: var(--text-muted); }
     .card .summary { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; }
     .empty { color: var(--text-muted); font-style: italic; font-size: 0.9rem; }
+    .fallback-notice { display: flex; align-items: center; gap: 0.5rem; background: rgba(74,158,221,0.1); border: 1px solid rgba(74,158,221,0.3); border-radius: 4px; padding: 0.5rem 0.75rem; margin-bottom: 1rem; font-size: 0.82rem; color: var(--accent); }
     footer { text-align: center; padding: 2rem; font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border); }
     footer a { color: var(--accent); }
     @media (max-width: 600px) { header { padding: 1rem; } main { padding: 1rem; } }
@@ -41,7 +46,7 @@
 <header>
   <h1>Maritim Sikkerhetsrapport — Miner &amp; Undervannssikkerhet</h1>
   <div class="meta">
-    Sist oppdatert: 2026-04-03 15:35 UTC &nbsp;|&nbsp;
+    Sist oppdatert: 2026-04-03 15:48 UTC &nbsp;|&nbsp;
     Neste oppdatering: 04:00 UTC (tomorrow)
   </div>
 </header>
@@ -50,12 +55,14 @@
   <section>
     <h2>Aktuelle nyheter</h2>
     
+    
     <p class="empty">Ingen aktuelle nyheter funnet.</p>
     
   </section>
 
   <section>
     <h2>Regelverk &amp; Havnesikkerhet</h2>
+    
     
     <p class="empty">Ingen regelverksoppdateringer funnet.</p>
     
@@ -64,7 +71,8 @@
   <section lang="en">
     <h2>ROV &amp; Teknologi</h2>
     
-    <div class="article-grid">
+    
+    <div class="article-scroll">
       
       <div class="card">
         <div class="source">Naval News</div>

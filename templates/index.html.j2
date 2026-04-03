@@ -32,6 +32,7 @@
     .card .date { font-size: 0.75rem; color: var(--text-muted); }
     .card .summary { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; }
     .empty { color: var(--text-muted); font-style: italic; font-size: 0.9rem; }
+    .fallback-notice { display: flex; align-items: center; gap: 0.5rem; background: rgba(74,158,221,0.1); border: 1px solid rgba(74,158,221,0.3); border-radius: 4px; padding: 0.5rem 0.75rem; margin-bottom: 1rem; font-size: 0.82rem; color: var(--accent); }
     footer { text-align: center; padding: 2rem; font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border); }
     footer a { color: var(--accent); }
     @media (max-width: 600px) { header { padding: 1rem; } main { padding: 1rem; } }
@@ -49,6 +50,9 @@
 
   <section>
     <h2>Aktuelle nyheter</h2>
+    {% if 'nyheter' in fallback_sections %}
+    <div class="fallback-notice">&#9432; Ingen nye nyheter siden sist — viser de siste tilgjengelige artiklene.</div>
+    {% endif %}
     {% if sections.nyheter %}
     <div class="article-grid">
       {% for a in sections.nyheter %}
@@ -67,6 +71,9 @@
 
   <section>
     <h2>Regelverk &amp; Havnesikkerhet</h2>
+    {% if 'regelverk' in fallback_sections %}
+    <div class="fallback-notice">&#9432; Ingen nye regelverksoppdateringer siden sist — viser de siste tilgjengelige artiklene.</div>
+    {% endif %}
     {% if sections.regelverk %}
     <div class="article-grid">
       {% for a in sections.regelverk %}
@@ -85,6 +92,9 @@
 
   <section lang="en">
     <h2>ROV &amp; Teknologi</h2>
+    {% if 'rov_teknologi' in fallback_sections %}
+    <div class="fallback-notice">&#9432; No new ROV/technology articles since last update — showing most recent available.</div>
+    {% endif %}
     {% if sections.rov_teknologi %}
     <div class="article-grid">
       {% for a in sections.rov_teknologi %}

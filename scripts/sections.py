@@ -25,7 +25,9 @@ def _matches_section3(article: Article) -> bool:
 def assign_and_organize(
     articles: list[Article],
     now: datetime | None = None,
-) -> dict[str, list[Article]]:
+) -> tuple[dict[str, list[Article]], set[str]]:
+    """Return (sections, fallback_sections) where fallback_sections is the set
+    of section names that fell back to older articles due to no recent content."""
     if now is None:
         now = datetime.now(timezone.utc)
 
@@ -46,10 +48,19 @@ def assign_and_organize(
         sections[article.section].append(article)
 
     # Per-section: filter by age, sort newest first, cap at MAX_COUNT
+    # If nothing passes the age filter, fall back to the most recent articles available
+    fallback_sections: set[str] = set()
     for name, items in sections.items():
         cutoff = now - timedelta(days=MAX_AGE[name])
-        items = [a for a in items if a.published >= cutoff]
-        items.sort(key=lambda a: a.published, reverse=True)
-        sections[name] = items[:MAX_COUNT]
+        recent = [a for a in items if a.published >= cutoff]
+        if recent:
+            pool = recent
+        elif items:
+            pool = items
+            fallback_sections.add(name)
+        else:
+            pool = []
+        pool.sort(key=lambda a: a.published, reverse=True)
+        sections[name] = pool[:MAX_COUNT]
 
-    return sections
+    return sections, fallback_sections

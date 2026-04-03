@@ -21,9 +21,12 @@ def render(
     docs_dir: Path,
     generated_at: datetime | None = None,
     repo_url: str = "https://github.com",
+    fallback_sections: set[str] | None = None,
 ) -> None:
     if generated_at is None:
         generated_at = datetime.now(timezone.utc)
+    if fallback_sections is None:
+        fallback_sections = set()
 
     docs_dir.mkdir(parents=True, exist_ok=True)
 
@@ -54,6 +57,7 @@ def render(
         next_update_utc=_next_update(generated_at),
         sections=ns,
         repo_url=repo_url,
+        fallback_sections=fallback_sections,
     )
 
     (docs_dir / "index.html").write_text(html, encoding="utf-8")

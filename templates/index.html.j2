@@ -73,27 +73,6 @@
     {% endif %}
   </section>
 
-  <section>
-    <h2>Diverse nyheter</h2>
-    {% if 'regelverk' in fallback_sections %}
-    <div class="fallback-notice">&#9432; Ingen nye oppføringer siden sist — viser de siste tilgjengelige artiklene.</div>
-    {% endif %}
-    {% if sections.regelverk %}
-    <div class="article-scroll">
-      {% for a in sections.regelverk %}
-      <div class="card">
-        <div class="source">{{ a.source }}</div>
-        <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
-        <div class="date">{{ a.published }}</div>
-        {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
-      </div>
-      {% endfor %}
-    </div>
-    {% else %}
-    <p class="empty">Ingen oppføringer funnet.</p>
-    {% endif %}
-  </section>
-
   <section lang="en">
     <h2>ROV &amp; Teknologi</h2>
     {% if 'rov_teknologi' in fallback_sections %}
@@ -112,6 +91,27 @@
     </div>
     {% else %}
     <p class="empty">No ROV/technology articles found.</p>
+    {% endif %}
+  </section>
+
+  <section>
+    <h2>Diverse nyheter</h2>
+    {% if 'regelverk' in fallback_sections %}
+    <div class="fallback-notice">&#9432; Ingen nye oppføringer siden sist — viser de siste tilgjengelige artiklene.</div>
+    {% endif %}
+    {% if sections.regelverk %}
+    <div class="article-scroll">
+      {% for a in sections.regelverk %}
+      <div class="card">
+        <div class="source">{{ a.source }}</div>
+        <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+        <div class="date">{{ a.published }}</div>
+        {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <p class="empty">Ingen oppføringer funnet.</p>
     {% endif %}
   </section>
 

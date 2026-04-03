@@ -1,8 +1,279 @@
 {
-  "generated_at": "2026-04-03T16:00:55Z",
+  "generated_at": "2026-04-03T16:15:07Z",
   "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
-    "nyheter": [],
+    "nyheter": [
+      {
+        "title": "Norge lærer opp dansk luftvernpersonell",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/norge-laerer-opp-dansk-luftvernpersonell",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "NATO trekker personell ut av Irak",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/nato-trekker-personell-ut-av-irak",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Norden sammen om felles flylegeutdanning",
+        "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Status: Søk utdanning i Forsvaret – for Norge",
+        "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Evakueringen av ukrainske pasienter fortsetter",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Status: Oppdatert langtidsplan – hva betyr det?",
+        "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Logistikkens livline under Cold Response 2026",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
+        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
+        "published": "2026-04-03T16:15:10Z",
+        "source": "Forsvaret.no",
+        "language": "no",
+        "summary": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "India Inducts Third SSBN, Fourth Nilgiri-class Frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/04/india-inducts-third-ssbn-fourth-nilgiri-class-frigate/",
+        "published": "2026-04-03T14:35:48Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "India’s third Arihant-class SSBN INS Aridhaman and fourth Nilgiri-class frigate INS Taragiri were commissioned on April 3 at Visakhapatnam by defence minister Rajnath Singh. Defence minister Rajnath Singh posted a cryptic tweet translating to “It’s not words but power, Aridhaman!”. Multiple Indian media confirmed that the submarine was inducted. However, there was no official confirmation ...\nThe post India Inducts Third SSBN, Fourth Nilgiri-class Frigate appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "France orders its fifth and final FDI frigate from Naval Group, completing fleet plan",
+        "url": "https://www.defensenews.com/global/europe/2026/04/03/france-orders-its-fifth-and-final-fdi-frigate-from-naval-group-completing-fleet-plan/",
+        "published": "2026-04-03T10:57:57Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The first frigate in the class, the Amiral Ronarc’h, was delivered in October, and is currently on a long-term deployment.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Seoul Expands Sub Warfare Force with U.S. Helos, Patrol Aircraft",
+        "url": "https://news.usni.org/2026/04/02/seoul-expands-sub-warfare-force-with-u-s-helos-patrol-aircraft",
+        "published": "2026-04-02T21:01:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The South Korean Navy stood up its first American-made MH-60R Seahawk helicopters Wednesday in the service’s latest move to bolster Seoul’s submarine hunting forces. Ordered in a $878 million deal from 2020, 12 anti-submarine helicopters were procured under the Republic of Korea Navy’s (ROKN) Maritime Helicopter-II program. The new helicopters will embark on the fleet’s frigates and destroyers, joining previously procured Wildcat and Westland Lynx helicopters, via the 62nd Maritime Air Group at ",
+        "section": "nyheter"
+      },
+      {
+        "title": "Carrier USS Gerald R. Ford Departs Croatia After Liberty, Additional Repairs",
+        "url": "https://news.usni.org/2026/04/02/carrier-uss-gerald-r-ford-departs-croatia-after-liberty-additional-repairs",
+        "published": "2026-04-02T20:10:31Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "USS Gerald R. Ford (CVN-78) departed Split, Croatia, following a five-day port visit, the Navy announced Thursday. It is unclear where the aircraft carrier is headed. Ford has been out for 282 days and is set to have a record-breaking deployment. “Gerald R. Ford remains poised for full mission tasking in support of national objectives in any area of operation,” reads the Navy news release. The Gerald R. Ford Carrier Strike Group, which left Norfolk, Va., on June 24, 2025, is expected to be out f",
+        "section": "nyheter"
+      },
+      {
+        "title": "French, Italian Carrier Strike Groups Wrap NATO’s Neptune Strike Drills",
+        "url": "https://news.usni.org/2026/04/02/french-italian-carrier-strike-groups-wrap-natos-neptune-strike-drills",
+        "published": "2026-04-02T17:28:31Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The French and Italian Navy carrier strike groups spent the past week carrying out maritime strikes and air patrols in the Mediterranean and Black seas as part of NATO’s Neptune Strike 26-1.  “From the flight deck of Charles De Gaulle, we have conducted several maritime strikes and air patrols above the Mediterranean and the Black Sea in order to strengthen the Alliance’s deterrent posture and reassure partners in the region. The engagement of the carrier air wing in the Eastern part of Europe e",
+        "section": "nyheter"
+      },
+      {
+        "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
+        "url": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
+        "published": "2026-04-02T16:42:19Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Experts and former defense officials said exemptions to the tariffs imposed by the Trump administration have somewhat blunted the financial impact on the defense industrial base.",
+        "section": "nyheter"
+      },
+      {
+        "title": "ST Engineering to serve as subcontractor for Kuwaiti navy vessels deal",
+        "url": "https://breakingdefense.com/2026/04/st-engineering-to-serve-as-subcontractor-for-kuwaiti-navy-vessels-deal/",
+        "published": "2026-04-02T14:02:10Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The contract is valued at 600 million Singapore dollars (467.6 million USD).",
+        "section": "nyheter"
+      },
+      {
+        "title": "France orders fifth FDI frigate from Naval Group",
+        "url": "https://www.navalnews.com/naval-news/2026/04/france-orders-fifth-fdi-frigate-from-naval-group/",
+        "published": "2026-04-02T10:56:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The French defense procurement agency (DGA) ordered the fifth FDI frigate for the French Navy (Marine Nationale) from Naval Group. The vessel, to be named Amiral Cabanier, will be built at the shipyard in Lorient. The order announcement was made today by the French Ministry of the Armed Forces. The actual contract was signed on ...\nThe post France orders fifth FDI frigate from Naval Group appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "HII Launches Flight III Destroyer George M. Neal (DDG 131)",
+        "url": "https://www.navalnews.com/naval-news/2026/04/hii-launches-flight-iii-destroyer-george-m-neal-ddg-131/",
+        "published": "2026-04-02T06:52:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HII’s Ingalls Shipbuilding division successfully launched future USS George M. Neal (DDG 131) on April 1st, 2026, marking a major construction milestone for the fourth Flight III Arleigh Burke-class destroyer to be built at the shipyard. HII press release In the weeks leading up to launch, shipbuilders completed key construction work, secured major components and performed inspections to ...\nThe post HII Launches Flight III Destroyer George M. Neal (DDG 131) appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Two Former Navy Fighter Pilots Lead NASA’s Artemis II Mission",
+        "url": "https://news.usni.org/2026/04/01/two-former-navy-fighter-pilots-lead-nasas-artemis-ii-mission",
+        "published": "2026-04-01T23:38:06Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Two former U.S. Navy fighter pilots are aboard the first crewed orbit around the moon in more than 50 years after launching on Wednesday from NASA’s Kennedy Space Center on the Artemis II mission. Retired Capt. Reid Wiseman is the commander of the Artemis II mission, while Capt. Victor Glover Jr. is the pilot. Wiseman and Glover are among two other astronauts – Canadian astronaut Jeremy Hansen, a Royal Canadian Air Force fighter pilot, and NASA flight engineer Christina Koch – who launched Wedne",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan Deploys New Hypersonic, Anti-ship Missiles",
+        "url": "https://news.usni.org/2026/04/01/japan-deploys-new-hypersonic-anti-ship-missiles",
+        "published": "2026-04-01T20:37:24Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Tokyo’s first batch of long-range strike missiles capable of reaching ground and maritime targets at extended ranges have been operationally fielded, according to Japan’s defense ministry. The Japan Ground Self-Defense Force (JGSDF) announced Monday the deployment of the Type 25 series of missiles. While the missiles share the same designation, their variants are split through surface-to-ship (SSM) and hypervelocity gliding projectile (HGP) classifications. Capable of striking targets over 1,000",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saab opens key test site for Australia’s Hobart class destroyers",
+        "url": "https://www.navalnews.com/naval-news/2026/04/saab-opens-key-test-site-for-australias-hobart-class-destroyers/",
+        "published": "2026-04-01T20:32:11Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saab Australia has reached a major milestone in the delivery of the Australian Interface for the Hobart class destroyer combat system. Saab press release The Hobart Australian Interface Reference Site has been established at Saab’s Sovereign Combat Systems Collaboration Centre (SCSCC) to enable integration and testing of systems that will be installed on the upgraded ...\nThe post Saab opens key test site for Australia’s Hobart class destroyers appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Amphibious Warship USS Rushmore Sailing Through Strait of Malacca",
+        "url": "https://news.usni.org/2026/04/01/amphibious-warship-uss-rushmore-sailing-through-strait-of-malacca",
+        "published": "2026-04-01T20:08:52Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Dock landing ship USS Rushmore (LSD-47) sailed through the Singapore Strait this week and is headed west through the Strait of Malacca, according to ship spotters. Rushmore, a Whidbey Island-class amphibious warship, is expected to meet up with the Tripoli Amphibious Ready Group in U.S. Central Command, USNI News previously reported. USS Tripoli (LHA-7), USS New Orleans (LPD-18) and elements of the 31st Marine Expeditionary Unit chopped into U.S. 5th Fleet last week. The two ships and the embark",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hormuz disruption will change trade — and defense — at other chokepoints",
+        "url": "https://breakingdefense.com/2026/04/hormuz-disruption-will-change-trade-and-defense-at-other-chokepoints/",
+        "published": "2026-04-01T18:23:34Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Disruption at the Strait of Hormuz will set off a chain reaction of pressure through the global shipping network, requiring international defense efforts, writes US Navy Supply Corps Capt. Michael Kidd.",
+        "section": "nyheter"
+      },
+      {
+        "title": "ST Engineering Secures ADSB Sub-Contract for Kuwait’s New Missile Gun Boat Fleet",
+        "url": "https://www.navalnews.com/naval-news/2026/04/st-engineering-secures-adsb-sub-contract-for-kuwaits-new-missile-gun-boat-fleet/",
+        "published": "2026-04-01T14:44:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "ST Engineering’s&#160;Marine business&#160;has secured a six-year sub-contract valued at about S$600 million from Abu Dhabi Ship Building (ADSB) to design and supply the platform systems for a fleet of eight Missile Gun Boats that ADSB is constructing for the Kuwait Naval Force. ST Engineering press release In addition to delivering the full suite of platform ...\nThe post ST Engineering Secures ADSB Sub-Contract for Kuwait’s New Missile Gun Boat Fleet appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "New Super-Battleship Under Construction In China",
+        "url": "https://www.navalnews.com/naval-news/2026/04/new-super-battleship-under-construction-in-china/",
+        "published": "2026-04-01T05:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "As the U.S. Navy debates the future of ‘Trump-class’ battleships, other navies are advancing their own visions of ultra-large surface combatants. New evidence reveals that China is constructing an even larger design, signalling a shift in naval priorities. Update: this article, published on 1st Aporil 2026, is our traditional &#8216;April Fools&#8217; China’s naval modernization is ...\nThe post New Super-Battleship Under Construction In China appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "USS George H.W. Bush Departs for Deployment, USS Gerald Ford Could Be Extended to 11 Months",
+        "url": "https://news.usni.org/2026/03/31/uss-george-h-w-bush-departs-for-deployment-uss-gerald-ford-could-be-extended-to-11-months",
+        "published": "2026-03-31T22:38:39Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "NAVAL STATION NORFOLK, Va. — The sun peeked over the horizon tinting the haze gray hull of carrier USS George H.W. Bush (CVN-77) orange while sailors on Pier 14 busied themselves preparing for the carrier to shove off across the Atlantic. The mood of families at the pier Tuesday was subdued without the pomp and cheer of last summer’s deployment of USS Gerald R. Ford (CVN-78) – the last carrier to leave the East Coast. With the early morning departure and a brisk wind, most families had said good",
+        "section": "nyheter"
+      },
+      {
+        "title": "The US Navy brought a ‘one-of-a-kind’ laser weapon back from the dead",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
+        "published": "2026-03-31T12:09:01Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy's lone 150 kW laser weapon is back in action – sort of.",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: March 30, 2026",
+        "url": "https://news.usni.org/2026/03/30/usni-news-fleet-and-marine-tracker-march-30-2026",
+        "published": "2026-03-30T21:39:02Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of March 30, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. This post was updated to correct the number of destroyers in the Eastern Mediterranean. Total Battle Force Deployed Underway 292 (USS 233, USNS 59) 106 (USS 76, USNS 30) (37 FDNF, 69 Rotat",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Commissions New Virginia-class Attack Boat USS Massachusetts in Boston Ceremony",
+        "url": "https://news.usni.org/2026/03/30/navy-commissions-new-virginia-class-attack-boat-uss-massachusetts-in-boston-ceremony",
+        "published": "2026-03-30T19:58:18Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A new Virginia-class attack submarine entered naval service over the weekend, the U.S. Navy announced. The service commissioned USS Massachusetts (SSN-798), a Block IV Virginia-class boat, during a Saturday ceremony in the Boston Harbor. “It is the fifth Navy vessel named after the commonwealth of Massachusetts, following the most recent, USS Massachusetts, a battleship that participated in nearly every major Pacific campaign from 1943 to 1945 and earned 11 battle stars for its World War II serv",
+        "section": "nyheter"
+      }
+    ],
     "regelverk": [
       {
         "title": "Dårlig vær stopper tokt ved U-864",
@@ -223,12 +494,57 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Northrop Grumman to deliver first SEWIP Block 3 system for CVN under contract modification",
+        "url": "https://www.navalnews.com/naval-news/2026/04/northrop-grumman-to-deliver-first-sewip-block-3-system-for-cvn-under-contract-modification/",
+        "published": "2026-04-03T12:28:20Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The US Navy has awarded Northrop Grumman a $334.4 million contract modification to produce up to nine additional Surface Electronic Warfare Improvement Program (SEWIP) Block 3 electronic attack (EA) systems, including the first shipset for installation on a nuclear-powered aircraft carrier (CVN). Valued at up to $783 million if all options are exercised, the sole-source ...\nThe post Northrop Grumman to deliver first SEWIP Block 3 system for CVN under contract modification appeared first on Naval",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "AV to Deliver ISR Services to U.S. Navy with JUMP 20-X",
+        "url": "https://www.navalnews.com/naval-news/2026/04/av-to-deliver-isr-services-to-u-s-navy-with-jump-20-x/",
+        "published": "2026-04-01T21:03:16Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "AV has been selected to deliver JUMP 20-X to the U.S. Navy in support of its initiative to modernize and expand ISR operations. The JUMP 20-X enables&#160;multi-domain missions with&#160;fully autonomous,&#160;hands-free operation and&#160;more than&#160;13 hours of&#160;flight time, a&#160;115-mile (185 km)&#160;range,&#160;and 30 pounds of payload capacity. AV press release AeroVironment, Inc.&#160;(“AV”), a global leader in autonomous systems ...\nThe post AV to Deliver ISR Services to U.S. Na",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Testimony on Low-cost Munitions",
+        "url": "https://news.usni.org/2026/04/01/testimony-on-low-cost-munitions",
+        "published": "2026-04-01T15:10:35Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is testimony provided March 24, 2026, on low-cost munitions presented to the U.S. Senate Armed Services Committee. From the Report The March 24, 2026, hearing saw testimony from Air Force Brig. Gen. Robert Lyons III, Navy Vice Adm. Elizabeth Okano, Army Lt. Gen. Frank Lozano and Space Force Lt. Gen. Steven Whitney. Watch the full hearing here. Download the document here.",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "French Suffren-class submarine launches and recovers U.S. Navy UUV",
         "url": "https://www.navalnews.com/naval-news/2026/03/french-suffren-class-submarine-launches-and-recovers-u-s-navy-uuv/",
         "published": "2026-03-31T18:19:30Z",
         "source": "Naval News",
         "language": "en",
         "summary": "Between March 16 and 20, 2026, a French Navy (Marine Nationale) Suffren-class nuclear attack submarine (SSN) successfully launched and recovered a U.S. Navy Razorback underwater drone for the first time. These technical trials took place off the coast of Toulon, France&#8217;s main naval base. They mark a significant step in the capabilities of the Suffren-class ...\nThe post French Suffren-class submarine launches and recovers U.S. Navy UUV appeared first on Naval News.",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "CNO Caudle’s ‘Excellence Ashore’ C-Note to the Fleet",
+        "url": "https://news.usni.org/2026/03/26/cno-caudles-excellence-ashore-c-note-to-the-fleet",
+        "published": "2026-03-26T14:21:20Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the March 23, 2026, CNO Note – or “C-Note” – to the fleet from Chief of Naval Operations Adm. Daryl Caudle. The “Excellence Ashore” C-Note is the sixth in a series of messages from Caudle to provide guidance and direction to the Navy.  From the Report CLASSIFICATION: UNCLASSIFIED/ FM CNO WASHINGTON DC TO NAVADMIN INFO CNO WASHINGTON DC SUBJ/C-NOte #6: EXCELLENCE ASHORE// RMKS/1. The Foundry is the bedrock of our naval power. Our ability to project force, sustain combat operation",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "CNO Caudle’s ‘Backbone of the Fleet: Chief Petty Officers’ C-Note to Sailors",
+        "url": "https://news.usni.org/2026/03/25/cno-caudles-backbone-of-the-fleet-chief-petty-officers-c-note-to-sailors",
+        "published": "2026-03-25T14:29:43Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the March 13, 2026, CNO Note – or “C-Note” – to the fleet from Chief of Naval Operations Adm. Daryl Caudle. The “Backbone of the Fleet: Chief Petty Officers” C-Note is the fifth in a series of messages from Caudle to provide guidance and direction to the Navy. From the Report CLASSIFICATION: UNCLASSIFIED FM CNO WASHINGTON DC TO NAVADMIN INFO CNO WASHINGTON DC SUBJ/C-NOte #5: The Backbone of the Fleet: Chief Petty Officers// RMKS/1. On April 1, we celebrate the 133rd birthday of ",
         "section": "rov_teknologi"
       }
     ]

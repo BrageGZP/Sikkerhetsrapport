@@ -1,16 +1,35 @@
 import responses as responses_mock
-from pathlib import Path
 from scripts.scrapers import scrape_forsvaret, scrape_kystverket, scrape_sjofartsdir
+from scripts.scrapers import FORSVARET_API
+from pathlib import Path
 
 FIXTURES = Path(__file__).parent / "fixtures"
+
+FORSVARET_JSON = {
+    "total": 2,
+    "start": 0,
+    "hits": [
+        {
+            "title": "Ny øvelse fokuserer på minerydding",
+            "displayName": "Ny øvelse fokuserer på minerydding",
+            "url": "/aktuelt-og-presse/aktuelt/ny-oevelse-minerydding",
+            "type": "no.bouvet.forsvaret:news",
+        },
+        {
+            "title": "Forsvaret styrker beredskapen",
+            "displayName": "Forsvaret styrker beredskapen",
+            "url": "/aktuelt-og-presse/aktuelt/styrker-beredskapen",
+            "type": "no.bouvet.forsvaret:news",
+        },
+    ],
+}
 
 @responses_mock.activate
 def test_scrape_forsvaret_returns_articles():
     responses_mock.add(
         responses_mock.GET,
-        "https://www.forsvaret.no/aktuelt",
-        body=(FIXTURES / "forsvaret_nyheter.html").read_text(),
-        content_type="text/html",
+        FORSVARET_API,
+        json=FORSVARET_JSON,
     )
     articles = scrape_forsvaret()
     assert len(articles) >= 1
@@ -22,7 +41,7 @@ def test_scrape_forsvaret_returns_articles():
 def test_scrape_forsvaret_returns_empty_on_http_error(caplog):
     responses_mock.add(
         responses_mock.GET,
-        "https://www.forsvaret.no/aktuelt",
+        FORSVARET_API,
         status=404,
     )
     articles = scrape_forsvaret()
@@ -33,9 +52,8 @@ def test_scrape_forsvaret_returns_empty_on_http_error(caplog):
 def test_scrape_forsvaret_warns_on_zero_results(caplog):
     responses_mock.add(
         responses_mock.GET,
-        "https://www.forsvaret.no/aktuelt",
-        body="<html><body><p>No articles here</p></body></html>",
-        content_type="text/html",
+        FORSVARET_API,
+        json={"total": 0, "start": 0, "hits": []},
     )
     articles = scrape_forsvaret()
     assert articles == []

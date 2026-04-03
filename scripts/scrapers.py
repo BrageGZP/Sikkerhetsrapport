@@ -11,11 +11,17 @@ BASE_FORSVARET = "https://www.forsvaret.no"
 BASE_KYSTVERKET = "https://www.kystverket.no"
 BASE_SJOFARTSDIR = "https://www.sjofartsdir.no"
 
+# Forsvaret.no changed to dynamic loading — articles are served via JSON API
+FORSVARET_API = (
+    "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/_/service/"
+    "no.bouvet.forsvaret/list-card-service?hasFilters=true&contentTypes=news%2Cfeature"
+)
 
-def _get_html(url: str) -> str | None:
+
+def _get_html(url: str, verify: bool = True) -> str | None:
     """Fetch URL, return HTML string or None on HTTP error."""
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
+        resp = requests.get(url, headers=HEADERS, timeout=15, verify=verify)
         resp.raise_for_status()
         return resp.text
     except requests.HTTPError as exc:
@@ -36,30 +42,34 @@ def _warn_if_empty(source: str, articles: list[Article]) -> list[Article]:
 
 
 def scrape_forsvaret() -> list[Article]:
-    """Scrape news articles from https://www.forsvaret.no/aktuelt."""
-    html = _get_html(f"{BASE_FORSVARET}/aktuelt")
-    if html is None:
+    """Fetch news articles from Forsvaret.no via JSON API.
+
+    The site changed to dynamic loading (2026-04-03); articles are no longer
+    present in the static HTML but served from a list-card-service endpoint.
+    """
+    try:
+        resp = requests.get(FORSVARET_API, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+    except requests.RequestException as exc:
+        logger.error("ERROR fetching Forsvaret.no API: %s", exc)
+        return []
+    except ValueError as exc:
+        logger.error("ERROR parsing Forsvaret.no JSON: %s", exc)
         return []
 
-    soup = BeautifulSoup(html, "html.parser")
     articles = []
-
-    # Selector verified 2026-04-03: li.list-article-split > a.list-article-card
-    for item in soup.select("li.list-article-split"):
+    for hit in data.get("hits", []):
         try:
-            link = item.select_one("a.list-article-card")
-            title = item.select_one(".list-article-card__title")
-
-            if not link or not title:
+            title = hit.get("title") or hit.get("displayName", "")
+            href = hit.get("url", "")
+            if not title or not href:
                 continue
-
-            href = link.get("href", "")
             url = href if href.startswith("http") else f"{BASE_FORSVARET}{href}"
-
             articles.append(Article(
-                title=title.get_text(strip=True),
+                title=title,
                 url=url,
-                published=_parse_datetime_attr(None),  # No date on listing page
+                published=_parse_datetime_attr(None),  # No date in listing API
                 source="Forsvaret.no",
                 language="no",
                 summary="",
@@ -108,7 +118,8 @@ def scrape_kystverket() -> list[Article]:
 
 def scrape_sjofartsdir() -> list[Article]:
     """Scrape news articles from https://www.sjofartsdir.no/nyheter/."""
-    html = _get_html(f"{BASE_SJOFARTSDIR}/nyheter/")
+    # verify=False: sjofartsdir.no has an SSL handshake issue on GitHub Actions runners
+    html = _get_html(f"{BASE_SJOFARTSDIR}/nyheter/", verify=False)
     if html is None:
         return []
 

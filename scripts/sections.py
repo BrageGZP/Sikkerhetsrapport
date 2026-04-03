@@ -2,6 +2,7 @@ from datetime import datetime, timezone, timedelta
 from scripts.models import Article
 
 SECTION2_SOURCES = {"Kystverket.no", "Sjøfartsdirektoratet.no"}
+NORWEGIAN_SOURCES = {"Forsvaret.no", "Kystverket.no", "Sjøfartsdirektoratet.no"}
 
 SECTION3_KEYWORDS = [
     "rov", "uuv", "auv", "mine countermeasure", "mcm",

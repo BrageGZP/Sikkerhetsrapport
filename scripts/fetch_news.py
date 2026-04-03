@@ -16,7 +16,7 @@ logging.basicConfig(
 )
 
 DOCS_DIR = Path(__file__).parent.parent / "docs"
-REPO_URL = "https://github.com"  # Update after repo is created
+REPO_URL = "https://github.com/BrageGZP/Sikkerhetsrapport"
 
 
 def run() -> None:

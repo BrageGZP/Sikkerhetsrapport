@@ -44,27 +44,25 @@ def scrape_forsvaret() -> list[Article]:
     soup = BeautifulSoup(html, "html.parser")
     articles = []
 
-    for item in soup.select("article.article-list__item"):
+    # Selector verified 2026-04-03: li.list-article-split > a.list-article-card
+    for item in soup.select("li.list-article-split"):
         try:
-            link = item.select_one("a.article-list__link")
-            title = item.select_one(".article-list__title")
-            intro = item.select_one(".article-list__intro")
-            time_el = item.select_one("time[datetime]")
+            link = item.select_one("a.list-article-card")
+            title = item.select_one(".list-article-card__title")
 
             if not link or not title:
                 continue
 
             href = link.get("href", "")
             url = href if href.startswith("http") else f"{BASE_FORSVARET}{href}"
-            published = _parse_datetime_attr(time_el)
 
             articles.append(Article(
                 title=title.get_text(strip=True),
                 url=url,
-                published=published,
+                published=_parse_datetime_attr(None),  # No date on listing page
                 source="Forsvaret.no",
                 language="no",
-                summary=intro.get_text(strip=True) if intro else "",
+                summary="",
             ))
         except Exception as exc:
             logger.warning("Skipping malformed Forsvaret article: %s", exc)
@@ -81,21 +79,21 @@ def scrape_kystverket() -> list[Article]:
     soup = BeautifulSoup(html, "html.parser")
     articles = []
 
-    for item in soup.select("li.news-list__item"):
+    # Selector verified 2026-04-03: article.card > a.card__headline-link + div.card__content > p + span.card__pubdate > time
+    for item in soup.select("article.card"):
         try:
-            link = item.select_one("a")
-            title_el = item.select_one(".news-list__title")
-            summary_el = item.select_one(".news-list__intro")
-            time_el = item.select_one("time[datetime]")
+            link = item.select_one("a.card__headline-link")
+            summary_el = item.select_one(".card__content p")
+            time_el = item.select_one(".card__pubdate time[datetime]")
 
-            if not link or not title_el:
+            if not link:
                 continue
 
             href = link.get("href", "")
             url = href if href.startswith("http") else f"{BASE_KYSTVERKET}{href}"
 
             articles.append(Article(
-                title=title_el.get_text(strip=True),
+                title=link.get_text(strip=True),
                 url=url,
                 published=_parse_datetime_attr(time_el),
                 source="Kystverket.no",
@@ -117,12 +115,17 @@ def scrape_sjofartsdir() -> list[Article]:
     soup = BeautifulSoup(html, "html.parser")
     articles = []
 
-    for item in soup.select("article.news-item"):
+    # Selector verified 2026-04-03: li.listing__listitem > div.teaser > div.teaser__content-wrap
+    for item in soup.select("li.listing__listitem"):
         try:
-            link = item.select_one("a")
-            title_el = item.select_one("h2")
-            summary_el = item.select_one("p")
-            time_el = item.select_one("time[datetime]")
+            content = item.select_one(".teaser__content-wrap")
+            if not content:
+                continue
+
+            link = content.select_one("a")
+            title_el = content.select_one("h2.teaser__heading")
+            time_el = content.select_one("time[datetime]")
+            summary_el = content.select_one("p.teaser__ingress")
 
             if not link or not title_el:
                 continue
@@ -153,12 +156,20 @@ def fetch_all_norwegian() -> list[Article]:
 
 
 def _parse_datetime_attr(time_el: Tag | None) -> datetime:
-    """Parse ISO 8601 datetime from a BeautifulSoup time element's datetime attribute.
-    Falls back to current UTC time if element is None or unparseable.
+    """Parse datetime from a BeautifulSoup time element's datetime attribute.
+
+    Handles ISO 8601 with T or space separator, date-only strings (YYYY-MM-DD),
+    and Z suffix. Falls back to current UTC time if element is None or unparseable.
     """
     if time_el and time_el.get("datetime"):
+        raw = time_el["datetime"].strip()
+        # Normalize: space separator → T, Z suffix → +00:00
+        raw = raw.replace(" ", "T").replace("Z", "+00:00")
         try:
-            dt = datetime.fromisoformat(time_el["datetime"].replace("Z", "+00:00"))
+            dt = datetime.fromisoformat(raw)
+            # If date-only (naive datetime with no time component), treat as UTC midnight
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
             return dt.astimezone(timezone.utc)
         except ValueError:
             pass

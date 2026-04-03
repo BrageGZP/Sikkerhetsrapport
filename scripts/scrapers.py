@@ -1,7 +1,7 @@
 import logging
 import requests
 from datetime import datetime, timezone
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from scripts.models import Article
 
 logger = logging.getLogger(__name__)
@@ -36,6 +36,7 @@ def _warn_if_empty(source: str, articles: list[Article]) -> list[Article]:
 
 
 def scrape_forsvaret() -> list[Article]:
+    """Scrape news articles from https://www.forsvaret.no/aktuelt."""
     html = _get_html(f"{BASE_FORSVARET}/aktuelt")
     if html is None:
         return []
@@ -72,6 +73,7 @@ def scrape_forsvaret() -> list[Article]:
 
 
 def scrape_kystverket() -> list[Article]:
+    """Scrape news articles from https://www.kystverket.no/nyheter/."""
     html = _get_html(f"{BASE_KYSTVERKET}/nyheter/")
     if html is None:
         return []
@@ -107,6 +109,7 @@ def scrape_kystverket() -> list[Article]:
 
 
 def scrape_sjofartsdir() -> list[Article]:
+    """Scrape news articles from https://www.sjofartsdir.no/nyheter/."""
     html = _get_html(f"{BASE_SJOFARTSDIR}/nyheter/")
     if html is None:
         return []
@@ -142,13 +145,17 @@ def scrape_sjofartsdir() -> list[Article]:
 
 
 def fetch_all_norwegian() -> list[Article]:
+    """Fetch articles from all three Norwegian government sources."""
     articles = []
     for scraper in [scrape_forsvaret, scrape_kystverket, scrape_sjofartsdir]:
         articles.extend(scraper())
     return articles
 
 
-def _parse_datetime_attr(time_el) -> datetime:
+def _parse_datetime_attr(time_el: Tag | None) -> datetime:
+    """Parse ISO 8601 datetime from a BeautifulSoup time element's datetime attribute.
+    Falls back to current UTC time if element is None or unparseable.
+    """
     if time_el and time_el.get("datetime"):
         try:
             dt = datetime.fromisoformat(time_el["datetime"].replace("Z", "+00:00"))

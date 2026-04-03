@@ -1,0 +1,36 @@
+name: Update Dashboard
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 04:00 UTC = 06:00 CEST / 05:00 CET
+    - cron: "0 12 * * *"  # 12:00 UTC = 14:00 CEST / 13:00 CET
+  workflow_dispatch:       # Allow manual trigger from GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetch script
+        run: python -m scripts.fetch_news
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html docs/data.json
+          git diff --quiet --cached || git commit -m "chore: update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

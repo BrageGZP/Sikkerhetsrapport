@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-06T13:25:35Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-07T05:42:33Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Norge lærer opp dansk luftvernpersonell",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/norge-laerer-opp-dansk-luftvernpersonell",
-        "published": "2026-04-06T13:25:47Z",
+        "published": "2026-04-07T05:42:42Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Denne våren fortsetter dansk-norsk samarbeid i Nord-Norge under øvelsen Cold Response. Danske soldater har reist til Evenes flystasjon for videre trening sammen med norske luftvernsoldater.",
@@ -15,7 +15,7 @@
       {
         "title": "NATO trekker personell ut av Irak",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/nato-trekker-personell-ut-av-irak",
-        "published": "2026-04-06T13:25:47Z",
+        "published": "2026-04-07T05:42:42Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "På grunn av den stadig forverrede sikkerhetssituasjonen i Midtøsten trekker NATO sitt personell fra Nato Mission Iraq (NMI) ut av landet. Også norsk personell knyttet til dette oppdraget er nå trukket ut av Irak.",
@@ -24,7 +24,7 @@
       {
         "title": "Norden sammen om felles flylegeutdanning",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-06T13:25:46Z",
+        "published": "2026-04-07T05:42:41Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
@@ -33,7 +33,7 @@
       {
         "title": "Status: Søk utdanning i Forsvaret – for Norge",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-06T13:25:45Z",
+        "published": "2026-04-07T05:42:41Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
@@ -42,7 +42,7 @@
       {
         "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-06T13:25:45Z",
+        "published": "2026-04-07T05:42:40Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
@@ -51,7 +51,7 @@
       {
         "title": "Evakueringen av ukrainske pasienter fortsetter",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-06T13:25:44Z",
+        "published": "2026-04-07T05:42:40Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
@@ -60,7 +60,7 @@
       {
         "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-06T13:25:44Z",
+        "published": "2026-04-07T05:42:39Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
@@ -69,7 +69,7 @@
       {
         "title": "Status: Oppdatert langtidsplan – hva betyr det?",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-06T13:25:43Z",
+        "published": "2026-04-07T05:42:39Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
@@ -78,7 +78,7 @@
       {
         "title": "Logistikkens livline under Cold Response 2026",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-06T13:25:42Z",
+        "published": "2026-04-07T05:42:38Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
@@ -87,10 +87,55 @@
       {
         "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-06T13:25:41Z",
+        "published": "2026-04-07T05:42:36Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
+        "section": "nyheter"
+      },
+      {
+        "title": "New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s",
+        "url": "https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s",
+        "published": "2026-04-06T22:33:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The latest Pentagon budget request calls for massive purchase increases of two key missiles the Navy has relied on for the U.S.-Israeli war with Iran and the U.S. conflict with the Houthis in the Red Sea. Specifically, the new Fiscal Year 2027 budget is seeking a 1,200 percent increase in the number of Tomahawk Land Attack Missiles and a 225 percent increase in Standard Missile 6s over what Congress appropriated money for in Fiscal Year 2026. The funding is split between a traditional budget req",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: April 6, 2026",
+        "url": "https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026",
+        "published": "2026-04-06T20:00:02Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 233, USNS 58) 108 (USS 78, USNS 30) (37 FDNF, 71 Rotational) 83 (66 Deployed, 17 Local) In Japan Aircraft carrier USS George Washington (CVN-73",
+        "section": "nyheter"
+      },
+      {
+        "title": "Marines Test Custom-built Drone in Live Fire Test, Strike Unmanned Surface Vessel",
+        "url": "https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel",
+        "published": "2026-04-06T17:43:46Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval Special Warfare conducted the maritime drone strike from a Naval Special Warfare surface craft, taking out an unmanned surface vessel designed and built by the Marine team. The trial, held in Okinawa,",
+        "section": "nyheter"
+      },
+      {
+        "title": "SOUTHCOM Doesn’t Need a Carrier for Maritime Interdiction, CNO Says",
+        "url": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
+        "published": "2026-04-06T15:48:01Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-96) and USS Mahan (DDG-72) were among the naval warships amassed in U.S. Southern Command for Operation Southern Spear as the Pentagon carried out kinetic strikes on boats suspected of trafficking narc",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy Requests 405 Patriot PAC-3 MSE Interceptors",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-requests-405-patriot-pac-3-mse-interceptors/",
+        "published": "2026-04-06T14:28:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "In the Presidential Budget Request published on the 3rd of April, the U.S. Navy has requested a buy of 405 Patriot PAC-3 MSE (Missile Segment Enhancement) interceptors to be utilized on U.S. Navy Guided Missile Destroyers (DDGs). In lieu of the total $1.5 trillion dollars attributed to the Fiscal Year 2027 Defense budget, munitions procurement ...\nThe post U.S. Navy Requests 405 Patriot PAC-3 MSE Interceptors appeared first on Naval News.",
         "section": "nyheter"
       },
       {
@@ -166,24 +211,6 @@
         "section": "nyheter"
       },
       {
-        "title": "A year after ‘Liberation Day,’ impact of Trump tariffs on defense industry remains muted",
-        "url": "https://breakingdefense.com/2026/04/a-year-after-liberation-day-impact-of-trump-tariffs-on-defense-industry-remains-muted/",
-        "published": "2026-04-02T16:42:19Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Experts and former defense officials said exemptions to the tariffs imposed by the Trump administration have somewhat blunted the financial impact on the defense industrial base.",
-        "section": "nyheter"
-      },
-      {
-        "title": "ST Engineering to serve as subcontractor for Kuwaiti navy vessels deal",
-        "url": "https://breakingdefense.com/2026/04/st-engineering-to-serve-as-subcontractor-for-kuwaiti-navy-vessels-deal/",
-        "published": "2026-04-02T14:02:10Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The contract is valued at 600 million Singapore dollars (467.6 million USD).",
-        "section": "nyheter"
-      },
-      {
         "title": "France orders fifth FDI frigate from Naval Group",
         "url": "https://www.navalnews.com/naval-news/2026/04/france-orders-fifth-fdi-frigate-from-naval-group/",
         "published": "2026-04-02T10:56:53Z",
@@ -244,33 +271,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "ST Engineering’s&#160;Marine business&#160;has secured a six-year sub-contract valued at about S$600 million from Abu Dhabi Ship Building (ADSB) to design and supply the platform systems for a fleet of eight Missile Gun Boats that ADSB is constructing for the Kuwait Naval Force. ST Engineering press release In addition to delivering the full suite of platform ...\nThe post ST Engineering Secures ADSB Sub-Contract for Kuwait’s New Missile Gun Boat Fleet appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "New Super-Battleship Under Construction In China",
-        "url": "https://www.navalnews.com/naval-news/2026/04/new-super-battleship-under-construction-in-china/",
-        "published": "2026-04-01T05:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "As the U.S. Navy debates the future of ‘Trump-class’ battleships, other navies are advancing their own visions of ultra-large surface combatants. New evidence reveals that China is constructing an even larger design, signalling a shift in naval priorities. Update: this article, published on 1st Aporil 2026, is our traditional &#8216;April Fools&#8217; China’s naval modernization is ...\nThe post New Super-Battleship Under Construction In China appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "USS George H.W. Bush Departs for Deployment, USS Gerald Ford Could Be Extended to 11 Months",
-        "url": "https://news.usni.org/2026/03/31/uss-george-h-w-bush-departs-for-deployment-uss-gerald-ford-could-be-extended-to-11-months",
-        "published": "2026-03-31T22:38:39Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "NAVAL STATION NORFOLK, Va. — The sun peeked over the horizon tinting the haze gray hull of carrier USS George H.W. Bush (CVN-77) orange while sailors on Pier 14 busied themselves preparing for the carrier to shove off across the Atlantic. The mood of families at the pier Tuesday was subdued without the pomp and cheer of last summer’s deployment of USS Gerald R. Ford (CVN-78) – the last carrier to leave the East Coast. With the early morning departure and a brisk wind, most families had said good",
-        "section": "nyheter"
-      },
-      {
-        "title": "The US Navy brought a ‘one-of-a-kind’ laser weapon back from the dead",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
-        "published": "2026-03-31T12:09:01Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy's lone 150 kW laser weapon is back in action – sort of.",
         "section": "nyheter"
       }
     ],
@@ -518,15 +518,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The following is testimony provided March 24, 2026, on low-cost munitions presented to the U.S. Senate Armed Services Committee. From the Report The March 24, 2026, hearing saw testimony from Air Force Brig. Gen. Robert Lyons III, Navy Vice Adm. Elizabeth Okano, Army Lt. Gen. Frank Lozano and Space Force Lt. Gen. Steven Whitney. Watch the full hearing here. Download the document here.",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "CNO Caudle’s ‘Excellence Ashore’ C-Note to the Fleet",
-        "url": "https://news.usni.org/2026/03/26/cno-caudles-excellence-ashore-c-note-to-the-fleet",
-        "published": "2026-03-26T14:21:20Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the March 23, 2026, CNO Note – or “C-Note” – to the fleet from Chief of Naval Operations Adm. Daryl Caudle. The “Excellence Ashore” C-Note is the sixth in a series of messages from Caudle to provide guidance and direction to the Navy.  From the Report CLASSIFICATION: UNCLASSIFIED/ FM CNO WASHINGTON DC TO NAVADMIN INFO CNO WASHINGTON DC SUBJ/C-NOte #6: EXCELLENCE ASHORE// RMKS/1. The Foundry is the bedrock of our naval power. Our ability to project force, sustain combat operation",
         "section": "rov_teknologi"
       }
     ]

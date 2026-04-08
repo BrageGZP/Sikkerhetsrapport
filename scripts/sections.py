@@ -10,9 +10,9 @@ SECTION3_KEYWORDS = [
 ]
 
 MAX_AGE = {
-    "nyheter": 30,
-    "regelverk": 90,
-    "rov_teknologi": 30,
+    "nyheter": 7,
+    "regelverk": 60,
+    "rov_teknologi": 7,
 }
 
 MAX_COUNT = 30

@@ -82,7 +82,7 @@ def scrape_forsvaret() -> list[Article]:
             articles.append(Article(
                 title=title,
                 url=url,
-                published=_parse_datetime_attr(None),
+                published=_parse_forsvaret_date(hit),
                 source="Forsvaret.no",
                 language="no",
                 summary=_fetch_forsvaret_ingress(url),
@@ -177,6 +177,23 @@ def fetch_all_norwegian() -> list[Article]:
     for scraper in [scrape_forsvaret, scrape_kystverket, scrape_sjofartsdir]:
         articles.extend(scraper())
     return articles
+
+
+def _parse_forsvaret_date(hit: dict) -> datetime:
+    """Try common date field names from Forsvaret JSON API; fall back to now."""
+    for field in ("publishedDate", "published", "date", "updatedDate", "lastModified", "created"):
+        raw = hit.get(field)
+        if raw and isinstance(raw, str):
+            raw = raw.strip().replace(" ", "T").replace("Z", "+00:00")
+            try:
+                dt = datetime.fromisoformat(raw)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except ValueError:
+                continue
+    logger.debug("No parseable date in Forsvaret hit: %s", list(hit.keys()))
+    return datetime.now(timezone.utc)
 
 
 def _parse_datetime_attr(time_el: Tag | None) -> datetime:

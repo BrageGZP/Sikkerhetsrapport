@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-07T13:47:30Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-08T05:42:28Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Norden sammen om felles flylegeutdanning",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-07T13:47:40Z",
+        "published": "2026-04-08T05:42:36Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
@@ -15,7 +15,7 @@
       {
         "title": "Status: Søk utdanning i Forsvaret – for Norge",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-07T13:47:39Z",
+        "published": "2026-04-08T05:42:36Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
@@ -24,7 +24,7 @@
       {
         "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-07T13:47:39Z",
+        "published": "2026-04-08T05:42:35Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
@@ -33,7 +33,7 @@
       {
         "title": "Evakueringen av ukrainske pasienter fortsetter",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-07T13:47:38Z",
+        "published": "2026-04-08T05:42:35Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
@@ -42,7 +42,7 @@
       {
         "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-07T13:47:38Z",
+        "published": "2026-04-08T05:42:35Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
@@ -51,7 +51,7 @@
       {
         "title": "Status: Oppdatert langtidsplan – hva betyr det?",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-07T13:47:37Z",
+        "published": "2026-04-08T05:42:34Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
@@ -60,7 +60,7 @@
       {
         "title": "Logistikkens livline under Cold Response 2026",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-07T13:47:36Z",
+        "published": "2026-04-08T05:42:33Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
@@ -69,7 +69,7 @@
       {
         "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-07T13:47:35Z",
+        "published": "2026-04-08T05:42:33Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
@@ -78,7 +78,7 @@
       {
         "title": "Status: Forsvarets NATO-avdeling",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55",
-        "published": "2026-04-07T13:47:35Z",
+        "published": "2026-04-08T05:42:32Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.",
@@ -87,10 +87,55 @@
       {
         "title": "Tjenestegjort i Afghanistan? Bli med på markering",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering",
-        "published": "2026-04-07T13:47:34Z",
+        "published": "2026-04-08T05:42:31Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.",
+        "section": "nyheter"
+      },
+      {
+        "title": "LIG D&A Establishes U.S. Subsidiary Ahead of Sea-Air-Space Debut",
+        "url": "https://www.navalnews.com/naval-news/2026/04/lig-da-establishes-u-s-subsidiary-ahead-of-sea-air-space-debut/",
+        "published": "2026-04-08T02:00:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "South Korean defense technology company LIG Defense &#38; Aerospace (formerly LIG Nex1) has established a new U.S. entity, LIG Defense U.S. Inc., as part of a broader effort to expand its engagement with the American defense industrial base. The announcement comes ahead of the firm’s planned participation in the upcoming Sea-Air-Space Exposition in National Harbor, ...\nThe post LIG D&amp;A Establishes U.S. Subsidiary Ahead of Sea-Air-Space Debut appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Damen launches ‘Drone Carrier’ for the Portuguese Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/04/damen-launches-drone-carrier-for-the-portuguese-navy/",
+        "published": "2026-04-07T20:47:26Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Damen Shipyards Group has launched the NRP D. João II a Multi-Purpose Vessel (MPV) 10720 for the Portuguese Navy. The vessel entered the water at Damen Shipyards Galati in Romania on April 7. Damen press release The launch event took place in the presence of Vice Admiral Pires on behalf of the Portuguese Navy, Rear Admiral Neculae representing the Romanian ...\nThe post Damen launches &#8216;Drone Carrier&#8217; for the Portuguese Navy appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
+        "url": "https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/",
+        "published": "2026-04-07T19:38:51Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs",
+        "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
+        "published": "2026-04-07T14:58:07Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ultra Maritime wins U.S. Navy contract for new AN/SSQ-125B sonobuoy",
+        "url": "https://www.navalnews.com/naval-news/2026/04/ultra-maritime-wins-u-s-navy-contract-for-new-an-ssq-125b-sonobuoy/",
+        "published": "2026-04-07T14:10:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On April 6, 2026, Ultra Maritime announced a new contract with the U.S. Navy for the Low Rate Initial Production of AN/SSQ-125B sonobuoys. Ultra Maritime press release Ultra Maritime has been awarded a Sole Source Firm Fixed Priced contract for the AN/SSQ-125B Low Rate Initial Production (LRIP) for the U.S. Navy in support of annual ...\nThe post Ultra Maritime wins U.S. Navy contract for new AN/SSQ-125B sonobuoy appeared first on Naval News.",
         "section": "nyheter"
       },
       {
@@ -226,51 +271,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "USS Gerald R. Ford (CVN-78) departed Split, Croatia, following a five-day port visit, the Navy announced Thursday. It is unclear where the aircraft carrier is headed. Ford has been out for 282 days and is set to have a record-breaking deployment. “Gerald R. Ford remains poised for full mission tasking in support of national objectives in any area of operation,” reads the Navy news release. The Gerald R. Ford Carrier Strike Group, which left Norfolk, Va., on June 24, 2025, is expected to be out f",
-        "section": "nyheter"
-      },
-      {
-        "title": "French, Italian Carrier Strike Groups Wrap NATO’s Neptune Strike Drills",
-        "url": "https://news.usni.org/2026/04/02/french-italian-carrier-strike-groups-wrap-natos-neptune-strike-drills",
-        "published": "2026-04-02T17:28:31Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The French and Italian Navy carrier strike groups spent the past week carrying out maritime strikes and air patrols in the Mediterranean and Black seas as part of NATO’s Neptune Strike 26-1.  “From the flight deck of Charles De Gaulle, we have conducted several maritime strikes and air patrols above the Mediterranean and the Black Sea in order to strengthen the Alliance’s deterrent posture and reassure partners in the region. The engagement of the carrier air wing in the Eastern part of Europe e",
-        "section": "nyheter"
-      },
-      {
-        "title": "France orders fifth FDI frigate from Naval Group",
-        "url": "https://www.navalnews.com/naval-news/2026/04/france-orders-fifth-fdi-frigate-from-naval-group/",
-        "published": "2026-04-02T10:56:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French defense procurement agency (DGA) ordered the fifth FDI frigate for the French Navy (Marine Nationale) from Naval Group. The vessel, to be named Amiral Cabanier, will be built at the shipyard in Lorient. The order announcement was made today by the French Ministry of the Armed Forces. The actual contract was signed on ...\nThe post France orders fifth FDI frigate from Naval Group appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "HII Launches Flight III Destroyer George M. Neal (DDG 131)",
-        "url": "https://www.navalnews.com/naval-news/2026/04/hii-launches-flight-iii-destroyer-george-m-neal-ddg-131/",
-        "published": "2026-04-02T06:52:59Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HII’s Ingalls Shipbuilding division successfully launched future USS George M. Neal (DDG 131) on April 1st, 2026, marking a major construction milestone for the fourth Flight III Arleigh Burke-class destroyer to be built at the shipyard. HII press release In the weeks leading up to launch, shipbuilders completed key construction work, secured major components and performed inspections to ...\nThe post HII Launches Flight III Destroyer George M. Neal (DDG 131) appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Two Former Navy Fighter Pilots Lead NASA’s Artemis II Mission",
-        "url": "https://news.usni.org/2026/04/01/two-former-navy-fighter-pilots-lead-nasas-artemis-ii-mission",
-        "published": "2026-04-01T23:38:06Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Two former U.S. Navy fighter pilots are aboard the first crewed orbit around the moon in more than 50 years after launching on Wednesday from NASA’s Kennedy Space Center on the Artemis II mission. Retired Capt. Reid Wiseman is the commander of the Artemis II mission, while Capt. Victor Glover Jr. is the pilot. Wiseman and Glover are among two other astronauts – Canadian astronaut Jeremy Hansen, a Royal Canadian Air Force fighter pilot, and NASA flight engineer Christina Koch – who launched Wedne",
-        "section": "nyheter"
-      },
-      {
-        "title": "Japan Deploys New Hypersonic, Anti-ship Missiles",
-        "url": "https://news.usni.org/2026/04/01/japan-deploys-new-hypersonic-anti-ship-missiles",
-        "published": "2026-04-01T20:37:24Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Tokyo’s first batch of long-range strike missiles capable of reaching ground and maritime targets at extended ranges have been operationally fielded, according to Japan’s defense ministry. The Japan Ground Self-Defense Force (JGSDF) announced Monday the deployment of the Type 25 series of missiles. While the missiles share the same designation, their variants are split through surface-to-ship (SSM) and hypervelocity gliding projectile (HGP) classifications. Capable of striking targets over 1,000",
         "section": "nyheter"
       }
     ],
@@ -493,15 +493,6 @@
       }
     ],
     "rov_teknologi": [
-      {
-        "title": "Northrop Grumman to deliver first SEWIP Block 3 system for CVN under contract modification",
-        "url": "https://www.navalnews.com/naval-news/2026/04/northrop-grumman-to-deliver-first-sewip-block-3-system-for-cvn-under-contract-modification/",
-        "published": "2026-04-03T12:28:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The US Navy has awarded Northrop Grumman a $334.4 million contract modification to produce up to nine additional Surface Electronic Warfare Improvement Program (SEWIP) Block 3 electronic attack (EA) systems, including the first shipset for installation on a nuclear-powered aircraft carrier (CVN). Valued at up to $783 million if all options are exercised, the sole-source ...\nThe post Northrop Grumman to deliver first SEWIP Block 3 system for CVN under contract modification appeared first on Naval",
-        "section": "rov_teknologi"
-      },
       {
         "title": "Testimony on Low-cost Munitions",
         "url": "https://news.usni.org/2026/04/01/testimony-on-low-cost-munitions",

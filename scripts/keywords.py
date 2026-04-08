@@ -46,6 +46,26 @@ KEYWORDS_EN = [
 
 ALL_KEYWORDS = KEYWORDS_NO + KEYWORDS_EN
 
+# Phrases that signal irrelevant articles (recruitment, events, HR, etc.)
+EXCLUDE_PHRASES = [
+    # Rekruttering / utdanning
+    "søker studenter", "søker du som", "lærling", "lærlinger",
+    "vervekampanje", "verving", "verv deg", "bli soldat", "bli offiser",
+    "opptak", "sesjon", "vernepliktig", "vernepliktige",
+    "stipend", "studieplass", "studieprogram", "fagskole",
+    "karrieredag", "jobbmesse",
+    # Stillingsannonser
+    "ledig stilling", "ledige stillinger", "vi søker", "søk stilling",
+    "stilling som", "stillingsutlysning", "utlyser stilling",
+    "trainee", "sommerjobb", "sommervikariat",
+    # Arrangement / seremonier
+    "veterandag", "minnemarkering", "kransnedleggelse",
+    "åpent hus", "åpen dag",
+    "konsert", "idrettsarrangement", "idrettsstevne",
+    # Sport
+    "militæridrett", "forsvaret cup", "forsvaret løp",
+]
+
 # Build word-boundary patterns for single-word keywords;
 # multi-word phrases use simple substring match (already specific enough)
 _PATTERNS = [
@@ -55,8 +75,19 @@ _PATTERNS = [
     for kw in ALL_KEYWORDS
 ]
 
+_EXCLUDE_PATTERNS = [
+    re.compile(re.escape(phrase), re.IGNORECASE)
+    for phrase in EXCLUDE_PHRASES
+]
+
 
 def matches_keywords(article: Article) -> bool:
     """Return True if article title or summary contains at least one keyword."""
     text = f"{article.title} {article.summary}"
     return any(p.search(text) for p in _PATTERNS)
+
+
+def is_excluded(article: Article) -> bool:
+    """Return True if the article matches any exclusion phrase (irrelevant content)."""
+    text = f"{article.title} {article.summary}"
+    return any(p.search(text) for p in _EXCLUDE_PATTERNS)

@@ -5,7 +5,7 @@ from pathlib import Path
 
 from scripts.rss_fetcher import fetch_all_rss
 from scripts.scrapers import fetch_all_norwegian
-from scripts.keywords import matches_keywords
+from scripts.keywords import matches_keywords, is_excluded
 from scripts.dedup import deduplicate
 from scripts.sections import assign_and_organize, SECTION2_SOURCES, NORWEGIAN_SOURCES
 from scripts.renderer import render
@@ -30,6 +30,11 @@ def run() -> None:
     # relevant and bypass the keyword filter entirely
     articles = [a for a in articles if a.source in NORWEGIAN_SOURCES or matches_keywords(a)]
     logging.info("%d articles after keyword filter", len(articles))
+
+    # 2b. Exclude irrelevant articles (recruitment, events, HR) — applies to all sources
+    before = len(articles)
+    articles = [a for a in articles if not is_excluded(a)]
+    logging.info("%d articles after exclusion filter (removed %d)", len(articles), before - len(articles))
 
     # 3. Deduplicate
     articles = deduplicate(articles)

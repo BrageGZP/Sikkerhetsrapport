@@ -8,6 +8,10 @@ KEYWORDS_NO = [
     "undervannsdroner", "autonomt undervannsfartøy",
     "marinen", "fregatt", "korvet", "sjøforsvar", "kystberedskap",
     "sjøvern", "forsvarsindustri",
+    # Forsvarskontakter / anskaffelser
+    "forsvarskontrakt", "forsvarsanskaffelse", "forsvarsdepartementet",
+    "forsvarsmateriell", "militærkontrakt", "forsvarsbudsjett",
+    "forsvarsinnkjøp", "militæranskaffelse", "rammeavtale forsvar",
 ]
 
 KEYWORDS_EN = [
@@ -29,6 +33,15 @@ KEYWORDS_EN = [
     "teledyne marine", "hydroid", "remus", "double eagle", "seafox",
     "hugin", "l3harris", "thales underwater",
     "defense industry", "naval technology", "underwater technology",
+    # Defence contracts & procurement
+    "defense contract", "defence contract",
+    "defense procurement", "defence procurement",
+    "military contract", "naval contract", "shipbuilding contract",
+    "arms deal", "weapons contract",
+    "defense spending", "defence spending",
+    "defense budget", "defence budget",
+    "defense tender", "defence tender",
+    "contract award", "awarded contract",
 ]
 
 ALL_KEYWORDS = KEYWORDS_NO + KEYWORDS_EN

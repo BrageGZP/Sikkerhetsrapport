@@ -12,6 +12,7 @@ RSS_SOURCES = [
     ("https://www.navalnews.com/feed/", "Naval News"),
     ("https://breakingdefense.com/feed/", "Breaking Defense"),
     ("https://maritime-executive.com/rss/articles", "The Maritime Executive"),
+    ("https://www.clariondefence.com/feed/", "Clarion Defence"),  # TODO: verify RSS URL
 ]
 
 

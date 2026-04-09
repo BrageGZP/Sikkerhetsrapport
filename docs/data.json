@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-09T05:43:59Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-04-09T14:00:09Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "Norden sammen om felles flylegeutdanning",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-09T05:44:07Z",
+        "published": "2026-04-09T14:00:18Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
@@ -15,7 +15,7 @@
       {
         "title": "Status: Søk utdanning i Forsvaret – for Norge",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-09T05:44:07Z",
+        "published": "2026-04-09T14:00:18Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
@@ -24,7 +24,7 @@
       {
         "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-09T05:44:06Z",
+        "published": "2026-04-09T14:00:17Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
@@ -33,7 +33,7 @@
       {
         "title": "Evakueringen av ukrainske pasienter fortsetter",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-09T05:44:06Z",
+        "published": "2026-04-09T14:00:17Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
@@ -42,7 +42,7 @@
       {
         "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-09T05:44:05Z",
+        "published": "2026-04-09T14:00:16Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
@@ -51,7 +51,7 @@
       {
         "title": "Status: Oppdatert langtidsplan – hva betyr det?",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-09T05:44:05Z",
+        "published": "2026-04-09T14:00:16Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
@@ -60,7 +60,7 @@
       {
         "title": "Logistikkens livline under Cold Response 2026",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-09T05:44:04Z",
+        "published": "2026-04-09T14:00:15Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
@@ -69,7 +69,7 @@
       {
         "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-09T05:44:04Z",
+        "published": "2026-04-09T14:00:15Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
@@ -78,7 +78,7 @@
       {
         "title": "Status: Forsvarets NATO-avdeling",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55",
-        "published": "2026-04-09T05:44:03Z",
+        "published": "2026-04-09T14:00:14Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.",
@@ -87,10 +87,82 @@
       {
         "title": "Tjenestegjort i Afghanistan? Bli med på markering",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering",
-        "published": "2026-04-09T05:44:03Z",
+        "published": "2026-04-09T14:00:14Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Video: How Naval Group builds FDI Frigates so quickly",
+        "url": "https://www.navalnews.com/naval-news/2026/04/video-how-naval-group-builds-fdi-frigates-so-quickly/",
+        "published": "2026-04-09T13:56:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "In this video, French shipbuilder Naval Group takes us to its Lorient shipyard to demonstrate how it is able to build the FDI frigates quickly, and deliver two vessels per year. 01:40 &#8211; Naval Group&#8217;s Lorient shipyard specializes in the design and production of surface combatant. Following an extensive upgrade ahead of the FDI programme, ...\nThe post Video: How Naval Group builds FDI Frigates so quickly appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pentagon’s ouster of Anthropic opens doors for small AI rivals",
+        "url": "https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/",
+        "published": "2026-04-09T13:38:25Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Turkish and Italian companies Team Up for Surface Platforms Production",
+        "url": "https://www.navalnews.com/naval-news/2026/04/turkish-and-italian-companies-team-up-for-surface-platforms-production/",
+        "published": "2026-04-09T13:31:35Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Following the contract for 40 naval units for the Italian Coast Guard, the collaboration between the Italy-based shipyard and the Turkish boat builder is expanding to the development of Unmanned and Hybrid Surface Vessel platforms for the Guardia di Finanza, and other government institutions. Production will take place at the Piloda facilities. Havelsan press release ...\nThe post Turkish and Italian companies Team Up for Surface Platforms Production appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235",
+        "url": "https://www.navalnews.com/naval-news/2026/04/greek-scytalys-partners-with-indonesias-ptdi-on-tactical-mission-system-for-n219-and-cn235/",
+        "published": "2026-04-09T13:17:24Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "SCYTALYS signed an MoU with PT Dirgantara Indonesia to integrate its MIMS Airborne system into N219 and CN235 aircraft, enhancing maritime surveillance capabilities and expanding opportunities in the Asia-Pacific market. SCYTALYS Press Release Athens, 9 April 2026. SCYTALYS (part of EFA GROUP) has signed a Memorandum of Understanding (MoU) with PT Dirgantara Indonesia (PTDI), marking ...\nThe post Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235 appeared",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK exposes covert Russian submarine operation in and around UK waters",
+        "url": "https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/",
+        "published": "2026-04-09T12:09:02Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North several weeks ago, and tracked its activity around the clock. ...\nThe post UK exposes covert Russian submarine operation in and around UK waters appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Turkish, Italian defense firms team up to produce unmanned surface vessels for Italy",
+        "url": "https://breakingdefense.com/2026/04/turkish-italian-defense-firms-team-up-to-produce-unmanned-surface-vessels-for-italy/",
+        "published": "2026-04-09T09:07:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Havelsan, VN maritime and Piloda Defence &#8220;are targeting the signing of the first purchase order in the first half of 2026.&#8221;",
+        "section": "nyheter"
+      },
+      {
+        "title": "Russia’s massive Black Sea problem is worse than it looks",
+        "url": "https://www.navalnews.com/naval-news/2026/04/russias-massive-black-sea-problem-is-worse-than-it-looks/",
+        "published": "2026-04-09T08:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On paper, the Russian Navy remains the dominant force in the Black Sea. But after ceding control to Ukraine’s uncrewed surface drones, it now faces a mounting crisis: its key base at Novorossiysk is increasingly untenable, unless Moscow is willing to absorb further warship losses. Dramatic drone footage captures a Ukrainian strike on a Russian ...\nThe post Russia’s massive Black Sea problem is worse than it looks appeared first on Naval News.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Leidos proceeds with Sea Archer USV trials in Australia",
+        "url": "https://www.navalnews.com/naval-news/2026/04/leidos-proceeds-with-sea-archer-usv-trials-in-australia/",
+        "published": "2026-04-09T06:59:19Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Leidos Australia built one of two Sea Archer unmanned surface vessels (USV) that are in existence – the other was constructed in the USA – and the 11.2m-long craft is currently undergoing a series of Australian trials to demonstrate its maturity. Kevin Quanderer, International Director Science &#38; Technology at Leidos Australia, told Naval News in ...\nThe post Leidos proceeds with Sea Archer USV trials in Australia appeared first on Naval News.",
         "section": "nyheter"
       },
       {
@@ -99,7 +171,7 @@
         "published": "2026-04-08T21:46:04Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completed the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian Pa",
+        "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian P",
         "section": "nyheter"
       },
       {
@@ -139,33 +211,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Naval Group Offers Blacksword Barracuda Submarine to Greece",
-        "url": "https://www.navalnews.com/naval-news/2026/04/naval-group-offers-blacksword-barracuda-to-greece/",
-        "published": "2026-04-08T07:30:55Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Naval Group is proposing its Blacksword Barracuda design to the Hellenic Navy for a four-submarine program intended to replace Greece’s aging Type 209 submarine fleet, following a request for information (RFI) issued in late 2025. Naval Group has proposed its latest Blacksword Barracuda submarine design to the Hellenic Navy as part of the service’s next-generation ...\nThe post Naval Group Offers Blacksword Barracuda Submarine to Greece appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "LIG D&A Establishes U.S. Subsidiary Ahead of Sea-Air-Space Debut",
-        "url": "https://www.navalnews.com/naval-news/2026/04/lig-da-establishes-u-s-subsidiary-ahead-of-sea-air-space-debut/",
-        "published": "2026-04-08T02:00:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "South Korean defense technology company LIG Defense &#38; Aerospace (formerly LIG Nex1) has established a new U.S. entity, LIG Defense U.S. Inc., as part of a broader effort to expand its engagement with the American defense industrial base. The announcement comes ahead of the firm’s planned participation in the upcoming Sea-Air-Space Exposition in National Harbor, ...\nThe post LIG D&amp;A Establishes U.S. Subsidiary Ahead of Sea-Air-Space Debut appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Damen launches ‘Drone Carrier’ for the Portuguese Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/04/damen-launches-drone-carrier-for-the-portuguese-navy/",
-        "published": "2026-04-07T20:47:26Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Damen Shipyards Group has launched the NRP D. João II a Multi-Purpose Vessel (MPV) 10720 for the Portuguese Navy. The vessel entered the water at Damen Shipyards Galati in Romania on April 7. Damen press release The launch event took place in the presence of Vice Admiral Pires on behalf of the Portuguese Navy, Rear Admiral Neculae representing the Romanian ...\nThe post Damen launches &#8216;Drone Carrier&#8217; for the Portuguese Navy appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
         "url": "https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/",
         "published": "2026-04-07T19:38:51Z",
@@ -190,42 +235,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Ultra Maritime wins U.S. Navy contract for new AN/SSQ-125B sonobuoy",
-        "url": "https://www.navalnews.com/naval-news/2026/04/ultra-maritime-wins-u-s-navy-contract-for-new-an-ssq-125b-sonobuoy/",
-        "published": "2026-04-07T14:10:04Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On April 6, 2026, Ultra Maritime announced a new contract with the U.S. Navy for the Low Rate Initial Production of AN/SSQ-125B sonobuoys. Ultra Maritime press release Ultra Maritime has been awarded a Sole Source Firm Fixed Priced contract for the AN/SSQ-125B Low Rate Initial Production (LRIP) for the U.S. Navy in support of annual ...\nThe post Ultra Maritime wins U.S. Navy contract for new AN/SSQ-125B sonobuoy appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV",
-        "url": "https://www.navalnews.com/naval-news/2026/04/kraken-robotics-demonstrates-katfish-autonomous-launch-and-recovery-from-sefine-usv/",
-        "published": "2026-04-07T12:34:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Kraken Robotics Inc. announces the successful integration and demonstration of its KATFISH towed synthetic aperture sonar and autonomous launch and recovery system (LARS) from SEFINE’s RD-22 unmanned surface vessel (USV) in coordination with SEFINE SISAM (Strategic Unmanned Systems Research Center). The demonstration took place in Q1 2026 off the coast of İstanbul, Türkiye. Kraken Robotics ...\nThe post Kraken Robotics Demonstrates KATFISH Autonomous Launch and Recovery from SEFINE USV appeared f",
-        "section": "nyheter"
-      },
-      {
-        "title": "Swedish RBS 15 Anti-ship Missiles Surface in Ukraine",
-        "url": "https://www.navalnews.com/naval-news/2026/04/swedish-rbs-15-anti-ship-missiles-surface-in-ukraine/",
-        "published": "2026-04-07T09:58:59Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Footage posted online by the Ukrainian Navy and circulated on X appears to show the launch of a Swedish built RBS 15 (Robotsystem 15) series anti-ship cruise missile from a truck mounted launcher targeting Russian installations. The Ukrainian Armed Forces have not been known publicly to operate this type of cruise missile, making this possible ...\nThe post Swedish RBS 15 Anti-ship Missiles Surface in Ukraine appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Indian Navy probing feasibility of drones for reloading VLS at sea",
-        "url": "https://www.navalnews.com/naval-news/2026/04/indian-navy-probing-feasibility-of-drones-for-reloading-vls-at-sea/",
-        "published": "2026-04-07T08:01:26Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Indian Navy has released a problem statement titled ‘Rearming by Drone (REARM-D) at Sea’ for the development of a multi-rotor drone for reloading surface-to-air missiles in VLS cells onboard warships at sea. Faster depletion of Surface to Air Missiles (SAM) onboard warships while countering low cost drones and missiles is cited as the primary ...\nThe post Indian Navy probing feasibility of drones for reloading VLS at sea appeared first on Naval News.",
         "section": "nyheter"
       },
       {
@@ -262,15 +271,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-96) and USS Mahan (DDG-72) were among the naval warships amassed in U.S. Southern Command for Operation Southern Spear as the Pentagon carried out kinetic strikes on boats suspected of trafficking narc",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Requests 405 Patriot PAC-3 MSE Interceptors",
-        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-requests-405-patriot-pac-3-mse-interceptors/",
-        "published": "2026-04-06T14:28:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "In the Presidential Budget Request published on the 3rd of April, the U.S. Navy has requested a buy of 405 Patriot PAC-3 MSE (Missile Segment Enhancement) interceptors to be utilized on U.S. Navy Guided Missile Destroyers (DDGs). In lieu of the total $1.5 trillion dollars attributed to the Fiscal Year 2027 Defense budget, munitions procurement ...\nThe post U.S. Navy Requests 405 Patriot PAC-3 MSE Interceptors appeared first on Naval News.",
         "section": "nyheter"
       }
     ],
@@ -412,6 +412,15 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars",
+        "url": "https://www.navalnews.com/naval-news/2026/04/hensoldt-uk-secures-two-contracts-with-srt-for-50-coastal-surveillance-radars/",
+        "published": "2026-04-09T12:30:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Sensor solutions provider HENSOLDT UK has secured two contracts with SRT Marine System Solutions Ltd (SRT), a UK-based civil-defence maritime surveillance systems company, to supply a total of 50 radar systems for deployment within integrated national coastal surveillance systems. The systems will be delivered by SRT, with all deliveries scheduled for 2026. HENSOLDT UK press ...\nThe post HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars appeared first on Naval News.",
+        "section": "rov_teknologi"
+      },
       {
         "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
         "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",

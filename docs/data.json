@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-08T13:49:36Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-09T05:43:59Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Norden sammen om felles flylegeutdanning",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-08T13:49:47Z",
+        "published": "2026-04-09T05:44:07Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
@@ -15,7 +15,7 @@
       {
         "title": "Status: Søk utdanning i Forsvaret – for Norge",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-08T13:49:46Z",
+        "published": "2026-04-09T05:44:07Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
@@ -24,7 +24,7 @@
       {
         "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-08T13:49:46Z",
+        "published": "2026-04-09T05:44:06Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
@@ -33,7 +33,7 @@
       {
         "title": "Evakueringen av ukrainske pasienter fortsetter",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-08T13:49:45Z",
+        "published": "2026-04-09T05:44:06Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
@@ -42,7 +42,7 @@
       {
         "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-08T13:49:44Z",
+        "published": "2026-04-09T05:44:05Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
@@ -51,7 +51,7 @@
       {
         "title": "Status: Oppdatert langtidsplan – hva betyr det?",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-08T13:49:43Z",
+        "published": "2026-04-09T05:44:05Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
@@ -60,7 +60,7 @@
       {
         "title": "Logistikkens livline under Cold Response 2026",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-08T13:49:42Z",
+        "published": "2026-04-09T05:44:04Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
@@ -69,7 +69,7 @@
       {
         "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-08T13:49:41Z",
+        "published": "2026-04-09T05:44:04Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
@@ -78,7 +78,7 @@
       {
         "title": "Status: Forsvarets NATO-avdeling",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55",
-        "published": "2026-04-08T13:49:41Z",
+        "published": "2026-04-09T05:44:03Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.",
@@ -87,10 +87,46 @@
       {
         "title": "Tjenestegjort i Afghanistan? Bli med på markering",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering",
-        "published": "2026-04-08T13:49:40Z",
+        "published": "2026-04-09T05:44:03Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.",
+        "section": "nyheter"
+      },
+      {
+        "title": "South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada",
+        "url": "https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada",
+        "published": "2026-04-08T21:46:04Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completed the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian Pa",
+        "section": "nyheter"
+      },
+      {
+        "title": "Turkey’s Roketsan opens new production facilities, delivers missiles to armed forces",
+        "url": "https://breakingdefense.com/2026/04/turkeys-roketsan-opens-new-production-facilities-delivers-missiles-to-armed-forces/",
+        "published": "2026-04-08T19:15:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Roketsan CEO Murat Ikinci called the facilities “the largest defense industry investments in the history of the Republic.”",
+        "section": "nyheter"
+      },
+      {
+        "title": "France to increase defense spending by $42 billion, mulls new tank effort",
+        "url": "https://breakingdefense.com/2026/04/france-to-increase-defense-spending-by-42-billion-mulls-new-tank-effort/",
+        "published": "2026-04-08T15:26:02Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "&#8220;We need an interim tank, that is likely going to be a KNDS Germany or KNDS France platform,&#8221; said French Armed Forces Minister Catherine Vautrin.",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy Requests Major Strike Weapons Package in Budget Request",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-requests-major-strike-weapons-package-in-budget-request/",
+        "published": "2026-04-08T14:19:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Fiscal Year 2027 Presidential budget Request includes a major overhaul for the U.S. Navy&#8217;s Strike Weapons inventory, with over $5.23 billion dollars in funds requested for strike munitions. Major Tomahawk replenishment A 785 strong buy of RGM/UGM-109 Tomahawks headlines the Navy&#8217;s requested strike weapons procurement, with an increase of 730 missiles to be funded ...\nThe post U.S. Navy Requests Major Strike Weapons Package in Budget Request appeared first on Naval News.",
         "section": "nyheter"
       },
       {
@@ -236,42 +272,6 @@
         "language": "en",
         "summary": "In the Presidential Budget Request published on the 3rd of April, the U.S. Navy has requested a buy of 405 Patriot PAC-3 MSE (Missile Segment Enhancement) interceptors to be utilized on U.S. Navy Guided Missile Destroyers (DDGs). In lieu of the total $1.5 trillion dollars attributed to the Fiscal Year 2027 Defense budget, munitions procurement ...\nThe post U.S. Navy Requests 405 Patriot PAC-3 MSE Interceptors appeared first on Naval News.",
         "section": "nyheter"
-      },
-      {
-        "title": "Pakistan Navy Inducts 2nd Babur-class Corvette, PNS KHAIBAR",
-        "url": "https://www.navalnews.com/naval-news/2026/04/pakistan-navy-inducts-2nd-babur-class-corvette-pns-khaibar/",
-        "published": "2026-04-06T08:06:08Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On April 4, the Pakistan Navy held the induction ceremony for the second Babur-class (PN MILGEM) corvette, the PNS KHAIBAR (F-282), in Karachi. Addressing the induction ceremony of 2nd PN MILGEM Class Corvette PNS KHAIBAR held at Karachi, Adm Naveed Ashraf, Chief of the Pakistan Navy, emphasized a strong, balanced and technologically advanced Navy to ...\nThe post Pakistan Navy Inducts 2nd Babur-class Corvette, PNS KHAIBAR appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Pentagon’s New $65.8B Shipbuilding Request is Highest Since 1962",
-        "url": "https://news.usni.org/2026/04/03/pentagons-new-65-8b-shipbuilding-request-is-highest-since-1962",
-        "published": "2026-04-03T22:09:38Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Pentagon’s request for new shipbuilding funds is among the highest-ever since the Korean War, rivaling the Reagan-era 600-ship spending plan and the nuclear submarine buildup in the 1960s, according to budget documents. In a $1.5 trillion Fiscal Year 2027 national security submission split between the base budget and reconciliation, the Navy wants a total of $65.8 billion for shipbuilding, as President Donald Trump pursues several new ship classes under the Golden Fleet concept. The Navy is ",
-        "section": "nyheter"
-      },
-      {
-        "title": "Golden Dome, out-years and lots of missiles: Details of Trump’s $1.5T defense budget request",
-        "url": "https://breakingdefense.com/2026/04/golden-dome-out-years-and-lots-of-missiles-details-of-trumps-1-5t-defense-budget-request/",
-        "published": "2026-04-03T21:58:39Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Everything you need to know about the record setting fiscal 2027 defense budget request.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Trump seeks to double number of ship requests with 2027 defense budget",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/03/trump-seeks-to-double-number-of-ship-requests-with-2027-defense-budget/",
-        "published": "2026-04-03T17:06:37Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The proposed $1.5 trillion fiscal 2027 defense budget would allocate $65.8 billion for shipbuilding, the White House said Friday.",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -413,12 +413,12 @@
     ],
     "rov_teknologi": [
       {
-        "title": "Testimony on Low-cost Munitions",
-        "url": "https://news.usni.org/2026/04/01/testimony-on-low-cost-munitions",
-        "published": "2026-04-01T15:10:35Z",
+        "title": "French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run",
+        "url": "https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run",
+        "published": "2026-04-08T15:19:34Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "The following is testimony provided March 24, 2026, on low-cost munitions presented to the U.S. Senate Armed Services Committee. From the Report The March 24, 2026, hearing saw testimony from Air Force Brig. Gen. Robert Lyons III, Navy Vice Adm. Elizabeth Okano, Army Lt. Gen. Frank Lozano and Space Force Lt. Gen. Steven Whitney. Watch the full hearing here. Download the document here.",
+        "summary": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren-class submarine deployed the Razorback, launching and recovering the drone with its dry deck shelter, from March 16-20 while operating off the coast of Toulon, France. The drone conducted oceanograph",
         "section": "rov_teknologi"
       }
     ]

@@ -64,6 +64,16 @@ EXCLUDE_PHRASES = [
     "konsert", "idrettsarrangement", "idrettsstevne",
     # Sport
     "militæridrett", "forsvaret cup", "forsvaret løp",
+    # Medisin / sanitet
+    "forsvarets sanitet", "flylegeutdanning", "militærmedisin",
+    "feltlege", "militærsykehus", "sanitetstjeneste",
+    # Utdanning / søknad
+    "søk utdanning", "søknadsfristen", "utdanning i forsvaret",
+    "krigsskolen", "befalsskolen", "befalsutdanning",
+    "militær utdanning", "offisersutdanning", "kadett",
+    # Personell / HR
+    "soldater og ansatte", "status-", "ansettelse",
+    "medarbeidersamtale", "personellforvaltning",
 ]
 
 # Build word-boundary patterns for single-word keywords;
@@ -80,6 +90,17 @@ _EXCLUDE_PATTERNS = [
     for phrase in EXCLUDE_PHRASES
 ]
 
+# URL path segments that indicate irrelevant Forsvaret.no pages
+EXCLUDE_URL_PATHS = [
+    "/soldater-og-ansatte/",
+    "/om-forsvaret/organisasjon/forsvarets-sanitet/",
+    "/om-forsvaret/organisasjon/forsvarets-musikk/",
+    "/om-forsvaret/organisasjon/forsvarets-idrettsenter/",
+    "/utdanning/",
+    "/karriere/",
+    "/status/",
+]
+
 
 def matches_keywords(article: Article) -> bool:
     """Return True if article title or summary contains at least one keyword."""
@@ -88,6 +109,11 @@ def matches_keywords(article: Article) -> bool:
 
 
 def is_excluded(article: Article) -> bool:
-    """Return True if the article matches any exclusion phrase (irrelevant content)."""
+    """Return True if the article matches any exclusion phrase or URL path."""
     text = f"{article.title} {article.summary}"
-    return any(p.search(text) for p in _EXCLUDE_PATTERNS)
+    if any(p.search(text) for p in _EXCLUDE_PATTERNS):
+        return True
+    url = article.url.lower()
+    if any(path in url for path in EXCLUDE_URL_PATHS):
+        return True
+    return False

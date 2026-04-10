@@ -1,4 +1,6 @@
 import logging
+import ssl
+import urllib.request
 import feedparser
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -16,12 +18,29 @@ RSS_SOURCES = [
 ]
 
 
+def _fetch_feed(url: str) -> feedparser.FeedParserDict:
+    """Fetch RSS feed, falling back to SSL-unverified on certificate errors."""
+    feed = feedparser.parse(url)
+    if feed.bozo and isinstance(feed.bozo_exception, Exception):
+        exc_str = str(feed.bozo_exception).lower()
+        if "ssl" in exc_str or "certificate" in exc_str:
+            # SSL issue — retry without verification
+            ctx = ssl.create_default_context()
+            ctx.check_hostname = False
+            ctx.verify_mode = ssl.CERT_NONE
+            handler = urllib.request.HTTPSHandler(context=ctx)
+            feed = feedparser.parse(url, handlers=[handler])
+    return feed
+
+
 def fetch_rss(url: str, source: str) -> list[Article]:
     """Fetch and parse a single RSS feed. Returns empty list on any error."""
     try:
-        feed = feedparser.parse(url)
-        if feed.bozo and feed.bozo_exception:
-            raise feed.bozo_exception
+        feed = _fetch_feed(url)
+        # Bozo just means malformed XML — still try to use entries if present
+        if feed.bozo and not feed.entries:
+            logger.error("ERROR fetching RSS %s: %s", url, feed.bozo_exception)
+            return []
         if getattr(feed, "status", 200) >= 400:
             raise ValueError(f"HTTP {feed.status}")
     except Exception as exc:

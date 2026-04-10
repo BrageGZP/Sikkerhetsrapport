@@ -27,7 +27,7 @@ SECTION3_KEYWORDS = [
 MAX_AGE = {
     "nyheter": 7,
     "regelverk": 60,
-    "rov_teknologi": 7,
+    "rov_teknologi": 30,  # niche topic — fewer articles per week
 }
 
 MAX_COUNT = 30

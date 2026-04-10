@@ -41,16 +41,43 @@ def _warn_if_empty(source: str, articles: list[Article]) -> list[Article]:
     return articles
 
 
-def _fetch_forsvaret_ingress(url: str) -> str:
-    """Fetch a Forsvaret.no article page and return its og:description as ingress."""
+def _fetch_forsvaret_article(url: str) -> tuple[str, datetime | None]:
+    """Fetch a Forsvaret.no article page.
+
+    Returns (ingress, published_date). Date is parsed from JSON-LD datePublished;
+    falls back to None if not found.
+    """
+    import json as _json
     html = _get_html(url)
     if not html:
-        return ""
+        return "", None
     soup = BeautifulSoup(html, "html.parser")
+
+    # Ingress from og:description
+    ingress = ""
     meta = soup.find("meta", {"property": "og:description"})
     if meta and meta.get("content"):
-        return meta["content"].strip()
-    return ""
+        ingress = meta["content"].strip()
+
+    # Date from JSON-LD
+    published: datetime | None = None
+    for script in soup.find_all("script", {"type": "application/ld+json"}):
+        try:
+            data = _json.loads(script.string or "")
+            raw = data.get("datePublished") or data.get("dateModified")
+            if raw:
+                raw = raw.strip().replace(" ", "T").replace("Z", "+00:00")
+                if "T" not in raw:
+                    raw += "T00:00:00+00:00"
+                dt = datetime.fromisoformat(raw)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                published = dt.astimezone(timezone.utc)
+                break
+        except Exception:
+            continue
+
+    return ingress, published
 
 
 def scrape_forsvaret() -> list[Article]:
@@ -79,13 +106,14 @@ def scrape_forsvaret() -> list[Article]:
             if not title or not href:
                 continue
             url = href if href.startswith("http") else f"{BASE_FORSVARET}{href}"
+            ingress, published = _fetch_forsvaret_article(url)
             articles.append(Article(
                 title=title,
                 url=url,
-                published=_parse_forsvaret_date(hit),
+                published=published or _parse_forsvaret_date(hit),
                 source="Forsvaret.no",
                 language="no",
-                summary=_fetch_forsvaret_ingress(url),
+                summary=ingress,
             ))
         except Exception as exc:
             logger.warning("Skipping malformed Forsvaret article: %s", exc)

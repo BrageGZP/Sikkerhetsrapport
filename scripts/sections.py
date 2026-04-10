@@ -2,7 +2,10 @@ from datetime import datetime, timezone, timedelta
 from scripts.models import Article
 
 SECTION2_SOURCES = {"Kystverket.no", "Sjøfartsdirektoratet.no"}
-NORWEGIAN_SOURCES = {"Forsvaret.no", "Kystverket.no", "Sjøfartsdirektoratet.no"}
+# Kystverket and Sjøfartsdirektoratet bypass keyword filter (regulatory sources).
+# Forsvaret.no is intentionally excluded — it publishes too many irrelevant articles
+# (HR, education, sports) and must pass the keyword filter like any other source.
+NORWEGIAN_SOURCES = {"Kystverket.no", "Sjøfartsdirektoratet.no"}
 
 SECTION3_KEYWORDS = [
     "rov", "uuv", "auv", "mine countermeasure", "mcm",

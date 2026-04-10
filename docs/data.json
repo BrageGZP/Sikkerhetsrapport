@@ -1,96 +1,26 @@
 {
-  "generated_at": "2026-04-10T05:52:11Z",
+  "generated_at": "2026-04-10T08:38:34Z",
   "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
-        "title": "Norden sammen om felles flylegeutdanning",
-        "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-10T05:52:22Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
+        "title": "Philippine Navy develops prototypes of autonomous logistics drones",
+        "url": "https://www.navalnews.com/naval-news/2026/04/philippine-navy-develops-prototypes-of-autonomous-logistics-drones/",
+        "published": "2026-04-10T07:38:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Philippine Navy is partnering with a local university to develop autonomous drone prototypes, supporting the country&#8217;s goal of building a more self-reliant defense posture (SRDP) amid rising security challenges. The Navy’s Naval Sea Systems Command (NSSC) and the Naval Research and Technology Development Center formalized an agreement with Cebu Technological University (CTU) for the ...\nThe post Philippine Navy develops prototypes of autonomous logistics drones appeared first on Naval ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Philippine-Navy-develops-prototypes-of-autonomous-logistics-drones-1024x682.jpg",
         "section": "nyheter"
       },
       {
-        "title": "Status: Søk utdanning i Forsvaret – for Norge",
-        "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-10T05:52:21Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-10T05:52:21Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Evakueringen av ukrainske pasienter fortsetter",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-10T05:52:20Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-10T05:52:20Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Status: Oppdatert langtidsplan – hva betyr det?",
-        "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-10T05:52:19Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Logistikkens livline under Cold Response 2026",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-10T05:52:18Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-10T05:52:18Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Status: Forsvarets NATO-avdeling",
-        "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55",
-        "published": "2026-04-10T05:52:17Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.",
-        "section": "nyheter"
-      },
-      {
-        "title": "Tjenestegjort i Afghanistan? Bli med på markering",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering",
-        "published": "2026-04-10T05:52:17Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.",
+        "title": "Kongsberg Signs Waterjet contract for Indian Navy’s Next Generation Missile Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/04/kongsberg-signs-waterjet-contract-for-indian-navys-next-generation-missile-vessel/",
+        "published": "2026-04-10T07:02:57Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Kongsberg Maritime has signed a contract to supply 18 large Kamewa waterjets for the Indian Navy’s Next Generation Missile Vessel (NGMV) programme. Kongsberg Maritime press release: Kongsberg Maritime has signed a contract to supply 18 large Kamewa waterjets for the Indian Navy’s Next Generation Missile Vessel (NGMV) programme. Each of the vessels will feature waterjets, delivering exceptional ...\nThe post Kongsberg Signs Waterjet contract for Indian Navy’s Next Generation Missile Vessel appeare",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/10/Indian-Navys-Next-Generation-Missile-Vessel-NGMV.png",
         "section": "nyheter"
       },
       {
@@ -100,6 +30,7 @@
         "source": "USNI News",
         "language": "en",
         "summary": "Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guards Corps, despite claims from Trump administration officials that the passage is open. Data from London-based Lloyd’s List Intelligence suggest that transits did not immediately increase after the ceas",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Iran-mine-map.png",
         "section": "nyheter"
       },
       {
@@ -109,6 +40,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "Together with allies, the UK tracked “every mile” of the deployment involving an Akula-class and a pair of Main Directorate for Deep Sea Research (GUGI) surveillance submarines, according to British defense secretary John Healey.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260409_uk_sat_imagery_russia_UKMOD-e1775758248146.png",
         "section": "nyheter"
       },
       {
@@ -118,6 +50,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "Leidos and Defense Unicorns will test prototypes in a lab-based environment under the other transaction agreement.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2021/08/4665268-scaled-e1775660681132-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -127,6 +60,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&#8217;s past time to keep an eye on potential dual-use maritime infrastructure.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/260331_solomon_islands_port_GettyImages-2234743310-e1774971597252.jpg",
         "section": "nyheter"
       },
       {
@@ -136,6 +70,7 @@
         "source": "Defense News",
         "language": "en",
         "summary": "Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PHNTVLDUGFCF5FGNM7LQ2JRBXY.jpg",
         "section": "nyheter"
       },
       {
@@ -145,6 +80,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "In this video, French shipbuilder Naval Group takes us to its Lorient shipyard to demonstrate how it is able to build the FDI frigates quickly, and deliver two vessels per year. 01:40 &#8211; Naval Group&#8217;s Lorient shipyard specializes in the design and production of surface combatant. Following an extensive upgrade ahead of the FDI programme, ...\nThe post Video: How Naval Group builds FDI Frigates so quickly appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -154,6 +90,7 @@
         "source": "Defense News",
         "language": "en",
         "summary": "Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VTTYBYJRTNFINC3DO7FQAWUIEI.JPG",
         "section": "nyheter"
       },
       {
@@ -163,6 +100,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Following the contract for 40 naval units for the Italian Coast Guard, the collaboration between the Italy-based shipyard and the Turkish boat builder is expanding to the development of Unmanned and Hybrid Surface Vessel platforms for the Guardia di Finanza, and other government institutions. Production will take place at the Piloda facilities. Havelsan press release ...\nThe post Turkish and Italian companies Team Up for Surface Platforms Production appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -172,6 +110,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "SCYTALYS signed an MoU with PT Dirgantara Indonesia to integrate its MIMS Airborne system into N219 and CN235 aircraft, enhancing maritime surveillance capabilities and expanding opportunities in the Asia-Pacific market. SCYTALYS Press Release Athens, 9 April 2026. SCYTALYS (part of EFA GROUP) has signed a Memorandum of Understanding (MoU) with PT Dirgantara Indonesia (PTDI), marking ...\nThe post Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235 appeared",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/From-the-signing-of-the-agreement-1024x622.jpg",
         "section": "nyheter"
       },
       {
@@ -181,6 +120,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North several weeks ago, and tracked its activity around the clock. ...\nThe post UK exposes covert Russian submarine operation in and around UK waters appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -190,6 +130,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "Havelsan, VN maritime and Piloda Defence &#8220;are targeting the signing of the first purchase order in the first half of 2026.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260408_havelsan_usv_GettyImages-2236089211-e1775679654165.jpg",
         "section": "nyheter"
       },
       {
@@ -199,6 +140,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "On paper, the Russian Navy remains the dominant force in the Black Sea. But after ceding control to Ukraine’s uncrewed surface drones, it now faces a mounting crisis: its key base at Novorossiysk is increasingly untenable, unless Moscow is willing to absorb further warship losses. Dramatic drone footage captures a Ukrainian strike on a Russian ...\nThe post Russia’s massive Black Sea problem is worse than it looks appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -207,7 +149,8 @@
         "published": "2026-04-09T06:59:19Z",
         "source": "Naval News",
         "language": "en",
-        "summary": "Leidos Australia built one of two Sea Archer unmanned surface vessels (USV) that are in existence – the other was constructed in the USA – and the 11.2m-long craft is currently undergoing a series of Australian trials to demonstrate its maturity. Kevin Quanderer, International Director Science &#38; Technology at Leidos Australia, told Naval News in ...\nThe post Leidos proceeds with Sea Archer USV trials in Australia appeared first on Naval News.",
+        "summary": "Leidos Australia built one of two Sea Archer unmanned surface vessels (USV) that are in existence – the other was constructed in the USA – and the 11.2m-long craft is currently undergoing a series of Australian trials to demonstrate its maturity. Kevin Quarderer, International Director Science &#38; Technology at Leidos Australia, told Naval News in ...\nThe post Leidos proceeds with Sea Archer USV trials in Australia appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/2-6-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -217,6 +160,7 @@
         "source": "USNI News",
         "language": "en",
         "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian P",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/ROKS-Dosan-Ahn-Changho-at-sea-1536x1152.jpg.jpeg",
         "section": "nyheter"
       },
       {
@@ -226,6 +170,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "Roketsan CEO Murat Ikinci called the facilities “the largest defense industry investments in the history of the Republic.”",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/64da36ca-d1c4-475d-905c-3aeeba975c5b-1024x576.jpeg",
         "section": "nyheter"
       },
       {
@@ -235,24 +180,7 @@
         "source": "Breaking Defense",
         "language": "en",
         "summary": "&#8220;We need an interim tank, that is likely going to be a KNDS Germany or KNDS France platform,&#8221; said French Armed Forces Minister Catherine Vautrin.",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Requests Major Strike Weapons Package in Budget Request",
-        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-requests-major-strike-weapons-package-in-budget-request/",
-        "published": "2026-04-08T14:19:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Fiscal Year 2027 Presidential budget Request includes a major overhaul for the U.S. Navy&#8217;s Strike Weapons inventory, with over $5.23 billion dollars in funds requested for strike munitions. Major Tomahawk replenishment A 785 strong buy of RGM/UGM-109 Tomahawks headlines the Navy&#8217;s requested strike weapons procurement, with an increase of 730 missiles to be funded ...\nThe post U.S. Navy Requests Major Strike Weapons Package in Budget Request appeared first on Naval News.",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Rehearses Wartime Repairs in Central Philippine Port",
-        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/",
-        "published": "2026-04-08T10:29:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy rehearsed wartime repairs and maintenance on an amphibious assault ship at a port located within the central interior of the Philippines last month in an exercise designed to validate the service&#8217;s expeditionary sustainment capabilities in the Western Pacific. USS Ashland (LSD-48), a Whidbey Island-class landing ship dock, conducted the simulated wartime repairs ...\nThe post U.S. Navy Rehearses Wartime Repairs in Central Philippine Port appeared first on Naval News.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/GettyImages-2252509998-e1775661850957-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -262,6 +190,7 @@
         "source": "Defense News",
         "language": "en",
         "summary": "The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NYSDABZEQVDMVPU5YHEJYXVY6Q.jpg",
         "section": "nyheter"
       },
       {
@@ -271,10 +200,81 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s",
+        "url": "https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s",
+        "published": "2026-04-06T22:33:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The latest Pentagon budget request calls for massive purchase increases of two key missiles the Navy has relied on for the U.S.-Israeli war with Iran and the U.S. conflict with the Houthis in the Red Sea. Specifically, the new Fiscal Year 2027 budget is seeking a 1,200 percent increase in the number of Tomahawk Land Attack Missiles and a 225 percent increase in Standard Missile 6s over what Congress appropriated money for in Fiscal Year 2026. The funding is split between a traditional budget req",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9579228-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: April 6, 2026",
+        "url": "https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026",
+        "published": "2026-04-06T20:00:02Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 233, USNS 58) 108 (USS 78, USNS 30) (37 FDNF, 71 Rotational) 83 (66 Deployed, 17 Local) In Japan Aircraft carrier USS George Washington (CVN-73",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/FT_4_6_26-1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Marines Test Custom-built Drone in Live Fire Test, Strike Unmanned Surface Vessel",
+        "url": "https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel",
+        "published": "2026-04-06T17:43:46Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval Special Warfare conducted the maritime drone strike from a Naval Special Warfare surface craft, taking out an unmanned surface vessel designed and built by the Marine team. The trial, held in Okinawa,",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9593284-e1775496022974.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "SOUTHCOM Doesn’t Need a Carrier for Maritime Interdiction, CNO Says",
+        "url": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
+        "published": "2026-04-06T15:48:01Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-96) and USS Mahan (DDG-72) were among the naval warships amassed in U.S. Southern Command for Operation Southern Spear as the Pentagon carried out kinetic strikes on boats suspected of trafficking narc",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/02/9492789-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pentagon’s New $65.8B Shipbuilding Request is Highest Since 1962",
+        "url": "https://news.usni.org/2026/04/03/pentagons-new-65-8b-shipbuilding-request-is-highest-since-1962",
+        "published": "2026-04-03T22:09:38Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Pentagon’s request for new shipbuilding funds is among the highest-ever since the Korean War, rivaling the Reagan-era 600-ship spending plan and the nuclear submarine buildup in the 1960s, according to budget documents. In a $1.5 trillion Fiscal Year 2027 national security submission split between the base budget and reconciliation, the Navy wants a total of $65.8 billion for shipbuilding, as President Donald Trump pursues several new ship classes under the Golden Fleet concept. The Navy is ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2024/12/IMG_9759-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Trump seeks to double number of ship requests with 2027 defense budget",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/03/trump-seeks-to-double-number-of-ship-requests-with-2027-defense-budget/",
+        "published": "2026-04-03T17:06:37Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The proposed $1.5 trillion fiscal 2027 defense budget would allocate $65.8 billion for shipbuilding, the White House said Friday.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FG36QZVM5RHDPGJGG3NJ5LCZLY.jpg",
         "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Elisabeth Aarsæther tilsett i Kystverket",
+        "url": "https://www.kystverket.no/nyheter/elisabeth-aarsather-ansatt-i-kystverket/",
+        "published": "2026-04-10T07:36:19Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Etter fleire år som toppleiar i DSB har Elisabeth Aarsæther takka ja til ei sentral rolle som...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Testet ut mobil radarenhet",
         "url": "https://www.kystverket.no/nyheter/testet-ut-mobil-radarenhet/",
@@ -282,6 +282,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "I det siste har Kystverket testet ut en ny type mobil radarløsning. Med det flyttbare utstyret ka...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -291,6 +292,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Arbeidet suspendert.",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -300,6 +302,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Bulkskipet LMZ Pluto fikk motorstans tirsdag 24. mars, og drev ubemannet etter at mannskapet ble...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -309,6 +312,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Oppskytingen av AISSat-4 er en viktig brikke i å sikre trygg ferdsel, beredskap og kontroll i noe...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -318,6 +322,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -327,6 +332,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket trenger midlertidige lokaler til losformidling/loskontor i Lødingen fra september 2026...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -336,6 +342,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket setter denne uken i gang en ny og omfattende undersøkelse av ubåtvraket U‑864 utenfor...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -345,6 +352,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Når vi i Norge snakker om forsvar, ser vi for oss soldater, uniformer og militært materiell klare...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -354,6 +362,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har i dag levert et oppdatert beslutnings- og kostnadsgrunnlag for Stad skipstunnel ti...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -363,6 +372,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "I 2026 vil Kystverket legge ned en betydelig innsats for å redusere vedlikeholdsetterslepet på...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -372,6 +382,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Venter på taubåt.",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -381,6 +392,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har ansatt Jo Even Tomren som ny losdirektør. Med bred erfaring fra maritim sektor går...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -390,6 +402,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Arbeidet med den nye Sotrabrua i Vestland fylke går inn i ein fase der det blir behov for...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -399,6 +412,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket bidrar med flere innslag i årets rederikonferanse, der tema er sikkerhet, konkurransek...",
+        "image_url": "",
         "section": "regelverk"
       },
       {
@@ -408,6 +422,7 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Siv er en av Kystverkets statsloser.",
+        "image_url": "",
         "section": "regelverk"
       }
     ],
@@ -419,6 +434,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Sensor solutions provider HENSOLDT UK has secured two contracts with SRT Marine System Solutions Ltd (SRT), a UK-based civil-defence maritime surveillance systems company, to supply a total of 50 radar systems for deployment within integrated national coastal surveillance systems. The systems will be delivered by SRT, with all deliveries scheduled for 2026. HENSOLDT UK press ...\nThe post HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars appeared first on Naval News.",
+        "image_url": "",
         "section": "rov_teknologi"
       },
       {
@@ -428,6 +444,7 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren-class submarine deployed the Razorback, launching and recovering the drone with its dry deck shelter, from March 16-20 while operating off the coast of Toulon, France. The drone conducted oceanograph",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9596509.jpg",
         "section": "rov_teknologi"
       }
     ]

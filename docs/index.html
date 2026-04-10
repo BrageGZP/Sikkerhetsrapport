@@ -6,47 +6,149 @@
   <title>Maritim Sikkerhetsrapport</title>
   <style>
     :root {
-      --navy: #0a1628;
-      --navy-mid: #132040;
-      --navy-light: #1e3060;
-      --accent: #4a9edd;
-      --text: #e8edf5;
-      --text-muted: #8fa3c0;
-      --border: #2a3f60;
+      --bg: #f5f7fa;
+      --surface: #ffffff;
+      --surface-hover: #f0f4ff;
+      --accent: #1a56db;
+      --accent-light: #e8f0fe;
+      --text: #111827;
+      --text-muted: #6b7280;
+      --border: #e5e7eb;
+      --header-bg: #1e3a8a;
+      --header-text: #ffffff;
+      --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-hover: 0 4px 12px rgba(0,0,0,0.12);
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { background: var(--navy); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
-    header { background: var(--navy-mid); border-bottom: 2px solid var(--accent); padding: 1.5rem 2rem; }
-    header h1 { font-size: 1.5rem; color: var(--accent); }
-    header .meta { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem; }
-    main { max-width: 1100px; margin: 0 auto; padding: 2rem; }
+    body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
+
+    header {
+      background: var(--header-bg);
+      padding: 1.5rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    header h1 { font-size: 1.35rem; color: var(--header-text); font-weight: 700; }
+    header .meta { font-size: 0.8rem; color: rgba(255,255,255,0.7); }
+
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+
     section { margin-bottom: 3rem; }
-    section h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-bottom: 1.25rem; }
-    .article-scroll { display: flex; gap: 1rem; overflow-x: auto; padding-bottom: 0.75rem; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
-    .article-scroll::-webkit-scrollbar { height: 6px; }
-    .article-scroll::-webkit-scrollbar-track { background: var(--navy-mid); border-radius: 3px; }
-    .article-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    section h2 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      color: var(--accent);
+      border-bottom: 2px solid var(--accent-light);
+      padding-bottom: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .article-scroll {
+      display: flex;
+      gap: 1rem;
+      overflow-x: auto;
+      padding-bottom: 0.75rem;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+    }
+    .article-scroll::-webkit-scrollbar { height: 5px; }
+    .article-scroll::-webkit-scrollbar-track { background: var(--border); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb { background: #c0c8d8; border-radius: 3px; }
     .article-scroll::-webkit-scrollbar-thumb:hover { background: var(--accent); }
-    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; min-width: 280px; max-width: 320px; flex-shrink: 0; scroll-snap-align: start; }
-    .card:hover { border-color: var(--accent); }
-    .card .source { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
-    .card h3 { font-size: 0.95rem; margin: 0.35rem 0; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      min-width: 280px;
+      max-width: 300px;
+      flex-shrink: 0;
+      scroll-snap-align: start;
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-2px);
+    }
+
+    .card-img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      display: block;
+      background: var(--accent-light);
+    }
+    .card-img-placeholder {
+      width: 100%;
+      height: 160px;
+      background: linear-gradient(135deg, #e8f0fe 0%, #dbeafe 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #93c5fd;
+      font-size: 2rem;
+    }
+
+    .card-body { padding: 0.85rem 1rem 1rem; flex: 1; display: flex; flex-direction: column; gap: 0.3rem; }
+    .card .source {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .card h3 { font-size: 0.9rem; font-weight: 600; line-height: 1.4; }
     .card h3 a { color: var(--text); text-decoration: none; }
     .card h3 a:hover { color: var(--accent); }
-    .card .date { font-size: 0.75rem; color: var(--text-muted); }
-    .card .summary { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; }
+    .card .date { font-size: 0.72rem; color: var(--text-muted); }
+    .card .summary { font-size: 0.82rem; color: var(--text-muted); margin-top: 0.25rem; flex: 1; }
+
     .empty { color: var(--text-muted); font-style: italic; font-size: 0.9rem; }
-    .fallback-notice { display: flex; align-items: center; gap: 0.5rem; background: rgba(74,158,221,0.1); border: 1px solid rgba(74,158,221,0.3); border-radius: 4px; padding: 0.5rem 0.75rem; margin-bottom: 1rem; font-size: 0.82rem; color: var(--accent); }
-    footer { text-align: center; padding: 2rem; font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border); }
-    footer a { color: var(--accent); }
-    @media (max-width: 600px) { header { padding: 1rem; } main { padding: 1rem; } }
+    .fallback-notice {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: #fffbeb;
+      border: 1px solid #fde68a;
+      border-radius: 6px;
+      padding: 0.5rem 0.75rem;
+      margin-bottom: 1rem;
+      font-size: 0.82rem;
+      color: #92400e;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 600px) {
+      header { padding: 1rem; }
+      main { padding: 1rem; }
+      .card { min-width: 240px; max-width: 260px; }
+    }
   </style>
 </head>
 <body>
 <header>
   <h1>Maritim Sikkerhetsrapport — Miner &amp; Undervannssikkerhet</h1>
   <div class="meta">
-    Sist oppdatert: 2026-04-10 05:52 UTC &nbsp;|&nbsp;
+    Sist oppdatert: 2026-04-10 08:38 UTC &nbsp;·&nbsp;
     Neste oppdatering: 12:00 UTC
   </div>
 </header>
@@ -58,222 +160,324 @@
     
     <div class="article-scroll">
       
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap" target="_blank" rel="noopener">Norden sammen om felles flylegeutdanning</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53" target="_blank" rel="noopener">Status: Søk utdanning i Forsvaret – for Norge</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont" target="_blank" rel="noopener">Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter" target="_blank" rel="noopener">Evakueringen av ukrainske pasienter fortsetter</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp" target="_blank" rel="noopener">Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54" target="_blank" rel="noopener">Status: Oppdatert langtidsplan – hva betyr det?</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response" target="_blank" rel="noopener">Logistikkens livline under Cold Response 2026</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen" target="_blank" rel="noopener">Eksotisk jobbsjanse: – Jeg er heldig som får være her</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55" target="_blank" rel="noopener">Status: Forsvarets NATO-avdeling</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.</div>
-      </div>
-      
-      <div class="card" >
-        <div class="source">Forsvaret.no</div>
-        <h3><a href="https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering" target="_blank" rel="noopener">Tjenestegjort i Afghanistan? Bli med på markering</a></h3>
-        <div class="date">10.04.2026 05:52 UTC</div>
-        <div class="summary">Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.</div>
+      <div class="card" lang="en">
+        
+        <img class="card-img" src="https://www.navalnews.com/wp-content/uploads/2026/04/Philippine-Navy-develops-prototypes-of-autonomous-logistics-drones-1024x682.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/philippine-navy-develops-prototypes-of-autonomous-logistics-drones/" target="_blank" rel="noopener">Philippine Navy develops prototypes of autonomous logistics drones</a></h3>
+          <div class="date">10.04.2026 07:38 UTC</div>
+          <div class="summary">The Philippine Navy is partnering with a local university to develop autonomous drone prototypes, supporting the country&amp;#8217;s goal of building a more self-reliant defense posture (SRDP) amid rising security challenges. The Navy’s Naval Sea Systems Command (NSSC) and the Naval Research and Technology Development Center formalized an agreement with Cebu Technological University (CTU) for the ...
+The post Philippine Navy develops prototypes of autonomous logistics drones appeared first on Naval </div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">USNI News</div>
-        <h3><a href="https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status" target="_blank" rel="noopener">Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status</a></h3>
-        <div class="date">09.04.2026 21:35 UTC</div>
-        <div class="summary">Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guards Corps, despite claims from Trump administration officials that the passage is open. Data from London-based Lloyd’s List Intelligence suggest that transits did not immediately increase after the ceas</div>
+        
+        <img class="card-img" src="https://www.navalnews.com/wp-content/uploads/2024/10/Indian-Navys-Next-Generation-Missile-Vessel-NGMV.png" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/kongsberg-signs-waterjet-contract-for-indian-navys-next-generation-missile-vessel/" target="_blank" rel="noopener">Kongsberg Signs Waterjet contract for Indian Navy’s Next Generation Missile Vessel</a></h3>
+          <div class="date">10.04.2026 07:02 UTC</div>
+          <div class="summary">Kongsberg Maritime has signed a contract to supply 18 large Kamewa waterjets for the Indian Navy’s Next Generation Missile Vessel (NGMV) programme. Kongsberg Maritime press release: Kongsberg Maritime has signed a contract to supply 18 large Kamewa waterjets for the Indian Navy’s Next Generation Missile Vessel (NGMV) programme. Each of the vessels will feature waterjets, delivering exceptional ...
+The post Kongsberg Signs Waterjet contract for Indian Navy’s Next Generation Missile Vessel appeare</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/" target="_blank" rel="noopener">UK accuses Russia of covert submarine operation threatening undersea cables</a></h3>
-        <div class="date">09.04.2026 18:07 UTC</div>
-        <div class="summary">Together with allies, the UK tracked “every mile” of the deployment involving an Akula-class and a pair of Main Directorate for Deep Sea Research (GUGI) surveillance submarines, according to British defense secretary John Healey.</div>
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/Iran-mine-map.png" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status" target="_blank" rel="noopener">Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status</a></h3>
+          <div class="date">09.04.2026 21:35 UTC</div>
+          <div class="summary">Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guards Corps, despite claims from Trump administration officials that the passage is open. Data from London-based Lloyd’s List Intelligence suggest that transits did not immediately increase after the ceas</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/" target="_blank" rel="noopener">Navy selects Leidos, Defense Unicorns to test software prototypes for ships</a></h3>
-        <div class="date">09.04.2026 18:01 UTC</div>
-        <div class="summary">Leidos and Defense Unicorns will test prototypes in a lab-based environment under the other transaction agreement.</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260409_uk_sat_imagery_russia_UKMOD-e1775758248146.png" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/" target="_blank" rel="noopener">UK accuses Russia of covert submarine operation threatening undersea cables</a></h3>
+          <div class="date">09.04.2026 18:07 UTC</div>
+          <div class="summary">Together with allies, the UK tracked “every mile” of the deployment involving an Akula-class and a pair of Main Directorate for Deep Sea Research (GUGI) surveillance submarines, according to British defense secretary John Healey.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/" target="_blank" rel="noopener">China’s dual-use ambitions could severely threaten America’s force posture</a></h3>
-        <div class="date">09.04.2026 17:14 UTC</div>
-        <div class="summary">The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&amp;#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&amp;#8217;s past time to keep an eye on potential dual-use maritime infrastructure.</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2021/08/4665268-scaled-e1775660681132-1024x576.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/" target="_blank" rel="noopener">Navy selects Leidos, Defense Unicorns to test software prototypes for ships</a></h3>
+          <div class="date">09.04.2026 18:01 UTC</div>
+          <div class="summary">Leidos and Defense Unicorns will test prototypes in a lab-based environment under the other transaction agreement.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Defense News</div>
-        <h3><a href="https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/" target="_blank" rel="noopener">UK says it deployed military to deter Russian submarines from attack on undersea cables</a></h3>
-        <div class="date">09.04.2026 14:55 UTC</div>
-        <div class="summary">Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/260331_solomon_islands_port_GettyImages-2234743310-e1774971597252.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/" target="_blank" rel="noopener">China’s dual-use ambitions could severely threaten America’s force posture</a></h3>
+          <div class="date">09.04.2026 17:14 UTC</div>
+          <div class="summary">The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&amp;#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&amp;#8217;s past time to keep an eye on potential dual-use maritime infrastructure.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/video-how-naval-group-builds-fdi-frigates-so-quickly/" target="_blank" rel="noopener">Video: How Naval Group builds FDI Frigates so quickly</a></h3>
-        <div class="date">09.04.2026 13:56 UTC</div>
-        <div class="summary">In this video, French shipbuilder Naval Group takes us to its Lorient shipyard to demonstrate how it is able to build the FDI frigates quickly, and deliver two vessels per year. 01:40 &amp;#8211; Naval Group&amp;#8217;s Lorient shipyard specializes in the design and production of surface combatant. Following an extensive upgrade ahead of the FDI programme, ...
+        
+        <img class="card-img" src="https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PHNTVLDUGFCF5FGNM7LQ2JRBXY.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Defense News</div>
+          <h3><a href="https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/" target="_blank" rel="noopener">UK says it deployed military to deter Russian submarines from attack on undersea cables</a></h3>
+          <div class="date">09.04.2026 14:55 UTC</div>
+          <div class="summary">Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.</div>
+        </div>
+      </div>
+      
+      <div class="card" lang="en">
+        
+        <div class="card-img-placeholder">&#9875;</div>
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/video-how-naval-group-builds-fdi-frigates-so-quickly/" target="_blank" rel="noopener">Video: How Naval Group builds FDI Frigates so quickly</a></h3>
+          <div class="date">09.04.2026 13:56 UTC</div>
+          <div class="summary">In this video, French shipbuilder Naval Group takes us to its Lorient shipyard to demonstrate how it is able to build the FDI frigates quickly, and deliver two vessels per year. 01:40 &amp;#8211; Naval Group&amp;#8217;s Lorient shipyard specializes in the design and production of surface combatant. Following an extensive upgrade ahead of the FDI programme, ...
 The post Video: How Naval Group builds FDI Frigates so quickly appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Defense News</div>
-        <h3><a href="https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/" target="_blank" rel="noopener">Pentagon’s ouster of Anthropic opens doors for small AI rivals</a></h3>
-        <div class="date">09.04.2026 13:38 UTC</div>
-        <div class="summary">Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.</div>
+        
+        <img class="card-img" src="https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VTTYBYJRTNFINC3DO7FQAWUIEI.JPG" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Defense News</div>
+          <h3><a href="https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/" target="_blank" rel="noopener">Pentagon’s ouster of Anthropic opens doors for small AI rivals</a></h3>
+          <div class="date">09.04.2026 13:38 UTC</div>
+          <div class="summary">Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/turkish-and-italian-companies-team-up-for-surface-platforms-production/" target="_blank" rel="noopener">Turkish and Italian companies Team Up for Surface Platforms Production</a></h3>
-        <div class="date">09.04.2026 13:31 UTC</div>
-        <div class="summary">Following the contract for 40 naval units for the Italian Coast Guard, the collaboration between the Italy-based shipyard and the Turkish boat builder is expanding to the development of Unmanned and Hybrid Surface Vessel platforms for the Guardia di Finanza, and other government institutions. Production will take place at the Piloda facilities. Havelsan press release ...
+        
+        <div class="card-img-placeholder">&#9875;</div>
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/turkish-and-italian-companies-team-up-for-surface-platforms-production/" target="_blank" rel="noopener">Turkish and Italian companies Team Up for Surface Platforms Production</a></h3>
+          <div class="date">09.04.2026 13:31 UTC</div>
+          <div class="summary">Following the contract for 40 naval units for the Italian Coast Guard, the collaboration between the Italy-based shipyard and the Turkish boat builder is expanding to the development of Unmanned and Hybrid Surface Vessel platforms for the Guardia di Finanza, and other government institutions. Production will take place at the Piloda facilities. Havelsan press release ...
 The post Turkish and Italian companies Team Up for Surface Platforms Production appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/greek-scytalys-partners-with-indonesias-ptdi-on-tactical-mission-system-for-n219-and-cn235/" target="_blank" rel="noopener">Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235</a></h3>
-        <div class="date">09.04.2026 13:17 UTC</div>
-        <div class="summary">SCYTALYS signed an MoU with PT Dirgantara Indonesia to integrate its MIMS Airborne system into N219 and CN235 aircraft, enhancing maritime surveillance capabilities and expanding opportunities in the Asia-Pacific market. SCYTALYS Press Release Athens, 9 April 2026. SCYTALYS (part of EFA GROUP) has signed a Memorandum of Understanding (MoU) with PT Dirgantara Indonesia (PTDI), marking ...
+        
+        <img class="card-img" src="https://www.navalnews.com/wp-content/uploads/2026/04/From-the-signing-of-the-agreement-1024x622.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/greek-scytalys-partners-with-indonesias-ptdi-on-tactical-mission-system-for-n219-and-cn235/" target="_blank" rel="noopener">Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235</a></h3>
+          <div class="date">09.04.2026 13:17 UTC</div>
+          <div class="summary">SCYTALYS signed an MoU with PT Dirgantara Indonesia to integrate its MIMS Airborne system into N219 and CN235 aircraft, enhancing maritime surveillance capabilities and expanding opportunities in the Asia-Pacific market. SCYTALYS Press Release Athens, 9 April 2026. SCYTALYS (part of EFA GROUP) has signed a Memorandum of Understanding (MoU) with PT Dirgantara Indonesia (PTDI), marking ...
 The post Greek SCYTALYS Partners with Indonesia’s PTDI on Tactical Mission System for N219 and CN235 appeared</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/" target="_blank" rel="noopener">UK exposes covert Russian submarine operation in and around UK waters</a></h3>
-        <div class="date">09.04.2026 12:09 UTC</div>
-        <div class="summary">The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North several weeks ago, and tracked its activity around the clock. ...
+        
+        <div class="card-img-placeholder">&#9875;</div>
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/uk-exposes-covert-russian-submarine-operation-in-and-around-uk-waters/" target="_blank" rel="noopener">UK exposes covert Russian submarine operation in and around UK waters</a></h3>
+          <div class="date">09.04.2026 12:09 UTC</div>
+          <div class="summary">The British military has exposed a covert Russian submarine operation in and around UK waters, forcing the vessels to retreat back to Russia. UK Ministry of Defence press release British aircraft and warships identified a Russian attack submarine entering international waters in the High North several weeks ago, and tracked its activity around the clock. ...
 The post UK exposes covert Russian submarine operation in and around UK waters appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/turkish-italian-defense-firms-team-up-to-produce-unmanned-surface-vessels-for-italy/" target="_blank" rel="noopener">Turkish, Italian defense firms team up to produce unmanned surface vessels for Italy</a></h3>
-        <div class="date">09.04.2026 09:07 UTC</div>
-        <div class="summary">Havelsan, VN maritime and Piloda Defence &amp;#8220;are targeting the signing of the first purchase order in the first half of 2026.&amp;#8221;</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/260408_havelsan_usv_GettyImages-2236089211-e1775679654165.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/turkish-italian-defense-firms-team-up-to-produce-unmanned-surface-vessels-for-italy/" target="_blank" rel="noopener">Turkish, Italian defense firms team up to produce unmanned surface vessels for Italy</a></h3>
+          <div class="date">09.04.2026 09:07 UTC</div>
+          <div class="summary">Havelsan, VN maritime and Piloda Defence &amp;#8220;are targeting the signing of the first purchase order in the first half of 2026.&amp;#8221;</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/russias-massive-black-sea-problem-is-worse-than-it-looks/" target="_blank" rel="noopener">Russia’s massive Black Sea problem is worse than it looks</a></h3>
-        <div class="date">09.04.2026 08:29 UTC</div>
-        <div class="summary">On paper, the Russian Navy remains the dominant force in the Black Sea. But after ceding control to Ukraine’s uncrewed surface drones, it now faces a mounting crisis: its key base at Novorossiysk is increasingly untenable, unless Moscow is willing to absorb further warship losses. Dramatic drone footage captures a Ukrainian strike on a Russian ...
+        
+        <div class="card-img-placeholder">&#9875;</div>
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/russias-massive-black-sea-problem-is-worse-than-it-looks/" target="_blank" rel="noopener">Russia’s massive Black Sea problem is worse than it looks</a></h3>
+          <div class="date">09.04.2026 08:29 UTC</div>
+          <div class="summary">On paper, the Russian Navy remains the dominant force in the Black Sea. But after ceding control to Ukraine’s uncrewed surface drones, it now faces a mounting crisis: its key base at Novorossiysk is increasingly untenable, unless Moscow is willing to absorb further warship losses. Dramatic drone footage captures a Ukrainian strike on a Russian ...
 The post Russia’s massive Black Sea problem is worse than it looks appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/leidos-proceeds-with-sea-archer-usv-trials-in-australia/" target="_blank" rel="noopener">Leidos proceeds with Sea Archer USV trials in Australia</a></h3>
-        <div class="date">09.04.2026 06:59 UTC</div>
-        <div class="summary">Leidos Australia built one of two Sea Archer unmanned surface vessels (USV) that are in existence – the other was constructed in the USA – and the 11.2m-long craft is currently undergoing a series of Australian trials to demonstrate its maturity. Kevin Quanderer, International Director Science &amp;#38; Technology at Leidos Australia, told Naval News in ...
+        
+        <img class="card-img" src="https://www.navalnews.com/wp-content/uploads/2026/04/2-6-1024x683.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/leidos-proceeds-with-sea-archer-usv-trials-in-australia/" target="_blank" rel="noopener">Leidos proceeds with Sea Archer USV trials in Australia</a></h3>
+          <div class="date">09.04.2026 06:59 UTC</div>
+          <div class="summary">Leidos Australia built one of two Sea Archer unmanned surface vessels (USV) that are in existence – the other was constructed in the USA – and the 11.2m-long craft is currently undergoing a series of Australian trials to demonstrate its maturity. Kevin Quarderer, International Director Science &amp;#38; Technology at Leidos Australia, told Naval News in ...
 The post Leidos proceeds with Sea Archer USV trials in Australia appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">USNI News</div>
-        <h3><a href="https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada" target="_blank" rel="noopener">South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada</a></h3>
-        <div class="date">08.04.2026 21:46 UTC</div>
-        <div class="summary">A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian P</div>
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/ROKS-Dosan-Ahn-Changho-at-sea-1536x1152.jpg.jpeg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/08/south-korean-submarine-completes-first-leg-of-indo-pacific-voyage-to-canada" target="_blank" rel="noopener">South Korean Submarine Completes First Leg of Indo-Pacific Voyage to Canada</a></h3>
+          <div class="date">08.04.2026 21:46 UTC</div>
+          <div class="summary">A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian P</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/turkeys-roketsan-opens-new-production-facilities-delivers-missiles-to-armed-forces/" target="_blank" rel="noopener">Turkey’s Roketsan opens new production facilities, delivers missiles to armed forces</a></h3>
-        <div class="date">08.04.2026 19:15 UTC</div>
-        <div class="summary">Roketsan CEO Murat Ikinci called the facilities “the largest defense industry investments in the history of the Republic.”</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/64da36ca-d1c4-475d-905c-3aeeba975c5b-1024x576.jpeg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/turkeys-roketsan-opens-new-production-facilities-delivers-missiles-to-armed-forces/" target="_blank" rel="noopener">Turkey’s Roketsan opens new production facilities, delivers missiles to armed forces</a></h3>
+          <div class="date">08.04.2026 19:15 UTC</div>
+          <div class="summary">Roketsan CEO Murat Ikinci called the facilities “the largest defense industry investments in the history of the Republic.”</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Breaking Defense</div>
-        <h3><a href="https://breakingdefense.com/2026/04/france-to-increase-defense-spending-by-42-billion-mulls-new-tank-effort/" target="_blank" rel="noopener">France to increase defense spending by $42 billion, mulls new tank effort</a></h3>
-        <div class="date">08.04.2026 15:26 UTC</div>
-        <div class="summary">&amp;#8220;We need an interim tank, that is likely going to be a KNDS Germany or KNDS France platform,&amp;#8221; said French Armed Forces Minister Catherine Vautrin.</div>
+        
+        <img class="card-img" src="https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/GettyImages-2252509998-e1775661850957-1024x577.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Breaking Defense</div>
+          <h3><a href="https://breakingdefense.com/2026/04/france-to-increase-defense-spending-by-42-billion-mulls-new-tank-effort/" target="_blank" rel="noopener">France to increase defense spending by $42 billion, mulls new tank effort</a></h3>
+          <div class="date">08.04.2026 15:26 UTC</div>
+          <div class="summary">&amp;#8220;We need an interim tank, that is likely going to be a KNDS Germany or KNDS France platform,&amp;#8221; said French Armed Forces Minister Catherine Vautrin.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/u-s-navy-requests-major-strike-weapons-package-in-budget-request/" target="_blank" rel="noopener">U.S. Navy Requests Major Strike Weapons Package in Budget Request</a></h3>
-        <div class="date">08.04.2026 14:19 UTC</div>
-        <div class="summary">The Fiscal Year 2027 Presidential budget Request includes a major overhaul for the U.S. Navy&amp;#8217;s Strike Weapons inventory, with over $5.23 billion dollars in funds requested for strike munitions. Major Tomahawk replenishment A 785 strong buy of RGM/UGM-109 Tomahawks headlines the Navy&amp;#8217;s requested strike weapons procurement, with an increase of 730 missiles to be funded ...
-The post U.S. Navy Requests Major Strike Weapons Package in Budget Request appeared first on Naval News.</div>
+        
+        <img class="card-img" src="https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NYSDABZEQVDMVPU5YHEJYXVY6Q.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Defense News</div>
+          <h3><a href="https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/" target="_blank" rel="noopener">US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027</a></h3>
+          <div class="date">07.04.2026 19:38 UTC</div>
+          <div class="summary">The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/u-s-navy-rehearses-wartime-repairs-in-central-philippine-port/" target="_blank" rel="noopener">U.S. Navy Rehearses Wartime Repairs in Central Philippine Port</a></h3>
-        <div class="date">08.04.2026 10:29 UTC</div>
-        <div class="summary">The U.S. Navy rehearsed wartime repairs and maintenance on an amphibious assault ship at a port located within the central interior of the Philippines last month in an exercise designed to validate the service&amp;#8217;s expeditionary sustainment capabilities in the Western Pacific. USS Ashland (LSD-48), a Whidbey Island-class landing ship dock, conducted the simulated wartime repairs ...
-The post U.S. Navy Rehearses Wartime Repairs in Central Philippine Port appeared first on Naval News.</div>
+        
+        <div class="card-img-placeholder">&#9875;</div>
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs" target="_blank" rel="noopener">Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs</a></h3>
+          <div class="date">07.04.2026 14:58 UTC</div>
+          <div class="summary">The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&amp;#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">Defense News</div>
-        <h3><a href="https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/" target="_blank" rel="noopener">US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027</a></h3>
-        <div class="date">07.04.2026 19:38 UTC</div>
-        <div class="summary">The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.</div>
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/9579228-scaled.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s" target="_blank" rel="noopener">New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s</a></h3>
+          <div class="date">06.04.2026 22:33 UTC</div>
+          <div class="summary">The latest Pentagon budget request calls for massive purchase increases of two key missiles the Navy has relied on for the U.S.-Israeli war with Iran and the U.S. conflict with the Houthis in the Red Sea. Specifically, the new Fiscal Year 2027 budget is seeking a 1,200 percent increase in the number of Tomahawk Land Attack Missiles and a 225 percent increase in Standard Missile 6s over what Congress appropriated money for in Fiscal Year 2026. The funding is split between a traditional budget req</div>
+        </div>
       </div>
       
       <div class="card" lang="en">
-        <div class="source">USNI News</div>
-        <h3><a href="https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs" target="_blank" rel="noopener">Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs</a></h3>
-        <div class="date">07.04.2026 14:58 UTC</div>
-        <div class="summary">The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&amp;#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.</div>
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/FT_4_6_26-1.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026" target="_blank" rel="noopener">USNI News Fleet and Marine Tracker: April 6, 2026</a></h3>
+          <div class="date">06.04.2026 20:00 UTC</div>
+          <div class="summary">These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 233, USNS 58) 108 (USS 78, USNS 30) (37 FDNF, 71 Rotational) 83 (66 Deployed, 17 Local) In Japan Aircraft carrier USS George Washington (CVN-73</div>
+        </div>
+      </div>
+      
+      <div class="card" lang="en">
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/9593284-e1775496022974.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel" target="_blank" rel="noopener">Marines Test Custom-built Drone in Live Fire Test, Strike Unmanned Surface Vessel</a></h3>
+          <div class="date">06.04.2026 17:43 UTC</div>
+          <div class="summary">The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval Special Warfare conducted the maritime drone strike from a Naval Special Warfare surface craft, taking out an unmanned surface vessel designed and built by the Marine team. The trial, held in Okinawa,</div>
+        </div>
+      </div>
+      
+      <div class="card" lang="en">
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/02/9492789-scaled.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says" target="_blank" rel="noopener">SOUTHCOM Doesn’t Need a Carrier for Maritime Interdiction, CNO Says</a></h3>
+          <div class="date">06.04.2026 15:48 UTC</div>
+          <div class="summary">For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-96) and USS Mahan (DDG-72) were among the naval warships amassed in U.S. Southern Command for Operation Southern Spear as the Pentagon carried out kinetic strikes on boats suspected of trafficking narc</div>
+        </div>
+      </div>
+      
+      <div class="card" lang="en">
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2024/12/IMG_9759-scaled.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/03/pentagons-new-65-8b-shipbuilding-request-is-highest-since-1962" target="_blank" rel="noopener">Pentagon’s New $65.8B Shipbuilding Request is Highest Since 1962</a></h3>
+          <div class="date">03.04.2026 22:09 UTC</div>
+          <div class="summary">The Pentagon’s request for new shipbuilding funds is among the highest-ever since the Korean War, rivaling the Reagan-era 600-ship spending plan and the nuclear submarine buildup in the 1960s, according to budget documents. In a $1.5 trillion Fiscal Year 2027 national security submission split between the base budget and reconciliation, the Navy wants a total of $65.8 billion for shipbuilding, as President Donald Trump pursues several new ship classes under the Golden Fleet concept. The Navy is </div>
+        </div>
+      </div>
+      
+      <div class="card" lang="en">
+        
+        <img class="card-img" src="https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FG36QZVM5RHDPGJGG3NJ5LCZLY.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">Defense News</div>
+          <h3><a href="https://www.defensenews.com/news/pentagon-congress/2026/04/03/trump-seeks-to-double-number-of-ship-requests-with-2027-defense-budget/" target="_blank" rel="noopener">Trump seeks to double number of ship requests with 2027 defense budget</a></h3>
+          <div class="date">03.04.2026 17:06 UTC</div>
+          <div class="summary">The proposed $1.5 trillion fiscal 2027 defense budget would allocate $65.8 billion for shipbuilding, the White House said Friday.</div>
+        </div>
       </div>
       
     </div>
@@ -287,18 +491,28 @@ The post U.S. Navy Rehearses Wartime Repairs in Central Philippine Port appeared
     <div class="article-scroll">
       
       <div class="card">
-        <div class="source">Naval News</div>
-        <h3><a href="https://www.navalnews.com/naval-news/2026/04/hensoldt-uk-secures-two-contracts-with-srt-for-50-coastal-surveillance-radars/" target="_blank" rel="noopener">HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars</a></h3>
-        <div class="date">09.04.2026 12:30 UTC</div>
-        <div class="summary">Sensor solutions provider HENSOLDT UK has secured two contracts with SRT Marine System Solutions Ltd (SRT), a UK-based civil-defence maritime surveillance systems company, to supply a total of 50 radar systems for deployment within integrated national coastal surveillance systems. The systems will be delivered by SRT, with all deliveries scheduled for 2026. HENSOLDT UK press ...
+        
+        <div class="card-img-placeholder">&#128269;</div>
+        
+        <div class="card-body">
+          <div class="source">Naval News</div>
+          <h3><a href="https://www.navalnews.com/naval-news/2026/04/hensoldt-uk-secures-two-contracts-with-srt-for-50-coastal-surveillance-radars/" target="_blank" rel="noopener">HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars</a></h3>
+          <div class="date">09.04.2026 12:30 UTC</div>
+          <div class="summary">Sensor solutions provider HENSOLDT UK has secured two contracts with SRT Marine System Solutions Ltd (SRT), a UK-based civil-defence maritime surveillance systems company, to supply a total of 50 radar systems for deployment within integrated national coastal surveillance systems. The systems will be delivered by SRT, with all deliveries scheduled for 2026. HENSOLDT UK press ...
 The post HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars appeared first on Naval News.</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">USNI News</div>
-        <h3><a href="https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run" target="_blank" rel="noopener">French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run</a></h3>
-        <div class="date">08.04.2026 15:19 UTC</div>
-        <div class="summary">The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren-class submarine deployed the Razorback, launching and recovering the drone with its dry deck shelter, from March 16-20 while operating off the coast of Toulon, France. The drone conducted oceanograph</div>
+        
+        <img class="card-img" src="https://news.usni.org/wp-content/uploads/2026/04/9596509.jpg" alt="" loading="lazy">
+        
+        <div class="card-body">
+          <div class="source">USNI News</div>
+          <h3><a href="https://news.usni.org/2026/04/08/french-navy-submarine-launches-recovers-u-s-navy-drone-in-test-run" target="_blank" rel="noopener">French Navy Submarine Launches, Recovers U.S. Navy Drone in Test Run</a></h3>
+          <div class="date">08.04.2026 15:19 UTC</div>
+          <div class="summary">The French Navy tested launching and recovering a U.S. Navy Razorback Unmanned Undersea Vehicle (UUV) from a submerged French Suffren-class nuclear-powered attack submarine last month, validating the French submarine’s removable dry deck shelter can be used for underwater drone operations. A Suffren-class submarine deployed the Razorback, launching and recovering the drone with its dry deck shelter, from March 16-20 while operating off the coast of Toulon, France. The drone conducted oceanograph</div>
+        </div>
       </div>
       
     </div>
@@ -312,108 +526,195 @@ The post HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance 
     <div class="article-scroll">
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/testet-ut-mobil-radarenhet/" target="_blank" rel="noopener">Testet ut mobil radarenhet</a></h3>
-        <div class="date">08.04.2026 12:11 UTC</div>
-        <div class="summary">I det siste har Kystverket testet ut en ny type mobil radarløsning. Med det flyttbare utstyret ka...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/elisabeth-aarsather-ansatt-i-kystverket/" target="_blank" rel="noopener">Elisabeth Aarsæther tilsett i Kystverket</a></h3>
+          <div class="date">10.04.2026 07:36 UTC</div>
+          <div class="summary">Etter fleire år som toppleiar i DSB har Elisabeth Aarsæther takka ja til ei sentral rolle som...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/darlig-var-stopper-tokt-ved-u-864/" target="_blank" rel="noopener">Dårlig vær stopper tokt ved U-864</a></h3>
-        <div class="date">01.04.2026 07:25 UTC</div>
-        <div class="summary">Arbeidet suspendert.</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/testet-ut-mobil-radarenhet/" target="_blank" rel="noopener">Testet ut mobil radarenhet</a></h3>
+          <div class="date">08.04.2026 12:11 UTC</div>
+          <div class="summary">I det siste har Kystverket testet ut en ny type mobil radarløsning. Med det flyttbare utstyret ka...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/lmz-pluto-aksjon-vellykket/" target="_blank" rel="noopener">LMZ Pluto er på vei til land</a></h3>
-        <div class="date">30.03.2026 12:18 UTC</div>
-        <div class="summary">Bulkskipet LMZ Pluto fikk motorstans tirsdag 24. mars, og drev ubemannet etter at mannskapet ble...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/darlig-var-stopper-tokt-ved-u-864/" target="_blank" rel="noopener">Dårlig vær stopper tokt ved U-864</a></h3>
+          <div class="date">01.04.2026 07:25 UTC</div>
+          <div class="summary">Arbeidet suspendert.</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/ny-satellitt-styrker-beredskapen-i-norske-havomrader/" target="_blank" rel="noopener">Ny satellitt styrker beredskapen i norske havområder</a></h3>
-        <div class="date">29.03.2026 09:32 UTC</div>
-        <div class="summary">Oppskytingen av AISSat-4 er en viktig brikke i å sikre trygg ferdsel, beredskap og kontroll i noe...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/lmz-pluto-aksjon-vellykket/" target="_blank" rel="noopener">LMZ Pluto er på vei til land</a></h3>
+          <div class="date">30.03.2026 12:18 UTC</div>
+          <div class="summary">Bulkskipet LMZ Pluto fikk motorstans tirsdag 24. mars, og drev ubemannet etter at mannskapet ble...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/status-dypvannskaia-i-mo-i-rana/" target="_blank" rel="noopener">Status: Dypvannskaia i Mo i Rana</a></h3>
-        <div class="date">27.03.2026 09:40 UTC</div>
-        <div class="summary">Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/ny-satellitt-styrker-beredskapen-i-norske-havomrader/" target="_blank" rel="noopener">Ny satellitt styrker beredskapen i norske havområder</a></h3>
+          <div class="date">29.03.2026 09:32 UTC</div>
+          <div class="summary">Oppskytingen av AISSat-4 er en viktig brikke i å sikre trygg ferdsel, beredskap og kontroll i noe...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/pa-jakt-etter-kontorlokaler-i-lodingen/" target="_blank" rel="noopener">Ønsker å leie kontorlokaler til losformidling i Lødingen</a></h3>
-        <div class="date">23.03.2026 08:56 UTC</div>
-        <div class="summary">Kystverket trenger midlertidige lokaler til losformidling/loskontor i Lødingen fra september 2026...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/status-dypvannskaia-i-mo-i-rana/" target="_blank" rel="noopener">Status: Dypvannskaia i Mo i Rana</a></h3>
+          <div class="date">27.03.2026 09:40 UTC</div>
+          <div class="summary">Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/ny-omfattende-undersokelse-av-u864-starter-denne-uken/" target="_blank" rel="noopener">Ny omfattende undersøkelse av U‑864 starter denne uken</a></h3>
-        <div class="date">19.03.2026 11:29 UTC</div>
-        <div class="summary">Kystverket setter denne uken i gang en ny og omfattende undersøkelse av ubåtvraket U‑864 utenfor...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/pa-jakt-etter-kontorlokaler-i-lodingen/" target="_blank" rel="noopener">Ønsker å leie kontorlokaler til losformidling i Lødingen</a></h3>
+          <div class="date">23.03.2026 08:56 UTC</div>
+          <div class="summary">Kystverket trenger midlertidige lokaler til losformidling/loskontor i Lødingen fra september 2026...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/kronikk-nar-transport-blir-forsvar/" target="_blank" rel="noopener">Kronikk: Når transport blir forsvar</a></h3>
-        <div class="date">09.03.2026 13:56 UTC</div>
-        <div class="summary">Når vi i Norge snakker om forsvar, ser vi for oss soldater, uniformer og militært materiell klare...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/ny-omfattende-undersokelse-av-u864-starter-denne-uken/" target="_blank" rel="noopener">Ny omfattende undersøkelse av U‑864 starter denne uken</a></h3>
+          <div class="date">19.03.2026 11:29 UTC</div>
+          <div class="summary">Kystverket setter denne uken i gang en ny og omfattende undersøkelse av ubåtvraket U‑864 utenfor...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/oppdatert-kostnadsanslag-for-stad-skipstunnel-er-levert/" target="_blank" rel="noopener">Oppdatert kostnadsanslag for Stad skipstunnel er levert</a></h3>
-        <div class="date">06.03.2026 11:39 UTC</div>
-        <div class="summary">Kystverket har i dag levert et oppdatert beslutnings- og kostnadsgrunnlag for Stad skipstunnel ti...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/kronikk-nar-transport-blir-forsvar/" target="_blank" rel="noopener">Kronikk: Når transport blir forsvar</a></h3>
+          <div class="date">09.03.2026 13:56 UTC</div>
+          <div class="summary">Når vi i Norge snakker om forsvar, ser vi for oss soldater, uniformer og militært materiell klare...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/over-30-fyrstasjoner-skal-pusses-opp-i-ar/" target="_blank" rel="noopener">Mer enn 30 fyrstasjoner skal pusses opp i år</a></h3>
-        <div class="date">05.03.2026 14:46 UTC</div>
-        <div class="summary">I 2026 vil Kystverket legge ned en betydelig innsats for å redusere vedlikeholdsetterslepet på...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/oppdatert-kostnadsanslag-for-stad-skipstunnel-er-levert/" target="_blank" rel="noopener">Oppdatert kostnadsanslag for Stad skipstunnel er levert</a></h3>
+          <div class="date">06.03.2026 11:39 UTC</div>
+          <div class="summary">Kystverket har i dag levert et oppdatert beslutnings- og kostnadsgrunnlag for Stad skipstunnel ti...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/skip-pa-grunn-utenfor-langesund/" target="_blank" rel="noopener">Skip på grunn utenfor Langesund</a></h3>
-        <div class="date">05.03.2026 10:31 UTC</div>
-        <div class="summary">Venter på taubåt.</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/over-30-fyrstasjoner-skal-pusses-opp-i-ar/" target="_blank" rel="noopener">Mer enn 30 fyrstasjoner skal pusses opp i år</a></h3>
+          <div class="date">05.03.2026 14:46 UTC</div>
+          <div class="summary">I 2026 vil Kystverket legge ned en betydelig innsats for å redusere vedlikeholdsetterslepet på...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/ny-losdirektor-i-kystverket/" target="_blank" rel="noopener">Ny losdirektør i Kystverket</a></h3>
-        <div class="date">05.03.2026 09:51 UTC</div>
-        <div class="summary">Kystverket har ansatt Jo Even Tomren som ny losdirektør. Med bred erfaring fra maritim sektor går...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/skip-pa-grunn-utenfor-langesund/" target="_blank" rel="noopener">Skip på grunn utenfor Langesund</a></h3>
+          <div class="date">05.03.2026 10:31 UTC</div>
+          <div class="summary">Venter på taubåt.</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/delvis-stenging-av-sotraleia-fra-4.-mars" target="_blank" rel="noopener">Delvis stenging av Sotraleia frå 4. mars</a></h3>
-        <div class="date">03.03.2026 08:48 UTC</div>
-        <div class="summary">Arbeidet med den nye Sotrabrua i Vestland fylke går inn i ein fase der det blir behov for...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/ny-losdirektor-i-kystverket/" target="_blank" rel="noopener">Ny losdirektør i Kystverket</a></h3>
+          <div class="date">05.03.2026 09:51 UTC</div>
+          <div class="summary">Kystverket har ansatt Jo Even Tomren som ny losdirektør. Med bred erfaring fra maritim sektor går...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/kystverket-deltar-pa-rederikonferansen---pamelding-har-apnet/" target="_blank" rel="noopener">Kystverket deltar på Rederikonferansen - påmelding har åpnet</a></h3>
-        <div class="date">27.02.2026 12:36 UTC</div>
-        <div class="summary">Kystverket bidrar med flere innslag i årets rederikonferanse, der tema er sikkerhet, konkurransek...</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/delvis-stenging-av-sotraleia-fra-4.-mars" target="_blank" rel="noopener">Delvis stenging av Sotraleia frå 4. mars</a></h3>
+          <div class="date">03.03.2026 08:48 UTC</div>
+          <div class="summary">Arbeidet med den nye Sotrabrua i Vestland fylke går inn i ein fase der det blir behov for...</div>
+        </div>
       </div>
       
       <div class="card">
-        <div class="source">Kystverket.no</div>
-        <h3><a href="https://www.kystverket.no/nyheter/det-kan-vare-dritskummelt---men-det-gar-fint/" target="_blank" rel="noopener">Det kan være dritskummelt - men det går fint!</a></h3>
-        <div class="date">13.02.2026 13:57 UTC</div>
-        <div class="summary">Siv er en av Kystverkets statsloser.</div>
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/kystverket-deltar-pa-rederikonferansen---pamelding-har-apnet/" target="_blank" rel="noopener">Kystverket deltar på Rederikonferansen - påmelding har åpnet</a></h3>
+          <div class="date">27.02.2026 12:36 UTC</div>
+          <div class="summary">Kystverket bidrar med flere innslag i årets rederikonferanse, der tema er sikkerhet, konkurransek...</div>
+        </div>
+      </div>
+      
+      <div class="card">
+        
+        <div class="card-img-placeholder">&#128196;</div>
+        
+        <div class="card-body">
+          <div class="source">Kystverket.no</div>
+          <h3><a href="https://www.kystverket.no/nyheter/det-kan-vare-dritskummelt---men-det-gar-fint/" target="_blank" rel="noopener">Det kan være dritskummelt - men det går fint!</a></h3>
+          <div class="date">13.02.2026 13:57 UTC</div>
+          <div class="summary">Siv er en av Kystverkets statsloser.</div>
+        </div>
       </div>
       
     </div>

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-09T14:00:09Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-10T05:52:11Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Norden sammen om felles flylegeutdanning",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/forsvarets-sanitet/de-nordiske-landene-etablerer-felles-flylegeutdanning-skal-styrke-interoperabilitet-og-nordisk-beredskap",
-        "published": "2026-04-09T14:00:18Z",
+        "published": "2026-04-10T05:52:22Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Norge, Sverige, Finland og Danmark går sammen om å utvikle en felles utdanning for militære flyleger. I dag sendes kandidatene til USA, men nå ønsker de nordiske landene å bygge opp et eget kurs som er bedre tilpasset nordiske forhold – samtidig som samarbeidet med USA videreføres.",
@@ -15,7 +15,7 @@
       {
         "title": "Status: Søk utdanning i Forsvaret – for Norge",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-53",
-        "published": "2026-04-09T14:00:18Z",
+        "published": "2026-04-10T05:52:21Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Forsvaret har en rekke spennende og attraktive utdanninger. Og du gjør en meningsfull jobb for Norge. Nå nærmer søknadsfristen 15. april seg.",
@@ -24,7 +24,7 @@
       {
         "title": "Funn fra pilotprosjekt om arbeidstid­planlegging og lengre planhorisont",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/planhorisont",
-        "published": "2026-04-09T14:00:17Z",
+        "published": "2026-04-10T05:52:21Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Bedre arbeidstidsplanlegging og lengre planhorisont gir økt forutsigbarhet for forsvarsansatte.",
@@ -33,7 +33,7 @@
       {
         "title": "Evakueringen av ukrainske pasienter fortsetter",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/evakueringen-av-ukrainske-pasienter-fortsetter",
-        "published": "2026-04-09T14:00:17Z",
+        "published": "2026-04-10T05:52:20Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Evakueringen av ukrainske pasienter fra krigen i Ukraina forsetter etter at avtalen med SAS om bruk av et medisinsk evakueringsfly nå er forlenget. Evakueringen skjer i samarbeid med EU etter ønske fra de.",
@@ -42,7 +42,7 @@
       {
         "title": "Regjeringen vil styrke Forsvarsløftet med 115 milliarder kroner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/oppdatert-ltp",
-        "published": "2026-04-09T14:00:16Z",
+        "published": "2026-04-10T05:52:20Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Regjeringen vil øke de økonomiske rammene for langtidsplanen for forsvarssektoren med ytterligere 115 milliarder kroner frem til 2036.",
@@ -51,7 +51,7 @@
       {
         "title": "Status: Oppdatert langtidsplan – hva betyr det?",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-54",
-        "published": "2026-04-09T14:00:16Z",
+        "published": "2026-04-10T05:52:19Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "I dag la regjeringen frem sitt forslag til oppdatert langtidsplan. Forsvarssjef Eirik Kristoffersen forteller om planen og veien videre.",
@@ -60,7 +60,7 @@
       {
         "title": "Logistikkens livline under Cold Response 2026",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/knm-maud-logistikkens-livline-under-cold-response",
-        "published": "2026-04-09T14:00:15Z",
+        "published": "2026-04-10T05:52:18Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "KNM «Maud» er Nordens største og eneste militære tankskip. Under årets storøvelse fikk fartøyet vist hvorfor hun omtales som en av Forsvarets viktigste kapasiteter.",
@@ -69,7 +69,7 @@
       {
         "title": "Eksotisk jobbsjanse: – Jeg er heldig som får være her",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/eksotisk-jobbsjanse-jan-mayen",
-        "published": "2026-04-09T14:00:15Z",
+        "published": "2026-04-10T05:52:18Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hva tenker du om nordlys og mørketid, ishav-stemning og sterkt samhold? Nå er verdens mest eksotiske jobb ledig. – Dette har gitt meg mer enn jeg hadde trodd var mulig, sier en som har hatt jobben før.",
@@ -78,7 +78,7 @@
       {
         "title": "Status: Forsvarets NATO-avdeling",
         "url": "https://www.forsvaret.no/soldater-og-ansatte/ansatt/status/status-55",
-        "published": "2026-04-09T14:00:14Z",
+        "published": "2026-04-10T05:52:17Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Ved nyttår ble hele Forsvarets NATO-representasjon samlet under en ny avdeling, Forsvarets NATO-avdeling (FNA). Sjef FNA, generalløytnant Rolf Folland, forteller her om avdelingen.",
@@ -87,10 +87,55 @@
       {
         "title": "Tjenestegjort i Afghanistan? Bli med på markering",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/afghanistan-markering",
-        "published": "2026-04-09T14:00:14Z",
+        "published": "2026-04-10T05:52:17Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Lørdag 13. juni 2026 blir det storstilt markering på Akershus festning for norske Afghanistan-veteraner. Alle som har tjenestegjort i Afghanistan, er hjertelig velkomne til å delta.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status",
+        "url": "https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status",
+        "published": "2026-04-09T21:35:40Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guards Corps, despite claims from Trump administration officials that the passage is open. Data from London-based Lloyd’s List Intelligence suggest that transits did not immediately increase after the ceas",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK accuses Russia of covert submarine operation threatening undersea cables",
+        "url": "https://breakingdefense.com/2026/04/uk-accuses-russia-of-covert-submarine-operation-threatening-undersea-cables/",
+        "published": "2026-04-09T18:07:57Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Together with allies, the UK tracked “every mile” of the deployment involving an Akula-class and a pair of Main Directorate for Deep Sea Research (GUGI) surveillance submarines, according to British defense secretary John Healey.",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy selects Leidos, Defense Unicorns to test software prototypes for ships",
+        "url": "https://breakingdefense.com/2026/04/navy-selects-leidos-defense-unicorns-to-test-software-prototypes-for-ships/",
+        "published": "2026-04-09T18:01:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Leidos and Defense Unicorns will test prototypes in a lab-based environment under the other transaction agreement.",
+        "section": "nyheter"
+      },
+      {
+        "title": "China’s dual-use ambitions could severely threaten America’s force posture",
+        "url": "https://breakingdefense.com/2026/04/chinas-dual-use-ambitions-could-severely-threaten-americas-force-posture/",
+        "published": "2026-04-09T17:14:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The Pentagon already closely tracks dual-use technology, but The Heritage Foundation&#8217;s Brent Sadler and Allen Zhang write in this op-ed that it&#8217;s past time to keep an eye on potential dual-use maritime infrastructure.",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+        "url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+        "published": "2026-04-09T14:55:55Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
         "section": "nyheter"
       },
       {
@@ -220,57 +265,12 @@
         "section": "nyheter"
       },
       {
-        "title": "Details of the $1.5 trillion defense budget request, and a key lawmaker’s take on the F-35",
-        "url": "https://breakingdefense.com/2026/04/details-of-the-1-5-trillion-defense-budget-request-and-a-key-lawmakers-take-on-the-f-35/",
-        "published": "2026-04-07T16:15:43Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "This week on The Break Out, we&#8217;ve got details on the massive defense budget request.",
-        "section": "nyheter"
-      },
-      {
         "title": "Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs",
         "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
         "published": "2026-04-07T14:58:07Z",
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.",
-        "section": "nyheter"
-      },
-      {
-        "title": "New Navy Budget Wants $3B for New Tomahawks, $4.3B for SM-6s",
-        "url": "https://news.usni.org/2026/04/06/new-navy-budget-wants-3b-for-new-tomahawks-4-3b-for-sm-6s",
-        "published": "2026-04-06T22:33:33Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The latest Pentagon budget request calls for massive purchase increases of two key missiles the Navy has relied on for the U.S.-Israeli war with Iran and the U.S. conflict with the Houthis in the Red Sea. Specifically, the new Fiscal Year 2027 budget is seeking a 1,200 percent increase in the number of Tomahawk Land Attack Missiles and a 225 percent increase in Standard Missile 6s over what Congress appropriated money for in Fiscal Year 2026. The funding is split between a traditional budget req",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: April 6, 2026",
-        "url": "https://news.usni.org/2026/04/06/usni-news-fleet-and-marine-tracker-april-6-2026",
-        "published": "2026-04-06T20:00:02Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of April 6, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 233, USNS 58) 108 (USS 78, USNS 30) (37 FDNF, 71 Rotational) 83 (66 Deployed, 17 Local) In Japan Aircraft carrier USS George Washington (CVN-73",
-        "section": "nyheter"
-      },
-      {
-        "title": "Marines Test Custom-built Drone in Live Fire Test, Strike Unmanned Surface Vessel",
-        "url": "https://news.usni.org/2026/04/06/marines-test-custom-built-drone-in-live-fire-test-strike-unmanned-surface-vessel",
-        "published": "2026-04-06T17:43:46Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Marine Corps carried out its first live-fire drone strike against a maritime surface vessel last month during a trial in Japan as part of the service’s effort to advance its autonomous capabilities. Marines from the III Expeditionary Operations Training Group (III EOTG) and operators from Naval Special Warfare conducted the maritime drone strike from a Naval Special Warfare surface craft, taking out an unmanned surface vessel designed and built by the Marine team. The trial, held in Okinawa,",
-        "section": "nyheter"
-      },
-      {
-        "title": "SOUTHCOM Doesn’t Need a Carrier for Maritime Interdiction, CNO Says",
-        "url": "https://news.usni.org/2026/04/06/southcom-doesnt-need-a-carrier-for-maritime-interdiction-cno-says",
-        "published": "2026-04-06T15:48:01Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "For more than 100 days, the Gerald R. Ford Carrier Strike Group – the U.S. Navy’s premier platform – operated in the Caribbean after it was pulled from the Middle East late last year. USS Gerald R. Ford (CVN-78), Carrier Air Wing 8 and escorts USS Winston S. Churchill (DDG-81), USS Bainbridge (DDG-96) and USS Mahan (DDG-72) were among the naval warships amassed in U.S. Southern Command for Operation Southern Spear as the Pentagon carried out kinetic strikes on boats suspected of trafficking narc",
         "section": "nyheter"
       }
     ],

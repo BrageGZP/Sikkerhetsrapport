@@ -8,8 +8,20 @@ SECTION2_SOURCES = {"Kystverket.no", "Sjøfartsdirektoratet.no"}
 NORWEGIAN_SOURCES = {"Kystverket.no", "Sjøfartsdirektoratet.no"}
 
 SECTION3_KEYWORDS = [
-    "rov", "uuv", "auv", "mine countermeasure", "mcm",
-    "minerydding", "undervann",
+    # ROV / UUV / AUV
+    "rov", "uuv", "auv",
+    "remotely operated vehicle", "autonomous underwater vehicle",
+    "unmanned underwater", "underwater drone", "undervannsdroner",
+    "undervanns", "undervann",
+    # Mine warfare
+    "mine countermeasure", "mcm", "minehunter", "mine hunting", "mine sweeping",
+    "minesweeper", "minesveiper", "minejakting", "minerydding", "minekrig",
+    "naval mine", "sea mine", "seafox", "double eagle",
+    # Underwater sensors / systems
+    "sonar", "anti-submarine", "subsea", "seabed", "underwater warfare",
+    "hugin", "remus", "hydroid",
+    # Broader underwater tech
+    "underwater technology", "naval technology", "underwater security",
 ]
 
 MAX_AGE = {

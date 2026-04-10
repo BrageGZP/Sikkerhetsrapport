@@ -11,6 +11,7 @@ class Article:
     source: str
     language: str  # "no" or "en"
     summary: str
+    image_url: str = ""
     section: Optional[str] = field(default=None)  # "nyheter", "regelverk", "rov_teknologi"
 
     def to_dict(self) -> dict:
@@ -21,6 +22,7 @@ class Article:
             "source": self.source,
             "language": self.language,
             "summary": self.summary,
+            "image_url": self.image_url,
         }
         if self.section is not None:
             d["section"] = self.section

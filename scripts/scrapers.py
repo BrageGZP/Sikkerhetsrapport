@@ -41,16 +41,24 @@ def _warn_if_empty(source: str, articles: list[Article]) -> list[Article]:
     return articles
 
 
-def _fetch_forsvaret_article(url: str) -> tuple[str, datetime | None]:
+def _og_image(soup: BeautifulSoup) -> str:
+    """Extract og:image URL from a BeautifulSoup page, or empty string."""
+    meta = soup.find("meta", {"property": "og:image"})
+    if meta and meta.get("content"):
+        return meta["content"].strip()
+    return ""
+
+
+def _fetch_forsvaret_article(url: str) -> tuple[str, datetime | None, str]:
     """Fetch a Forsvaret.no article page.
 
-    Returns (ingress, published_date). Date is parsed from JSON-LD datePublished;
-    falls back to None if not found.
+    Returns (ingress, published_date, image_url).
+    Date is parsed from JSON-LD datePublished; falls back to None if not found.
     """
     import json as _json
     html = _get_html(url)
     if not html:
-        return "", None
+        return "", None, ""
     soup = BeautifulSoup(html, "html.parser")
 
     # Ingress from og:description
@@ -58,6 +66,9 @@ def _fetch_forsvaret_article(url: str) -> tuple[str, datetime | None]:
     meta = soup.find("meta", {"property": "og:description"})
     if meta and meta.get("content"):
         ingress = meta["content"].strip()
+
+    # Image
+    image_url = _og_image(soup)
 
     # Date from JSON-LD
     published: datetime | None = None
@@ -77,7 +88,7 @@ def _fetch_forsvaret_article(url: str) -> tuple[str, datetime | None]:
         except Exception:
             continue
 
-    return ingress, published
+    return ingress, published, image_url
 
 
 def scrape_forsvaret() -> list[Article]:
@@ -106,7 +117,7 @@ def scrape_forsvaret() -> list[Article]:
             if not title or not href:
                 continue
             url = href if href.startswith("http") else f"{BASE_FORSVARET}{href}"
-            ingress, published = _fetch_forsvaret_article(url)
+            ingress, published, image_url = _fetch_forsvaret_article(url)
             articles.append(Article(
                 title=title,
                 url=url,
@@ -114,6 +125,7 @@ def scrape_forsvaret() -> list[Article]:
                 source="Forsvaret.no",
                 language="no",
                 summary=ingress,
+                image_url=image_url,
             ))
         except Exception as exc:
             logger.warning("Skipping malformed Forsvaret article: %s", exc)

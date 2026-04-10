@@ -34,6 +34,7 @@ def render(
         d = a.to_dict()
         d["published"] = a.published.strftime("%d.%m.%Y %H:%M UTC")
         d["url"] = a.url
+        d["image_url"] = a.image_url
         return d
 
     template_sections = {

@@ -6,47 +6,149 @@
   <title>Maritim Sikkerhetsrapport</title>
   <style>
     :root {
-      --navy: #0a1628;
-      --navy-mid: #132040;
-      --navy-light: #1e3060;
-      --accent: #4a9edd;
-      --text: #e8edf5;
-      --text-muted: #8fa3c0;
-      --border: #2a3f60;
+      --bg: #f5f7fa;
+      --surface: #ffffff;
+      --surface-hover: #f0f4ff;
+      --accent: #1a56db;
+      --accent-light: #e8f0fe;
+      --text: #111827;
+      --text-muted: #6b7280;
+      --border: #e5e7eb;
+      --header-bg: #1e3a8a;
+      --header-text: #ffffff;
+      --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-hover: 0 4px 12px rgba(0,0,0,0.12);
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { background: var(--navy); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
-    header { background: var(--navy-mid); border-bottom: 2px solid var(--accent); padding: 1.5rem 2rem; }
-    header h1 { font-size: 1.5rem; color: var(--accent); }
-    header .meta { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem; }
-    main { max-width: 1100px; margin: 0 auto; padding: 2rem; }
+    body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
+
+    header {
+      background: var(--header-bg);
+      padding: 1.5rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    header h1 { font-size: 1.35rem; color: var(--header-text); font-weight: 700; }
+    header .meta { font-size: 0.8rem; color: rgba(255,255,255,0.7); }
+
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem; }
+
     section { margin-bottom: 3rem; }
-    section h2 { font-size: 1.15rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-bottom: 1.25rem; }
-    .article-scroll { display: flex; gap: 1rem; overflow-x: auto; padding-bottom: 0.75rem; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch; }
-    .article-scroll::-webkit-scrollbar { height: 6px; }
-    .article-scroll::-webkit-scrollbar-track { background: var(--navy-mid); border-radius: 3px; }
-    .article-scroll::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+    section h2 {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      color: var(--accent);
+      border-bottom: 2px solid var(--accent-light);
+      padding-bottom: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .article-scroll {
+      display: flex;
+      gap: 1rem;
+      overflow-x: auto;
+      padding-bottom: 0.75rem;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+    }
+    .article-scroll::-webkit-scrollbar { height: 5px; }
+    .article-scroll::-webkit-scrollbar-track { background: var(--border); border-radius: 3px; }
+    .article-scroll::-webkit-scrollbar-thumb { background: #c0c8d8; border-radius: 3px; }
     .article-scroll::-webkit-scrollbar-thumb:hover { background: var(--accent); }
-    .card { background: var(--navy-mid); border: 1px solid var(--border); border-radius: 6px; padding: 1rem; min-width: 280px; max-width: 320px; flex-shrink: 0; scroll-snap-align: start; }
-    .card:hover { border-color: var(--accent); }
-    .card .source { font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
-    .card h3 { font-size: 0.95rem; margin: 0.35rem 0; }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      min-width: 280px;
+      max-width: 300px;
+      flex-shrink: 0;
+      scroll-snap-align: start;
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-2px);
+    }
+
+    .card-img {
+      width: 100%;
+      height: 160px;
+      object-fit: cover;
+      display: block;
+      background: var(--accent-light);
+    }
+    .card-img-placeholder {
+      width: 100%;
+      height: 160px;
+      background: linear-gradient(135deg, #e8f0fe 0%, #dbeafe 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #93c5fd;
+      font-size: 2rem;
+    }
+
+    .card-body { padding: 0.85rem 1rem 1rem; flex: 1; display: flex; flex-direction: column; gap: 0.3rem; }
+    .card .source {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+    .card h3 { font-size: 0.9rem; font-weight: 600; line-height: 1.4; }
     .card h3 a { color: var(--text); text-decoration: none; }
     .card h3 a:hover { color: var(--accent); }
-    .card .date { font-size: 0.75rem; color: var(--text-muted); }
-    .card .summary { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem; }
+    .card .date { font-size: 0.72rem; color: var(--text-muted); }
+    .card .summary { font-size: 0.82rem; color: var(--text-muted); margin-top: 0.25rem; flex: 1; }
+
     .empty { color: var(--text-muted); font-style: italic; font-size: 0.9rem; }
-    .fallback-notice { display: flex; align-items: center; gap: 0.5rem; background: rgba(74,158,221,0.1); border: 1px solid rgba(74,158,221,0.3); border-radius: 4px; padding: 0.5rem 0.75rem; margin-bottom: 1rem; font-size: 0.82rem; color: var(--accent); }
-    footer { text-align: center; padding: 2rem; font-size: 0.8rem; color: var(--text-muted); border-top: 1px solid var(--border); }
-    footer a { color: var(--accent); }
-    @media (max-width: 600px) { header { padding: 1rem; } main { padding: 1rem; } }
+    .fallback-notice {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: #fffbeb;
+      border: 1px solid #fde68a;
+      border-radius: 6px;
+      padding: 0.5rem 0.75rem;
+      margin-bottom: 1rem;
+      font-size: 0.82rem;
+      color: #92400e;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 600px) {
+      header { padding: 1rem; }
+      main { padding: 1rem; }
+      .card { min-width: 240px; max-width: 260px; }
+    }
   </style>
 </head>
 <body>
 <header>
   <h1>Maritim Sikkerhetsrapport — Miner &amp; Undervannssikkerhet</h1>
   <div class="meta">
-    Sist oppdatert: {{ generated_at }} UTC &nbsp;|&nbsp;
+    Sist oppdatert: {{ generated_at }} UTC &nbsp;·&nbsp;
     Neste oppdatering: {{ next_update_utc }}
   </div>
 </header>
@@ -61,10 +163,17 @@
     <div class="article-scroll">
       {% for a in sections.nyheter %}
       <div class="card" {% if a.language == 'en' %}lang="en"{% endif %}>
-        <div class="source">{{ a.source }}</div>
-        <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
-        <div class="date">{{ a.published }}</div>
-        {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        {% if a.image_url %}
+        <img class="card-img" src="{{ a.image_url }}" alt="" loading="lazy">
+        {% else %}
+        <div class="card-img-placeholder">&#9875;</div>
+        {% endif %}
+        <div class="card-body">
+          <div class="source">{{ a.source }}</div>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+          <div class="date">{{ a.published }}</div>
+          {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        </div>
       </div>
       {% endfor %}
     </div>
@@ -82,10 +191,17 @@
     <div class="article-scroll">
       {% for a in sections.rov_teknologi %}
       <div class="card">
-        <div class="source">{{ a.source }}</div>
-        <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
-        <div class="date">{{ a.published }}</div>
-        {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        {% if a.image_url %}
+        <img class="card-img" src="{{ a.image_url }}" alt="" loading="lazy">
+        {% else %}
+        <div class="card-img-placeholder">&#128269;</div>
+        {% endif %}
+        <div class="card-body">
+          <div class="source">{{ a.source }}</div>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+          <div class="date">{{ a.published }}</div>
+          {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        </div>
       </div>
       {% endfor %}
     </div>
@@ -103,10 +219,17 @@
     <div class="article-scroll">
       {% for a in sections.regelverk %}
       <div class="card">
-        <div class="source">{{ a.source }}</div>
-        <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
-        <div class="date">{{ a.published }}</div>
-        {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        {% if a.image_url %}
+        <img class="card-img" src="{{ a.image_url }}" alt="" loading="lazy">
+        {% else %}
+        <div class="card-img-placeholder">&#128196;</div>
+        {% endif %}
+        <div class="card-body">
+          <div class="source">{{ a.source }}</div>
+          <h3><a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a></h3>
+          <div class="date">{{ a.published }}</div>
+          {% if a.summary %}<div class="summary">{{ a.summary }}</div>{% endif %}
+        </div>
       </div>
       {% endfor %}
     </div>

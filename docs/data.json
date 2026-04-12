@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-04-11T13:13:56Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-12T05:49:11Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Forces Start Mine Clearance Mission in Strait of Hormuz",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-forces-start-mine-clearance-mission-in-strait-of-hormuz/",
+        "published": "2026-04-11T18:12:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "U.S. Central Command (CENTCOM) announced on 11 April that USS Frank E. Peterson (DDG 121) and USS Michael Murphy (DDG 112) had begun setting conditions for a mine clearance mission in the Strait of Hormuz. U.S. CENTCOM press release U.S. CENTCOM forces began setting conditions for clearing mines in the Strait of Hormuz on April ...\nThe post U.S. Forces Start Mine Clearance Mission in Strait of Hormuz appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Metal Shark Completes U.S. Navy Patrol Boat Program",
+        "url": "https://www.navalnews.com/naval-news/2026/04/metal-shark-completes-u-s-navy-patrol-boat-program/",
+        "published": "2026-04-11T17:28:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Metal Shark has successfully completed production of the U.S. Navy’s 40-foot Patrol Boat (40PB) Flight 1 program, marking a major milestone in the company’s support of Navy Expeditionary Combat Command (NECC). Metal Shark press release Originally conceived as part of the Navy’s Patrol Boat X (PBX) initiative, the 40PB program was launched to deliver a ...\nThe post Metal Shark Completes U.S. Navy Patrol Boat Program appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "US military begins clearing Strait of Hormuz, Trump says",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/11/us-military-begins-clearing-strait-of-hormuz-trump-says/",
+        "published": "2026-04-11T15:59:52Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Reports emerged Saturday about the presence of U.S. Navy ships in the strait.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BHLT7BI2LVEIZBSYCEW2HNU3U4.JPG",
+        "section": "nyheter"
+      },
       {
         "title": "Third Invincible-Class Submarine Returns to Singapore",
         "url": "https://www.navalnews.com/naval-news/2026/04/third-invincible-class-submarine-returns-to-singapore/",
@@ -438,13 +468,13 @@
     ],
     "rov_teknologi": [
       {
-        "title": "HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars",
-        "url": "https://www.navalnews.com/naval-news/2026/04/hensoldt-uk-secures-two-contracts-with-srt-for-50-coastal-surveillance-radars/",
-        "published": "2026-04-09T12:30:00Z",
-        "source": "Naval News",
+        "title": "UPDATED: Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
+        "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
+        "published": "2026-04-11T18:05:24Z",
+        "source": "USNI News",
         "language": "en",
-        "summary": "Sensor solutions provider HENSOLDT UK has secured two contracts with SRT Marine System Solutions Ltd (SRT), a UK-based civil-defence maritime surveillance systems company, to supply a total of 50 radar systems for deployment within integrated national coastal surveillance systems. The systems will be delivered by SRT, with all deliveries scheduled for 2026. HENSOLDT UK press ...\nThe post HENSOLDT UK secures two contracts with SRT for 50 coastal surveillance radars appeared first on Naval News.",
-        "image_url": "",
+        "summary": "This post has been updated with additional information on the transit. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Petersen (DDG-121) and USS Michael Murphy (DDG-112) operated in the Persian Gulf after transiting the strait as part of the U.S. plan to “ensure the strait is fully clear of sea mines,” according to a Saturday U.S. Central Command ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/HFoZcfnakAQw8jy.jpeg",
         "section": "rov_teknologi"
       },
       {

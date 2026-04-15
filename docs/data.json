@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-04-14T14:01:54Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-15T05:54:30Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan to join largest Balikatan war games with 1,400 troops, Type 88 missiles",
+        "url": "https://www.navalnews.com/naval-news/2026/04/japan-to-join-largest-balikatan-war-games-with-1400-troops-type-88-missiles/",
+        "published": "2026-04-15T04:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan will join the largest military exercises hosted by the Philippines and the United States for the first time as an active participant, deploying around 1,400 combat troops and introducing its Type 88 surface-to-ship missile system along with an array of weaponry as part of the drills, signaling deepening cooperation among allies seeking to uphold ...\nThe post Japan to join largest Balikatan war games with 1,400 troops, Type 88 missiles appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/Type-88-surface-to-ship-short-range-missile-1-1024x639.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Strait of Hormuz Traffic Down As U.S. Blockade Appears to Deter Some Ships",
+        "url": "https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships",
+        "published": "2026-04-14T21:38:03Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "There are at least seven ships that initially reversed course in the Persian and Oman gulfs after the U.S. announced a blockade of Iran’s coast, according to maritime analysts monitoring merchant traffic in the Middle East. Four of the seven ships ultimately embarked back on their planned routes, according to a Tuesday media briefing from London-based Lloyd’s List Intelligence. There were six total transits of the Strait of Hormuz, although there could be additional dark transits, where ships sa",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-8.43.32-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy Stages for Mine Clearance as Hormuz Blockade Begins",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-stages-for-mine-clearance-as-hormuz-blockade-begins-showing-strain/",
+        "published": "2026-04-14T16:48:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "USS Frank E. Peterson (DDG 121) and USS Michael Murphy (DDG 112) have become the first U.S. warships to transit the Strait of Hormuz since the start of the U.S.-Iran War, marking the opening phase of mine clearance and blockade operations, with additional forces en route. Carter Jonhston story, additional reporting by Tayfun Ozberk and ...\nThe post U.S. Navy Stages for Mine Clearance as Hormuz Blockade Begins appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/8167446-1024x768.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.K. Forces Counter Covert Russian Submarine Activities, Officials Say",
+        "url": "https://news.usni.org/2026/04/14/u-k-forces-counter-covert-russian-submarine-activities-officials-say",
+        "published": "2026-04-14T14:31:08Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "U.K. forces thwarted what they believe was a covert operation by Russian submarines in the country’s Exclusive Economic Zone, U.K. officials announced Thursday. In a month-long operation, the U.K. Armed Forces monitored a Russian Akula-class attack submarine and multiple vessels, including two specialized submarines, from the Main Directorate of Deep Sea Research – known as Glavnoye Upravlenie Glubokovodnikh Issledovanii (GUGI) – as they operated in the Atlantic, north of the U.K., the Ministry ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-10.28.56-AM.png",
+        "section": "nyheter"
+      },
       {
         "title": "Freire Shipyard Launches Spanish Navy’s New Diving Support Vessel",
         "url": "https://www.navalnews.com/naval-news/2026/04/freire-shipyard-launches-spanish-navys-new-diving-support-vessel/",
@@ -124,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Metal Shark Completes U.S. Navy Patrol Boat Program",
-        "url": "https://www.navalnews.com/naval-news/2026/04/metal-shark-completes-u-s-navy-patrol-boat-program/",
-        "published": "2026-04-11T17:28:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Metal Shark has successfully completed production of the U.S. Navy’s 40-foot Patrol Boat (40PB) Flight 1 program, marking a major milestone in the company’s support of Navy Expeditionary Combat Command (NECC). Metal Shark press release Originally conceived as part of the Navy’s Patrol Boat X (PBX) initiative, the 40PB program was launched to deliver a ...\nThe post Metal Shark Completes U.S. Navy Patrol Boat Program appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "US military begins clearing Strait of Hormuz, Trump says",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/11/us-military-begins-clearing-strait-of-hormuz-trump-says/",
         "published": "2026-04-11T15:59:52Z",
@@ -141,16 +171,6 @@
         "language": "en",
         "summary": "Reports emerged Saturday about the presence of U.S. Navy ships in the strait.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BHLT7BI2LVEIZBSYCEW2HNU3U4.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "Third Invincible-Class Submarine Returns to Singapore",
-        "url": "https://www.navalnews.com/naval-news/2026/04/third-invincible-class-submarine-returns-to-singapore/",
-        "published": "2026-04-11T11:03:52Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The homecoming ceremony for the Republic of Singapore Navy’s (RSN) Invincible-class submarine, Illustrious, was held yesterday at RSS Singapura – Changi Naval Base. Singapore MoD press release The homecoming ceremony for the Republic of Singapore Navy’s (RSN) Invincible-class submarine, Illustrious, was held yesterday at RSS Singapura – Changi Naval Base. Fleet Commander RADM Kwan Hon Chuong, senior RSN officers ...\nThe post Third Invincible-Class Submarine Returns to Singapore appeared first on",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2020/09/Singapore-Navys-First-Type-218SG-Invincible-Class-Submarine-Started-Sea-Trials-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -181,26 +201,6 @@
         "language": "en",
         "summary": "One of the youngest Los Angeles-class nuclear attack submarines will be inactivated after waiting more than a decade for an overhaul, the Navy announced on Friday. USS Boise (SSN-764), currently in a drydock at HII Newport News Shipbuilding, Va., has been scheduled for a regular overhaul since Fiscal Year 2016 but has spent years pierside waiting for repairs. While waiting for a slot at Norfolk Naval Shipyard, Va., the 34-year-old submarine lost its dive certification in 2017. After years at the",
         "image_url": "https://news.usni.org/wp-content/uploads/2023/11/272636942_233205345667611_8875737268367520767_n-2.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy to mothball USS Boise, capping off years of maintenance challenges",
-        "url": "https://breakingdefense.com/2026/04/navy-to-mothball-uss-boise-capping-off-years-of-maintenance-challenges/",
-        "published": "2026-04-10T16:45:34Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The Navy said the decision to mothball the Boise aligns with a broader, “data-driven initiative” that aims to enhance the composition of the Navy’s fleet.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220512_submarine_boise_1708862-scaled-e1652377402873-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Trump’s $1.5T defense budget to weather harsh scrutiny on Capitol Hill",
-        "url": "https://breakingdefense.com/2026/04/trumps-1-5t-defense-budget-to-weather-harsh-scrutiny-on-capitol-hill/",
-        "published": "2026-04-10T12:42:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Operations in Iran, midterm elections and GOP intraparty politics could all complicate the defense budget&#8217;s path to President Donald Trump&#8217;s desk.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/250812_trump_reconciliation_GettyImages-2223602541-e1755010493318.jpg",
         "section": "nyheter"
       },
       {
@@ -241,16 +241,6 @@
         "language": "en",
         "summary": "A Republic of Korea Navy attack boat docked in Guam on Tuesday, completing the first leg of what will be the longest voyage of a South Korean submarine to date. ROKS Dosan Ahn Chang-ho (SS-083), the first of Seoul’s KSS-III-class of diesel electric submarines, departed South Korea last month for Canada ahead of drills with the Royal Canadian Navy in support of Seoul’s pitch to Ottawa’s 12 attack boat program. Dosan Ahn Chang-ho’s participation will demonstrate South Korea’s bid in the Canadian P",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/ROKS-Dosan-Ahn-Changho-at-sea-1536x1152.jpg.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Pentagon’s Fiscal Year 2027 Budget Request for Procurement Programs",
-        "url": "https://news.usni.org/2026/04/07/pentagons-fiscal-year-2027-budget-request-for-procurement-programs",
-        "published": "2026-04-07T14:58:07Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Pentagon’s Fiscal Year 2027 budget request for procurement programs, released April 3, 2026. Summary This document outlines the Fiscal Year 2027 budget request for the Defense Department&#8217;s procurement programs. The document includes total obligational authority across Army, Navy and Marine Corps, and Air Force and Space Force accounts on the procurement programs of missiles, aircraft, ships and support programs. Download the document here.",
-        "image_url": "",
         "section": "nyheter"
       }
     ],

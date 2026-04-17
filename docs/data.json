@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-04-16T14:03:59Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-17T05:57:55Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Australia readies itself for high-risk submarine life extension for Collins-class",
+        "url": "https://www.navalnews.com/naval-news/2026/04/australia-readies-itself-for-high-risk-submarine-life-extension-for-collins-class/",
+        "published": "2026-04-16T21:40:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Even as Australia eyes the heady prospect of operating nuclear-powered attack submarines in the future, it is facing the challenge of keeping six ageing Collins-class diesel-electric submarines in service for many more years. This is to be tackled through the Collins Life-of-Type Extension (LOTE) programme, known as Project Sea 1450, which hopes to keep them ...\nThe post Australia readies itself for high-risk submarine life extension for Collins-class appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/01/Collins-2-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Australia pledges to boost defense spend to 3% of GDP, says US remains key partner",
+        "url": "https://breakingdefense.com/2026/04/australia-pledges-to-boost-defense-spend-to-3-of-gdp-says-us-remains-key-partner/",
+        "published": "2026-04-16T20:00:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The US ally will add $53B AUD in defense spending from earlier projections over the coming decade",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/20260408adf8690294_0644-1-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Marinette Marine Awarded $30M for Landing Ship Medium Ahead of Vessel Construction Manager Selection",
+        "url": "https://news.usni.org/2026/04/16/marinette-marine-awarded-30m-for-landing-ship-medium-ahead-of-vessel-construction-manager-selection",
+        "published": "2026-04-16T19:59:49Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Wisconsin shipbuilder Fincantieri Marinette Marine was awarded a $30 million contract for long lead material and planning for four planned McClung-class medium landing ships, according to a Pentagon contract announcement. The Naval Sea Systems Command award sets up the yard on the Menominee River near Lake Michigan to construct the first four of the planned landing ships that will support the Marine Corps new littoral regiments as part of the services Force Design. Construction could start by th",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/04/Screenshot-2025-04-17-at-6.45.41 PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Starlink outage hit drone tests, exposing Pentagon’s growing reliance on SpaceX",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/",
+        "published": "2026-04-16T17:41:44Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Last August, a global outage across Elon Musk’s satellite network left U.S. Navy unmanned surface vessels bobbing off California, halting operations.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/G5BVJLXDA5DWDEJOAWE7AN6N2Y.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "Germany’s TKMS, Spain’s Navantia to explore Spanish-based submarine production",
+        "url": "https://breakingdefense.com/2026/04/germanys-tkms-spains-navantia-to-explore-spanish-based-submarine-production/",
+        "published": "2026-04-16T17:15:11Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The two companies signed an MoU to see if &#8220;closer industrial cooperation can help implement projects more efficiently, quickly, and cost-effectively,” according to Spain&#8217;s Navantia.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/Type-212CD-Submarine-thyssenkrupp-Marine-Systems-scaled-e1734630736502-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Carrier USS Dwight D. Eisenhower Suffers Fire at Norfolk Naval Shipyard",
+        "url": "https://news.usni.org/2026/04/16/carrier-uss-dwight-d-eisenhower-suffers-fire-at-norfolk-naval-shipyard",
+        "published": "2026-04-16T14:41:43Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) suffered a fire this week while undergoing a maintenance availability at Norfolk Naval Shipyard in Portsmouth, Va., USNI News has learned. There was a small fire onboard the carrier Tuesday, a Navy spokesperson confirmed to USNI News. The ship’s force and Norfolk Naval Shipyard personnel immediately contained and extinguished the fire, the spokesperson said. Three sailors were injured as a result of the fire. The sailors were treated by the ship",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/8832265-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Germany’s Final Type 424 SIGINT Ship Enters Production",
+        "url": "https://www.navalnews.com/naval-news/2026/04/germanys-final-type-424-sigint-ship-enters-production/",
+        "published": "2026-04-16T14:10:46Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Today, at the Peene-Werft shipyard in Wolgast, the first steel cutting for the third and final Type 424 SIGINT (signals intelligence) vessel in the series officially took place in the presence of representatives from the Bundeswehr (the German Armed Forces). Rheinmetall press release The steel cutting took place much earlier than planned. Once commissioned, the ...\nThe post Germany’s Final Type 424 SIGINT Ship Enters Production appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/07/Type-424-SIGINT-ship-German-Navy-1024x707.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Exail’s DriX H-9 USV selected for Counter-UAS research",
         "url": "https://www.navalnews.com/naval-news/2026/04/exails-drix-h-9-usv-selected-for-counter-uas-research/",
@@ -124,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Indra signs a new contract with Kongsberg to equip 6 Type 212CD submarines with its EW and radar systems",
-        "url": "https://www.navalnews.com/naval-news/2026/04/indra-signs-a-new-contract-with-kongsberg-to-equip-6-type-212cd-submarines-with-its-ew-and-radar-systems/",
-        "published": "2026-04-15T11:43:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Indra has signed a new contract with Kongsberg Defence &#38; Aerospace (KDA) for the supply of electronic warfare and radar systems for the six additional submarines of the Type 212CD programme to be incorporated by Germany and Norway into their fleets. Indra press release This new agreement continues the programme already under way, under which ...\nThe post Indra signs a new contract with Kongsberg to equip 6 Type 212CD submarines with its EW and radar systems appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Indra-KOG-Signing-web-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Strait of Hormuz Traffic Down As U.S. Blockade Appears to Deter Some Ships",
         "url": "https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships",
         "published": "2026-04-14T21:38:03Z",
@@ -194,16 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US Navy to blockade Strait of Hormuz ‘effective immediately,’ Trump says",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/",
-        "published": "2026-04-12T14:58:14Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "“Any Iranian who fires at us, or at peaceful vessels, will be BLOWN TO HELL!” the president wrote on Sunday.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DGBY2AZCUZB2TCTMLZMBIR7MKQ.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "UPDATED: Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
         "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
         "published": "2026-04-11T18:05:24Z",
@@ -211,16 +261,6 @@
         "language": "en",
         "summary": "This post has been updated with additional information on the transit and the announcement of a U.S. blockade of Iranian merchant ships. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Petersen (DDG-121) and USS Michael Murphy (DDG-112) operated in the Persian Gulf after transiting the strait as part of the U.S. plan to “ensure the strait is fully ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/HFoZcfnakAQw8jy.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US military begins clearing Strait of Hormuz, Trump says",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/11/us-military-begins-clearing-strait-of-hormuz-trump-says/",
-        "published": "2026-04-11T15:59:52Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Reports emerged Saturday about the presence of U.S. Navy ships in the strait.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BHLT7BI2LVEIZBSYCEW2HNU3U4.JPG",
         "section": "nyheter"
       },
       {
@@ -241,16 +281,6 @@
         "language": "en",
         "summary": "One of the youngest Los Angeles-class nuclear attack submarines will be inactivated after waiting more than a decade for an overhaul, the Navy announced on Friday. USS Boise (SSN-764), currently in a drydock at HII Newport News Shipbuilding, Va., has been scheduled for a regular overhaul since Fiscal Year 2016 but has spent years pierside waiting for repairs. While waiting for a slot at Norfolk Naval Shipyard, Va., the 34-year-old submarine lost its dive certification in 2017. After years at the",
         "image_url": "https://news.usni.org/wp-content/uploads/2023/11/272636942_233205345667611_8875737268367520767_n-2.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Vessels Trickle Past Iran as Questions Remain Over Strait of Hormuz Status",
-        "url": "https://news.usni.org/2026/04/09/vessels-trickle-past-iran-as-questions-remain-over-strait-of-hormuz-status",
-        "published": "2026-04-09T21:35:40Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Traffic flow in the Strait of Hormuz will likely continue at a slow trickle despite a two-week ceasefire between Iran and the United States, maritime experts agree. The majority of transits continue to use the so-called Tehran Tollbooth, which requires permission from the Islamic Revolutionary Guards Corps, despite claims from Trump administration officials that the passage is open. Data from London-based Lloyd’s List Intelligence suggest that transits did not immediately increase after the ceas",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Iran-mine-map.png",
         "section": "nyheter"
       }
     ],
@@ -408,6 +438,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Facing the Evolving Needs of Maritime Security",
+        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/facing-the-evolving-needs-of-maritime-security-2/",
+        "published": "2026-04-16T14:20:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "IAI&#8217;s naval suites deliver cutting edge solutions to challenges, big and small Sponsored content by: In an era characterized by increasing maritime security challenges, it&#8217;s more important than ever to improve naval defenses and strengthen the ability to counteract these threats. These challenges are not limited to traditional naval engagements or terror attacks but also ...\nThe post Facing the Evolving Needs of Maritime Security appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/04/IAI_new_logo.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "U.S. Military Strikes 4th Suspected Drug Boat in Eastern Pacific in 5 Days",
         "url": "https://news.usni.org/2026/04/15/u-s-military-strikes-4th-suspected-drug-boat-in-eastern-pacific-in-5-days",
         "published": "2026-04-15T20:46:04Z",
@@ -425,16 +465,6 @@
         "language": "en",
         "summary": "An upgraded Coyote Counter-UAS (C-UAS) launcher has been installed on the Pearl Harbor-based USS Carl M. Levin (DDG 120), marking the first known dedicated shipboard launcher for Raytheon&#8217;s combat-proven C-UAS on a U.S. Navy ship. This story was updated with additional pictures of the Coyote launcher The service has been grappling with a series of ...\nThe post Mystery U.S. Navy Launcher Identified as Upgraded Coyote Missile Launcher appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/9230164-1024x683.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "TKMS and Navantia ink MoU on Shipbuilding Cooperation Roadmap",
-        "url": "https://www.navalnews.com/naval-news/2026/04/tkms-and-navantia-ink-mou-on-shipbuilding-cooperation-roadmap/",
-        "published": "2026-04-15T12:26:36Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The agreement between the German and Spanish shipbuilders envisages potential production of TKMS vessels, particularly submarines, at Navantia’s shipyards in Spain. Navantia and TKMS press release TKMS AG &#38; Co. KGaA&#160; (TKMS), one of the world’s leading providers of maritime defense solutions including conventional submarines, naval ships and innovative electronics solutions, and Spanish company Navantia ...\nThe post TKMS and Navantia ink MoU on Shipbuilding Cooperation Roadmap appeared f",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-04-17T05:57:55Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-04-17T13:46:37Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Indra to make Spanish variant of amphibious vehicle used by US Marines",
+        "url": "https://www.defensenews.com/global/europe/2026/04/17/indra-to-make-spanish-variant-of-amphibious-vehicle-used-by-us-marines/",
+        "published": "2026-04-17T12:50:19Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Indra has struck its deal with Italy’s IDV, which is the design authority, intellectual property owner and supplier of core components on the vehicle.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JAZQ2R3GOZCCJC3PVCAN4H44EM.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "Dutch broadcaster tracks carrier-group frigate with Bluetooth gadget",
+        "url": "https://www.defensenews.com/global/europe/2026/04/17/dutch-broadcaster-tracks-carrier-group-frigate-with-bluetooth-gadget/",
+        "published": "2026-04-17T10:53:51Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The MoD has made adjustments in response to the reported incident, including no longer allowing greeting cards with batteries to be sent.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FSK4OYHSENB4JFXI3Y2NW4C3V4.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Australia refines its defense strategy and investment plan",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/04/17/australia-refines-its-defense-strategy-and-investment-plan/",
+        "published": "2026-04-17T09:32:32Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The government has laid out an aim for defense spending to reach 3% of GDP by 2033-34.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Y42HKOHCCZEXTBI4R46FLVLGZY.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan’s MHI awarded contract to build three Upgraded Mogami-class Frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/04/japans-mhi-awarded-contract-to-build-three-upgraded-mogami-class-frigates/",
+        "published": "2026-04-17T08:28:44Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Mitsubishi Heavy Industries (MHI) has been awarded a contract by Japan’s Acquisition, Technology &#38; Logistics Agency (ATLA) to build three upgraded Mogami-class multi-mission frigates (FFM), with a total contract value of 128.6 billion yen ($806 million). The award was recently disclosed by ATLA. The three ships correspond to the third through fifth units of the ...\nThe post Japan&#8217;s MHI awarded contract to build three Upgraded Mogami-class Frigates appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/ffm_table_english_final-constraction-costs-1024x694.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Australia readies itself for high-risk submarine life extension for Collins-class",
         "url": "https://www.navalnews.com/naval-news/2026/04/australia-readies-itself-for-high-risk-submarine-life-extension-for-collins-class/",
@@ -134,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy MQ-4C Triton suffers Class A mishap",
-        "url": "https://breakingdefense.com/2026/04/navy-mq-4c-triton-suffers-class-a-mishap/",
-        "published": "2026-04-15T17:58:45Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "It&#8217;s unclear whether enemy fire shot down the aircraft, or if it suffered a mechanical problem.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/Northrop-High-North-TRITON_NOR_USN_IFC4_hr-scaled-e1776275307801-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Must Do More to Protect SWCC Crews from Shock Trauma, IG Finds",
         "url": "https://news.usni.org/2026/04/15/navy-must-do-more-to-protect-swcc-crews-from-shock-trauma-ig-finds",
         "published": "2026-04-15T17:56:29Z",
@@ -164,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Airbus and Lakota Connector Partners Successfully Execute Fourth Autonomous Flight Test",
-        "url": "https://www.navalnews.com/naval-news/2026/04/airbus-and-lakota-connector-partners-successfully-execute-fourth-autonomous-flight-test/",
-        "published": "2026-04-15T15:01:17Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Airbus U.S. Space &#38; Defense, in partnership with Shield AI, L3Harris Technologies (NYSE: LHX), and Parry Labs, completed its fourth autonomous flight test on the H145 Airbus helicopter and successfully integrated all four company’s technologies into a single aircraft together for the first time. Airbus U.S. Space &#38; Defense press release The test flights, which ...\nThe post Airbus and Lakota Connector Partners Successfully Execute Fourth Autonomous Flight Test appeared first on Naval News",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USS Gerald R. Ford Breaks Post-Cold War Deployment Record",
         "url": "https://news.usni.org/2026/04/15/uss-gerald-r-ford-breaks-post-cold-war-deployment-record",
         "published": "2026-04-15T14:25:05Z",
@@ -181,16 +201,6 @@
         "language": "en",
         "summary": "The crew of USS Gerald R. Ford (CVN-78) are now the record holders for the longest carrier deployment since the collapse of the Soviet Union. On Wednesday, Ford’s deployment hit the 295-day record previously set by USS Abraham Lincoln (CVN-72) in the early days of the COVID-19 pandemic during its Middle East deployment and homeport shift from the East Coast to San Diego, Calif. Ford, currently in the Eastern Mediterranean, left June 24, 2025, from Naval Station Norfolk, Va., for Europe before be",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9595401-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Fincantieri secures first U.S. Navy contract for LSM program",
-        "url": "https://www.navalnews.com/naval-news/2026/04/fincantieri-secures-first-u-s-navy-contract-for-lsm-program/",
-        "published": "2026-04-15T13:42:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Following the announcement made by the U.S. Navy on February 18, 2026, regarding the issuance of a Request for Proposal (RFP) for the Medium Landing Ship (LSM) program &#8211; covering up to 35 vessels &#8211; and stating that Fincantieri Marine Group (FMG) will execute the construction of four units, Fincantieri announces that its U.S. subsidiary ...\nThe post Fincantieri secures first U.S. Navy contract for LSM program appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -438,6 +448,26 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Italian Navy commissions Tritone vessel for seabed warfare",
+        "url": "https://www.navalnews.com/naval-news/2026/04/italian-navy-commissions-tritone-vessel-for-seabed-warfare/",
+        "published": "2026-04-17T12:02:38Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The commissioning of Tritone (A 5341) marks more than the addition of a new multi-purpose support vessel to the Italian Navy’s fleet; it reflects a notable shift in how the service approaches capability acquisition. By sourcing a commercial platform and adapting it rapidly for naval use, Italy is advancing a more flexible model focused on ...\nThe post Italian Navy commissions Tritone vessel for seabed warfare appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/2_The-Tritone-multi-pupose-support-vessel-was-assigned-to-the-Fifth-Naval-Division-based-in-La-Spezia_@ITN-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Sweden turns former SIGINT vessel into seabed warfare platform",
+        "url": "https://www.navalnews.com/naval-news/2026/04/sweden-turns-former-sigint-vessel-into-seabed-warfare-platform/",
+        "published": "2026-04-17T07:20:33Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Faced with the growing threat of sabotage to critical underwater infrastructure and a high-tempo security environment, Sweden is transforming its decommissioned signals intelligence (SIGINT) vessel HSwMS Orion (A201) into a dedicated seabed warfare research and development testbed. Sweden retired its veteran signals intelligence platform, the HSwMS Orion, after 39 years of service in November 2023. ...\nThe post Sweden turns former SIGINT vessel into seabed warfare platform appeared first on Nava",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Facing the Evolving Needs of Maritime Security",
         "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/facing-the-evolving-needs-of-maritime-security-2/",
         "published": "2026-04-16T14:20:00Z",
@@ -455,26 +485,6 @@
         "language": "en",
         "summary": "U.S. forces with Joint Task Force Southern Spear conducted a fourth strike against an alleged drug boat in five days, U.S. Southern Command announced Wednesday. Four men were killed in the strike – the 51st overall – bringing the total number of deaths in the strikes to at least 173. One of the strikes on Saturday left one survivor. The U.S. Coast Guard has not provided an update on search and rescue efforts. The most recent strike, which occurred Tuesday, was on a boat that was allegedly travel",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-3.17.40-PM-scaled.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Mystery U.S. Navy Launcher Identified as Upgraded Coyote Missile Launcher",
-        "url": "https://www.navalnews.com/naval-news/2026/04/mystery-u-s-navy-launcher-identified-as-upgraded-coyote-missile-launcher/",
-        "published": "2026-04-15T15:31:27Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "An upgraded Coyote Counter-UAS (C-UAS) launcher has been installed on the Pearl Harbor-based USS Carl M. Levin (DDG 120), marking the first known dedicated shipboard launcher for Raytheon&#8217;s combat-proven C-UAS on a U.S. Navy ship. This story was updated with additional pictures of the Coyote launcher The service has been grappling with a series of ...\nThe post Mystery U.S. Navy Launcher Identified as Upgraded Coyote Missile Launcher appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/9230164-1024x683.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "US Navy should rely on allies to boost maritime industrial base, report says",
-        "url": "https://www.defensenews.com/naval/2026/04/13/us-navy-should-rely-on-allies-to-boost-maritime-industrial-base-report-says/",
-        "published": "2026-04-13T23:01:46Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "As the Navy builds its presence in the Middle East, experts argue that the force should rely more on allies to improve the U.S. maritime industrial base.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GJDWPWMUA5EFLMORCZELY5TAHE.JPG",
         "section": "rov_teknologi"
       },
       {

@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-04-18T13:16:50Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-19T05:52:48Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Taiwan eyes Japan’s New FFM as frigate option",
+        "url": "https://www.navalnews.com/naval-news/2026/04/taiwan-eyes-japans-new-ffm-as-frigate-option/",
+        "published": "2026-04-19T02:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "According to media reports in Taiwan, the Republic of China (ROC) Navy is reportedly considering Japan&#8217;s New FFM (also known as Upgraded Mogami-class or 06FFM) design as a possible frigate candidate. On April 15, 2026, UP MEDIA quoted an anonymous source, saying that because Taiwan and Japan are deepening security cooperation, Japan has lifted its ...\nThe post Taiwan eyes Japan&#8217;s New FFM as frigate option appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/11/Taiwan-new-frigate2017TADTE-1-1024x768.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Vessels report being hit by gunfire as Iran says Strait of Hormuz shut again",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/18/vessels-report-being-hit-by-gunfire-as-iran-says-strait-of-hormuz-shut-again/",
+        "published": "2026-04-18T15:19:25Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Merchant vessels attempting to cross the strait on Saturday received radio messages from Iran’s navy telling them they were not allowed to pass.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NNHNLURXHBE45L42VOICIVWBUA.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy begins search for Mk 41 VLS-launched hypersonic weapons",
         "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-begins-search-for-mk-41-vls-launched-hypersonic-weapons/",
@@ -134,26 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Germany’s Final Type 424 SIGINT Ship Enters Production",
-        "url": "https://www.navalnews.com/naval-news/2026/04/germanys-final-type-424-sigint-ship-enters-production/",
-        "published": "2026-04-16T14:10:46Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Today, at the Peene-Werft shipyard in Wolgast, the first steel cutting for the third and final Type 424 SIGINT (signals intelligence) vessel in the series officially took place in the presence of representatives from the Bundeswehr (the German Armed Forces). Rheinmetall press release The steel cutting took place much earlier than planned. Once commissioned, the ...\nThe post Germany’s Final Type 424 SIGINT Ship Enters Production appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/07/Type-424-SIGINT-ship-German-Navy-1024x707.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Exail’s DriX H-9 USV selected for Counter-UAS research",
-        "url": "https://www.navalnews.com/naval-news/2026/04/exails-drix-h-9-usv-selected-for-counter-uas-research/",
-        "published": "2026-04-16T13:34:42Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Exail has secured a new contract for its long-range Uncrewed Surface Vehicle (USV), the DriX H-9, with a leading defense research organization. This is the second DriX H-9 order in just a few months for defense application, confirming the growing momentum of Exail&#8217;s USV solutions in the defense sector. Exail press release The DriX H-9, ...\nThe post Exail&#8217;s DriX H-9 USV selected for Counter-UAS research appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy destroyer intercepts Iranian-flagged vessel trying to skirt blockade",
         "url": "https://www.defensenews.com/news/your-military/2026/04/15/us-navy-destroyer-intercepts-iranian-flagged-vessel-trying-to-skirt-blockade/",
         "published": "2026-04-15T22:03:32Z",
@@ -251,16 +251,6 @@
         "language": "en",
         "summary": "NAVAL BASE SAN DIEGO, Calif. &#8212; A boom across the Pacific near San Diego late Friday afternoon signaled the Orion capsule’s return to Earth&#8217;s atmosphere. The shock wave also summoned sailors tasked with safely returning the four astronauts following their 10-day lunar flight. It was time to go to work. From a small inflatable boat, Navy Chief Hospital Corpsman Vlad Link listened to radio traffic and tracked the Orion capsule named Integrity as it made its return trip. After blasting t",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9609129-scaled.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "UPDATED: Two U.S. Warships Sail Through Strait of Hormuz to Establish New Route for Merchant Ships",
-        "url": "https://news.usni.org/2026/04/11/two-u-s-warships-sail-through-strait-of-hormuz-to-establish-new-route-for-merchant-ships",
-        "published": "2026-04-11T18:05:24Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated with additional information on the transit and the announcement of a U.S. blockade of Iranian merchant ships. Two Navy guided-missile destroyers entered the Strait of Hormuz on Saturday, the first American warships to transit the strait since the U.S.-Israel offensive in Iran began on Feb. 28. USS Frank E. Petersen (DDG-121) and USS Michael Murphy (DDG-112) operated in the Persian Gulf after transiting the strait as part of the U.S. plan to “ensure the strait is fully ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/HFoZcfnakAQw8jy.jpeg",
         "section": "nyheter"
       }
     ],
@@ -417,6 +407,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "US Approves Possible FMS of AEGIS/SPY-6 Package to Germany",
+        "url": "https://www.navalnews.com/naval-news/2026/04/us-approve-aegis-and-spy-6-sale-for-german-f127-frigates/",
+        "published": "2026-04-18T13:36:47Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "As part of a process started two years ago, the United States have now approved a German request for purchase of the AEGIS/SPY-6 AAW suite. Germany will purchase eight complete sets intended to fit out the future F127 AAW combatants. Official Release by US State Department &#8220;The U.S. Department of State has made a determination ...\nThe post US Approves Possible FMS of AEGIS/SPY-6 Package to Germany appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/09/Signing-Frigate-Model-1024x631.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Italian Navy commissions Tritone vessel for seabed warfare",
         "url": "https://www.navalnews.com/naval-news/2026/04/italian-navy-commissions-tritone-vessel-for-seabed-warfare/",

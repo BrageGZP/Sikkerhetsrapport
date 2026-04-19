@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:52:48Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-04-19T13:17:08Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -408,6 +408,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "What’s next for the Thales sonar systems destined for cancelled U.S. Navy frigates?",
+        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/whats-next-for-the-thales-sonar-systems-destined-for-cancelled-u-s-navy-frigates/",
+        "published": "2026-04-19T08:30:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "In an interview with Naval News, Vice President for naval programs at Thales Defense &#38; Security Inc. RADM Tony Lengerich (Ret.) and Vice President for strategy at Advanced Acoustic Concepts (ACC) Mark Bock, gave insights into the CAPTAS-4 Variable Depth Sonar (VDS) systems once destined for the now cancelled Constellation-class of frigates. Ethan Grossrow story, ...\nThe post What&#8217;s next for the Thales sonar systems destined for cancelled U.S. Navy frigates? appeared first on Naval News",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/10/press-release-captas-en_0-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "US Approves Possible FMS of AEGIS/SPY-6 Package to Germany",
         "url": "https://www.navalnews.com/naval-news/2026/04/us-approve-aegis-and-spy-6-sale-for-german-f127-frigates/",
         "published": "2026-04-18T13:36:47Z",
@@ -435,16 +445,6 @@
         "language": "en",
         "summary": "Faced with the growing threat of sabotage to critical underwater infrastructure and a high-tempo security environment, Sweden is transforming its decommissioned signals intelligence (SIGINT) vessel HSwMS Orion (A201) into a dedicated seabed warfare research and development testbed. Sweden retired its veteran signals intelligence platform, the HSwMS Orion, after 39 years of service in November 2023. ...\nThe post Sweden turns former SIGINT vessel into seabed warfare platform appeared first on Nava",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Facing the Evolving Needs of Maritime Security",
-        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/facing-the-evolving-needs-of-maritime-security-2/",
-        "published": "2026-04-16T14:20:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "IAI&#8217;s naval suites deliver cutting edge solutions to challenges, big and small Sponsored content by: In an era characterized by increasing maritime security challenges, it&#8217;s more important than ever to improve naval defenses and strengthen the ability to counteract these threats. These challenges are not limited to traditional naval engagements or terror attacks but also ...\nThe post Facing the Evolving Needs of Maritime Security appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/04/IAI_new_logo.jpg",
         "section": "rov_teknologi"
       },
       {

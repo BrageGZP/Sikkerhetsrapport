@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-04-23T14:01:43Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-04-24T06:02:10Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S.-Japan GPI Workshare Revealed: Northrop Details 50-50 Split in Hypersonic Interceptor Program",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-japan-gpi-workshare-revealed-northrop-details-50-50-split-in-hypersonic-interceptor-program/",
+        "published": "2026-04-23T22:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Northrop Grumman has publicly detailed, for the first time, how work is divided between the United States and Japan in the co-development of the Glide Phase Interceptor (GPI), a next-generation missile designed to defeat hypersonic threats. At a media briefing in Tokyo on April 22, the U.S. defense contractor presented a schematic outlining the allocation ...\nThe post U.S.-Japan GPI Workshare Revealed: Northrop Details 50-50 Split in Hypersonic Interceptor Program appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/GPI-Image-provided-by-Northrop-1024x501.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy to Integrate PAC-3 Missiles on Aegis Guided-Missile Destroyers",
+        "url": "https://news.usni.org/2026/04/23/navy-to-integrate-pac-3-missiles-on-aegis-guided-missile-destroyers",
+        "published": "2026-04-23T20:06:42Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "NATIONAL HARBOR, Md. — The Navy has finalized its decision to integrate Advanced Capability 3 Missile Segment Enhancements aboard its warships, Lockheed Martin announced this week. The sea service will integrate the PAC-3 MSEs with the service’s ubiquitous Mark 41 vertical launching systems and Aegis Combat System, both of which make up the backbone of U.S. naval air defense. The decision, announced at the Navy League’s Sea-Air-Space symposium, coincides with the high tempo of Aegis-equipped des",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/PAC3MSEImage_cleared_HR-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hanwha Ocean Debuts Dual-Use Vessel for Drone and Strike Roles",
+        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/hanwha-ocean-debuts-dual-use-vessel-for-drone-and-strike-roles/",
+        "published": "2026-04-23T19:13:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "NATIONAL HARBOR, Md. — Hanwha Ocean and Leidos Gibbs &#38; Cox are designing a high-capacity vessel capable of carrying up to half a brigade combat team and conducting drone mothership or arsenal ship roles ahead of the company’s plans to expand its American operations.&#160; The South Korean defense firm presented the Global Fast Sealift during ...\nThe post Hanwha Ocean Debuts Dual-Use Vessel for Drone and Strike Roles appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Global-Fast-Sealift-2-1024x514.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy is reviewing cost of future Ford-class carriers to ensure they ‘make sense’",
+        "url": "https://www.defensenews.com/news/your-navy/2026/04/23/us-navy-is-reviewing-cost-of-future-ford-class-carriers-to-ensure-they-make-sense/",
+        "published": "2026-04-23T19:01:05Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The service is looking at how superior Ford-class carriers are to Nimitz-class carriers, said the recently ousted Navy Secretary John Phelan.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/75S2LETDVVBJPIIZ4XA66JSXNE.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Australia to Increase Defense Spending by $37.9B Over Next Decade",
+        "url": "https://news.usni.org/2026/04/23/australia-to-increase-defense-spending-by-37-9b-over-next-decade",
+        "published": "2026-04-23T15:59:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Australia will increase its defense spending by $37.9 billion U.S. dollars over the next decade, according to its 2026 National Defense Strategy and accompanying Integrated Investment Program documents, which were unveiled last week. According to the documents released April 16, Australia plans to spend $425 billion and $560 billion Australian dollars – or between $303 billion and $399 billion U.S. dollars – on capabilities and equipment to further the AUKUS agreement, long-range weapons, underw",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/20250929ran8625149_0084-scaled-e1776958186847.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Marine Corps, Navy join forces to combat insufficient amphibious fleet size",
+        "url": "https://www.defensenews.com/news/your-military/2026/04/23/us-marine-corps-navy-join-forces-to-combat-insufficient-amphibious-fleet-size/",
+        "published": "2026-04-23T15:27:18Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The two services will work together to boost the country's amphibious fleet size and availability after the readiness rate of its ships dropped in 2025.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RG4XS5CN2FHBHKGB5NYBJ7LBZY.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ultra Maritime unveils Layered Torpedo Defense Solution for U.S. Navy",
+        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/ultra-maritime-unveils-layered-torpedo-defense-solution-for-u-s-navy/",
+        "published": "2026-04-23T15:07:33Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At Sea Air Space 2026, Ultra Maritime unveiled a new vision that transforms torpedo defense from a collection of systems into a fully integrated, mission-ready capability designed for modern conflict. Jeremiah Richardson, Ultra Maritime&#8217;s Chief Technology Officer, sat down with Naval News to discuss the company&#8217;s next steps to drastically overhaul anti-torpedo defensive capabilities across ...\nThe post Ultra Maritime unveils Layered Torpedo Defense Solution for U.S. Navy appeared fir",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Ultra-Maritime-Layered-Torpedo-Defense-towed-body1-1024x986.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "EXCLUSIVE: Lockheed exits Navy trainer aircraft competition",
+        "url": "https://breakingdefense.com/2026/04/exclusive-lockheed-exits-navy-trainer-aircraft-competition/",
+        "published": "2026-04-23T14:16:49Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "After the surprise move, the field of competitors for the Navy’s Undergraduate Jet Training System has now narrowed to SNC, Boeing, and Textron Aviation Defense in partnership with Leonardo.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2017/06/T-45-landing-43-e1657721948896-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "NATO DIANA’s Rapid Adoption Service enables first R&D contract between Allies and industry",
         "url": "https://www.navalnews.com/naval-news/2026/04/nato-dianas-rapid-adoption-service-enables-first-rd-contract-between-allies-and-industry/",
@@ -91,46 +171,6 @@
         "language": "en",
         "summary": "OMB Director Russ Vought pointed to large shipbuilding backlogs as one way defense contractors are benefiting from program delays.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251206_vought_servicemembers_GettyImages-2234191513-e1765062429418.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "LIG Signs First Export Deal for K-SAAM with Malaysia",
-        "url": "https://www.navalnews.com/naval-news/2026/04/lig-signs-first-export-deal-for-k-saam-with-malaysia/",
-        "published": "2026-04-22T14:22:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "LIG D&#38;A acheives first export of a naval air defense missile system, pioneering a new export model in cooperation with an overseas platform company.\nThe post LIG Signs First Export Deal for K-SAAM with Malaysia appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/05/K-SAAM-1024x731.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "The Navy’s plan for pilot training could add the first clean-sheet trainer aircraft since the 1950s",
-        "url": "https://breakingdefense.com/2026/04/the-navys-plan-for-pilot-training-could-add-the-first-clean-sheet-trainer-aircraft-since-the-1950s/",
-        "published": "2026-04-22T13:16:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "[Sponsored] SNC’s Freedom trainer is engineered for the hard landings that come with naval missions.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/sas_2026_perspectives_snc_copy_03_v3-frame-at-2m44s-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Fincantieri to lead the upgrade of PPA ships to the Full Combat System configuration",
-        "url": "https://www.navalnews.com/naval-news/2026/04/fincantieri-to-lead-the-upgrade-of-ppa-ships-to-the-full-combat-system-configuration/",
-        "published": "2026-04-22T12:49:36Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A Contractual Integration to the PPA – Multipurpose Combat Ship program has been signed, aimed at upgrading the PPA-class vessels to the Full Combat System configuration. Fincantieri press release The Agreement was signed by the&#160;Director of OCCAR-EA&#160;and by&#160;Fulvio Palermo, Head of Project Management of Fincantieri’s Naval Vessels Division, representing the Temporary Consortium formed by Fincantieri ...\nThe post Fincantieri to lead the upgrade of PPA ships to the Full Combat System ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/1_Italian-Navy-Giovanni-delle-Bande-Nere-participated-to-Exercise-Polaris-25_@Italian-Navy-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "LIG to Expand Guided Rocket Offerings in the U.S.",
-        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/lig-to-expand-guided-rocket-offerings-in-the-u-s/",
-        "published": "2026-04-22T10:40:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "During Sea Air Space 2026, LIG Defense &#38; Aerospace (formerly known as LIG Nex1) showcased a variety of guided rockets targeted towards potential U.S. Navy usage, including their 70mm, 130mm, and 140mm guided rockets to be utilized on multiple platforms. LIG&#8217;s Poniard 70mm guided rockets headlined the roster of rockets eyed by the U.S. Navy. ...\nThe post LIG to Expand Guided Rocket Offerings in the U.S. appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/07/CUSV-K-LOGIR-1024x768.jpg",
         "section": "nyheter"
       },
       {
@@ -244,16 +284,6 @@
         "section": "nyheter"
       },
       {
-        "title": "L3Harris announces $1 billion expansion in Virginia",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/04/20/l3harris-announces-1-billion-expansion-in-virginia/",
-        "published": "2026-04-20T15:00:00Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The expansion will more than double manufacturing space at the Virginia site, which currently spans 256,000 square feet.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LYUDYKV2SBA27P327SDKTCPROI.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy’s Next Generation F/A-XX Downselect Expected in August",
         "url": "https://news.usni.org/2026/04/20/navys-next-generation-f-a-xx-downselect-expected-in-august",
         "published": "2026-04-20T13:23:17Z",
@@ -271,36 +301,6 @@
         "language": "en",
         "summary": "This story has been updated to include the Navy ships operating in the Caribbean under U.S. Southern Command. Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike, which makes the 53rd one since President Donald Trump announced the first one on Sept. 1. The SOUTHCOM strikes have killed at least 179 people, according to USNI News data. This is the first strike o",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-7.30.12-AM-scaled.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Disables, Seizes Iranian Container Ship Attempting to Run Strait of Hormuz Blockade",
-        "url": "https://news.usni.org/2026/04/19/u-s-disables-seizes-iranian-container-ship-attempting-to-run-strait-of-hormuz-blockade",
-        "published": "2026-04-20T02:23:13Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "U.S. Central Command forces boarded and seized an Iranian-flagged cargo vessel, sanctioned by the U.S. Treasury, as it attempted to sail into an Iranian port, CENTCOM announced Sunday. USS Spruance (DDG-111), a destroyer in the Abraham Lincoln Carrier Strike Group, intercepted container ship MV Touska (IMO: 9328900) in the Arabian Sea, according to the CENTCOM release. The ship was allegedly heading to port in Bandar Abbas, Iran. Spruance’s crew called out to the ship multiple times ordering the",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-19-at-10.14.43-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Marine Corps Awards Contracts for Advanced Reconnaissance Vehicle Prototypes",
-        "url": "https://news.usni.org/2026/04/17/marine-corps-awards-contracts-for-advanced-reconnaissance-vehicle-prototypes",
-        "published": "2026-04-17T17:59:25Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Marine Corps awarded contracts to General Dynamics Land Systems and Textron Systems Corporation earlier this month, moving forward with the second phase of rapid prototyping for the service’s Advanced Reconnaissance Vehicle.  Both GD Land Systems and Textron will build and deliver their respective solutions to meet the Marine Corps’ requirements for its Advanced Reconnaissance Vehicles, the service announced April 1. The Advanced Reconnaissance Vehicle will be a purpose-built family of ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2021/05/eyJ3IjoyMDQ4LCJoIjoyMDQ4LCJzY29wZSI6ImFwcCJ9.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Marinette Marine Awarded $30M for Landing Ship Medium Ahead of Vessel Construction Manager Selection",
-        "url": "https://news.usni.org/2026/04/16/marinette-marine-awarded-30m-for-landing-ship-medium-ahead-of-vessel-construction-manager-selection",
-        "published": "2026-04-16T19:59:49Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Wisconsin shipbuilder Fincantieri Marinette Marine was awarded a $30 million contract for long lead material and planning for four planned McClung-class medium landing ships, according to a Pentagon contract announcement. The Naval Sea Systems Command award sets up the yard on the Menominee River near Lake Michigan to construct the first four of the planned landing ships that will support the Marine Corps new littoral regiments as part of the services Force Design. Construction could start by th",
-        "image_url": "https://news.usni.org/wp-content/uploads/2025/04/Screenshot-2025-04-17-at-6.45.41 PM.png",
         "section": "nyheter"
       }
     ],

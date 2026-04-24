@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-04-24T06:02:10Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-04-24T13:54:09Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "North Korea Test Launches Short Range Ballistic Missiles with Cluster Munitions",
+        "url": "https://news.usni.org/2026/04/24/north-korea-test-launches-short-range-ballistic-missiles-with-cluster-munitions",
+        "published": "2026-04-24T13:50:53Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "North Korea recently launched five short range ballistic missiles (SRBMs) armed with cluster munitions against an island target in the Sea of Japan for the second time this month, further trialing the warhead’s capabilities, state media reported Monday. North Korea’s Missile Administration conducted the test fire Sunday to evaluate the characteristics and power of the cluster bomb warhead and the fragmentation mine warhead applied to the surface-to-surface “Hwasongpo-11-Ra” missile, state media ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-24-at-9.38.30-AM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan to Field Multiple Advanced Coastal Defense Missiles by 2032",
+        "url": "https://www.navalnews.com/naval-news/2026/04/japan-to-field-multiple-advanced-coastal-defense-missiles-by-2032/",
+        "published": "2026-04-24T12:04:09Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan is fielding new coastal defense missiles and actively developing new ones, including a hypersonic guided missile, in a push to increase its island defense capabilities amid rising regional tensions and a rapidly evolving security environment in the Indo-Pacific. This strategic shift marks a departure from Tokyo’s traditional &#8220;defensive-only&#8221; posture, as the Ministry of Defense ...\nThe post Japan to Field Multiple Advanced Coastal Defense Missiles by 2032 appeared first on Naval",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/12/ATLA-new-Type-12-SSM-tests.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S.-Japan GPI Workshare Revealed: Northrop Details 50-50 Split in Hypersonic Interceptor Program",
         "url": "https://www.navalnews.com/naval-news/2026/04/u-s-japan-gpi-workshare-revealed-northrop-details-50-50-split-in-hypersonic-interceptor-program/",
@@ -154,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy’s New Anti-Radar Missile to Suffer ‘Strategic Pause’",
-        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/u-s-navys-new-anti-radar-missile-to-suffer-strategic-pause/",
-        "published": "2026-04-22T18:43:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Stated in the U.S. Navy&#8217;s budget documentation for Fiscal Year 2027, the Navy is putting the AGM-88G Advanced Anti-Radiation Guided Missile Extended Range (AARGM-ER) air launched anti-radiation missile program on a strategic pause, resulting in drastically reduced funding levels. U.S. Navy procurement and thus almost all the funding for the AGM-88G are to cease for ...\nThe post U.S. Navy&#8217;s New Anti-Radar Missile to Suffer &#8216;Strategic Pause&#8217; appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/07/3rd-Successful-Missile-Live-Fire-Test-for-AARGM-ER-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "OMB director rebukes shipbuilders over production delays",
         "url": "https://breakingdefense.com/2026/04/omb-director-rebukes-shipbuilders-over-production-delays/",
         "published": "2026-04-22T18:17:40Z",
@@ -291,16 +301,6 @@
         "language": "en",
         "summary": "NATIONAL HARBOR, Md. — The builder of the Navy’s long-awaited next-generation carrier fighter will be picked in the summer, Chief of Naval Operations Adm. Daryl Caudle said Monday. Speaking to reporters, Caudle said that following several conversations with Deputy Secretary of Defense Steve Feinberg, the Pentagon and the Navy, the downselect would occur in August. “I think you&#8217;re going to see a downselect on this in August. I think that&#8217;s the month that they have committed to making ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/03/9543727-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Forces Strike Suspected Narco Boat, 3 Killed",
-        "url": "https://news.usni.org/2026/04/20/u-s-forces-strike-suspected-narco-boat-3-killed",
-        "published": "2026-04-20T11:34:32Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This story has been updated to include the Navy ships operating in the Caribbean under U.S. Southern Command. Joint Task Force Southern Spear forces struck a boat allegedly ferrying illicit narcotics in the Caribbean, U.S. Southern Command announced Sunday night. Three men were killed in the strike, which makes the 53rd one since President Donald Trump announced the first one on Sept. 1. The SOUTHCOM strikes have killed at least 179 people, according to USNI News data. This is the first strike o",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-7.30.12-AM-scaled.png",
         "section": "nyheter"
       }
     ],
@@ -477,6 +477,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "France Establishes New Seabed Warfare Observatory",
+        "url": "https://www.navalnews.com/naval-news/2026/04/france-establishes-new-seabed-warfare-observatory/",
+        "published": "2026-04-24T07:51:52Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Seabed Warfare Observatory (L’Observatoire Maîtrise des Fonds Marins, or MFM) has been set up within the strategic research support structure established by the Directorate General for International Relations (DGRIS) on behalf of France’s Ministry of the Armed Forces. The MFM research organisation, which is headed by retired French Navy Rear Admiral Jacques Mallard, sits ...\nThe post France Establishes New Seabed Warfare Observatory appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Malaysia taps Roketsan for Atmaca anti-ship missiles",
         "url": "https://www.navalnews.com/naval-news/2026/04/malaysia-taps-roketsan-for-atmaca-anti-ship-missiles/",

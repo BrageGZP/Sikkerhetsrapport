@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-04-27T06:21:44Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-04-27T14:12:06Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Brazilian Navy commissions its first Tamandaré-class frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/04/brazilian-navy-commissions-its-first-tamandare-class-frigate/",
+        "published": "2026-04-27T14:00:01Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Tamandaré frigate (F200), built at the TKMS shipyard in Itajaí (SC) in less than four years, has been officially commissioned into the Brazilian Fleet in a ceremony held by the Brazilian Navy, marking the start of its operational service. This is the first vessel of the Tamandaré-class Frigates Program (PFCT), the most modern and ...\nThe post Brazilian Navy commissions its first Tamandaré-class frigate appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy drills in at-sea USV fueling ahead of CSG deployment",
+        "url": "https://www.navalnews.com/naval-news/2026/04/u-s-navy-drills-in-at-sea-usv-fueling-ahead-of-csg-deployment/",
+        "published": "2026-04-27T10:55:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy practiced at-sea refueling of an unmanned surface vessel (USV) during a recent demonstration ahead of the service’s planned deployment of the sea drones with the Theodore Roosevelt Carrier Strike Group later this year.&#160; Occurring off Southern California, the oiler USNS Guadalupe (T-AO 200) recently conducted an astern replenishment-at-sea of the Medium Unmanned ...\nThe post U.S. Navy drills in at-sea USV fueling ahead of CSG deployment appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/11/20231106_033352-ink-1024x577.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Massive frigate buy from Japan jolts Australian warship program",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/",
+        "published": "2026-04-27T10:53:04Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Hughes explained the aim is to have as few Australianized changes as possible, because that “would delay the delivery of the ship.”",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/4TBJALLBPFHS7PDBYIYVURNRW4.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "HD HHI Becomes First Korean Company to Win U.S. Office of Naval Research Project",
         "url": "https://www.navalnews.com/naval-news/2026/04/hd-hhi-becomes-first-korean-company-to-win-u-s-office-of-naval-research-project/",
@@ -104,16 +134,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Hanwha Ocean Debuts Dual-Use Vessel for Drone and Strike Roles",
-        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/hanwha-ocean-debuts-dual-use-vessel-for-drone-and-strike-roles/",
-        "published": "2026-04-23T19:13:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "NATIONAL HARBOR, Md. — Hanwha Ocean and Leidos Gibbs &#38; Cox are designing a high-capacity vessel capable of carrying up to half a brigade combat team and conducting drone mothership or arsenal ship roles ahead of the company’s plans to expand its American operations.&#160; The South Korean defense firm presented the Global Fast Sealift during ...\nThe post Hanwha Ocean Debuts Dual-Use Vessel for Drone and Strike Roles appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Global-Fast-Sealift-2-1024x514.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy is reviewing cost of future Ford-class carriers to ensure they ‘make sense’",
         "url": "https://www.defensenews.com/news/your-navy/2026/04/23/us-navy-is-reviewing-cost-of-future-ford-class-carriers-to-ensure-they-make-sense/",
         "published": "2026-04-23T19:01:05Z",
@@ -144,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Ultra Maritime unveils Layered Torpedo Defense Solution for U.S. Navy",
-        "url": "https://www.navalnews.com/event-news/sea-air-space-2026/2026/04/ultra-maritime-unveils-layered-torpedo-defense-solution-for-u-s-navy/",
-        "published": "2026-04-23T15:07:33Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Sea Air Space 2026, Ultra Maritime unveiled a new vision that transforms torpedo defense from a collection of systems into a fully integrated, mission-ready capability designed for modern conflict. Jeremiah Richardson, Ultra Maritime&#8217;s Chief Technology Officer, sat down with Naval News to discuss the company&#8217;s next steps to drastically overhaul anti-torpedo defensive capabilities across ...\nThe post Ultra Maritime unveils Layered Torpedo Defense Solution for U.S. Navy appeared fir",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Ultra-Maritime-Layered-Torpedo-Defense-towed-body1-1024x986.png",
-        "section": "nyheter"
-      },
-      {
         "title": "EXCLUSIVE: Lockheed exits Navy trainer aircraft competition",
         "url": "https://breakingdefense.com/2026/04/exclusive-lockheed-exits-navy-trainer-aircraft-competition/",
         "published": "2026-04-23T14:16:49Z",
@@ -161,16 +171,6 @@
         "language": "en",
         "summary": "After the surprise move, the field of competitors for the Navy’s Undergraduate Jet Training System has now narrowed to SNC, Boeing, and Textron Aviation Defense in partnership with Leonardo.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2017/06/T-45-landing-43-e1657721948896-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "NATO DIANA’s Rapid Adoption Service enables first R&D contract between Allies and industry",
-        "url": "https://www.navalnews.com/naval-news/2026/04/nato-dianas-rapid-adoption-service-enables-first-rd-contract-between-allies-and-industry/",
-        "published": "2026-04-23T13:15:24Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "NATO’s Defence Innovation Accelerator for the North Atlantic (DIANA), on behalf of Defence Research and Development Canada (DRDC), has awarded a research and development (R&#38;D) contract to HonuWorx, a UK‑based technology company specialising in undersea robotics systems. This marks the first R&#38;D contract awarded on behalf of a NATO Ally under NATO DIANA’s Rapid Adoption ...\nThe post NATO DIANA’s Rapid Adoption Service enables first R&amp;D contract between Allies and industry appeared fir",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -241,26 +241,6 @@
         "language": "en",
         "summary": "NATIONAL HARBOR, Md. — The U.S. Navy is looking to field thousands of unmanned surface vessels to the Indo-Pacific by 2030, according to the service’s drone boat development group. “By 2030, expect to see over 30 Medium Unmanned Surface Vessels (MUSV) just in the Indo-Pacific. Expect to see thousands of small USVs, and then you know, any number of [unmanned aerial systems] that are operating from either manned ships or unmanned ships,” Capt. Garrett Miller, the commander of Surface Development G",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/8232717-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US commander warns Taiwan not to ‘starve the chicken’ on defense",
-        "url": "https://www.defensenews.com/news/your-military/2026/04/21/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense/",
-        "published": "2026-04-21T17:56:09Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Adm. Samuel Paparo stressed the importance of Taiwan passing its stalled defense budget.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HX2LU7MUWFD37C4MVLLJH4O3TQ.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy unmanned surface vessel fleet to grow sevenfold in Indo-Pacific",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/04/21/us-navy-unmanned-surface-vessel-fleet-to-grow-sevenfold-in-indo-pacific/",
-        "published": "2026-04-21T17:42:57Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The fleet of medium unmanned surface vessels in the Indo-Pacific is expected to grow to at least 30, with smaller USVs and unmanned aerial systems.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AMVISXOKPFEGDCOOU5O7EG27GM.jpg",
         "section": "nyheter"
       },
       {
@@ -477,6 +457,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Thai frigate tender draws bidders from Asia and Europe",
+        "url": "https://www.navalnews.com/naval-news/2026/04/thai-frigate-tender-draws-bidders-from-asia-and-europe/",
+        "published": "2026-04-27T08:34:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "A tender for a solitary frigate for the Royal Thai Navy (RTN) closed on 21 April, with the possibility of winning a deal proving a popular drawcard for shipbuilders from around the world. The following day, in an effort to advance transparency and accountability, the RTN provided an update on the frigate procurement project. Rear ...\nThe post Thai frigate tender draws bidders from Asia and Europe appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/11/hdf-3600-ink-1024x660.jpeg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "France Establishes New Seabed Warfare Observatory",
         "url": "https://www.navalnews.com/naval-news/2026/04/france-establishes-new-seabed-warfare-observatory/",

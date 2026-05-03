@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:20:09Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-03T13:26:34Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -171,16 +171,6 @@
         "language": "en",
         "summary": "The following is the Navy’s Fiscal Year 2027 unfunded priority list, delivered this week to Congress. From the Report The annual request comes after the Navy formally unveiled its FY 27 budget request on April 21, 2026. Download the document here.",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "TKMS and Greek Shipyard Ink Partnership for Hellenic Navy Submarines MLU",
-        "url": "https://www.navalnews.com/naval-news/2026/04/tkms-and-greek-shipyard-ink-partnership-for-hellenic-navy-submarines-mlu/",
-        "published": "2026-04-30T14:13:34Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "TKMS and Skaramangas Shipyards have entered into a comprehensive and exclusive agreement to jointly execute the Mid-Life Upgrade (MLU) program for the four HDW Class 214 submarines of the Hellenic Navy. TKMS press release By working directly with TKMS as Original Equipment Manufacturer (OEM), the Hellenic Navy ensures full system compatibility, seamless integration of upgraded ...\nThe post TKMS and Greek Shipyard Ink Partnership for Hellenic Navy Submarines MLU appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/tkms-skaramanga-contract-1024x647.jpg",
         "section": "nyheter"
       },
       {
@@ -457,6 +447,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Lyme Bay MCM Uncrewed Systems Fit Illustrates ‘Hybrid Navy’ Flexibility",
+        "url": "https://www.navalnews.com/naval-news/2026/05/lyme-bay-mcm-uncrewed-systems-fit-illustrates-hybrid-navy-flexibility/",
+        "published": "2026-05-03T11:16:21Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The UK’s outfitting of its Bay-class auxiliary vessel RFA Lyme Bay as a naval mine warfare (NMW) ‘mothership’ carrying uncrewed systems for the mine-hunting role illustrates how the Royal Navy’s (RN’s) ‘hybrid navy’ approach can provide flexibility to respond to events like the current Middle East crisis, the UK’s navy chief told a conference in ...\nThe post Lyme Bay MCM Uncrewed Systems Fit Illustrates ‘Hybrid Navy’ Flexibility appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Textron awarded DIU contract to provide Tsunami USV to U.S. Navy",
         "url": "https://www.navalnews.com/naval-news/2026/05/textron-awarded-diu-contract-to-provide-tsunami-usv-to-u-s-navy/",

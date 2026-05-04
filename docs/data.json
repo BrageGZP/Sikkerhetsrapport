@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-03T13:26:34Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-04T06:32:25Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Green Berets Deploy Ship-Killing Drone in Luzon Strait Maritime Strike Exercise",
+        "url": "https://news.usni.org/2026/05/03/green-berets-deploy-ship-killing-drone-in-luzon-strait-maritime-strike-exercise",
+        "published": "2026-05-03T20:17:59Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, Philippines — American special forces used unmanned surface vessels equipped with explosive charges against a maritime target in the Luzon Strait. U.S. Army Green Berets with the 1st Special Forces Group (Airborne) controlled the explosive-laden drone and other unmanned maritime systems from Batan Island, one of several territories that make up the Batanes archipelago near Taiwan. These islands have seen increased U.S.-Philippine military exercises in response to Manila’s concerns over a",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9649786-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy wants first FF(X) frigate in the water by 2028",
         "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-wants-first-ffx-frigate-in-the-water-by-2028/",
@@ -151,16 +161,6 @@
         "language": "en",
         "summary": "The U.S. Navy declared Initial Operational Capability (IOC) for the P-8A Poseidon Increment 3 Block 2 system, Naval Air Systems Command announced Friday. The Inc 3 Blk 2 achieved IOC after the Initial Operational Test performed by Air Test and Evaluation Squadron One (VX-1) with support from the Maritime Patrol and Reconnaissance Aircraft Program Office (PMA-290), reads the NAVAIR news release. “The P-8A Inc 3 Blk 2 modifications enhance Naval Aviation’s Maritime Intelligence, Surveillance, Reco",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/1st-I3B2-Delivery-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Romania Advances MMPV 90 Corvette Acquisition with Rheinmetall",
-        "url": "https://www.navalnews.com/naval-news/2026/04/romania-advances-mmpv-90-corvette-acquisition-with-rheinmetall/",
-        "published": "2026-04-30T14:41:02Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Romania is set to acquire four new vessels to be built domestically by Rheinmetall, including two large multipurpose offshore patrol vessels configured to a light corvette standard, similar to Bulgaria’s MMPV 90 program. Romania is advancing its naval modernization program with the planned acquisition of four new vessels. Two of these will be large multipurpose ...\nThe post Romania Advances MMPV 90 Corvette Acquisition with Rheinmetall appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Mangalia-Shipyards-1-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -447,6 +447,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "C2 Robotics christens first US export Speartooth LUUV",
+        "url": "https://www.navalnews.com/naval-news/2026/05/c2-robotics-christens-first-us-export-speartooth-luuv/",
+        "published": "2026-05-03T21:51:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On May 1, 2026, C2 Robotics has marked a significant milestone with the commissioning and christening of its Speartooth Large Uncrewed Undersea Vehicle (LUUV), the first to be delivered to the United States. C2 robotics press release This ceremony represents a defining moment for the company, signalling both the transition of Speartooth from development, into ...\nThe post C2 Robotics christens first US export Speartooth LUUV appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/speartooth_champagne_bottle_release-1024x907.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Lyme Bay MCM Uncrewed Systems Fit Illustrates ‘Hybrid Navy’ Flexibility",
         "url": "https://www.navalnews.com/naval-news/2026/05/lyme-bay-mcm-uncrewed-systems-fit-illustrates-hybrid-navy-flexibility/",

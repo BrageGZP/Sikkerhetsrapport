@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-06T06:23:25Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-06T14:31:44Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Carrier USS Gerald R. Ford is Now in the Atlantic",
+        "url": "https://news.usni.org/2026/05/06/carrier-uss-gerald-r-ford-is-now-in-the-atlantic",
+        "published": "2026-05-06T11:32:53Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now operating in the Atlantic Ocean after sailing through the Strait of Gibraltar on Wednesday, according to ship spotters. As of Wednesday, Ford has been deployed for 315 days, the longest carrier strike group deployment since the end of the Cold War. Since the start of the Vietnam War, only USS Coral Sea (CVA-43) in 1964 and USS Midway (CVA-41) in 1972 have deployed longer for national tasking. Ford, the Navy&#8217;s newest carrier, was initially",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9595354-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pakistan’s first Chinese submarine set to boost naval capability",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/05/06/pakistans-first-chinese-submarine-set-to-boost-naval-capability/",
+        "published": "2026-05-06T10:22:03Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "China’s defense supplies play key role in Pakistan’s military modernization, as both countries nurture a close partnership with an eye on India.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/K4PW4RYP4FH4XJV2WZJJDGUYAA.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "STM Unveils YAKTU Swarm Kamikaze Unmanned Surface Vehicle",
+        "url": "https://www.navalnews.com/naval-news/2026/05/stm-unveils-yaktu-swarm-kamikaze-unmanned-surface-vehicle/",
+        "published": "2026-05-06T07:55:08Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "STM has unveiled its next-generation Kamikaze Unmanned Surface Vehicle, the STM YAKTU KUSV, at SAHA 2026. Designed to redefine naval warfare with high-speed performance, a low-profile silhouette, and swarm operational capabilities, the KUSV marks a significant leap in maritime defense technology. STM press release STM Savunma Teknolojileri Mühendislik ve Ticaret A.Ş., a leading Turkish defence ...\nThe post STM Unveils YAKTU Swarm Kamikaze Unmanned Surface Vehicle appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/YAKTU_1-1024x574.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan, Philippines Launch Working Group on Transfer of Abukuma-class Destroyer Escorts",
+        "url": "https://www.navalnews.com/naval-news/2026/05/japan-philippines-launch-working-group-on-transfer-of-abukuma-class-destroyer-escorts/",
+        "published": "2026-05-06T07:20:50Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan and the Philippines have taken a significant step toward deeper defense cooperation by agreeing to establish a bilateral working group to explore the transfer of Japan Maritime Self-Defense Force (JMSDF) vessels, including used destroyer escorts. The initiative could become a landmark case in Tokyo’s evolving arms export policy. The announcement was made on May ...\nThe post Japan, Philippines Launch Working Group on Transfer of Abukuma-class Destroyer Escorts appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "‘Littoral Deep Battle’",
         "url": "https://news.usni.org/2026/05/05/littoral-deep-battle",
@@ -50,7 +90,7 @@
         "source": "Naval News",
         "language": "en",
         "summary": "As maritime operations shift toward distributed, network-centric and increasingly asymmetric engagements, unmanned systems are emerging as a defining element of naval power. From littoral zones to critical infrastructure protection, navies are seeking scalable, cost-effective capabilities that can extend reach, reduce risk to personnel and operate effectively in contested environments. Sponsored content At SAHA 2026 in ...\nThe post ASELSAN at SAHA 2026: Building a Global Benchmark in Unmanned Na",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-18.40.59.png",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/aselsan-logo.png",
         "section": "nyheter"
       },
       {
@@ -129,7 +169,7 @@
         "published": "2026-05-04T16:53:08Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 4, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. In Japan Aircraft carrier USS George Washington (CVN-73) is in port in Yokosuka, Japan. In the Caribbean Sea The ships of the Iwo Jima Amphibious Ready Group are operating in the Caribbean Se",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 4, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 232, USNS 59) 105 (USS 74, USNS 31) (37 FDNF, 68 Rotational) 90 (62 Deployed, 28 Local) In Japan Aircraft carrier USS George Washington (CVN-73) ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FT_5_4_26.jpg",
         "section": "nyheter"
       },
@@ -154,26 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy wants first FF(X) frigate in the water by 2028",
-        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-wants-first-ffx-frigate-in-the-water-by-2028/",
-        "published": "2026-05-02T12:31:16Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Contained within the Fiscal Year 2027 budget documentation, the U.S. Navy has laid out it&#8217;s plans for the new FF(X) program, seeking to rapidly field a new class of smaller surface vessels with the launch of the first Frigate taking place in the first Quarter of Fiscal Year 2029 (late calendar year 2028). Following the ...\nThe post U.S. Navy wants first FF(X) frigate in the water by 2028 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/Screenshot-2026-04-29-162913-1024x604.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Japan’s US-2 joins Balikatan exercises in South China Sea",
-        "url": "https://www.navalnews.com/naval-news/2026/05/japans-us-2-joins-balikatan-exercises-in-south-china-sea/",
-        "published": "2026-05-02T07:05:59Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japan’s US-2 advanced amphibious aircraft made its debut during Balikatan, the largest joint military exercises between the Philippines and the United States. A ShinMaywa US-2 aircraft of the Japan Maritime Self-Defense Force (JMSDF) splashed down in South China Sea as part of a joint casualty evacuation drill for the Balikatan exercises last April 27, according ...\nThe post Japan’s US-2 joins Balikatan exercises in South China Sea appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/US-2BK26-1024x682.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "CNO: U.S. Naval Aviators Will No Longer Command Amphibious Warships",
         "url": "https://news.usni.org/2026/05/01/cno-u-s-naval-aviators-will-no-longer-command-amphibious-warships",
         "published": "2026-05-01T21:29:36Z",
@@ -191,26 +211,6 @@
         "language": "en",
         "summary": "Transits in the Strait of Hormuz dropped to their lowest numbers since the first days of the U.S.-Israel offensive in Iran, according to merchant shipping data. The shipping industry continues to be caught between the U.S. and Iran’s fight over the strait. Iran has claimed it should be able to control the part of the strait it considers to be territorial waters, while the U.S. argues the strait, under international maritime law, is open for navigation. Strait transits are less than 10 percent of",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-5.01.50-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Future Anti-Ship PrSM Prioritizes Indo-Pacific Ops and 1,000 km Range",
-        "url": "https://www.navalnews.com/naval-news/2026/05/future-anti-ship-prsm-prioritizes-indo-pacific-ops-and-1000-km-range/",
-        "published": "2026-05-01T21:01:02Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A future variant of the U.S. Army’s future Precision Strike Missile (PrSM) anti-ship ballistic missile should be able to strike maritime targets at ranges up to 1,000 kilometers and must be able to operate in the Indo-Pacific, according to recent program documents. The fielding of PrSM Increment 4 (Inc 4), one of several variants planned ...\nThe post Future Anti-Ship PrSM Prioritizes Indo-Pacific Ops and 1,000 km Range appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/9647787-1024x684.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy turns to AI firm Domino for options to counter Iranian mines",
-        "url": "https://www.defensenews.com/naval/2026/05/01/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/",
-        "published": "2026-05-01T12:33:37Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The core of Domino’s pitch - and the Navy’s wager - is speed.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PY6ISKKECBE5VF7JR4IO2NZ24I.JPG",
         "section": "nyheter"
       },
       {
@@ -407,6 +407,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "New Details Of Russia’s Super-Weapon Submarine ‘Khabarovsk’",
+        "url": "https://www.navalnews.com/naval-news/2026/05/new-details-of-russias-super-weapon-submarine-khabarovsk/",
+        "published": "2026-05-06T08:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Russia is investing heavily in a new generation of “super weapons” designed to bypass and potentially nullify conventional defenses. Foremost among them is Poseidon, an autonomous, nuclear-powered, nuclear-armed underwater weapon with effectively intercontinental range. Details about its newest dedicated carrier submarine, Khabarovsk, are only gradually coming into focus. Russia continues to prepare the super-weapons revealed ...\nThe post New Details Of Russia&#8217;s Super-Weapon Submarine &#82",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Meteksan Unveils MILSAS Synthetic Aperture Sonar at SAHA EXPO 2026",
         "url": "https://www.navalnews.com/naval-news/2026/05/meteksan-unveils-milsas-synthetic-aperture-sonar-at-saha-expo-2026/",

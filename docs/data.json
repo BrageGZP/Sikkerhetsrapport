@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-12T06:30:30Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-12T14:39:40Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Navy pushes Congress to back constructing auxiliary ships overseas",
+        "url": "https://breakingdefense.com/2026/05/navy-pushes-congress-to-back-constructing-auxiliary-ships-overseas/",
+        "published": "2026-05-12T13:40:38Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The new shipbuilding plan also confirmed that the Trump-class battleship will be nuclear-powered, and that the Navy wants an inventory of 15 battleships by 2056.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/6428648-e1778586829716-1024x577.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "US Navy open to building ships overseas, new plan says",
         "url": "https://www.defensenews.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
@@ -144,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Rheinmetall Plans to Acquire German Naval Yards Kiel",
-        "url": "https://www.navalnews.com/naval-news/2026/05/rheinmetall-plans-to-acquire-german-naval-yards-kiel/",
-        "published": "2026-05-09T08:28:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "What began as rumors last year has now become reality: Rheinmetall has formally moved forward with the purchase of German Naval Yards Kiel (GNYK). By Lars Hoffman / Hartpunkt Rheinmetall&#8217;s new naval division, formerly NVL, has submitted a non-binding offer for GNYK, as Rheinmetall CEO Armin Papperger announced yesterday at an analyst conference held by ...\nThe post Rheinmetall Plans to Acquire German Naval Yards Kiel appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: May 8, 2026",
         "url": "https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026",
         "published": "2026-05-08T20:40:54Z",
@@ -181,16 +181,6 @@
         "language": "en",
         "summary": "Three Navy destroyers came under fire from Iran as they transited the Strait of Hormuz as commercial shipping traffic remains at an almost standstill. Iranian forces sent missiles, drones and small boats after USS Mason (DDG-87), USS Rafael Peralta (DDG-115) and USS Truxton (DDG-103) as the three warships headed toward the Gulf of Oman, according to U.S. Central Command news release. The attack on the three destroyers was the latest in a flurry of activity that has left the shipping industry and",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9649699-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rheinmetall Q1 sales jump 8% year on year, as naval business era begins with promise",
-        "url": "https://breakingdefense.com/2026/05/rheinmetall-q1-sales-jump-8-percent-year-on-year-as-naval-business-era-begins-with-promise/",
-        "published": "2026-05-08T12:55:22Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "“The technology group’s order books remain at record levels,” said the Dusseldorf-based firm as it also predicted &#8220;significant growth acceleration&#8221; for Q2.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/IMG_4735-e1757686682324-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -272,19 +262,19 @@
         "summary": "U.S. 4th Fleet and U.S. Naval Southern Command recently tested the use of drones and artificial intelligence to track and target suspected narco boats and counter transnational organized crime. The drill, conducted in the waters off Key West, Fla., was part of this year’s iteration of the Navy’s annual Fleet Experimentation (FLEX) exercise, which spanned April 24-30, according to a Navy news release. The FLEX is a cornerstone of the commands’ strategy to field advanced robotic and autonomous sys",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9648362-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "The Navy’s Fiscal Year 2027 Active-duty Captain Line Selections",
-        "url": "https://news.usni.org/2026/05/05/the-navys-fiscal-year-2027-active-duty-captain-line-selections",
-        "published": "2026-05-05T13:16:32Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Navy’s Fiscal Year 2027 active-duty captain line selections, released April 29, 2026, by Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED FM SECNAV WASHINGTON DC TO ALNAV INFO SECNAV WASHINGTON DC CNO WASHINGTON DC CMC WASHINGTON DC SUBJ/FY-27 ACTIVE-DUTY NAVY CAPTAIN LINE SELECTIONS// AMPN/REF A IS THE FY-27 ACTIVE-DUTY NAVY CAPTAIN LINE PROMOTION SELECTION BOARDS CONVENING ORDER.// RMKS/1. I am pleased to announce the following line offic",
-        "image_url": "",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Kystverket først i Europa med ny portal for skipsrapportering",
+        "url": "https://www.kystverket.no/nyheter/kystverket-forst-i-europa-med-ny-portal-for-skipsrapportering/",
+        "published": "2026-05-12T11:26:20Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Norge er første land i Europa som lanserer en nettportal for skipsrapportering i tråd med EUs nye...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Nye sjømerker gir tryggere innseiling til Kristiansand",
         "url": "https://www.kystverket.no/nyheter/nye-sjomerker-gir-tryggere-innseiling-til-kristiansand/",
@@ -418,6 +408,26 @@
     ],
     "rov_teknologi": [
       {
+        "title": "U.S. Navy wants new LRAW Stand-off Anti-Submarine Weapon",
+        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-wants-new-lraw-stand-off-anti-submarine-weapon/",
+        "published": "2026-05-12T12:42:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy will fund development work on the Long Range ASW (Anti-Submarine Warfare) Weapon, otherwise known as LRAW, for the first time starting sometime in late 2026/early 2027. Details regarding LRAW broke cover in the U.S. Navy&#8217;s Research, Development, Test &#38; Evaluation documentation for fiscal year 2027. LRAW is to be the replacement/supplement for ...\nThe post U.S. Navy wants new LRAW Stand-off Anti-Submarine Weapon appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-00-09-59-Justification-Book-RDTEN_BA5_Book.pdf-1024x512.png",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Raytheon to provide SeaRAM for Australia’s Upgraded Mogami-class frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/05/upgraded-mogami-frigates-for-australia-to-receive-searam/",
+        "published": "2026-05-12T07:08:48Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Raytheon has been awarded a contract by Mitsubishi Heavy Industries (MHI) to provide&#160;SeaRAM®&#160;ship self-defense systems in support of Australia&#8217;s SEA 3000 General Purpose Frigate program. The SEA 3000 program is set to replace the decommissioning&#160;Anzac-class frigates with 11 Upgraded Mogami-class frigates.&#160;&#160; Press release by Raytheon Under the contract, Raytheon will supply SeaRAM launchers, Blast Test ...\nThe post Raytheon to provide SeaRAM for Australia&#8217;s Up",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "New Navy Shipbuilding Plan: Trump-class Battleship will be Nuclear-powered, Carrier Design is Under Review",
         "url": "https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review",
         "published": "2026-05-11T20:45:05Z",
@@ -445,16 +455,6 @@
         "language": "en",
         "summary": "At SAHA Expo 2026, Turkish submarine technologies company DATUM placed its Sinarit concept at the center of its presentation, using the event to outline a modular extra-large uncrewed underwater vehicle (XLUUV) intended for a wide range of payloads and mission sets. According to the company’s press release, Sinarit is based on experience gained through DATUM’s ...\nThe post DATUM Introduces Strike-Capable Sinarit XLUUV appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Sinarit-Drone-1024x576.jpeg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Vietnam Slated to Order BrahMos and Naval Vessels from India",
-        "url": "https://www.navalnews.com/naval-news/2026/05/vietnam-slated-to-order-brahmos-and-naval-vessels-from-india/",
-        "published": "2026-05-09T05:28:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Vietnam and India are set to improve defence ties with the procurement of BrahMos, three to four OPVs and 14 patrol boats. During a prior visit by Indian Prime Minister Modi to Vietnam, India had extended a $500 million line of credit for defence needs. P Kumaran, Secretary (East) of India&#8217;s Ministry of External Affairs ...\nThe post Vietnam Slated to Order BrahMos and Naval Vessels from India appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2020/09/Vietnam-Border-Guard-LT-Patrol-Vessel-1024x576.jpg",
         "section": "rov_teknologi"
       }
     ]

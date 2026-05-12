@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-05-11T15:27:31Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-12T06:30:30Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "US Navy open to building ships overseas, new plan says",
+        "url": "https://www.defensenews.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
+        "published": "2026-05-12T03:18:39Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The new plan comes after President Donald Trump and previous Navy Secretary John Phelan reportedly disagreed over outsourcing construction on select ships.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXICHR5CJVEXPDMU5JDU6UZKDU.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan welcomes New Zealand interest in Upgraded Mogami-class Frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/05/japan-welcomes-new-zealand-interest-in-upgraded-mogami-class-frigate/",
+        "published": "2026-05-11T20:53:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan’s Chief Cabinet Secretary Minoru Kihara, on May 11, welcomed New Zealand’s decision to consider the upgraded Mogami-class frigate as a candidate for the Royal New Zealand Navy’s future frigate programme, calling it beneficial for strengthening deterrence in the Indo-Pacific. Speaking at a press conference, Kihara said a potential New Zealand acquisition of the “Upgraded ...\nThe post Japan welcomes New Zealand interest in Upgraded Mogami-class Frigate appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "10-ship Russian Convoy Transits Japan’s Tsushima Strait",
+        "url": "https://news.usni.org/2026/05/11/10-ship-russian-convoy-transits-japans-tsushima-strait",
+        "published": "2026-05-11T20:24:19Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A 10-ship Russian convoy transited Japan’s Tsushima Strait to enter the East China Sea over the weekend, according to Japan’s Joint Staff Office. The Japan Maritime Self-Defense Force (JMSDF) spotted two Russian corvettes, a fleet oiler, a tugboat and six cargo ships around 5 p.m. Saturday sailing southwest 140 kilometers northeast of Tsushima, and from Saturday to Sunday, the convoy transited the strait, reads a Monday news release from Japan’s Joint Staff Office. JMSDF fast attack craft JS Shi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Russian-Convoy-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy unveils three new PAEs for aviation, mission systems, munitions",
+        "url": "https://breakingdefense.com/2026/05/navy-unveils-three-new-paes-for-aviation-mission-systems-munitions/",
+        "published": "2026-05-11T17:42:20Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "“The establishment of these PAEs today will accelerate acquisition efforts in three key portfolios,” said Jason Potter, who is performing the duties of assistant secretary of the Navy for research and development.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9623342-scaled-e1777041254497-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: May 11, 2026",
+        "url": "https://news.usni.org/2026/05/11/usni-news-fleet-and-marine-tracker-may-11-2026",
+        "published": "2026-05-11T16:59:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 11, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 232, USNS 59) 105 (USS 74, USNS 31) (37 FDNF, 68 Rotational) 88 (59 Deployed, 29 Local) In the Philippine Sea Aircraft carrier USS George Washin",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FT_5_11_26-1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy’s 2026 Shipbuilding Plan",
+        "url": "https://news.usni.org/2026/05/11/u-s-navys-2026-shipbuilding-plan",
+        "published": "2026-05-11T16:35:15Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the U.S. Navy&#8217;s Shipbuilding Plan, published May 11, 2026. From the Report Introduction SEAPOWER DELIVERED Over the past year, the United States Navy has continually demonstrated across multiple theaters and mission sets why it is the world’s premier maritime force. Whether delivering continuous, devastating striking power at an unrelenting pace from virtually every type of platform in the Fleet in Operation Epic Fury, enabling the rapid insertion, decisive action, and saf",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "2 Dead, 1 Survivor in Friday Strike on Suspected Narco Boat",
+        "url": "https://news.usni.org/2026/05/11/2-dead-1-survivor-in-friday-strike-on-suspected-nacro-boat",
+        "published": "2026-05-11T15:43:56Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "U.S. forces struck a suspected narco boat Friday, killing two men and leaving one survivor, U.S. Southern Command announced. The boat was operating in the Eastern Pacific and is alleged to have been transiting along known narco-trafficking routes when it was struck. Following the strike, SOUTHCOM notified the U.S. Coast Guard of the survivor. The Coast Guard had not announced an update in the search and rescue of the survivor as of early Monday. The two fatalities from the Friday strike adds to ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-11.29.10-AM.png",
+        "section": "nyheter"
+      },
       {
         "title": "Sting Ray Mod 1 torpedo poised to start first P-8A flight trials",
         "url": "https://www.navalnews.com/naval-news/2026/05/sting-ray-mod-1-torpedo-poised-to-start-first-p-8a-flight-trials/",
@@ -84,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "New INDOPACOM Mission Network links allies during Balikatan",
-        "url": "https://www.navalnews.com/naval-news/2026/05/new-indopacom-mission-network-links-allies-during-balikatan/",
-        "published": "2026-05-08T20:42:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A United States-led zero-trust network platform designed to integrate allied military operations during crises&#8211; the INDOPACOM Mission Network (IMN)&#8211; was tested for the first time during the recently concluded Balikatan exercises, according to a top US commander. The IMN linked forces from the US, the Philippines, Australia, Japan, New Zealand and Canada in a series ...\nThe post New INDOPACOM Mission Network links allies during Balikatan appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: May 8, 2026",
         "url": "https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026",
         "published": "2026-05-08T20:40:54Z",
@@ -164,16 +224,6 @@
         "section": "nyheter"
       },
       {
-        "title": "ASELSAN at SAHA 2026: Introducing next-generation multi-domain defense systems",
-        "url": "https://breakingdefense.com/2026/05/aselsan-at-saha-2026-introducing-next-generation-multi-domain-defense-systems/",
-        "published": "2026-05-07T18:03:18Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "[Sponsored] Unveiled at SAHA 2026, ASELSAN’s latest portfolio reflects a layered and integrated defense architecture, bringing together electronic warfare, counter-UAV, airborne and naval capabilities within a unified operational framework.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/KILIC_SAHA-1024x683.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "US forces fire at, disable Iran-flagged tanker trying to evade blockade",
         "url": "https://www.defensenews.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/",
         "published": "2026-05-06T18:16:01Z",
@@ -231,46 +281,6 @@
         "language": "en",
         "summary": "The following is the Navy’s Fiscal Year 2027 active-duty captain line selections, released April 29, 2026, by Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED FM SECNAV WASHINGTON DC TO ALNAV INFO SECNAV WASHINGTON DC CNO WASHINGTON DC CMC WASHINGTON DC SUBJ/FY-27 ACTIVE-DUTY NAVY CAPTAIN LINE SELECTIONS// AMPN/REF A IS THE FY-27 ACTIVE-DUTY NAVY CAPTAIN LINE PROMOTION SELECTION BOARDS CONVENING ORDER.// RMKS/1. I am pleased to announce the following line offic",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Royal Navy Plans to Use Hybrid Fleet to Keep Pace with Russia in High North",
-        "url": "https://news.usni.org/2026/05/04/royal-navy-to-use-hybrid-fleet-to-keep-pace-with-russia-in-high-north",
-        "published": "2026-05-04T19:56:12Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Royal Navy will use its hybrid fleet, enhanced with autonomous and uncrewed vessels, to keep pace with Russia in the High North and North Atlantic, according to the service’s transformation plan. First Sea Lord Gen. Gywn Jenkins, head of the Royal Navy, outlined the service’s Hybrid Navy transformation plan last week in a Wednesday speech at the Royal United Services Institute in London. The First Sea Lord stated that the RN’s Hybrid Navy will be geared towards the North Atlantic and High No",
-        "image_url": "https://news.usni.org/wp-content/uploads/2025/11/RattlerUSV1.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Carrier USS Gerald R. Ford Operating in the Mediterranean Sea",
-        "url": "https://news.usni.org/2026/05/04/carrier-uss-gerald-r-ford-operating-in-the-mediterranean-sea",
-        "published": "2026-05-04T19:49:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now operating in the Mediterranean after leaving the Red Sea last week, USNI News has learned. Ford transited the Suez Canal last week, a defense official confirmed to USNI News. The carrier is expected to sail home to Naval Station Norfolk, Va., after breaking the post-Cold War deployment record last month, USNI News reported at the time. As of Monday, Ford has been deployed for 314 days. The carrier operated in the Red Sea over the last several w",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9595356-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: May 4, 2026",
-        "url": "https://news.usni.org/2026/05/04/usni-news-fleet-and-marine-tracker-may-4-2026",
-        "published": "2026-05-04T16:53:08Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 4, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 232, USNS 59) 105 (USS 74, USNS 31) (37 FDNF, 68 Rotational) 90 (62 Deployed, 28 Local) In Japan Aircraft carrier USS George Washington (CVN-73) ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FT_5_4_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Shipbuilding Advisor William Toti Now Performing Duties of Under Secretary of the Navy",
-        "url": "https://news.usni.org/2026/05/04/shipbuilding-advisor-william-toti-now-performing-duties-of-under-secretary-of-the-navy",
-        "published": "2026-05-04T16:34:41Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "A former advisor to Deputy Defense Secretary Steve Feinberg is now performing the duties of the under secretary of the Navy, the service announced last week. Retired Navy Capt. William Toti, a career submariner who until recently worked for Feinberg on shipbuilding issues, is filling in as the Navy’s number two civilian as Hung Cao takes on the acting secretary role. “He has my full trust and authority to drive change, increase efficiency, and accelerate decisions—so we can deliver warfighting c",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/260501-N-AA000-1001-scaled-e1777912293797.jpg",
         "section": "nyheter"
       }
     ],
@@ -408,6 +418,26 @@
     ],
     "rov_teknologi": [
       {
+        "title": "New Navy Shipbuilding Plan: Trump-class Battleship will be Nuclear-powered, Carrier Design is Under Review",
+        "url": "https://news.usni.org/2026/05/11/new-navy-shipbuilding-plan-trump-class-battleship-will-be-nuclear-powered-carrier-design-is-under-review",
+        "published": "2026-05-11T20:45:05Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The new Trump-class battleship will be powered by a nuclear reactor and is not a successor to the Arleigh Burke-class guided-missile destroyers, the Navy revealed Monday in its annual 30-year shipbuilding blueprint. The Navy’s shipbuilding plan officially acknowledges for the first time what naval observers have suggested for months – that the potentially $17.5 billion battleship could be nuclear-powered. “The nuclear-powered battleship is designed to provide the fleet with a significant increas",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/12/Trump-Battleship-poster-ny-harbor_hi-res-1-2048x1229-1.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Taiwan’s parliament passes pared-back supplementary defense budget",
+        "url": "https://breakingdefense.com/2026/05/taiwans-parliament-passes-pared-back-supplementary-defense-budget/",
+        "published": "2026-05-11T16:34:58Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The approved supplemental budget is much lower than the NT$1.25 trillion proposed by the Lai administration, with the funding going towards two separate US arms packages for Taiwan.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/260203_DVIDS_paladin_howitzer_9460373-e1778517072751-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "DATUM Introduces Strike-Capable Sinarit XLUUV",
         "url": "https://www.navalnews.com/naval-news/2026/05/datum-introduces-strike-capable-sinarit-xluuv/",
         "published": "2026-05-09T17:03:16Z",
@@ -425,16 +455,6 @@
         "language": "en",
         "summary": "Vietnam and India are set to improve defence ties with the procurement of BrahMos, three to four OPVs and 14 patrol boats. During a prior visit by Indian Prime Minister Modi to Vietnam, India had extended a $500 million line of credit for defence needs. P Kumaran, Secretary (East) of India&#8217;s Ministry of External Affairs ...\nThe post Vietnam Slated to Order BrahMos and Naval Vessels from India appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2020/09/Vietnam-Border-Guard-LT-Patrol-Vessel-1024x576.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "First Columbia-class Sub Tracking to 2028 Delivery, General Dynamics Says",
-        "url": "https://news.usni.org/2026/04/29/first-columbia-class-sub-tracking-to-2028-delivery-general-dynamics-says",
-        "published": "2026-04-29T21:19:22Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The first of the new Columbia-class of ballistic missile submarine is tracking for a 2028 delivery due to improvements in workforce efficiency and the supplier base, General Dynamics officials said Wednesday. District of Columbia (SSBN-826), currently being assembled at GD Electric Boat is “on a path to deliver that first boat by the end of 2028, so excellent progress in the last six or nine months on the Columbia program,” GD’s president Danny Deep said during a first-quarter earnings call on W",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/960x0-1.jpeg",
         "section": "rov_teknologi"
       }
     ]

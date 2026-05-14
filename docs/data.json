@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-05-13T14:50:26Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-14T06:39:45Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
-        "title": "Ecuador Commissions Its Largest Naval Vessel: BAE Jambelí",
+        "title": "PteroDynamics to supply Transwing VTOL drone to Royal Australian Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/05/pterodynamics-to-supply-transwing-vtol-drone-to-royal-australian-navy/",
+        "published": "2026-05-13T20:43:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "PteroDynamics Inc., an innovator in autonomous vertical takeoff and landing (VTOL) aircraft systems, has been awarded a contract by the Royal Australian Navy (RAN) to supply Transwing VTOL unmanned aircraft systems (UAS) to support RAN’s autonomous maritime distributed logistics capabilities. PteroDynamics press release PteroDynamics will deliver P4 Transwing UAS aircraft, plus training and support, with ...\nThe post PteroDynamics to supply Transwing VTOL drone to Royal Australian Navy appeared ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/casson.021-1024x684.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy could run out of money by July, top officer warns",
+        "url": "https://www.defensenews.com/news/your-navy/2026/05/13/us-navy-could-run-out-of-money-by-july-top-officer-warns/",
+        "published": "2026-05-13T20:34:43Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Chief of Naval Operations Adm. Daryl Caudle told lawmakers at a budget hearing Tuesday that the Navy might have to modify training and operations.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/4AXN6MEZGVGH7CWRIXNQNEAUH4.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Contractor awarded $3.5 billion to build out US Coast Guard’s Arctic Security Cutters fleet",
+        "url": "https://www.defensenews.com/news/your-military/2026/05/13/contractor-awarded-35-billion-to-build-out-coast-guards-arctic-security-cutters-fleet/",
+        "published": "2026-05-13T20:23:23Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The five cutters to be delivered by Davie Defense will represent a new class of Arctic icebreakers.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/A73FKVPDGFAJDJBGVSJKEQ3D7Q.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "L3Harris turns handheld radios into counter-drone jammers",
+        "url": "https://breakingdefense.com/2026/05/l3harris-turns-handheld-radios-into-counter-drone-jammers/",
+        "published": "2026-05-13T18:33:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The forthcoming Wraith Shield software update uses the existing antenna to scan for drone control signals, identify enemy ones, and jam them, L3Harris executives told reporters.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/260513_falcon_iv_radio_L3HARRIS-1024x574.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "After Middle East ops, Navy to start feeling funding crunch this summer: CNO",
+        "url": "https://breakingdefense.com/2026/05/navy-to-run-into-financial-constraints-this-summer-due-to-current-operations-cno-says/",
+        "published": "2026-05-13T17:03:57Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The aircraft carrier Gerald R. Ford is expected to face increased maintenance due to its extended deployment.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9548827-scaled-e1778682197445-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ecuador Commissions Its Largest Naval Vessel: BAE Jambeli",
         "url": "https://www.navalnews.com/naval-news/2026/05/ecuador-commissions-its-largest-naval-vessel-bae-jambeli/",
         "published": "2026-05-13T13:55:12Z",
         "source": "Naval News",
         "language": "en",
-        "summary": "On May 7, 2026, the Ecuadorian Navy commissioned BAE Jambelí (MP-56), formerly Korean Coast Guard vessel KCG-3001 and lead ship of the Tae Pyung Yang-class. It is now the Ecuador’s largest and most capable offshore patrol vessel. On May 7, 2026, the Ecuadorian Navy (Armada del Ecuador) formally commissioned BAE Jambelí (MP-56) during a ceremony ...\nThe post Ecuador Commissions Its Largest Naval Vessel: BAE Jambelí appeared first on Naval News.",
+        "summary": "On May 7, 2026, the Ecuadorian Navy commissioned BAE Jambelí (MP-56), formerly Korean Coast Guard vessel KCG-3001 and lead ship of the Tae Pyung Yang-class. It is now the Ecuador’s largest and most capable offshore patrol vessel. On May 7, 2026, the Ecuadorian Navy (Armada del Ecuador) formally commissioned BAE Jambelí (MP-56) during a ceremony ...\nThe post Ecuador Commissions Its Largest Naval Vessel: BAE Jambeli appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/BAE-Jambeli-graph-1024x427.jpg",
         "section": "nyheter"
       },
@@ -94,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Australia unveils $45.2 billion defense budget with ramp up in AUKUS spending",
-        "url": "https://breakingdefense.com/2026/05/australia-unveils-45-2-billion-defense-budget-with-ramp-up-in-aukus-spending/",
-        "published": "2026-05-12T16:31:53Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "This year&#8217;s budget represents a six percent increase over last year&#8217;s defense spending.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/RS81761-RS79362-Surface-01.jpg.iCfxmu3yMTt7e-VjYBMA.h3rxlZNE4S-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Sinking Ships in the South China Sea",
         "url": "https://news.usni.org/2026/05/12/sinking-ships-in-the-south-china-sea",
         "published": "2026-05-12T16:06:27Z",
@@ -114,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy pushes Congress to back constructing auxiliary ships overseas",
-        "url": "https://breakingdefense.com/2026/05/navy-pushes-congress-to-back-constructing-auxiliary-ships-overseas/",
-        "published": "2026-05-12T13:40:38Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The new shipbuilding plan also confirmed that the Trump-class battleship will be nuclear-powered, and that the Navy wants an inventory of 15 battleships by 2056.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/6428648-e1778586829716-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy open to building ships overseas, new plan says",
         "url": "https://www.defensenews.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
         "published": "2026-05-12T03:18:39Z",
@@ -131,16 +161,6 @@
         "language": "en",
         "summary": "The new plan comes after President Donald Trump and previous Navy Secretary John Phelan reportedly disagreed over outsourcing construction on select ships.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXICHR5CJVEXPDMU5JDU6UZKDU.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Japan welcomes New Zealand interest in Upgraded Mogami-class Frigate",
-        "url": "https://www.navalnews.com/naval-news/2026/05/japan-welcomes-new-zealand-interest-in-upgraded-mogami-class-frigate/",
-        "published": "2026-05-11T20:53:07Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japan’s Chief Cabinet Secretary Minoru Kihara, on May 11, welcomed New Zealand’s decision to consider the upgraded Mogami-class frigate as a candidate for the Royal New Zealand Navy’s future frigate programme, calling it beneficial for strengthening deterrence in the Indo-Pacific. Speaking at a press conference, Kihara said a potential New Zealand acquisition of the “Upgraded ...\nThe post Japan welcomes New Zealand interest in Upgraded Mogami-class Frigate appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -241,16 +261,6 @@
         "language": "en",
         "summary": "The French Carrier Strike Group transited the Suez Canal on Wednesday en route to the Red Sea, as part of a multinational naval coalition that seeks to restore freedom of navigation in the Strait of Hormuz. “The multinational mission that France and the United Kingdom have set up can help restore confidence among shipowners and insurers. It will, by its very nature, be distinct from the warring parties. The pre-positioning of the aircraft carrier Charles de Gaulle fits within this context,” Fren",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FrenchCSG.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Cahill Nominated to Lead Naval Surface Force, Cash Nominated as Navy’s Top Chaplain",
-        "url": "https://news.usni.org/2026/05/06/cahill-nominated-to-lead-naval-surface-force-cash-nominated-as-navys-top-chaplain",
-        "published": "2026-05-06T17:35:29Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "President Donald Trump nominated Rear Adm. Joe Cahill to serve as the next commander of Naval Surface Force, the Pentagon announced Tuesday. Cahill, who is the current commander of Naval Surface Force Atlantic in Norfolk, Va., will be promoted to vice admiral if confirmed as the next SWO Boss. A career surface warfare officer, Cahill has served on several destroyers, Ticonderoga-class guided-missile cruiser USS Bunker Hill (CG-52) and Kitty Hawk-class aircraft carrier USS Constellation (CV-64), ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/USNI-News-Socials-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -397,6 +407,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "U.K. Pledges Destroyer, Drone-hunting Systems to Strait of Hormuz Mission",
+        "url": "https://news.usni.org/2026/05/13/u-k-pledges-destroyer-drone-hunting-systems-to-strait-of-hormuz-mission",
+        "published": "2026-05-13T19:44:12Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.K. has pledged a force package that includes a destroyer, Typhoon fighter aircraft, autonomous mine hunting systems and unmanned surface vessels to secure freedom of navigation in the Strait of Hormuz after the U.S. and Iran agree to a “sustainable” ceasefire agreement, the U.K. Ministry of Defense announced Tuesday. The Royal Navy is sending destroyer HMS Dragon (D35), which has been deployed in the Mediterranean since March and is now making its way to the Suez Canal, the Ministry of Def",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FLEET-20260425-ZV216-002-scaled.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Report to Congress on the Marine Corps’ Amphibious Combat Vehicle",
+        "url": "https://news.usni.org/2026/05/13/report-to-congress-on-the-marine-corps-amphibious-combat-vehicle",
+        "published": "2026-05-13T15:42:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the May 11, 2026, Congressional Research Service report The Marine Corps’ Amphibious Combat Vehicle (ACV). From the Report Background The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "UK to contribute drones, jets and warship to Multinational Mission to secure the Strait of Hormuz",
         "url": "https://www.navalnews.com/naval-news/2026/05/uk-to-contribute-drones-jets-and-warship-to-multinational-mission-to-secure-the-strait-of-hormuz/",

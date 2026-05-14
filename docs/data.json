@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-05-14T06:39:45Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-14T14:29:54Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Royal Navy achieves milestone with first sea trials of NavyPODS",
+        "url": "https://www.navalnews.com/naval-news/2026/05/royal-navy-achieves-milestone-with-first-sea-trials-of-navypods/",
+        "published": "2026-05-14T10:02:57Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "UK engineering SME Force Development Services (FDS) has successfully tested its containerised medical mission module at sea for the first time, marking a significant milestone for the UK Royal Navy’s (RN’s) NavyPODS – Navy Persistent Operational Deployment System – programme. The two-week medical trial, which was carried out by the Royal Naval Medical Service (RNMS) ...\nThe post Royal Navy achieves milestone with first sea trials of NavyPODS appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/IMG_6355_cropped-1.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Indonesia Confirms Mogami Frigates and Submarine Offers from Japan",
+        "url": "https://www.navalnews.com/naval-news/2026/05/indonesia-confirms-mogami-frigates-and-submarine-offers-from-japan/",
+        "published": "2026-05-14T07:45:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan is offering Indonesia Mogami-class frigates and submarines, as Tokyo seeks to deepen security cooperation with Jakarta following the loosening of its arms export rules and amid the geopolitical situation in the region. On April 11, Indonesian Navy (TNI AL) Chief of Staff, Admiral Muhammad Ali, confirmed that Japan is offering Mogami frigates and submarines ...\nThe post Indonesia Confirms Mogami Frigates and Submarine Offers from Japan appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Indonesian-Navy-officials-posing-in-front-of-two-Oyashio-class-submarines-in-Yokosuka.-TNI-AL-picture-1024x768.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saab and PGZ Group establish strategic naval domain collaboration",
+        "url": "https://www.navalnews.com/naval-news/2026/05/saab-and-pgz-group-establish-strategic-naval-domain-collaboration/",
+        "published": "2026-05-14T07:31:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saab has today entered into a Strategic Collaboration Agreement in the naval domain with the PGZ Group, Poland&#8217;s largest defence corporation. Saab press release In the agreement, both companies express their interest in collaborating on the service and lifecycle support of surface vessels and submarines, integrating PGZ Group’s naval domain entities into Saab’s supply chain, ...\nThe post Saab and PGZ Group establish strategic naval domain collaboration appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "PteroDynamics to supply Transwing VTOL drone to Royal Australian Navy",
         "url": "https://www.navalnews.com/naval-news/2026/05/pterodynamics-to-supply-transwing-vtol-drone-to-royal-australian-navy/",
@@ -84,16 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navantia progresses with BAM-IS Submarine Rescue Vessel construction",
-        "url": "https://www.navalnews.com/naval-news/2026/05/navantia-with-bam-is-submarine-rescue-vessel-construction/",
-        "published": "2026-05-13T07:14:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Last week, Navantia Puerto Real lowered the macrostructure 300 of the Submarine Rescue Vessel / Underwater Intervention Maritime Action Vessel (BAM-IS) into dry dock. This continues the construction strategy for this vessel, contracted by the Directorate General of Armament and Material (DGAM), which is being built for the Spanish Navy. Navantia press release This macrostructure, ...\nThe post Navantia progresses with BAM-IS Submarine Rescue Vessel construction appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/20260507_114549_b58a380d50-1024x473.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Kystvakten trener allerede på fremtidens helikopteroperasjoner",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/kystvakten-trener-allerede-pa-fremtidens-helikopteroperasjoner",
         "published": "2026-05-13T00:00:00Z",
@@ -111,16 +131,6 @@
         "language": "en",
         "summary": "Shipbuilders are on track to deliver two Virginia-class attack submarines per year in the early 2030s, Chief of Naval Operations Adm. Daryl Caudle told defense appropriators on Tuesday. Based on the current investment in the submarine industrial base and workforce and the expansion of distributed construction, Caudle estimated that builders General Dynamics Electric Boat and HII’s Newport News Shipbuilding will hit the two-a-year delivery rate for the attack boats by 2032. “I would say we&#8217;",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9608462-scaled.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Trump-class Battleship will get same nuclear reactor as Ford aircraft carrier",
-        "url": "https://breakingdefense.com/2026/05/trump-class-battleship-will-get-same-nuclear-reactor-as-ford-aircraft-carrier/",
-        "published": "2026-05-12T21:23:57Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Chief of Naval Operations Adm. Daryl Caudle confirmed the battleship would share several design features with the USS Ford.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -408,6 +418,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "U.S. Navy goes All In on Submarines in Released Shipbuilding Plan",
+        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-goes-all-in-on-submarines-in-released-shipbuilding-plan/",
+        "published": "2026-05-14T12:57:38Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy&#8217;s Future Years Defense Program (FYDP) regarding shipbuilding for fiscal years 2027-2031 contains massive investments into the U.S. Navy&#8217;s submarine force, with new details provided around what the U.S. subsurface fleet could look like in the future. Earmarked funding for submarines totals out to $124.9 billion dollars for FY 27-31, presenting a massive ...\nThe post U.S. Navy goes All In on Submarines in Released Shipbuilding Plan appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/9640029-1024x682.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "U.K. Pledges Destroyer, Drone-hunting Systems to Strait of Hormuz Mission",
         "url": "https://news.usni.org/2026/05/13/u-k-pledges-destroyer-drone-hunting-systems-to-strait-of-hormuz-mission",
         "published": "2026-05-13T19:44:12Z",
@@ -444,36 +464,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Klein Marine Systems has announced the MANTIS UUV, a side scan sonar system designed for autonomous underwater vehicle platforms. The system incorporates the company&#8217;s SmartArray Technology, which integrates electronics directly into the transducer array to reduce the overall footprint for space-constrained UUV installations. According to Klein&#8217;s announcement, the MANTIS UUV is intended to provide &#8220;consistent, ...\nThe post Klein Marine Systems Announces MANTIS UUV with Integrat",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "SubSea Craft Advances MARS USV as Production Begins",
-        "url": "https://www.navalnews.com/naval-news/2026/05/subsea-craft-advances-mars-usv-as-production-begins/",
-        "published": "2026-05-13T07:35:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "SubSea Craft announced a major evolution of the MARS Unmanned Surface Vessel (USV) as part of the company’s growing technology portfolio.  SubSea Craft press release This development reflects SubSea Craft’s continuous improvement approach, informed by extensive testing and operator collaboration to ensure that the system remains aligned with operational requirements. This approach prioritises the core ...\nThe post SubSea Craft Advances MARS USV as Production Begins appeared first on Naval News.",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy wants new LRAW Stand-off Anti-Submarine Weapon",
-        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-wants-new-lraw-stand-off-anti-submarine-weapon/",
-        "published": "2026-05-12T12:42:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy will fund development work on the Long Range ASW (Anti-Submarine Warfare) Weapon, otherwise known as LRAW, for the first time starting sometime in late 2026/early 2027. Details regarding LRAW broke cover in the U.S. Navy&#8217;s Research, Development, Test &#38; Evaluation documentation for fiscal year 2027. LRAW is to be the replacement/supplement for ...\nThe post U.S. Navy wants new LRAW Stand-off Anti-Submarine Weapon appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Screenshot-2026-05-11-at-00-09-59-Justification-Book-RDTEN_BA5_Book.pdf-1024x512.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Raytheon to provide SeaRAM for Australia’s Upgraded Mogami-class frigates",
-        "url": "https://www.navalnews.com/naval-news/2026/05/upgraded-mogami-frigates-for-australia-to-receive-searam/",
-        "published": "2026-05-12T07:08:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Raytheon has been awarded a contract by Mitsubishi Heavy Industries (MHI) to provide&#160;SeaRAM®&#160;ship self-defense systems in support of Australia&#8217;s SEA 3000 General Purpose Frigate program. The SEA 3000 program is set to replace the decommissioning&#160;Anzac-class frigates with 11 Upgraded Mogami-class frigates.&#160;&#160; Press release by Raytheon Under the contract, Raytheon will supply SeaRAM launchers, Blast Test ...\nThe post Raytheon to provide SeaRAM for Australia&#8217;s Up",
         "image_url": "",
         "section": "rov_teknologi"
       },

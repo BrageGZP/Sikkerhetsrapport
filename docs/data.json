@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-05-14T14:29:54Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-15T06:49:11Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Lawmakers push for domestic shipbuilding fixes as US Navy explores overseas options",
+        "url": "https://www.defensenews.com/news/2026/05/14/lawmakers-push-for-domestic-shipbuilding-fixes-as-us-navy-explores-overseas-options/",
+        "published": "2026-05-14T22:53:11Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The service released its fiscal 2027 shipbuilding plan on Monday, outlining the possibility of the U.S. manufacturing ships at foreign shipyards.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2D5QRDW5IVCK3EGHNZOBALWDF4.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Norway Cancels Kongsberg-Malaysian Government Contract for Naval Strike Missiles, Launchers",
+        "url": "https://news.usni.org/2026/05/14/norway-cancels-kongsberg-malaysian-government-contract-for-naval-strike-missiles-launchers",
+        "published": "2026-05-14T21:22:01Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Norway canceled a contract between Kongsberg and Malaysia for Naval Strike Missiles and its launchers after the Nordic country implemented new arms restrictions. Malaysian Prime Minister Anwar Ibrahim protested the decision on Thursday. Malaysia was set to procure the Naval Strike Missiles and associated equipment from the Norwegian-based contractor for six Maharaja Lela-class Littoral Combat Ships under a $145 million contract signed in 2018. In 2025, Malaysia agreed to another $11.19 million c",
+        "image_url": "https://news.usni.org/wp-content/uploads/2015/04/New-NSM-background.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Gerald R. Ford to return from historic deployment on Saturday: CNO",
+        "url": "https://breakingdefense.com/2026/05/gerald-r-ford-to-return-from-historic-deployment-on-saturday-cno/",
+        "published": "2026-05-14T20:10:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Aircraft from Carrier Air Wing 8 embarked on the Ford returned to their home naval air stations on Monday.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9493393-scaled-e1772661283927-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Iran’s Navy won’t rebuild for 5 to 10 years, country unable to support proxies: CENTCOM",
+        "url": "https://breakingdefense.com/2026/05/irans-navy-wont-rebuild-for-5-to-10-years-country-unable-to-support-proxies-centcom/",
+        "published": "2026-05-14T19:15:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "&#8220;Today, Hamas, Hezbollah and the Houthis are all cut off from Iran&#8217;s weapons supply and support,” Adm. Brad Cooper, told SASC members.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9627294-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USVs could be ‘alternate options’ for missions for stretched manned fleet: Navy official",
+        "url": "https://breakingdefense.com/2026/05/usvs-could-be-alternate-options-for-missions-for-stretched-manned-fleet-navy-official/",
+        "published": "2026-05-14T15:55:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "USVs are emerging as modular force elements when sending a large combatant ship is too costly or disproportionate.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_4-1024x565.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Royal Navy achieves milestone with first sea trials of NavyPODS",
         "url": "https://www.navalnews.com/naval-news/2026/05/royal-navy-achieves-milestone-with-first-sea-trials-of-navypods/",
@@ -71,16 +121,6 @@
         "language": "en",
         "summary": "The forthcoming Wraith Shield software update uses the existing antenna to scan for drone control signals, identify enemy ones, and jam them, L3Harris executives told reporters.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/260513_falcon_iv_radio_L3HARRIS-1024x574.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "After Middle East ops, Navy to start feeling funding crunch this summer: CNO",
-        "url": "https://breakingdefense.com/2026/05/navy-to-run-into-financial-constraints-this-summer-due-to-current-operations-cno-says/",
-        "published": "2026-05-13T17:03:57Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The aircraft carrier Gerald R. Ford is expected to face increased maintenance due to its extended deployment.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9548827-scaled-e1778682197445-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -214,16 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Epic Fury has Navy rethinking carrier deployment tempo",
-        "url": "https://www.defensenews.com/news/your-navy/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/",
-        "published": "2026-05-11T14:21:13Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The record-breaking deployment of the USS Gerald R. Ford has reopened the debate about how the Navy should structure deployments and time at home.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/75S2LETDVVBJPIIZ4XA66JSXNE.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: May 8, 2026",
         "url": "https://news.usni.org/2026/05/08/usni-news-western-pacific-pulse-may-8-2026",
         "published": "2026-05-08T20:40:54Z",
@@ -251,26 +281,6 @@
         "language": "en",
         "summary": "Three Navy destroyers came under fire from Iran as they transited the Strait of Hormuz as commercial shipping traffic remains at an almost standstill. Iranian forces sent missiles, drones and small boats after USS Mason (DDG-87), USS Rafael Peralta (DDG-115) and USS Truxton (DDG-103) as the three warships headed toward the Gulf of Oman, according to U.S. Central Command news release. The attack on the three destroyers was the latest in a flurry of activity that has left the shipping industry and",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9649699-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "GAO Report on Mariner Training",
-        "url": "https://news.usni.org/2026/05/07/gao-report-on-mariner-training",
-        "published": "2026-05-07T20:35:26Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Why GAO Did This Study The maritime industry relies on mariners to work on vessels carrying goods and passengers domestically and internationally. However, industry stakeholders have raised concerns about a mariner shortage. To work in the industry, mariners often take courses through a training institution. MARAD and the Departments of Education, VA, and Labor administer federal financial aid that students could use for mariner training. The National Defense Authorization Act for Fiscal Year 20",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "French Carrier Strike Group Now Operating in the Middle East",
-        "url": "https://news.usni.org/2026/05/07/french-carrier-strike-group-now-operating-in-the-middle-east",
-        "published": "2026-05-07T18:45:17Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The French Carrier Strike Group transited the Suez Canal on Wednesday en route to the Red Sea, as part of a multinational naval coalition that seeks to restore freedom of navigation in the Strait of Hormuz. “The multinational mission that France and the United Kingdom have set up can help restore confidence among shipowners and insurers. It will, by its very nature, be distinct from the warring parties. The pre-positioning of the aircraft carrier Charles de Gaulle fits within this context,” Fren",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FrenchCSG.jpeg",
         "section": "nyheter"
       }
     ],
@@ -417,6 +427,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Iran’s Plan to Charge for Strait of Hormuz Transits Could Spread to Other Regions, Experts Warn",
+        "url": "https://news.usni.org/2026/05/14/irans-plan-to-charge-for-strait-of-hormuz-transits-could-spread-to-other-regions-experts-warn",
+        "published": "2026-05-14T22:14:29Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Iran’s push to charge merchant shippers for passage through the Strait of Hormuz under threat of violence could spread to other parts of the world, maritime experts said this week. The problem arises if there is any normalization of Iran’s actions in creating a passageway that requires ships to provide their information, including ownerships, and a potential fee to cross, Ian Ralby, a non-resident senior fellow at the Center for Maritime Security, said during a Thursday Lloyd’s List webinar. If ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9629501-scaled.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Iran military threat is diminished but not eliminated, CENTCOM chief says",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
+        "published": "2026-05-14T19:57:59Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Adm. Brad Cooper said the U.S. had severely degraded Iran’s warfighting capacity, including the elimination of roughly 90% of its inventory of naval mines.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBYF3JELLRFX7K2WOXKHWPOCIA.JPG",
+        "section": "rov_teknologi"
+      },
       {
         "title": "U.S. Navy goes All In on Submarines in Released Shipbuilding Plan",
         "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-goes-all-in-on-submarines-in-released-shipbuilding-plan/",

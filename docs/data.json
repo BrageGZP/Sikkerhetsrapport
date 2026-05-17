@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:38:34Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-17T13:46:44Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -398,6 +398,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Indonesia prepares for carrier operations ahead of Garibaldi transfer",
+        "url": "https://www.navalnews.com/naval-news/2026/05/indonesia-prepares-for-carrier-operations-ahead-of-garibaldi-transfer/",
+        "published": "2026-05-17T08:01:36Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Indonesian Navy (TNI AL) has begun preparations for future flight operations aboard the ex-Italian aircraft carrier Giuseppe Garibaldi. In a now-deleted video posted on the official account of TNI AL’s 100th Squadron, it is revealed that the service has created a simulation facility for future flight operations training. The squadron, which specializes in anti-submarine ...\nThe post Indonesia prepares for carrier operations ahead of Garibaldi transfer appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Carrier-Flight-Deck-Outline-at-Juanda-Naval-Air-Station.-TNI-AL-picture-2-1024x501.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "L&T partners with Exail to offer Mine Warfare solutions to the Indian Navy",
         "url": "https://www.navalnews.com/naval-news/2026/05/lt-partners-with-exail-to-offer-mine-warfare-solutions-to-the-indian-navy/",
         "published": "2026-05-16T08:33:34Z",
@@ -425,16 +435,6 @@
         "language": "en",
         "summary": "Adm. Brad Cooper said the U.S. had severely degraded Iran’s warfighting capacity, including the elimination of roughly 90% of its inventory of naval mines.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBYF3JELLRFX7K2WOXKHWPOCIA.JPG",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy goes All In on Submarines in Released Shipbuilding Plan",
-        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-goes-all-in-on-submarines-in-released-shipbuilding-plan/",
-        "published": "2026-05-14T12:57:38Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy&#8217;s Future Years Defense Program (FYDP) regarding shipbuilding for fiscal years 2027-2031 contains massive investments into the U.S. Navy&#8217;s submarine force, with new details provided around what the U.S. subsurface fleet could look like in the future. Earmarked funding for submarines totals out to $124.9 billion dollars for FY 27-31, presenting a massive ...\nThe post U.S. Navy goes All In on Submarines in Released Shipbuilding Plan appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/9640029-1024x682.jpg",
         "section": "rov_teknologi"
       },
       {

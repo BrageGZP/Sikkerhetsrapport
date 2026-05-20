@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-05-20T07:34:19Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-20T15:40:44Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Airbus to open new A330 tanker facility in Spain, announces demo with Spanish Navy",
+        "url": "https://breakingdefense.com/2026/05/airbus-to-open-new-a330-tanker-facility-in-spain-announces-demo-with-spanish-navy/",
+        "published": "2026-05-20T15:07:07Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Announcement of the conversion facility comes after Italy awarded the manufacturer a contract for the planned procurement of the tankers, valued at €1.4 billion ($1.6 billion).",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/11/Royal-International-Air-Tatoo-2023-A330-MRTT-Landing-scaled-e1700603266447-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Australia kicks off $7.8 billion Collins-class submarine life extension",
+        "url": "https://breakingdefense.com/2026/05/australia-kicks-off-7-8-billion-collins-class-submarine-life-extension/",
+        "published": "2026-05-20T13:13:43Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The program will keep the submarines in service to the 2040s, 20 years longer than originally planned.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/RAN_HMAS-Collins_Farncomb_Dechaineux_Sheean-20190218ran8504505_035_3-e1779280845182-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
+        "url": "https://news.usni.org/2026/05/20/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury",
+        "published": "2026-05-20T13:03:22Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the May 13, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress. From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran under the designation Operation Epic Fury (OEF). The conflict has involved air, maritime, and missile combat engagements across the Middle East. The pace of combat activity declined amid a ceasefire in April. Within ",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Navy, Marine Corps back longer amphib readiness cycles, request more ships",
         "url": "https://breakingdefense.com/2026/05/navy-marine-corps-back-longer-amphib-readiness-cycles-request-more-ships/",
@@ -181,16 +211,6 @@
         "language": "en",
         "summary": "The world’s largest aircraft carrier is finally returning home after etching its name into Navy history books.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/37EZX6JDURAQBCRPIEU4GB3YUI.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Lawmakers push for domestic shipbuilding fixes as US Navy explores overseas options",
-        "url": "https://www.defensenews.com/news/2026/05/14/lawmakers-push-for-domestic-shipbuilding-fixes-as-us-navy-explores-overseas-options/",
-        "published": "2026-05-14T22:53:11Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The service released its fiscal 2027 shipbuilding plan on Monday, outlining the possibility of the U.S. manufacturing ships at foreign shipyards.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2D5QRDW5IVCK3EGHNZOBALWDF4.jpg",
         "section": "nyheter"
       },
       {
@@ -385,16 +405,6 @@
         "language": "en",
         "summary": "Iran’s push to charge merchant shippers for passage through the Strait of Hormuz under threat of violence could spread to other parts of the world, maritime experts said this week. The problem arises if there is any normalization of Iran’s actions in creating a passageway that requires ships to provide their information, including ownerships, and a potential fee to cross, Ian Ralby, a non-resident senior fellow at the Center for Maritime Security, said during a Thursday Lloyd’s List webinar. If ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9629501-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Iran military threat is diminished but not eliminated, CENTCOM chief says",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
-        "published": "2026-05-14T19:57:59Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Adm. Brad Cooper said the U.S. had severely degraded Iran’s warfighting capacity, including the elimination of roughly 90% of its inventory of naval mines.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBYF3JELLRFX7K2WOXKHWPOCIA.JPG",
         "section": "rov_teknologi"
       },
       {

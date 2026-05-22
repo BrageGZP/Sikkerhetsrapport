@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-22T07:34:55Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-22T14:51:55Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan Commissions Ninth Mogami-class Frigate ‘Natori’ 「なとり」",
+        "url": "https://www.navalnews.com/naval-news/2026/05/japan-commissions-ninth-mogami-class-frigate-natori-%e3%80%8c%e3%81%aa%e3%81%a8%e3%82%8a%e3%80%8d/",
+        "published": "2026-05-22T11:18:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japanese shipbuilder Mitsubishi Heavy Industries (MHI) held a delivery ceremony and a &#8220;self-defense ship flag raising ceremony&#8221; this week for the Natori (なとり). The event means the ship, the ninth Mogami-class FFM, was officially commissioned with the Japan Maritime Self-Defense Force (JMSDF). The event comes amid growing international interest in Mogami-derived designs, following Australia’s selection ...\nThe post Japan Commissions Ninth Mogami-class Frigate &#8216;Natori&#8217; 「なとり",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2019/05/JMSDF-Future-Frigate-to-Feature-Futuristic-360°-Augmented-Reality-Wall-3-1024x768.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Australia begins life extension effort for Collins submarines, announces A$11 billion cost over ten years",
         "url": "https://www.navalnews.com/naval-news/2026/05/australia-spends-big-on-lote-life-extension-for-collins-submarines/",
@@ -91,16 +101,6 @@
         "language": "en",
         "summary": "Turkey eyes an arsenal capable of taking out enemy ships with unmanned systems.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LJHC6NYXW5DTRJFNTZSLH6AOIU.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Naval Special Warfare Command combatant craft set to receive upgrades",
-        "url": "https://breakingdefense.com/2026/05/naval-special-warfare-command-combatant-craft-set-to-receive-upgrades/",
-        "published": "2026-05-20T19:03:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The upgrades are expected include the addition of an open system architecture to facilitate the “integration and aggregation of sensors,” PEO-Maritime Capt. Jared Wyrick said.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9199844-scaled-e1779290116305-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -221,16 +221,6 @@
         "language": "en",
         "summary": "The Navy commissioned the final Littoral Combat Ship on Saturday in Cleveland, Ohio, the namesake of the new ship. Freedom-class USS Cleveland (LCS-31) joining the fleet marks the beginning of the end of the Littoral Combat Ships, which will be followed up by a new class of frigates based on the National Security Cutter. Seven of the Littoral Combat Ships — two Independence class and five Freedom class &#8211; have already been decommissioned, with more on the chopping block. However, the Navy a",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9688230-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Romania Justifies Warship Acquisition Through SAFE Over Damen’s Offer",
-        "url": "https://www.navalnews.com/naval-news/2026/05/romania-justifies-warship-acquisition-through-safe-over-damen-offer/",
-        "published": "2026-05-18T14:31:14Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "In a May 12 press release, the Romanian MoD stated that Damen’s proposal did not meet the programme’s technical requirements, responding to recent media comparisons with the SAFE acquisition of two MMPV 90 from Rheinmetall. Naval News also outlines the procurement timeline for the Romanian Naval Forces, which shifted from the GOWIND design to OPV ...\nThe post Romania Justifies Warship Acquisition Through SAFE Over Damen’s Offer appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/opv-2600-military-01.avif",
         "section": "nyheter"
       },
       {
@@ -392,16 +382,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Ønsker å leie kontorlokaler til losformidling i Lødingen",
-        "url": "https://www.kystverket.no/nyheter/pa-jakt-etter-kontorlokaler-i-lodingen/",
-        "published": "2026-03-23T08:56:22Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket trenger midlertidige lokaler til losformidling/loskontor i Lødingen fra september 2026...",
         "image_url": "",
         "section": "regelverk"
       }

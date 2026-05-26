@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-25T15:21:31Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-26T07:34:37Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Thales enhances the operational effectiveness and readiness of Hellenic Navy’s Hydra-class frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/05/thales-enhances-the-operational-effectiveness-and-readiness-of-hellenic-navys-hydra-class-frigates/",
+        "published": "2026-05-26T06:46:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On May 25, 2026, Thales announced that it signed a contract with Greece&#8217;s General Directorate of Defense Armaments and Investments for the modernization of the Hydra-class frigates. Thales press release The General Directorate of Defense Armaments and Investments (GDAEE) signed a contract with Thales for the start of the modernization of the integrated operations system ...\nThe post Thales enhances the operational effectiveness and readiness of Hellenic Navy&#8217;s Hydra-class frigates ap",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "South Korea’s First Trans-Pacific Submarine Deployment Reaches Canada",
         "url": "https://www.navalnews.com/naval-news/2026/05/south-koreas-first-trans-pacific-submarine-deployment-reaches-canada/",
@@ -164,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy’s First Carrier Operated Unmanned Tanker Cleared for Production",
-        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navys-first-carrier-operated-unmanned-tanker-cleared-for-production/",
-        "published": "2026-05-20T18:13:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Secretary of the Navy, Hung Cao, announced on Tuesday that the MQ-25A &#8220;Stingray&#8221; unmanned air-to-air tanker would be moving to serial production, passing the point in development designated as &#8220;Milestone C&#8221; which marks a transition out of research and development towards Low Rate Initial Production and then a full rate manufacturing cycle. The U.S. Navy ...\nThe post U.S. Navy&#8217;s First Carrier Operated Unmanned Tanker Cleared for Production appeared first on Naval New",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/07/mq-25-1060_960x600-1024x640.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Japan’s Largest Warship Preparing for F-35B Training with U.S. Marines",
         "url": "https://news.usni.org/2026/05/20/japans-largest-warship-preparing-for-f-35b-training-with-u-s-marines",
         "published": "2026-05-20T15:52:16Z",
@@ -211,26 +211,6 @@
         "language": "en",
         "summary": "The Coast Guard and Eastern Shipbuilding are negotiating the end of the Offshore Patrol Cutter program at the Florida shipyard, the service confirmed in a statement to USNI News this week. Eastern Shipbuilding stopped work last year on the first two cutters in the class — Argus (WMSM-915) and Chase (WMSM-916) — in November after announcing the yard wouldn’t move ahead with the third and fourth OPC hulls. “The Coast Guard is currently discussing contract close out with the OPC Stage 1 shipbuilder",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/EPS-768x413-1.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: May 18, 2026",
-        "url": "https://news.usni.org/2026/05/18/usni-news-fleet-and-marine-tracker-may-18-2026",
-        "published": "2026-05-18T18:58:44Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated to adjust the position of USS Nimitz. These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of May 18, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 291 (USS 232, USNS 59) 101 (USS 70, USNS 31) (37 FDNF, 64 Rotational) 85 (60 Deployed, 2",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FT_5_18_26_a.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "VIDEO: Navy’s Final Freedom-class Littoral Combat Ship Joins the Fleet",
-        "url": "https://news.usni.org/2026/05/18/video-navys-final-freedom-class-littoral-combat-ship-joins-the-fleet",
-        "published": "2026-05-18T15:33:01Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Navy commissioned the final Littoral Combat Ship on Saturday in Cleveland, Ohio, the namesake of the new ship. Freedom-class USS Cleveland (LCS-31) joining the fleet marks the beginning of the end of the Littoral Combat Ships, which will be followed up by a new class of frigates based on the National Security Cutter. Seven of the Littoral Combat Ships — two Independence class and five Freedom class &#8211; have already been decommissioned, with more on the chopping block. However, the Navy a",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9688230-scaled.jpg",
         "section": "nyheter"
       }
     ],

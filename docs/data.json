@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-05-26T07:34:37Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-26T15:56:46Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Australia starts ‘high-risk’ life extension of its submarine fleet",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/australia-starts-high-risk-life-extension-of-its-submarine-fleet/",
+        "published": "2026-05-26T14:16:09Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Australian National Audit Office (ANAO) has issued a damning verdict on Department of Defence planning for the life-extension program.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/652AOUSYFRCWZEMCSYV5U6R2KM.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "South Korea Unveils Historic Plan to Build First Nuclear-Powered Submarine",
+        "url": "https://www.navalnews.com/naval-news/2026/05/south-korea-unveils-historic-plan-to-build-first-nuclear-powered-submarine/",
+        "published": "2026-05-26T08:43:32Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On Tuesday, May 26, South Korea&#8217;s Ministry of National Defense announced the “Basic Plan for the Development of the Republic of Korea Nuclear-Powered Submarine.” Republic of Korea Ministry of National Defense Press Release Translated by Naval News The “Basic Plan for the Development of the Republic of Korea Nuclear-Powered Submarine” is the first document to ...\nThe post South Korea Unveils Historic Plan to Build First Nuclear-Powered Submarine appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/South-Korea-Plans-for-Nuclear-Powered-Submarine-Development-1024x620.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Thales enhances the operational effectiveness and readiness of Hellenic Navy’s Hydra-class frigates",
         "url": "https://www.navalnews.com/naval-news/2026/05/thales-enhances-the-operational-effectiveness-and-readiness-of-hellenic-navys-hydra-class-frigates/",
@@ -131,16 +151,6 @@
         "language": "en",
         "summary": "U.S. Naval Air Forces issued a safety stand down for four tactical aviation teams following a crash between two EA-18G Growlers at an air show over the weekend. All four Naval aviators ejected from the two aircraft, assigned to the “Vikings” of VAQ-129 EA-18G Growler Demo Team out of Naval Air Station Whidbey Island, Wash. One person was treated for a non-life threatening injury at a local hospital as a result of the Sunday crash, according to a statement from Cmdr. Amelia Umayam, spokesperson f",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9696474-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Strait of Hormuz escort missions would ‘exceed’ Navy’s capacity, CNO says",
-        "url": "https://breakingdefense.com/2026/05/strait-of-hormuz-escort-missions-would-exceed-navys-capacity-cno-says/",
-        "published": "2026-05-21T19:58:41Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "President Donald Trump had floated the idea of a naval escort months ago, but Adm. Daryl Caudle said today it would be a &#8220;very challenging mission.&#8221;",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9447659-scaled-e1774461289323-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -344,19 +354,19 @@
         "summary": "Oppskytingen av AISSat-4 er en viktig brikke i å sikre trygg ferdsel, beredskap og kontroll i noe...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Status: Dypvannskaia i Mo i Rana",
-        "url": "https://www.kystverket.no/nyheter/status-dypvannskaia-i-mo-i-rana/",
-        "published": "2026-03-27T09:40:44Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Det er stor aktivitet på Langneset, og dypvannskaia vokser nå tydelig frem. I dag gjennomføres de...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Zumwalt-class upgrade: Navy Adds Extra Fuel Capacity for Pacific Hypersonic Patrols",
+        "url": "https://www.navalnews.com/naval-news/2026/05/zumwalt-class-upgrade-navy-adds-extra-fuel-capacity-for-pacific-hypersonic-patrols/",
+        "published": "2026-05-26T13:32:01Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "An upcoming comprehensive refit to install a battery of hypersonic missiles on the Zumwalt guided-missile destroyers will also increase the stealth warship’s operational range and endurance, according to recently released documents.   A list of modernization items planned for USS Michael Monsoor (DDG-1001) includes provisions for a “Fuel Endurance and Range” modification. This work will convert ...\nThe post Zumwalt-class upgrade: Navy Adds Extra Fuel Capacity for Pacific Hypersonic Patrols appea",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Dragon Adds More Air-Defence Firepower to French Carrier Strike Group",
         "url": "https://www.navalnews.com/naval-news/2026/05/dragon-adds-more-air-defence-firepower-to-french-carrier-strike-group/",
@@ -365,16 +375,6 @@
         "language": "en",
         "summary": "The UK Royal Navy (RN) Type 45 air-defence destroyer HMS Dragon has integrated into the French Navy’s FS Charles de Gaulle carrier strike group (CSG), as the CSG operates in the Gulf of Aden/Horn of Africa region. Both the CSG and Dragon have deployed to the region to provide pre-positioned capability, should regional security conditions ...\nThe post Dragon Adds More Air-Defence Firepower to French Carrier Strike Group appeared first on Naval News.",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "HENSOLDT UK: A Proven Radar Portfolio for the Royal Navy’s Next Chapter",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/05/hensoldt-uk-a-proven-radar-portfolio-for-the-royal-navys-next-chapter/",
-        "published": "2026-05-21T06:15:49Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Royal Navy is navigating one of the most demanding periods in its modern history. The 2025 Strategic Defence Review set a clear direction: a more powerful but, more affordable, hybrid fleet, blending crewed and uncrewed platforms into an integrated, lethal force. At the same time, the threat environment has shifted dramatically. Drone strikes on ...\nThe post HENSOLDT UK: A Proven Radar Portfolio for the Royal Navy&#8217;s Next Chapter appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/kunde-seal-systems-hensoldt-360x220-1.webp",
         "section": "rov_teknologi"
       },
       {

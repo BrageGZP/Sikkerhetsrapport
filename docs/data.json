@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-05-29T07:44:58Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-05-29T15:58:22Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "GE Aerospace Secures Official Order to Power U.S. Navy’s Explorer-Class Ocean Surveillance Ships",
+        "url": "https://www.navalnews.com/naval-news/2026/05/ge-aerospace-secures-official-order-to-power-u-s-navys-explorer-class-ocean-surveillance-ships/",
+        "published": "2026-05-29T11:36:57Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "GE Aerospace&#8217;s Marine Engines &#38; Systems has secured an official order from Austal USA to supply propulsion power for the U.S. Navy&#8217;s new Explorer-class ocean surveillance ships, T-AGOS. GE Aerospace press release The purchase agreement covers one LM2500+G4 marine gas turbine engine in a composite enclosure with associated generator by Brush for the lead ship, ...\nThe post GE Aerospace Secures Official Order to Power U.S. Navy&#8217;s Explorer-Class Ocean Surveillance Ships appear",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/image_68.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Video: Inside Navantia Ferrol Shipyard Building Spain’s New F-110 Frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/05/video-inside-navantia-ferrol-shipyard-building-spains-new-f-110-frigates/",
+        "published": "2026-05-29T08:58:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "This video is an inside look at Navantia historic Ferrol shipyard in Galicia, Spain, showcasing how the facility has modernized its infrastructure to handle high-rate production for modern naval defense projects, most notably the F-110 frigate program. Guided by Naval News and Navantia Ferrol representatives, the video breaks down the shipyard&#8217;s transition into a digitalized, ...\nThe post Video: Inside Navantia Ferrol Shipyard Building Spain’s New F-110 Frigates appeared first on Naval New",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Ultra Maritime to supply Acoustic Device Countermeasures to Royal Australian Navy",
         "url": "https://www.navalnews.com/naval-news/2026/05/ultra-maritime-to-supply-acoustic-device-countermeasures-to-royal-australian-navy/",
@@ -94,26 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "HII Showcased ROMULUS 151 at Combined Naval Event 2026",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/05/hii-showcased-romulus-151-at-combined-naval-event-2026/",
-        "published": "2026-05-28T08:32:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HII showcased its role as America&#8217;s largest military shipbuilder and a global leader in autonomous unmanned maritime systems at the Combined Naval Event (CNE) 2026, which took place May 19–21 at the Farnborough International Exhibition Centre in the United Kingdom. HII press release At CNE 2026, HII features exhibits and executive presentations highlighting the company&#8217;s ...\nThe post HII Showcased ROMULUS 151 at Combined Naval Event 2026 appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Royal Thai Navy orders two Airbus C295 in advanced transport configuration",
-        "url": "https://www.navalnews.com/naval-news/2026/05/royal-thai-navy-orders-two-airbus-c295-in-advanced-transport-configuration/",
-        "published": "2026-05-28T06:51:58Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Royal Thai Navy has acquired two Airbus C295 in an enhanced transport configuration that will enable surveillance and Search and Rescue missions, on top of the logistic operations for Thailand.  Airbus press release This order follows the recent contract with the Royal Thai Air Force for two C295s and adds on the three aircraft already ...\nThe post Royal Thai Navy orders two Airbus C295 in advanced transport configuration appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Iwo Jima ARG, 22nd MEU are Heading Home After 10 Months",
         "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
         "published": "2026-05-27T18:02:32Z",
@@ -131,16 +131,6 @@
         "language": "en",
         "summary": "The U.S. Army has received its first batch of new, lighter Javelin launchers, defense contractor RTX announced in a statement Tuesday.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/44US4EXZMVESRO6ZRHLQ6O4DDM.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "How the US, allies and adversaries see the future of drone wingmen",
-        "url": "https://breakingdefense.com/2026/05/how-the-us-allies-and-adversaries-see-the-future-of-drone-wingmen/",
-        "published": "2026-05-27T15:45:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "In the third video focused on manned-unmanned teaming, we trace how the concept has evolved inside the US defense industry and among other militaries across the globe.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/Helsing-ucav-play-button-1024x572.jpg",
         "section": "nyheter"
       },
       {
@@ -211,16 +201,6 @@
         "language": "en",
         "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document published Tuesday as part of the announcement that details the Republic of Korea’s Nuclear-powered Submarine Initiative. The formal announcement of a homegrown nuclear attack boat follows last fall’s appro",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/IMG_7567.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "Australia starts ‘high-risk’ life extension of its submarine fleet",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/05/26/australia-starts-high-risk-life-extension-of-its-submarine-fleet/",
-        "published": "2026-05-26T14:16:09Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Australian National Audit Office (ANAO) has issued a damning verdict on Department of Defence planning for the life-extension program.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/652AOUSYFRCWZEMCSYV5U6R2KM.jpg",
         "section": "nyheter"
       },
       {
@@ -352,16 +332,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Arbeidet suspendert.",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "LMZ Pluto er på vei til land",
-        "url": "https://www.kystverket.no/nyheter/lmz-pluto-aksjon-vellykket/",
-        "published": "2026-03-30T12:18:50Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Bulkskipet LMZ Pluto fikk motorstans tirsdag 24. mars, og drev ubemannet etter at mannskapet ble...",
         "image_url": "",
         "section": "regelverk"
       }

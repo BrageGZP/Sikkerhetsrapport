@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-05-29T15:58:22Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-30T06:39:11Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "HII, Saronic Included in First MUSV Navy Prototype Tests",
+        "url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
+        "published": "2026-05-29T21:10:53Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Seven companies have been identified by the Navy as supporting the first round of medium unmanned surface vessel prototyping, the service said on Friday. The announcement of the companies follows Navy acknowledgement of the selection of the first seven designs for the MUSV marketplace, USNI News reported. Several of the companies have previously announced teaming agreements with other companies. The MUSV concepts have to pair the hull, mechanical and engineering systems, along with autonomy soft",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3-1536x882.jpg.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saronic Launches First Marauder Medium Unmanned Surface Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/05/saronic-launches-first-marauder-medium-unmanned-surface-vessel/",
+        "published": "2026-05-29T19:28:16Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saronic today announced the launch of its first Marauder Medium Unmanned Surface Vessel (MUSV), designed to deliver dual-use autonomous capability far from shore across the full range of defense and commercial applications. Saronic press release The first Marauder hull moved from initial design to on-water trials in under a year, a pace not seen in ...\nThe post Saronic Launches First Marauder Medium Unmanned Surface Vessel appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-2-1024x682.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy to explore powering shore installations with aircraft carriers",
+        "url": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
+        "published": "2026-05-29T17:26:16Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be “powered from an aircraft carrier\" sometime this summer.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V3OAVKSZKFBWVJ5GP4DTF5HN3E.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "GE Aerospace Secures Official Order to Power U.S. Navy’s Explorer-Class Ocean Surveillance Ships",
         "url": "https://www.navalnews.com/naval-news/2026/05/ge-aerospace-secures-official-order-to-power-u-s-navys-explorer-class-ocean-surveillance-ships/",
@@ -104,22 +134,12 @@
         "section": "nyheter"
       },
       {
-        "title": "Rauma Shipyard Launches se­cond cor­vet­te of Pohjanmaa Class",
-        "url": "https://www.navalnews.com/naval-news/2026/05/rauma-shipyard-launches-second-corvette-of-pohjanmaa-class/",
-        "published": "2026-05-28T08:58:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On May 21, 2026, Rauma Marine Constructions (RMC) launched the second multi-purpose corvette of the Pohjanmaa class built by the Rauma Shipyard for the Finnish Navy. Rauma Shipyard press release All four vessels of the Squadron 2020 Project are now under construction at the same time – the Project has progressed to the full series-production ...\nThe post Rauma Shipyard Launches se­cond cor­vet­te of Pohjanmaa Class appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Iwo Jima ARG, 22nd MEU are Heading Home After 10 Months",
+        "title": "Iwo Jima, 22nd MEU are Heading Home After 10 Months",
         "url": "https://news.usni.org/2026/05/27/iwo-jima-arg-22nd-meu-are-heading-home-after-10-months",
         "published": "2026-05-27T18:02:32Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "USS Iwo Jima (LHD-7), USS Fort Lauderdale (LPD-28) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines announced on Wednesday. The Iwo Jima Amphibious Ready Group and the 22nd MEU deployed in August and headed to the Caribbean, where the group was part of Operation Southern Spear, the name for U.S. strikes on boats suspected of carrying illicit narcotics. The Iwo Jima ARG, which was comprised of Iwo Jima, Fort Lauderdale and USS Sa",
+        "summary": "Following an earlier version of this post, Joint Task Force Southern Spear announced USS Fort Lauderdale would continue to support Operation Southern Spear. USS Iwo Jima (LHD-7) and the 22nd Marine Expeditionary Unit are heading home after nearly 10 months in U.S. Southern Command, the Marines announced on Wednesday. The Iwo Jima Amphibious Ready Group and the 22nd MEU deployed in August and headed to the Caribbean, where the group was part of Operation Southern Spear, the name for U.S. strikes ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9708265-scaled.jpg",
         "section": "nyheter"
       },
@@ -201,26 +221,6 @@
         "language": "en",
         "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document published Tuesday as part of the announcement that details the Republic of Korea’s Nuclear-powered Submarine Initiative. The formal announcement of a homegrown nuclear attack boat follows last fall’s appro",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/IMG_7567.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Selects 7 MUSV Designs to Enter Prototype Phase",
-        "url": "https://news.usni.org/2026/05/22/navy-selects-7-musv-designs-to-enter-prototype-phase",
-        "published": "2026-05-22T21:13:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Seven designs have been tapped by the Navy to develop medium unmanned surface vessel prototypes as part of the sea service’s foray into robotic systems, USNI News has learned. Out of about two dozen options submitted for the MUSV marketplace, the unspecified shipbuilders will develop vessels that will be tested against Navy requirements for the robotic craft, service spokesperson Capt. Ron Flanders said in a Friday statement to USNI News. “The Navy selected seven entrants in the Medium Unmanned ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/HIIRomulusUSV-948x534-1.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Western Pacific Pulse: May 22, 2026",
-        "url": "https://news.usni.org/2026/05/22/usni-news-western-pacific-pulse-may-22-2026",
-        "published": "2026-05-22T19:14:51Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Western Pacific The People’s Liberation Army Navy Liaoning Carrier Strike Group led by aircraft carrier CNS Liaoning (16) is in an unspecified part of the Western Pacific. The carrier strike group began a Western Pacific deployment on Tuesday, according to a PLAN announcement. “On May 19, the PLA Navy sent a carrier task group led by PLAN’s Liaoning to relevant waters of the Western Pacifi",
-        "image_url": "https://news.usni.org/wp-content/uploads/2018/07/dims.jpeg",
         "section": "nyheter"
       }
     ],
@@ -337,6 +337,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
+        "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
+        "published": "2026-05-29T20:02:52Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A specialized group of Marines operating in SOUTHCOM will now support Operation Southern Spear, the U.S. campaign to stop maritime drug trafficking, as the 22nd Marine Expeditionary Unit heads home. The 24th Marine Expeditionary Unit will operate as Littoral Combat Force-24, providing a Marine Air-Ground Task Force that will work under the Joint Task Force Southern Spear, the Marine Corps announced Friday. The group of Marines and sailors are taking over the duties of the 22nd Marine Expeditiona",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9713774-scaled.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "U.K. Mine Countermeasures Mothership Leaves Gibraltar for Potential Strait of Hormuz Mission",
         "url": "https://news.usni.org/2026/05/28/u-k-mine-countermeasures-mothership-leaves-gibraltar-for-potential-strait-of-hormuz-mission",

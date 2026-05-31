@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-05-30T13:54:45Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-05-31T07:37:12Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Navy Selects 7 Contenders for the MUSV Program",
+        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-selects-7-contenders-for-the-musv-program/",
+        "published": "2026-05-31T05:14:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy&#8217;s Medium Unmanned Surface Vessel (MUSV) program selected 7 separate designs to advance towards at sea testing, with further scaling following suit as a part of the several billion dollar initiative to regain the U.S. Navy&#8217;s mass. The 7 companies selected by the Navy include, Sea Machines, Leidos, Saronic Technologies, Galliano Marine Services, ...\nThe post U.S. Navy Selects 7 Contenders for the MUSV Program appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-2-1024x682.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "HII, Saronic Included in First MUSV Navy Prototype Tests",
         "url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
@@ -324,19 +334,19 @@
         "summary": "I det siste har Kystverket testet ut en ny type mobil radarløsning. Med det flyttbare utstyret ka...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Dårlig vær stopper tokt ved U-864",
-        "url": "https://www.kystverket.no/nyheter/darlig-var-stopper-tokt-ved-u-864/",
-        "published": "2026-04-01T07:25:30Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Arbeidet suspendert.",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "AUKUS partners sign agreement on underwater drones, speed up sub plan",
+        "url": "https://breakingdefense.com/2026/05/aukus-partners-sign-agreement-on-underwater-drones-speed-up-sub-plan/",
+        "published": "2026-05-30T15:50:32Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Australia will now forgo the purchase of a new build Virginia-class submarine and acquire another ex-US Navy boat instead.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/Anduril-Ghost-Shark-Factory-55575-scaled-e1762190818155-1024x577.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
         "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
@@ -365,16 +375,6 @@
         "language": "en",
         "summary": "Québec-based Davie and UK-based Kraken Technology Group (Kraken) announced a strategic collaboration to establish Canadian production, integration and development of Kraken&#8217;s market-leading autonomous solutions. Davie press release Davie will provide Canadian capacity and capability to produce, integrate and develop Kraken&#8217;s advanced uncrewed surface vessels, and next-generation autonomous maritime systems. The agreement also provides a framework ...\nThe post Davie and Kraken set to ",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Davie_Davie_and_Kraken_set_to_join_forces_on_the_production_of_a-1-1024x576.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Thales to supply S2087 / CAPTAS-4 Sonar for Canada’s River-class Destroyers",
-        "url": "https://www.navalnews.com/naval-news/2026/05/thales-to-supply-s2087-captas-4-sonar-for-canadas-river-class-destroyers/",
-        "published": "2026-05-28T09:14:11Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Thales Canada has been awarded a contract by Lockheed Martin Canada to supply the S2087, a member of the low‑frequency towed array sonars CAPTAS family, for the Royal Canadian Navy’s future River‑class destroyers. Implementation of the S2087 sonar will enhance Canada’s maritime security and Arctic defence capacity by strengthening sensor capabilities, aligning with Canada’s broader ...\nThe post Thales to supply S2087 / CAPTAS-4 Sonar for Canada&#8217;s River-class Destroyers appeared first on Na",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/03/River-class-Destroyer-Canada-1024x515.jpg",
         "section": "rov_teknologi"
       },
       {

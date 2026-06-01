@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-05-31T14:00:27Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-01T09:09:23Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Type 212CD: Germany and Norway ready to transfer submarines to Canada",
+        "url": "https://www.navalnews.com/naval-news/2026/06/type-212cd-germany-and-norway-ready-to-transfer-submarines-to-canada/",
+        "published": "2026-06-01T08:30:30Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Should the Canadian government choose the offer from German naval shipbuilder TKMS for the procurement of up to twelve new submarines, the company intends to deliver four Type 212 CD submarines to the Canadian Navy by 2036, the German Defense Minister Boris Pistorius explained in an interview with CBC News on Wednesday. By Lars Hoffman ...\nThe post Type 212CD: Germany and Norway ready to transfer submarines to Canada appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Royal Australian Navy commissions newest offshore patrol vessel HMAS Eyre",
+        "url": "https://www.navalnews.com/naval-news/2026/06/royal-australian-navy-commissions-newest-offshore-patrol-vessel-hmas-eyre/",
+        "published": "2026-06-01T07:14:16Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On May 30, 2026, the Royal Australian Navy commissioned the second Arafura-class OPV HMAS&#160;Eyre&#160;into the fleet, in a ceremony at HMAS&#160;Stirling&#160;in Western Australia. Australian MoD press release HMAS&#160;Eyre&#160;is the second of six planned Arafura class offshore patrol vessels (OPV) to enter service, following the commissioning of sister ship HMAS&#160;Arafura&#160;last year.&#160; The 80-metre long Arafura class ...\nThe post Royal Australian Navy commissions newest offshor",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Coast Guard Patrols Near Scarborough Shoal with Philippine Forces Amid Concerns of Potential Chinese Build-Up",
+        "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
+        "published": "2026-05-31T22:04:06Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A U.S.-Philippine patrol near Scarborough Shoal this week amid Manila’s concerns of potential structures placed by Beijing at the South China Sea hotspot. The exercise from May 26 to 30 was the first time a U.S. Coast Guard vessel joined Philippine forces for a maritime cooperative activity. Also known as a joint patrol, the naval drills are designed to showcase the U.S.-Philippine alliance’s resolve in waters disputed by China. Washington and Manila committed to these drills in 2023, following ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/710479420_1388037683358638_5647236792964646001_n.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy Selects 7 Contenders for the MUSV Program",
         "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-selects-7-contenders-for-the-musv-program/",
@@ -84,16 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Lockheed Martin Delivers First Integrated Combat System Enabled Baseline, Advancing Rapid, Scalable Capability for the U.S. Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/05/lockheed-martin-delivers-first-integrated-combat-system-enabled-baseline-advancing-rapid-scalable-capability-for-the-u-s-navy/",
-        "published": "2026-05-28T20:44:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Lockheed Martin has successfully delivered the first Integrated Combat System (ICS)-enabled baseline to the U.S. Navy. Lockheed Martin press release ICS-enabled baselines combine heritage combat system capability with modern infrastructure, driving rapid proliferation of capability through a singular development effort at scale. Working with the Navy and industry partners, this marks the start of a ...\nThe post Lockheed Martin Delivers First Integrated Combat System Enabled Baseline, Advancing R",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Turkey’s defense industry is leaning into autonomy and targeting Gulf markets",
         "url": "https://breakingdefense.com/2026/05/turkeys-defense-industry-is-leaning-into-autonomy-and-targeting-gulf-markets/",
         "published": "2026-05-28T17:10:00Z",
@@ -121,16 +141,6 @@
         "language": "en",
         "summary": "Two men were killed Wednesday in a strike on a suspected narco boat in the Eastern Pacific, U.S. Southern Command announced. The vessel, allegedly operated by an unidentified designated terrorist organization, is said to have been traveling along known narco-trafficking routes, USSOUTHCOM said. The strike was the 60th strike as part of Operation Southern Spear, the Trump administration’s campaign against drug cartels and maritime drug trafficking. At least 194 people have been killed in the stri",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-10.55.40-AM-scaled.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Raytheon Expands on U.S. Navy’s Next-Generation Torpedo",
-        "url": "https://www.navalnews.com/naval-news/2026/05/raytheon-expands-on-u-s-navys-next-generation-torpedo/",
-        "published": "2026-05-28T14:31:37Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "NATIONAL HARBOR, MD — Development of the U.S. Navy&#8217;s next-generation submarine weapon is well underway as the fleet turns to a new suite of highly capable, modern attack weapons designed to counter emerging threats in the Indo-Pacific. Raytheon&#8217;s Bill Guarini, Director of Requirements for the Naval Systems and Sustainment Business, sat down with Naval News ...\nThe post Raytheon Expands on U.S. Navy&#8217;s Next-Generation Torpedo appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/11/Screenshot-2025-07-03-022905-1024x767.png.webp",
         "section": "nyheter"
       },
       {
@@ -338,6 +348,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "AUKUS Partners Announce Changes To Submarine Agreement, Launch Joint Development For Underwater Drone Payloads",
+        "url": "https://www.navalnews.com/naval-news/2026/05/aukus-partners-announce-changes-to-submarine-agreement-launch-joint-development-for-underwater-drone-payloads/",
+        "published": "2026-05-31T20:40:24Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The three AUKUS partners Australia, the United Kingdom and the United States have published a new statement on the side of the Shangi La-Dialogue in Singapore. The declaration notably changes the acquisition of Virginia-class nuclear powered submarines by Australia under the AUKUS Pillar I &#8220;Optimal Pathway&#8221;. Also part of this agreement is the intention to ...\nThe post AUKUS Partners Announce Changes To Submarine Agreement, Launch Joint Development For Underwater Drone Payloads appear",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/07/US-Navy-Virginia-Block-V-Cutaway-1024x512.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "AUKUS partners sign agreement on underwater drones, speed up sub plan",
         "url": "https://breakingdefense.com/2026/05/aukus-partners-sign-agreement-on-underwater-drones-speed-up-sub-plan/",
         "published": "2026-05-30T15:50:32Z",
@@ -365,16 +385,6 @@
         "language": "en",
         "summary": "The Royal Navy’s mine countermeasures mothership RFA Lyme Bay (L3007) departed Tuesday from Gibraltar as the U.K. and France prepare to launch a multinational military mission to ensure freedom of navigation through the strait. More than 100 minehunting personnel from the Royal Navy’s diving and threat exploitation group and mine and threat exploitation group are on board Lyme Bay for a potential Strait of Hormuz mission, the Royal Navy announced. “RFA Lyme Bay’s potential deployment to the Gulf",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FLEET-20260526-XH0037-004-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Davie and Kraken set to join forces on the production of USV in Canada",
-        "url": "https://www.navalnews.com/naval-news/2026/05/davie-and-kraken-set-to-join-forces-on-the-production-of-usv-in-canada/",
-        "published": "2026-05-28T14:18:39Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Québec-based Davie and UK-based Kraken Technology Group (Kraken) announced a strategic collaboration to establish Canadian production, integration and development of Kraken&#8217;s market-leading autonomous solutions. Davie press release Davie will provide Canadian capacity and capability to produce, integrate and develop Kraken&#8217;s advanced uncrewed surface vessels, and next-generation autonomous maritime systems. The agreement also provides a framework ...\nThe post Davie and Kraken set to ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Davie_Davie_and_Kraken_set_to_join_forces_on_the_production_of_a-1-1024x576.jpg",
         "section": "rov_teknologi"
       },
       {

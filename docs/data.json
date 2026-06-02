@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-01T17:55:00Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-02T08:18:49Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Pentagon chief sounds ‘alarm’ over China’s buildup, urges allies to boost defense spending",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
+        "published": "2026-06-01T22:06:11Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Hegseth urged Asian allies to ramp up military spending to counter China’s growing power.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YSFVBCR63RAL7BGYTUHNMXP32Y.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "Philippines Verifying Reports of Structure in Scarborough Shoal",
+        "url": "https://www.navalnews.com/naval-news/2026/06/philippines-verifying-reports-of-structure-in-scarborough-shoal/",
+        "published": "2026-06-01T19:40:11Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Philippines is verifying “raw information” suggesting China may have installed a new structure in Scarborough Shoal in the South China Sea, Defense Secretary Gilberto Teodoro Jr. said on Monday. Authorities could not yet characterize what had recently been monitored in the shoal, he told reporters. “We’re not even sure if it’s a structure.” Teodoro ...\nThe post Philippines Verifying Reports of Structure in Scarborough Shoal appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy unveils the seven companies that will participate in MUSV at-sea testing",
+        "url": "https://breakingdefense.com/2026/06/navy-unveils-the-seven-companies-that-will-participate-in-musv-at-sea-testing/",
+        "published": "2026-06-01T18:32:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Leidos, HII, and Saronic Technologies are among those selected to advance to the at-sea testing phase.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2021/04/Sea-Hunters-e1636045361682-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "USNI News Fleet and Marine Tracker: June 1, 2026",
         "url": "https://news.usni.org/2026/06/01/usni-news-fleet-and-marine-tracker-june-1-2026",
@@ -120,16 +150,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "This video is an inside look at Navantia historic Ferrol shipyard in Galicia, Spain, showcasing how the facility has modernized its infrastructure to handle high-rate production for modern naval defense projects, most notably the F-110 frigate program. Guided by Naval News and Navantia Ferrol representatives, the video breaks down the shipyard&#8217;s transition into a digitalized, ...\nThe post Video: Inside Navantia Ferrol Shipyard Building Spain’s New F-110 Frigates appeared first on Naval New",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Ultra Maritime to supply Acoustic Device Countermeasures to Royal Australian Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/05/ultra-maritime-to-supply-acoustic-device-countermeasures-to-royal-australian-navy/",
-        "published": "2026-05-29T05:52:44Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Ultra Maritime Australia has been awarded a contract by the Australian Department of Defence to supply Acoustic Device Countermeasure (ADC) units in support of the Royal Australian Navy. Ultra Maritime press release This latest agreement reinforces a trusted partnership spanning more than a decade, during which Ultra Maritime has consistently delivered advanced torpedo defence expendables ...\nThe post Ultra Maritime to supply Acoustic Device Countermeasures to Royal Australian Navy appeared firs",
         "image_url": "",
         "section": "nyheter"
       },
@@ -385,16 +405,6 @@
         "language": "en",
         "summary": "Chinese naval and air forces drove off a Dutch air defense frigate near a disputed archipelago using warnings and electronic interference, Beijing’s South China Sea command said Wednesday. According to the People’s Liberation Army’s Southern Theater Command (PLA STC), the HNLMS De Ruyter (F804) and its embarked helicopter intruded Wednesday over the airspace of the Paracel Islands, an archipelago under the control of Beijing following its violent seizure from Vietnam in the 1970s. The Dutch frig",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/HJVMjd9aMAAn5cZ.jpeg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Wants to Construct Philippine Coast Guard Maintenance Facility, Repair Fuel Depot in Palawan",
-        "url": "https://news.usni.org/2026/05/20/u-s-wants-to-construct-philippine-coast-guard-maintenance-facility-repair-fuel-depot-in-palawan",
-        "published": "2026-05-20T19:04:48Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Washington is seeking funding to construct a Coast Guard maintenance center and refurbish a joint airfield fuel depot that could bolster Philippine security infrastructure near the South China Sea, according to recent documents. The Pentagon released notices within the last month for upcoming projects at key facilities in Palawan used by the Philippine Coast Guard and the Armed Forces in the Philippines. These efforts mark the latest in American support for Philippine forces on the island provin",
-        "image_url": "https://news.usni.org/wp-content/uploads/2025/10/Screenshot-2025-10-08-at-5.29.55 PM.png",
         "section": "rov_teknologi"
       }
     ]

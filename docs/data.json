@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-02T16:46:32Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-03T08:45:53Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "HD Hyundai Heavy Industries Partners with Greece’s Maritime Power for Naval Defense",
+        "url": "https://www.navalnews.com/naval-news/2026/06/hd-hyundai-heavy-industries-partners-with-greeces-maritime-power-for-naval-defense/",
+        "published": "2026-06-03T07:42:09Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HD Hyundai Heavy Industries (HHI) is expanding its shipbuilding and maritime‑defense cooperation beyond Southeast Asia, India, and the Middle East into Europe. HHI has now opened its first gateway to a traditional maritime nation, Greece, by signing MOU with the Greek shipyard Skaramangas. HD HHI press release On the 2nd (local time), HHI and Skaramangas ...\nThe post HD Hyundai Heavy Industries Partners with Greece’s Maritime Power for Naval Defense appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Royal New Zealand Navy outlines fleet renewal priorities",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/rnzn-outlines-fleet-renewal-priorities-at-cne-2026/",
+        "published": "2026-06-02T20:59:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Royal New Zealand Navy (RNZN) is progressing a long-term fleet renewal programme that will reshape the service’s force structure, training model, infrastructure, and sustainment architecture over the next two decades. Speaking at the recent Combined Naval Event 2026 conference in Farnborough, Commodore Brendon Clark, Co-Director Maritime Fleet Renewal, said the programme was a “once ...\nThe post Royal New Zealand Navy outlines fleet renewal priorities appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/HMNZS-Te-Mana-NZDF-1024x629.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ankara’s Ambition",
+        "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
+        "published": "2026-06-02T19:57:27Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "DOĞANBEY TRAINING AREA, TURKEY — Two-thousand-pound bombs, artillery shells and naval bombardments sent shockwaves through the valley in Turkey where the Aegean Army focused its firepower last month. Every explosion captured the attention of Turkish Armed Forces commanders, international observers and reporters perched atop two hills within a kilometer of the live-fire drills. The event was the concluding exercise of Efes – one of Ankara’s largest military exercises – and the culmination of week",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/DSC01190-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Chinese Carrier Strike Group Conducts 170 Sorties During Drills in Philippine Sea",
         "url": "https://news.usni.org/2026/06/02/chinese-carrier-strike-group-conducts-170-sorties-during-drills-in-philippine-sea",
@@ -134,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy Selects 7 Contenders for the MUSV Program",
-        "url": "https://www.navalnews.com/naval-news/2026/05/u-s-navy-selects-7-contenders-for-the-musv-program/",
-        "published": "2026-05-31T05:14:12Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy&#8217;s Medium Unmanned Surface Vessel (MUSV) program selected 7 separate designs to advance towards at sea testing, with further scaling following suit as a part of the several billion dollar initiative to regain the U.S. Navy&#8217;s mass. The 7 companies selected by the Navy include, Sea Machines, Leidos, Saronic Technologies, Galliano Marine Services, ...\nThe post U.S. Navy Selects 7 Contenders for the MUSV Program appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-2-1024x682.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "HII, Saronic Included in First MUSV Navy Prototype Tests",
         "url": "https://news.usni.org/2026/05/29/hii-saronic-included-in-first-musv-navy-prototype-tests",
         "published": "2026-05-29T21:10:53Z",
@@ -154,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Saronic Launches First Marauder Medium Unmanned Surface Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/05/saronic-launches-first-marauder-medium-unmanned-surface-vessel/",
-        "published": "2026-05-29T19:28:16Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saronic today announced the launch of its first Marauder Medium Unmanned Surface Vessel (MUSV), designed to deliver dual-use autonomous capability far from shore across the full range of defense and commercial applications. Saronic press release The first Marauder hull moved from initial design to on-water trials in under a year, a pace not seen in ...\nThe post Saronic Launches First Marauder Medium Unmanned Surface Vessel appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-2-1024x682.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy to explore powering shore installations with aircraft carriers",
         "url": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
         "published": "2026-05-29T17:26:16Z",
@@ -171,16 +181,6 @@
         "language": "en",
         "summary": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be “powered from an aircraft carrier\" sometime this summer.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V3OAVKSZKFBWVJ5GP4DTF5HN3E.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "GE Aerospace Secures Official Order to Power U.S. Navy’s Explorer-Class Ocean Surveillance Ships",
-        "url": "https://www.navalnews.com/naval-news/2026/05/ge-aerospace-secures-official-order-to-power-u-s-navys-explorer-class-ocean-surveillance-ships/",
-        "published": "2026-05-29T11:36:57Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "GE Aerospace&#8217;s Marine Engines &#38; Systems has secured an official order from Austal USA to supply propulsion power for the U.S. Navy&#8217;s new Explorer-class ocean surveillance ships, T-AGOS. GE Aerospace press release The purchase agreement covers one LM2500+G4 marine gas turbine engine in a composite enclosure with associated generator by Brush for the lead ship, ...\nThe post GE Aerospace Secures Official Order to Power U.S. Navy&#8217;s Explorer-Class Ocean Surveillance Ships appear",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/image_68.png",
         "section": "nyheter"
       },
       {
@@ -221,56 +221,6 @@
         "language": "en",
         "summary": "The following is the Republic of Korea’s Nuclear-powered Submarine Initiative, published May 26, 2026, by the Republic of Korea’s Ministry of National Defense. The Chang Bogo N Project, named after the country’s first submarine, plans to get the first nuclear attack boat in the water by the mid-2030s and achieve operational status by the end of the decade, USNI News reported. From the Report Foreword In November 2025, the Republic of Korea and the United States agreed to further deepen bilateral",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "New Top Navy Acquisition Official Named",
-        "url": "https://news.usni.org/2026/05/26/new-top-navy-acquisition-official-named",
-        "published": "2026-05-26T23:23:41Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "A new Department of the Navy official was tapped by Acting Secretary of the Navy Hung Cao to perform the duties of the Navy and Marine Corps top weapons buyer, USNI News has learned. William Mahan, who joined the department as former Secretary of the Navy John Phelan’s chief of staff, will now oversee the Department of the Navy’s acquisition office, the service said in a Tuesday statement to USNI News. “Restoring our maritime dominance requires bold leadership in warfighting acquisition,” Cao sa",
-        "image_url": "https://news.usni.org/wp-content/uploads/2024/03/Flag_of_the_United_States_Navy.svg.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "2 Naval Aviators Safe After T-45C Goshawk Crashes in Mississippi, Some Training Flights Paused",
-        "url": "https://news.usni.org/2026/05/26/2-naval-aviators-safe-after-t-45c-goshawk-crashes-in-mississippi-some-training-flights-paused",
-        "published": "2026-05-26T21:36:22Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Two naval aviators are safe after their U.S. Navy T-45C Goshawk crashed around 12:30 p.m. Central in Mississippi. The aviators ejected safely and are being evaluated at a local medical center, according to a release from Chief of Naval Air Training. The aviators are assigned to Training Air Wing 1. The release did not say where the flight originated. Training Air Wing 1 is based out of Naval Air Station Meridian, Miss. The plane crashed on private farmland in Noxubee County, Miss. Military polic",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9546963-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "House Wants Funding for a Second Arleigh Burke Destroyer in Next Fiscal Year",
-        "url": "https://news.usni.org/2026/05/26/house-wants-funding-for-a-second-arleigh-burke-destroyer-in-next-fiscal-year",
-        "published": "2026-05-26T21:06:14Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "House authorizers want additional funding for the Navy to buy a second guided-missile destroyer in the next fiscal year, according to new legislation. The bill, released Tuesday, authorizes $500 million in incremental funding for the Navy to buy another Flight III Arleigh Burke-class destroyer, according to the House Armed Services Committee’s chairman’s mark of the Fiscal Year 2027 legislation. Incremental funding authorization for a second destroyer would address worries from Maine lawmakers, ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2023/08/DDG-128-launch-featured-3-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chinese Carrier Liaoning Near Philippines, USS George Washington Leaves Yokosuka Ahead of Spring Patrol",
-        "url": "https://news.usni.org/2026/05/26/chinese-carrier-liaoning-near-philippines-uss-george-washington-leaves-yokosuka-ahead-of-spring-patrol",
-        "published": "2026-05-26T19:13:55Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The People’s Liberation Army Navy&#8217;s Liaoning Carrier Strike Group is operating in the Philippine Sea east of Luzon, Japan’s Joint Staff Office said Tuesday. The Liaoning Carrier Strike Group was spotted Monday around 880 kilometers southwest of Okinotori Island, Japan’s southernmost territory. Aircraft carrier CNS Liaoning (16) was conducting flight operations Tuesday, according to Japan’s Joint Staff Office, which released a map of the group operating in the Philippine Sea, east of the ma",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-3.02.23-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "South Korea Announces Plan to Build Domestic Nuclear Attack Boat",
-        "url": "https://news.usni.org/2026/05/26/south-korea-announces-plan-to-build-domestic-nuclear-attack-boat",
-        "published": "2026-05-26T16:46:37Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "South Korea will build a new class of nuclear-powered attack boats to counter North Korea’s growing missile submarine threat, Seoul announced Tuesday. The nuclear submarines “will be developed and constructed entirely within the Republic of Korea,” reads a Ministry of National Defense document published Tuesday as part of the announcement that details the Republic of Korea’s Nuclear-powered Submarine Initiative. The formal announcement of a homegrown nuclear attack boat follows last fall’s appro",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/IMG_7567.webp",
         "section": "nyheter"
       }
     ],
@@ -377,6 +327,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Fincantieri’s FCx30: A Sea-Proven Corvette Designed to Evolve",
+        "url": "https://www.navalnews.com/naval-news/2026/06/fincantieris-fcx30-a-sea-proven-corvette-designed-to-evolve/",
+        "published": "2026-06-03T08:19:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The future of naval shipbuilding could be described as the ability to transform proven solutions into continuously evolving platforms. Fincantieri’s FCx30 embodies this approach: a mature, flexible and future-ready surface combatant, designed to integrate new sensors, weapons and digital tools in accordance with mission requirements throughout its service life. Sponsored by The FCx30 is rooted ...\nThe post Fincantieri’s FCx30: A Sea-Proven Corvette Designed to Evolve appeared first on Naval News",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/05/Fincantieri_logo.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "AUKUS Partners Announce Changes To Submarine Agreement, Launch Joint Development For Underwater Drone Payloads",
         "url": "https://www.navalnews.com/naval-news/2026/05/aukus-partners-announce-changes-to-submarine-agreement-launch-joint-development-for-underwater-drone-payloads/",

@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-04T08:10:44Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-04T15:31:00Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "A Navy carrier is about to deploy with a robot ship. Could it change the service forever?",
+        "url": "https://breakingdefense.com/2026/06/navy-carrier-theodore-roosevelt-drone-seahawk-deployment/",
+        "published": "2026-06-04T14:50:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Experts said that this deployment could lay the foundation for how the Navy develops its concept of operations for unmanned systems.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/10/221025_seahawk_unmanned_6612966-e1666714941438-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Eyes Warships from Japanese and South Korean Shipyards",
+        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-eyes-warships-from-japanese-and-south-korean-shipyards/",
+        "published": "2026-06-04T12:38:51Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The United States may be on the verge of an unprecedented step: procuring major naval vessels from allied shipbuilders in Japan and South Korea to help address growing capacity constraints in the U.S. naval industrial base. A proposed $1.85 billion funding request included in the Pentagon&#8217;s fiscal year 2027 budget is increasingly being viewed not ...\nThe post U.S. Eyes Warships from Japanese and South Korean Shipyards appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ukrainian drones strike Russian corvette RFS Boiky near Saint Petersburg",
+        "url": "https://www.navalnews.com/naval-news/2026/06/ukrainian-drones-strike-russian-corvette-rfs-boiky-near-saint-petersburg/",
+        "published": "2026-06-04T08:29:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Ukrainian unmanned aerial vehicles (UAVs) struck the Russian Steregushchy-class corvette RFS Boiky on the morning of June 3rd. The attack took place around 06h35 local time as part of a larger UAV strike against military and economic targets in the Saint Petersburg region . At the time of the attack, the corvette was docked at ...\nThe post Ukrainian drones strike Russian corvette RFS Boiky near Saint Petersburg appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/RFS-Boiky.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "UK’s Lyme Bay Continues Preparations for Potential Hormuz Mission",
         "url": "https://www.navalnews.com/naval-news/2026/06/uks-lyme-bay-continues-preparations-for-potential-hormuz-mission/",
@@ -164,26 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Fincantieri Lays Keel of Italy’s 8th PPA in Genoa",
-        "url": "https://www.navalnews.com/naval-news/2026/06/fincantieri-lays-keel-of-italys-8th-ppa-in-genoa/",
-        "published": "2026-06-01T09:36:21Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On May 29, 2026, the keel laying ceremony for the eighth Multipurpose Offshore Patrol Vessel (PPA) took place at Fincantieri’s shipyard in Riva Trigoso, near Genoa, marking another key milestone in Italy’s naval shipbuilding programme. OCCAR press release The event signifies the official start of construction activity on the vessel’s hull, with the completion and readiness ...\nThe post Fincantieri Lays Keel of Italy&#8217;s 8th PPA in Genoa appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/photo-1-5V5MF1-1024x768.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Type 212CD: Germany and Norway ready to transfer submarines to Canada",
-        "url": "https://www.navalnews.com/naval-news/2026/06/type-212cd-germany-and-norway-ready-to-transfer-submarines-to-canada/",
-        "published": "2026-06-01T08:30:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Should the Canadian government choose the offer from German naval shipbuilder TKMS for the procurement of up to twelve new submarines, the company intends to deliver four Type 212 CD submarines to the Canadian Navy by 2036, the German Defense Minister Boris Pistorius explained in an interview with CBC News on Wednesday. By Lars Hoffman ...\nThe post Type 212CD: Germany and Norway ready to transfer submarines to Canada appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S. Coast Guard Patrols Near Scarborough Shoal with Philippine Forces Amid Concerns of Potential Chinese Build-Up",
         "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
         "published": "2026-05-31T22:04:06Z",
@@ -204,16 +214,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US Navy to explore powering shore installations with aircraft carriers",
-        "url": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
-        "published": "2026-05-29T17:26:16Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be “powered from an aircraft carrier\" sometime this summer.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V3OAVKSZKFBWVJ5GP4DTF5HN3E.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "South Korean Attack Boat Arrives in Canada Ahead of Submarine Program Decision",
         "url": "https://news.usni.org/2026/05/28/south-korean-attack-boat-arrives-in-canada-ahead-of-submarine-program-decision",
         "published": "2026-05-28T15:45:22Z",
@@ -222,19 +222,19 @@
         "summary": "A South Korean attack boat arrived Sunday at Canada&#8217;s Pacific Fleet naval base ahead of Ottawa’s procurement decision for its next class of submarines. The Republic of Korea Navy’s ROKS Dosan Ahn Chang-ho (SS-083) over the weekend pulled into Victoria, Canada, concluding the longest voyage of a South Korean submarine in history. Since leaving in March from its homeport at Busan the KSS-III-class attack boat has traveled 14,000 kilometers – nearly 8,700 miles – across the Pacific. &#8220;Th",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Dosan-In-Canada.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "2 Killed in Eastern Pacific Strike on Suspected Narco Boat",
-        "url": "https://news.usni.org/2026/05/28/2-killed-in-eastern-pacific-strike-on-suspected-narco-boat-2",
-        "published": "2026-05-28T15:01:09Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Two men were killed Wednesday in a strike on a suspected narco boat in the Eastern Pacific, U.S. Southern Command announced. The vessel, allegedly operated by an unidentified designated terrorist organization, is said to have been traveling along known narco-trafficking routes, USSOUTHCOM said. The strike was the 60th strike as part of Operation Southern Spear, the Trump administration’s campaign against drug cartels and maritime drug trafficking. At least 194 people have been killed in the stri",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-28-at-10.55.40-AM-scaled.png",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Ny kunnskap om eksplosiver på U-864 gir bedre grunnlag for videre vurderinger",
+        "url": "https://www.kystverket.no/nyheter/ny-kunnskap-om-eksplosiver-pa-u-864-gir-bedre-grunnlag-for-videre-vurderinger/",
+        "published": "2026-06-04T12:25:27Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har mottatt nye analyser av risiko knyttet til eksplosiver i vraket av ubåten U‑864.",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket peikar ut fire hamne- og farleisprosjekt som modne for oppstart i 2027",
         "url": "https://www.kystverket.no/nyheter/kystverket-peikar-ut-fire-hamne--og-farleisprosjekt-som-modne-for-oppstart-i-2027/",

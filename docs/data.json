@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-05T07:58:13Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-05T15:18:59Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Royal Navy progresses towards Project Vanquish demo from aircraft carrier",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/royal-navy-progresses-towards-fixed-wing-acp-demonstration-from-aircraft-carrier/",
+        "published": "2026-06-05T12:44:44Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The UK Royal Navy (RN) is progressing plans to undertake flight trials of a jet-powered Autonomous Collaborative Platform (ACP) from a Queen Elizabeth-class (QEC) aircraft carrier by the end of next year. Speaking at the Defence Leaders CNE 2026 conference in Farnborough on 20 May, Commodore Steve Bolton, Deputy Director Aviation Programmes and Futures, said ...\nThe post Royal Navy progresses towards Project Vanquish demo from aircraft carrier appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Japan is developing a new unmanned AAV which will bring MUM-T to Amphibious Operations",
         "url": "https://www.navalnews.com/naval-news/2026/06/japan-is-developing-a-new-unmanned-aav-which-will-bring-mum-t-to-amphibious-operations/",
@@ -144,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Royal New Zealand Navy outlines fleet renewal priorities",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/rnzn-outlines-fleet-renewal-priorities-at-cne-2026/",
-        "published": "2026-06-02T20:59:42Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Royal New Zealand Navy (RNZN) is progressing a long-term fleet renewal programme that will reshape the service’s force structure, training model, infrastructure, and sustainment architecture over the next two decades. Speaking at the recent Combined Naval Event 2026 conference in Farnborough, Commodore Brendon Clark, Co-Director Maritime Fleet Renewal, said the programme was a “once ...\nThe post Royal New Zealand Navy outlines fleet renewal priorities appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/HMNZS-Te-Mana-NZDF-1024x629.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Ankara’s Ambition",
         "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
         "published": "2026-06-02T19:57:27Z",
@@ -171,16 +171,6 @@
         "language": "en",
         "summary": "The People’s Liberation Army Navy (PLAN) Liaoning Carrier Strike Group has conducted 170 sorties in the past week as the group trains in the Philippine Sea east of Luzon while shadowed by the Japan Maritime Self-Defense Force. Embarked fighter aircraft and helicopters were observed doing 80 take offs and landings May 26, 50 on Wednesday and 40 on Thursday, according to Japan’s Joint Staff Office. Japanese destroyer JS Asahi (DD-119) shadowed the Chinese carrier strike group, which includes carri",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-3.02.23-PM-e1780413669808.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "HII’s ROMULUS USV Advances to U.S. Navy Medium USV At-Sea Testing Phase",
-        "url": "https://www.navalnews.com/naval-news/2026/06/hiis-romulus-usv-advances-to-u-s-navy-medium-usv-at-sea-testing-phase/",
-        "published": "2026-06-02T14:49:59Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On June 1, 2026, Huntington Ingalls Industries (HII) announced that the ROMULUS medium unmanned surface vessel started sea trials. HII press release Statement by Andy Green, executive vice president of HII and president of HII&#8217;s Mission Technologies division, on the U.S. Navy&#8217;s selection of HII&#8217;s ROMULUS Unmanned Surface Vessel to advance to the at-sea testing ...\nThe post HII&#8217;s ROMULUS USV Advances to U.S. Navy Medium USV At-Sea Testing Phase appeared first on Naval News",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -357,6 +347,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Aselsan Showcases Kiliç Kamikaze Underwater Drones at Efes",
+        "url": "https://www.navalnews.com/naval-news/2026/06/aselsan-showcases-kilic-kamikaze-underwater-drones-at-efes/",
+        "published": "2026-06-05T08:57:26Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Aselsan’s Kiliç series of Kamikaze Autonomous Underwater Vehicles were among the products showcased by the Turkish defense firm on the sidelines of Ankara’s premier defense drills last month.  Initially debuted at Saha 2026, a company official explained that there was potential to further develop and expand Kiliç&#8217;s capabilities. Naval News understands that recent developments in ...\nThe post Aselsan Showcases Kiliç Kamikaze Underwater Drones at Efes appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Navy Pilot Programs Aim to Expand Sailor Food Options At Galleys",
         "url": "https://news.usni.org/2026/06/03/navy-pilot-programs-aim-to-expand-sailor-food-options-at-galleys",

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-07T07:45:48Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-07T14:08:30Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Turkish Navy Confirms 2032 Delivery Date for MUGEM Aircraft Carrier",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/turkish-navy-confirms-2032-delivery-date-for-mugem-aircraft-carrier/",
+        "published": "2026-06-07T08:21:27Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Rear Admiral Hakan Uçar, Commander of the Turkish Navy’s Naval Technical Command (formerly head of the Design Project Office), gave a detailed presentation on Türkiye’s indigenous aircraft carrier project known as MUGEM at the Combined Naval Event (CNE) 2026, held in Farnborough, UK, from 19 to 21 May. The presentation revealed updated specifications, new design ...\nThe post Turkish Navy Confirms 2032 Delivery Date for MUGEM Aircraft Carrier appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/3-ink-1024x615.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Forces Interdict Ship Connected to Iran in Indian Ocean, Iranian Oil Exports See Decrease",
         "url": "https://news.usni.org/2026/06/05/u-s-forces-interdict-ship-connected-to-iran-in-indian-ocean-iranian-oil-exports-see-decrease",
@@ -344,16 +354,6 @@
         "summary": "Etter fleire år som toppleiar i DSB har Elisabeth Aarsæther takka ja til ei sentral rolle som...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Testet ut mobil radarenhet",
-        "url": "https://www.kystverket.no/nyheter/testet-ut-mobil-radarenhet/",
-        "published": "2026-04-08T12:11:42Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "I det siste har Kystverket testet ut en ny type mobil radarløsning. Med det flyttbare utstyret ka...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -375,16 +375,6 @@
         "language": "en",
         "summary": "Sailors stationed at Naval Base Kitsap, Wash., and Naval Construction Battalion Center Gulfport, Miss., will now have access to a wider variety of food options as part of the Navy’s efforts to improve sailor quality of life. Two food-centered pilot programs under the Navy Installations Command (CNIC), as well as a physical education program on Naval Base San Diego, Calif., are meant to incentivize sailors to use facilities, like the physical fitness facilities and galleys, Commander, Navy Instal",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9715687-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Fincantieri’s FCx30: A Sea-Proven Corvette Designed to Evolve",
-        "url": "https://www.navalnews.com/naval-news/2026/06/fincantieris-fcx30-a-sea-proven-corvette-designed-to-evolve/",
-        "published": "2026-06-03T08:19:17Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The future of naval shipbuilding could be described as the ability to transform proven solutions into continuously evolving platforms. Fincantieri’s FCx30 embodies this approach: a mature, flexible and future-ready surface combatant, designed to integrate new sensors, weapons and digital tools in accordance with mission requirements throughout its service life. Sponsored by The FCx30 is rooted ...\nThe post Fincantieri’s FCx30: A Sea-Proven Corvette Designed to Evolve appeared first on Naval News",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/05/Fincantieri_logo.jpg",
         "section": "rov_teknologi"
       },
       {

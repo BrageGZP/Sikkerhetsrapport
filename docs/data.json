@@ -1,15 +1,95 @@
 {
-  "generated_at": "2026-06-09T15:19:19Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-10T07:58:29Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
-        "title": "US soldiers rescued after Apache helicopter goes down near the coast of Oman",
+        "title": "EM&E to Supply 47 Remote Weapon Stations to Portuguese Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/06/eme-to-supply-47-remote-weapon-stations-to-portuguese-navy/",
+        "published": "2026-06-10T07:55:33Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "EM&#38;E Group, a leading Spanish company in defense and security innovation and technologies, will supply&#160;47 remote weapon stations to the Portuguese Navy. EM&#38;E Group press release This milestone represents a strategic step for the company, as it is the first contract of this scale managed through the NATO Support and Procurement Agency (NSPA), reinforcing its ...\nThe post EM&amp;E to Supply 47 Remote Weapon Stations to Portuguese Navy appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saronic USV Rescues Two U.S. Army Pilots Downed by Iran",
+        "url": "https://www.navalnews.com/naval-news/2026/06/saronic-usv-rescues-two-u-s-army-pilots-downed-by-iran/",
+        "published": "2026-06-09T20:49:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "A U.S. Navy drone task force picked up two downed pilots using a Saronic Corsair unmanned surface vessel (USV) yesterday in Middle Eastern waters during a first of its kind rescue mission. As first reported by the Wall Street Journal, two Army pilots patrolling regional waters near Oman were rescued after their AH-64 attack helicopter ...\nThe post Saronic USV Rescues Two U.S. Army Pilots Downed by Iran appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Coast Guard, Saildrone team up in northern waters to boost border security, surveillance",
+        "url": "https://breakingdefense.com/2026/06/coast-guard-saildrone-team-up-in-northern-waters-to-boost-border-security-surveillance/",
+        "published": "2026-06-09T19:20:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The Voyager is equipped to conduct persistent coastal surveillance and nearshore mapping missions while remaining at sea for roughly 100 days at a time.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/CoastGuardSaildroneVoyager-e1781029988288-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "German F125 frigates are to receive 32 Iris-T SLM Naval missiles",
+        "url": "https://www.navalnews.com/naval-news/2026/06/german-f125-frigates-are-to-receive-32-iris-t-slm-naval-missiles/",
+        "published": "2026-06-09T18:55:37Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The German Navy&#8217;s F125 (Baden-Württemberg-class) frigates, which have so far been extremely poorly armed in terms of air defense, are to receive a significant capability upgrade in the future. The defense contractor Diehl Defence is currently working on equipping the ships with a total of 32 Iris-T-SLM missile cells. By Lars Hoffman / hartpunkt According ...\nThe post German F125 frigates are to receive 32 Iris-T SLM Naval missiles appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "UPDATED: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
+        "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
+        "published": "2026-06-09T16:44:21Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "This post has been updated with additional information. This post contains details of a violent crime that may disturb some readers. NAVAL STATION NORFOLK, Va. — Esmeralda Castle told a courtroom on Monday she was scared when her daughter, Culinary Specialist 3rd Class Angelina Resendiz, told her that she wanted to join the Navy. Women who served got hurt, Castle thought, reminded of the violent death of Vanessa Guillen, a soldier killed in 2020. On June 1, 2025, her fears became reality when th",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/09/9_Flattops_at_Norfolk_naval_base_December_20_2012-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "New 3rd Fleet Commander, Joint Staff Director Nominated",
+        "url": "https://news.usni.org/2026/06/09/new-3rd-fleet-commander-joint-staff-director-nominated",
+        "published": "2026-06-09T16:35:03Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Four Navy flag officers have been nominated for three-star assignments, according to a Monday Pentagon announcement. Vice Adm. Scott Gray, current commander of Navy Installations Command, has been renominated for a third star to be the deputy chief of Naval Operations for Sustainment, N4, Office of the Chief of Naval Operations/commander, Navy Sustainment, according to the announcement. Gray, a career naval flight officer before commanding a series of shore installations, has led the Navy’s shor",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Untitled-June-09-2026-at-12.18.09.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Naval carrier set to deploy with a drone, while Marines say goodbye to the Harrier",
+        "url": "https://breakingdefense.com/2026/06/naval-carrier-set-to-deploy-with-a-drone-while-marines-say-goodbye-to-the-harrier/",
+        "published": "2026-06-09T16:28:18Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "This week on The Break Out, a Seahawk drone is set to join aircraft carrier Theodore Roosevelt, and a legendary aircraft took its final flight.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/BO222-playbuttonthumb-1024x576.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pentagon Eyes New USV for Indo-Pacific Contested Logistics",
+        "url": "https://www.navalnews.com/naval-news/2026/06/pentagon-eyes-new-usv-for-indo-pacific-contested-logistics/",
+        "published": "2026-06-09T15:31:27Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Pentagon is looking to procure dozens of unmanned surface vessels (USV) to deliver to support U.S. Army logistics operations under contested environments in the Indo-Pacific.  According to a release from the Defense Innovation Unit (DIU) last month, the Defense Department wants to bolster the ground branch’s maritime logistics arm and greatly increase the fleet’s ...\nThe post Pentagon Eyes New USV for Indo-Pacific Contested Logistics appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/09/9051025-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US soldiers rescued by drone after Apache helicopter goes down near the coast of Oman",
         "url": "https://www.defensenews.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
         "published": "2026-06-09T13:08:52Z",
         "source": "Defense News",
         "language": "en",
-        "summary": "U.S. Naval Forces Central Command's Task Force 59 and the Army's 82nd Airborne Division led the rescue, with Air Force assets assisting as well.",
+        "summary": "U.S. Naval Forces Central Command's Task Force 59 and the Army's 82nd Airborne Division led the rescue, with Air Force assets assisting, as well.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SZS437FWEVDFZFTRQER5RRFLAE.jpeg",
         "section": "nyheter"
       },
@@ -104,36 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Drones Can Underpin Real-world Ops Today and 1,000-ship Navy Tomorrow",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/drones-can-underpin-real-world-ops-today-and-1000-ship-navy-tomorrow/",
-        "published": "2026-06-08T08:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The UK’s ability to tackle ‘real-world’ threats at sea would be significantly enhanced by expanding maritime uncrewed system (MUS) numbers as a substantial proportion of what could grow to be a ‘1,000-ship navy’, a UK defence minister has said. The impact of such MUS capacity in countering such ‘real-world’ threats is already evident, including in ...\nThe post Drones Can Underpin Real-world Ops Today and 1,000-ship Navy Tomorrow appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/2-NavNews-RN-1000-ship-HMSD-CC-MoD-26-1024x731.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "The Philippines meets its NMESIS in Balikatan exercise",
-        "url": "https://www.navalnews.com/naval-news/2026/06/the-philippines-meets-its-nmesis-in-balikatan-exercise/",
-        "published": "2026-06-07T20:59:54Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Two new pieces of equipment have recently joined the ranks of the US Marine Corps (USMC): the NMESIS – short for Navy-Marine Expeditionary Ship Interdiction System – and the MADIS (which stands for Marine Air Defense Integrated System). Both items were put through their paces in the Philippines in the multinational Exercise Balikatan held from ...\nThe post The Philippines meets its NMESIS in Balikatan exercise appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/2-1024x687.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Turkish Navy Confirms 2032 Delivery Date for MUGEM Aircraft Carrier",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/turkish-navy-confirms-2032-delivery-date-for-mugem-aircraft-carrier/",
-        "published": "2026-06-07T08:21:27Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Rear Admiral Hakan Uçar, Commander of the Turkish Navy’s Naval Technical Command (formerly head of the Design Project Office), gave a detailed presentation on Türkiye’s indigenous aircraft carrier project known as MUGEM at the Combined Naval Event (CNE) 2026, held in Farnborough, UK, from 19 to 21 May. The presentation revealed updated specifications, new design ...\nThe post Turkish Navy Confirms 2032 Delivery Date for MUGEM Aircraft Carrier appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/3-ink-1024x615.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S. Forces Interdict Ship Connected to Iran in Indian Ocean, Iranian Oil Exports See Decrease",
         "url": "https://news.usni.org/2026/06/05/u-s-forces-interdict-ship-connected-to-iran-in-indian-ocean-iranian-oil-exports-see-decrease",
         "published": "2026-06-05T21:57:22Z",
@@ -151,16 +201,6 @@
         "language": "en",
         "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea Aircraft carrier USS George Washington (CVN-73) is on patrol in the Philippine Sea. George Washington and its fixed wing squadrons completed carrier qualification training on May 28, certifying the carrier for an underway. The People’s Liberation Army Navy Liaoning Carrier Strike Group is operating in the Philippine Sea east of Luzon as of May 29, according to Japan",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9716800-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Indonesia Eyes JMSDF Asagiri-Class Destroyers as Japan Tailors Warship Transfers to Southeast Asian Partners",
-        "url": "https://www.navalnews.com/naval-news/2026/06/indonesia-eyes-jmsdf-asagiri-class-destroyers-as-japan-tailors-warship-transfers-to-southeast-asian-partners/",
-        "published": "2026-06-05T20:03:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japan and Indonesia have agreed to begin working-level discussions on the possible transfer of used Japan Maritime Self-Defense Force (JMSDF) Asagiri-class destroyers, marking another step in Tokyo’s expanding defense export policy and highlighting how Japan is tailoring naval cooperation to the specific requirements of regional partners. Japanese Defense Minister Shinjiro Koizumi met Indonesian Defense Minister ...\nThe post Indonesia Eyes JMSDF Asagiri-Class Destroyers as Japan Tailors Warship ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/07/Abukuma-class-destroyer-1024x669.jpeg",
         "section": "nyheter"
       },
       {
@@ -221,26 +261,6 @@
         "language": "en",
         "summary": "“Nations just need to assign the capabilities they have to NATO,” a spokesman for the alliance's military headquarters said.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ISQRLIIWBJEF5KQFNGWWSNIK5E.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Ankara’s Ambition",
-        "url": "https://news.usni.org/2026/06/02/ankaras-ambition",
-        "published": "2026-06-02T19:57:27Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "DOĞANBEY TRAINING AREA, TURKEY — Two-thousand-pound bombs, artillery shells and naval bombardments sent shockwaves through the valley in Turkey where the Aegean Army focused its firepower last month. Every explosion captured the attention of Turkish Armed Forces commanders, international observers and reporters perched atop two hills within a kilometer of the live-fire drills. The event was the concluding exercise of Efes – one of Ankara’s largest military exercises – and the culmination of week",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/DSC01190-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chinese Carrier Strike Group Conducts 170 Sorties During Drills in Philippine Sea",
-        "url": "https://news.usni.org/2026/06/02/chinese-carrier-strike-group-conducts-170-sorties-during-drills-in-philippine-sea",
-        "published": "2026-06-02T16:00:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The People’s Liberation Army Navy (PLAN) Liaoning Carrier Strike Group has conducted 170 sorties in the past week as the group trains in the Philippine Sea east of Luzon while shadowed by the Japan Maritime Self-Defense Force. Embarked fighter aircraft and helicopters were observed doing 80 take offs and landings May 26, 50 on Wednesday and 40 on Thursday, according to Japan’s Joint Staff Office. Japanese destroyer JS Asahi (DD-119) shadowed the Chinese carrier strike group, which includes carri",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Screenshot-2026-05-26-at-3.02.23-PM-e1780413669808.png",
         "section": "nyheter"
       }
     ],
@@ -348,6 +368,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Upcoming U.S. Depot in the Philippines to Support Fueling of Navy Destroyers, Combat Logistics Force Ships",
+        "url": "https://news.usni.org/2026/06/09/upcoming-u-s-depot-in-the-philippines-to-support-fueling-of-navy-destroyers-combat-logistics-force-ships",
+        "published": "2026-06-09T21:31:22Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Pentagon’s planned energy depot in the Philippines will be able to refuel the U.S. Navy’s guided-missile destroyers and Combat Logistics Force ships, according to new documents. Amendments to the Defense Logistics Agency’s solicitation from last summer have expanded, requiring the bidder to provide fueling support for Arleigh Burke-class destroyers, fleet replenishment oilers, dry cargo vessels and fast combat support ships. These vessels have historically relied on facilities in Luzon at Su",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/04/8989334-scaled.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "U.S. Congress Wants to Review At-Sea VLS Reloading Plans",
         "url": "https://www.navalnews.com/naval-news/2026/06/u-s-congress-wants-to-review-at-sea-vls-reloading-plans/",
         "published": "2026-06-08T11:29:00Z",
@@ -365,26 +395,6 @@
         "language": "en",
         "summary": "Sailors stationed at Naval Base Kitsap, Wash., and Naval Construction Battalion Center Gulfport, Miss., will now have access to a wider variety of food options as part of the Navy’s efforts to improve sailor quality of life. Two food-centered pilot programs under the Navy Installations Command (CNIC), as well as a physical education program on Naval Base San Diego, Calif., are meant to incentivize sailors to use facilities, like the physical fitness facilities and galleys, Commander, Navy Instal",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9715687-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Specialized Group of 1,300 Marines, Sailors Take Over SOUTHCOM Duties As 22nd MEU Heads Home",
-        "url": "https://news.usni.org/2026/05/29/specialized-group-of-1300-marines-sailors-take-over-southcom-duties-as-22nd-meu-heads-home",
-        "published": "2026-05-29T20:02:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "A specialized group of Marines operating in SOUTHCOM will now support Operation Southern Spear, the U.S. campaign to stop maritime drug trafficking, as the 22nd Marine Expeditionary Unit heads home. The 24th Marine Expeditionary Unit will operate as Littoral Combat Force-24, providing a Marine Air-Ground Task Force that will work under the Joint Task Force Southern Spear, the Marine Corps announced Friday. The group of Marines and sailors are taking over the duties of the 22nd Marine Expeditiona",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9713774-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.K. Mine Countermeasures Mothership Leaves Gibraltar for Potential Strait of Hormuz Mission",
-        "url": "https://news.usni.org/2026/05/28/u-k-mine-countermeasures-mothership-leaves-gibraltar-for-potential-strait-of-hormuz-mission",
-        "published": "2026-05-28T19:18:15Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Royal Navy’s mine countermeasures mothership RFA Lyme Bay (L3007) departed Tuesday from Gibraltar as the U.K. and France prepare to launch a multinational military mission to ensure freedom of navigation through the strait. More than 100 minehunting personnel from the Royal Navy’s diving and threat exploitation group and mine and threat exploitation group are on board Lyme Bay for a potential Strait of Hormuz mission, the Royal Navy announced. “RFA Lyme Bay’s potential deployment to the Gulf",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/FLEET-20260526-XH0037-004-scaled.jpg",
         "section": "rov_teknologi"
       }
     ]

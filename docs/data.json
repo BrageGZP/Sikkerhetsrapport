@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-06-16T09:15:09Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-16T17:09:15Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Senate, House Defense Bills Propose Restrictions on U.S. Warships Built in Foreign Yards; Legislation Limits Navy Secretary’s Ability to Rename Ships",
+        "url": "https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships",
+        "published": "2026-06-16T15:20:25Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "WASHINGTON, D.C. — Congressional defense committees voted to pump the brakes on the Trump administration’s push to buy foreign-built warships, USNI News has learned. House and Senate authorizers and House appropriators are placing limitations on the executive’s ability to pursue foreign warship designs built in allied shipyards abroad. The Senate Armed Services Committee’s mark of the Fiscal Year 2027 defense policy bill removes the presidential waiver authority from Title 10 that allows the com",
+        "image_url": "https://news.usni.org/wp-content/uploads/2018/06/US_Congress_02.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "L3Harris, Turkish firm Skydagger to establish US co-production of FPV interceptors",
+        "url": "https://breakingdefense.com/2026/06/l3harris-turkish-firm-skydagger-to-establish-us-co-production-of-fpv-interceptors/",
+        "published": "2026-06-16T13:21:56Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The deal would allow L3Harris to equip its Vampire c-UAS platform with a small interceptor drone for the first time.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260616_eurosatory_l3harris_vampire_EG-scaled-e1781616077258-1024x577.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "India Conducts Spate of Tests for Anti-Ship, Land Attack, BMD And Hypersonic Ground Attack Missiles",
         "url": "https://www.navalnews.com/naval-news/2026/06/india-conducts-spate-of-tests-for-anti-ship-land-attack-bmd-and-hypersonic-ground-attack-missiles/",
@@ -124,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "French DGA commissions MBDA to develop ASN4G hypersonic missile",
-        "url": "https://www.navalnews.com/naval-news/2026/06/french-dga-commissions-mbda-to-develop-asn4g-hypersonic-missile/",
-        "published": "2026-06-12T08:02:22Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On June 2, 2026, the French Directorate General of Armaments (DGA) announced the framework agreement for the implementation and development contract of the fourth generation nuclear Air-to-Ground missile (ASN4G). French MoD press release / Translated by Naval News The Directorate General of Armaments (DGA) notified MBDA on June 2, 2026, of the framework agreement for ...\nThe post French DGA commissions MBDA to develop ASN4G hypersonic missile appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
         "url": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
         "published": "2026-06-11T22:13:36Z",
@@ -181,26 +191,6 @@
         "language": "en",
         "summary": "The two sailors involved in a fatal shooting Saturday aboard future aircraft carrier John F. Kennedy (CVN-79) were part of the ship’s armed security forces, USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell, of Colorado, was killed in the shooting, which took place around 5:15 a.m on Saturday, while another unnamed sailor was taken into pre-trial confinement. The two were part of the in-port security force for the carrier while the ship is being completed at HII’s Newport News Shipbu",
         "image_url": "https://news.usni.org/wp-content/uploads/2025/07/DCS23-155-454-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "UPDATED: Norfolk Sailor Sentenced to 43 Years in Prison for Murder of Fellow Sailor",
-        "url": "https://news.usni.org/2026/06/09/breaking-norfolk-sailor-sentenced-to-43-years-in-prison-for-murder-of-fellow-sailor",
-        "published": "2026-06-09T16:44:21Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated with additional information. This post contains details of a violent crime that may disturb some readers. NAVAL STATION NORFOLK, Va. — Esmeralda Castle told a courtroom on Monday she was scared when her daughter, Culinary Specialist 3rd Class Angelina Resendiz, told her that she wanted to join the Navy. Women who served got hurt, Castle thought, reminded of the violent death of Vanessa Guillen, a soldier killed in 2020. On June 1, 2025, her fears became reality when th",
-        "image_url": "https://news.usni.org/wp-content/uploads/2025/09/9_Flattops_at_Norfolk_naval_base_December_20_2012-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "New 3rd Fleet Commander, Joint Staff Director Nominated",
-        "url": "https://news.usni.org/2026/06/09/new-3rd-fleet-commander-joint-staff-director-nominated",
-        "published": "2026-06-09T16:35:03Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Four Navy flag officers have been nominated for three-star assignments, according to a Monday Pentagon announcement. Vice Adm. Scott Gray, current commander of Navy Installations Command, has been renominated for a third star to be the deputy chief of Naval Operations for Sustainment, N4, Office of the Chief of Naval Operations/commander, Navy Sustainment, according to the announcement. Gray, a career naval flight officer before commanding a series of shore installations, has led the Navy’s shor",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Untitled-June-09-2026-at-12.18.09.png",
         "section": "nyheter"
       }
     ],
@@ -338,6 +328,36 @@
     ],
     "rov_teknologi": [
       {
+        "title": "MBDA advances land version of its naval missile as European strike weapon",
+        "url": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
+        "published": "2026-06-16T14:40:32Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Europe lacks long-range strike options that provide deterrence by holding Russian assets at risk, a gap that countries are trying to patch.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MO7WJZTGJZHGDKSLVZNRYXGP2I.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "HII Delivers First of the Newest REMUS Variant: 130",
+        "url": "https://www.navalnews.com/naval-news/2026/06/hii-delivers-first-of-the-newest-remus-variant-130/",
+        "published": "2026-06-16T14:38:52Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On June 16, 2026, Huntington Ingalls Industries announced the delivery of the first REMUS 130 unmanned underwater vehicle (UUV) to a U.S. ally, marking a major milestone for the next generation of the world’s most widely deployed autonomous underwater vehicle. HII press release Building on more than 25 years of operational success, REMUS 130 is ...\nThe post HII Delivers First of the Newest REMUS Variant: 130 appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Ukraine receives ex-Dutch Alkmaar-class minehunter Henichesk",
+        "url": "https://www.navalnews.com/naval-news/2026/06/ukraine-receives-ex-dutch-alkmaar-class-minehunter-henichesk/",
+        "published": "2026-06-16T11:14:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Ukrainian Navy has taken delivery of the former Royal Netherlands Navy minehunter HNLMS Makkum, which has entered Ukrainian service as Henichesk. Commander of the Ukrainian Navy Vice Admiral Oleksii Neizhpapa announced the transfer on June 15 following a ceremony during which the Ukrainian naval ensign was raised aboard the vessel. Senior naval representatives from ...\nThe post Ukraine receives ex-Dutch Alkmaar-class minehunter Henichesk appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Greece Approves Acquisition of VICTA Diver Delivery Units and V-BAT Drones",
         "url": "https://www.navalnews.com/naval-news/2026/06/greece-approves-acquisition-of-victa-diver-delivery-units-and-v-bat-drones/",
         "published": "2026-06-12T08:29:40Z",
@@ -345,16 +365,6 @@
         "language": "en",
         "summary": "The Parliament in Greece has approved more than €1 billion in defense procurements, including ten VICTA Diver Delivery Units from SubSea Craft and ten V-BAT reconnaissance VTOL drones from Shield AI. On June 11, 2026, the Special Permanent Committee on Armament Programs and Contracts of the Hellenic Parliament approved eight defense procurement programs worth more ...\nThe post Greece Approves Acquisition of VICTA Diver Delivery Units and V-BAT Drones appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/03/20260218jad1049-1024x683.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "US Navy stands up naval support activity in Western Australia",
-        "url": "https://www.defensenews.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
-        "published": "2026-06-10T19:06:50Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "As part of the AUKUS security pact, NSA Stirling will provide support for personnel assigned to Submarine Rotational Force-West.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KHGMV7PYNFAFTGDYX4XMOG3LXA.jpeg",
         "section": "rov_teknologi"
       },
       {

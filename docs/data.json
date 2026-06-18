@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-06-17T15:52:41Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-18T08:29:09Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Destroyer USS Mitscher Returns Home From 11-month Deployment",
+        "url": "https://news.usni.org/2026/06/17/destroyer-uss-mitscher-returns-home-from-11-month-deployment",
+        "published": "2026-06-17T19:47:03Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Destroyer USS Mitscher (DDG-57) returned Tuesday to Naval Station Norfolk, Va., following a historic 11-month deployment. During Mitscher’s 327-day deployment, the destroyer integrated with the Gerald R. Ford and Abraham Lincoln carrier strike groups, as well as the U.K. Prince of Wales strike group, in U.S. 5th and 6th fleets. Mitscher conducted its pre-deployment certification with the Ford CSG but departed on July 25, 2025, as an independent deployer. Equipped with the Aegis combat system, Mi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9753614-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Joint Task Force Southern Spear Strikes Suspected Drug Boat in Eastern Pacific",
+        "url": "https://news.usni.org/2026/06/17/joint-task-force-southern-spear-strikes-suspected-drug-boat-in-eastern-pacific",
+        "published": "2026-06-17T18:15:44Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Forces with Joint Task Force Southern Spear struck a suspected drug boat late Tuesday, U.S. Southern Command announced.  The strike killed one man and left two survivors. U.S. Coast Guard activated search and rescue operations, but the SOUTHCOM post did not include an update on the men’s status.  The U.S. strikes on alleged drug boats have now killed 203 people, although the total is likely higher as many of the survivors of strikes are presumed dead.  Tuesday’s strike was in the Eastern Pacific",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-2.09.41-PM-scaled.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "George Washington Carrier Strike Group in Guam for First Port Call of Spring Patrol",
+        "url": "https://news.usni.org/2026/06/17/george-washington-carrier-strike-group-in-guam-for-first-port-call-of-spring-patrol",
+        "published": "2026-06-17T18:02:35Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The George Washington Carrier Strike Group pulled into Guam on Tuesday marking the strike group’s first port visit of its spring patrol. The George Washington CSG, which includes aircraft carrier USS George Washington (CVN-73) with embarked Carrier Air Wing (CVW) 5, cruiser USS Robert Smalls (CG-62) and destroyers USS Benfold (DDG-65) and USS Shoup (DDG-86), arrived Tuesday in Guam for a scheduled port visit, according to a Navy news release. “Guam remains a critical nexus for the Navy’s carrier",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/GW-in-Guam.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Naval Group’s MPLS Close-In Weapon System Becomes ‘Rampart’",
         "url": "https://www.navalnews.com/naval-news/2026/06/naval-groups-mpls-close-in-weapon-system-becomes-rampart/",
@@ -51,16 +81,6 @@
         "language": "en",
         "summary": "WASHINGTON, D.C. — Congressional defense committees voted to pump the brakes on the Trump administration’s push to buy foreign-built warships, USNI News has learned. House and Senate authorizers and House appropriators are placing limitations on the executive’s ability to pursue foreign warship designs built in allied shipyards abroad. The Senate Armed Services Committee’s mark of the Fiscal Year 2027 defense policy bill removes the presidential waiver authority from Title 10 that allows the com",
         "image_url": "https://news.usni.org/wp-content/uploads/2018/06/US_Congress_02.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "L3Harris, Turkish firm Skydagger to establish US co-production of FPV interceptors",
-        "url": "https://breakingdefense.com/2026/06/l3harris-turkish-firm-skydagger-to-establish-us-co-production-of-fpv-interceptors/",
-        "published": "2026-06-16T13:21:56Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The deal would allow L3Harris to equip its Vampire c-UAS platform with a small interceptor drone for the first time.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260616_eurosatory_l3harris_vampire_EG-scaled-e1781616077258-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -154,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "SINKEX: Turkish Navy achieves first AKYA heavyweight torpedo firing from MÜREN CMS",
-        "url": "https://www.navalnews.com/naval-news/2026/06/sinkex-turkish-navy-achieves-first-akya-heavyweight-torpedo-firing-from-muren-cms/",
-        "published": "2026-06-12T16:27:25Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On July 11, 2026, The Turkish Ministry of Defence (MoD) has announced a successful firing of the AKYA heavyweight torpedo in the Eastern Mediterranean during the Denizkurdu II large-scale naval exercise. The MoD also released video footage from the activity as part of the exercise’s Distinguished Observers Day phase, showing the culminating live-fire events and ...\nThe post SINKEX: Turkish Navy achieves first AKYA heavyweight torpedo firing from MÜREN CMS appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/11/MUREN-Submarine-CMS-project-starts-to-pay-off-in-2022-for-Turkey-2-1024x664.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Wants Sailors to Do Less Supplemental Work on USS Harry S. Truman Overhaul",
         "url": "https://news.usni.org/2026/06/12/navy-wants-sailors-to-do-less-supplemental-work-on-uss-harry-s-truman-overhaul",
         "published": "2026-06-12T15:14:07Z",
@@ -191,36 +201,6 @@
         "language": "en",
         "summary": "The U.S. Navy recently stood up two new commands to operate at the Royal Australian Navy’s HMAS Stirling naval base in Western Australia in support of Submarine Rotational Force-West. Submarine Squadron 3 (CSS-3), which previously operated out of Hawaii, was re-established Wednesday at HMAS Stirling to lay the groundwork for maintenance, logistics and operational support rotational U.S. and U.K. submarines as part of SRF-West, a trilateral military initiative between Australia, the United States",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/8884863-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Taiwanese Forces Deploy American-made Attack Drones Against Maritime Targets",
-        "url": "https://news.usni.org/2026/06/10/taiwanese-forces-deploy-american-made-attack-drones-against-maritime-targets",
-        "published": "2026-06-10T22:14:43Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Taiwan&#8217;s newly acquired American attack drones struck maritime targets for the first time last week along the island’s west coast during live-fire drills designed to validate long-range strike systems that would play a crucial role in a potential invasion of the self-governing island. According to Taiwanese military media, the drones successfully struck their offshore targets following a simulated engagement loop where troops rehearsed detecting and identifying the threat. At least three t",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/HKLETG2b0AACpeF.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "BALTOPS 2026 Exercise Begins",
-        "url": "https://news.usni.org/2026/06/10/baltops-2026-exercise-begins",
-        "published": "2026-06-10T21:14:40Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "NATO kicked off maritime exercise Baltic Operations (BALTOPS) 2026 this week with 20 ships and 6,000 personnel from 15 NATO nations – fewer than BALTOPS 2025 owing to the NATO naval assets wrapped up in the Middle East. U.S. Sixth Fleet, which leads the exercise, said in a press release that, for the first time since 1972, the exercise will be command-and-controlled from Allied Joint Force Command (JFC) Brunssum to realistically imitate NATO command structure. “BALTOPS forms for us three vital t",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9736702-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Sailors Involved in JFK Shooting Were Part of Carrier’s In-Port Security Force",
-        "url": "https://news.usni.org/2026/06/10/sailors-involved-in-jfk-shooting-were-part-of-carriers-in-port-security-force",
-        "published": "2026-06-10T19:27:53Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The two sailors involved in a fatal shooting Saturday aboard future aircraft carrier John F. Kennedy (CVN-79) were part of the ship’s armed security forces, USNI News has learned. Boatswain’s Mate Seaman Jesse Braswell, of Colorado, was killed in the shooting, which took place around 5:15 a.m on Saturday, while another unnamed sailor was taken into pre-trial confinement. The two were part of the in-port security force for the carrier while the ship is being completed at HII’s Newport News Shipbu",
-        "image_url": "https://news.usni.org/wp-content/uploads/2025/07/DCS23-155-454-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -357,6 +337,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Australia Makes Seabed Warfare a Top Defence Priority",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/australia-makes-seabed-warfare-a-top-defence-priority/",
+        "published": "2026-06-17T20:19:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Australia’s latest National Defence Strategy (NDS) has underlined the country’s need to secure critical undersea infrastructure (CUI). To meet this seabed warfare mission quickly, the Royal Australian Navy (RAN) is looking to the commercial underwater industry to provide the required capability. Discussing how foreign interference is posing intensified threats to Australian security and sovereignty, the ...\nThe post Australia Makes Seabed Warfare a Top Defence Priority appeared first on Naval Ne",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/NavNews-RAN-CUI-MCM-2-CoA-768x1024.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Congress seeks to limit US Navy vessels built in foreign shipyards",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
+        "published": "2026-06-17T17:10:15Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Senate Armed Services Committee seeks to strip the waiver authority granted to the president to approve offshore ship construction.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RE25NF75BFDMJNRTCLO4UWXUAU.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "GAO Report to Congress on the Navy’s Robotic Autonomous Systems",
         "url": "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",

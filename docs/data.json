@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-18T15:41:20Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-19T08:57:12Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Ends Naval Blockade of Iran",
+        "url": "https://news.usni.org/2026/06/18/u-s-ends-naval-blockade-of-iran",
+        "published": "2026-06-18T22:30:53Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The United States has lifted the naval blockade against Iranian ports and coastlines, U.S. Central Command announced via social media site X. The lifting of the blockade comes as Washington and Tehran sign a 60-day memorandum of understanding between the two the U.S. and Iran, ending hostilities while negotiators continue to discuss Iran’s nuclear program. U.S. naval assets will remain in the Middle East “to make sure that all aspects of the agreement are adhered to, obeyed and in full force and",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-18-at-6.28.34-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Sailor Involved in JFK Shooting Released From Pre-trial Confinement",
+        "url": "https://news.usni.org/2026/06/18/sailor-involved-in-jfk-shooting-released-from-pre-trial-confinement",
+        "published": "2026-06-18T20:58:37Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A sailor involved in a shooting on future aircraft carrier John F. Kennedy (CVN-79) was released from pre-trial confinement, USNI News has learned. A sailor, whose name has not been released, was initially taken into pre-trial confinement following the fatal shooting of Boatswain’s Mate Seaman Jesse Braswell on June 6, USNI News previously reported. The sailor has since been released, though a Naval Air Force Atlantic statement did not say when the sailor was released. Braswell’s cause of death ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/07/DCS23-155-454-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navantia launches the sixth corvette for Saudi Arabia in San Fernando",
+        "url": "https://www.navalnews.com/naval-news/2026/06/navantia-launches-the-sixth-corvette-for-saudi-arabia-in-san-fernando/",
+        "published": "2026-06-18T19:59:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Navantia shipyard in San Fernando launched this afternoon the sixth corvette built for the Royal Saudi Naval Forces (RSNF), named HMS ALMADINAH. This vessel, the first of the second contract signed between the Ministry of Defence of Saudi Arabia and Navantia, touched the water at 6:50 pm. Navantia press release The ceremony was attended ...\nThe post Navantia launches the sixth corvette for Saudi Arabia in San Fernando appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/DSC02386-1024x685.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "SASC Wants Navy to Develop New DDG(X) Destroyer in Tandem with Trump Battleship",
+        "url": "https://news.usni.org/2026/06/18/sasc-wants-navy-to-develop-new-ddgx-destroyer-in-tandem-with-trump-battleship",
+        "published": "2026-06-18T19:44:51Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Senate authorizers want the Navy to continue pursuing the next-generation destroyer, in addition to the new Trump-class battleship, USNI News has learned. The Senate Armed Services Committee thinks the Navy must keep developing DDG(X) as planned to follow the Arleigh Burke-class Flight III destroyers, according to the explanatory report accompanying the panel’s draft of the Fiscal Year 2027 defense policy bill. The report language says the Navy needs DDG(X) so it has a platform to succeed the Fl",
+        "image_url": "https://news.usni.org/wp-content/uploads/2022/01/Screen-Shot-2022-01-12-at-4.38.38-PM.png",
+        "section": "nyheter"
+      },
       {
         "title": "The Navy’s next secretary has an urgent task: Make the public case",
         "url": "https://breakingdefense.com/2026/06/the-navys-next-secretary-has-an-urgent-task-make-the-public-case/",
@@ -84,16 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Lockheed, GM announce partnership to bolster production for munitions and more",
-        "url": "https://breakingdefense.com/2026/06/lockheed-gm-announce-partnership-to-bolster-production-for-munitions-and-more/",
-        "published": "2026-06-16T19:24:23Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "“What does a THAAD air defense interceptor have in common with Corvette?” Lockheed COO Frank St. John said. “Both of them are highly engineered, both of them are precision manufactured, both of them have broad and diverse supply chains, and both of them are produced at rate.&#8221;",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/Lockheed_pac3missleSegmantEnhancement-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Dutch MoD and Naval Group Ink F21 Torpedo Procurement Contract",
         "url": "https://www.navalnews.com/naval-news/2026/06/dutch-mod-and-naval-group-ink-f21-torpedo-procurement-contract/",
         "published": "2026-06-16T19:00:27Z",
@@ -134,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Exail introduces new inertial navigation system for amphibious operations",
-        "url": "https://www.navalnews.com/naval-news/2026/06/exail-introduces-new-inertial-navigation-system-for-amphibious-operations/",
-        "published": "2026-06-15T17:33:21Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Exail, a global leader in navigation systems for defense applications, unveils the Advans Vega SL, a new high-precision inertial navigation system maintaining navigation continuity across amphibious operations. Exail press release In contested littoral environments, maintaining reliable navigation across the sea-to-land transition remains a persistent challenge for amphibious forces. In the event of GNSS jamming, spoofing, ...\nThe post Exail introduces new inertial navigation system for amphibio",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Fleet and Marine Tracker: June 15, 2026",
         "url": "https://news.usni.org/2026/06/15/usni-news-fleet-and-marine-tracker-june-15-2026",
         "published": "2026-06-15T17:03:39Z",
@@ -181,26 +201,6 @@
         "language": "en",
         "summary": "The Navy is turning to commercial contractors for more duties during the upcoming refueling and complex overhaul of USS Harry S. Truman (CVN-75) in order to free up more time for sailors, USNI News has learned. Previously, sailors assigned to a ship in RCOH would be assigned supplementary, non-rate specific duties, such as painting, insulating or transportation services. Now, those duties will be given to contractors, and sailors will be able to use the time for training and operational readines",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9653470-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Disables 3 Tankers As Part of Iranian Blockade, 3 Mariners Killed in Tuesday Strike",
-        "url": "https://news.usni.org/2026/06/11/u-s-disables-3-tankers-as-part-of-iranian-blockade-3-mariners-killed-in-tuesday-strike",
-        "published": "2026-06-11T22:13:36Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "American forces disabled three merchant ships in the Gulf of Oman this week that were allegedly violating a U.S. naval blockade of Iran, Central Command officials said. Strikes on a ship on Tuesday resulted in the deaths of three Indian merchant mariners, according to a statement from the union representing the mariners who were killed. On Tuesday, around 11:15 p.m., U.S. forces fired precision munitions into the engine room of MT Settebello (IMO: 9162916), a Palauan-flagged ship owned by Panama",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-5.45.49-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Stands Up 2 Australian Commands in Support of American, U.K. Subs",
-        "url": "https://news.usni.org/2026/06/11/u-s-navy-stands-up-2-australian-commands-in-support-of-american-u-k-subs",
-        "published": "2026-06-11T17:48:34Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy recently stood up two new commands to operate at the Royal Australian Navy’s HMAS Stirling naval base in Western Australia in support of Submarine Rotational Force-West. Submarine Squadron 3 (CSS-3), which previously operated out of Hawaii, was re-established Wednesday at HMAS Stirling to lay the groundwork for maintenance, logistics and operational support rotational U.S. and U.K. submarines as part of SRF-West, a trilateral military initiative between Australia, the United States",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/8884863-scaled.jpg",
         "section": "nyheter"
       }
     ],

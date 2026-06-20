@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-20T07:41:02Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-20T14:19:12Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "SK Oceanplant Delivers Second Ulsan-class Batch-III Frigate to ROK Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/06/sk-oceanplant-delivers-second-ulsan-class-batch-iii-frigate-to-rok-navy/",
+        "published": "2026-06-20T08:22:40Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "SK Oceanplant has delivered the second Ulsan-class (FFX) Batch-III frigate, ROKS Gyeongbuk, to the Republic of Korea (ROK) Navy. SK Oceanplant Press Release Translated by Naval News SK Oceanplant announced on June 19 that it has delivered the ROK Navy’s latest frigate, ROKS Gyeongbuk, ahead of the original end-June schedule. The delivery ceremony was held ...\nThe post SK Oceanplant Delivers Second Ulsan-class Batch-III Frigate to ROK Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/FFX-Batch-III-2nd-ship-ROKS-Gyeongbuk_launch_1.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "USNI News Western Pacific Pulse: June 19, 2026",
         "url": "https://news.usni.org/2026/06/19/usni-news-western-pacific-pulse-june-19-2026",
@@ -395,16 +405,6 @@
         "language": "en",
         "summary": "Europe lacks long-range strike options that provide deterrence by holding Russian assets at risk, a gap that countries are trying to patch.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MO7WJZTGJZHGDKSLVZNRYXGP2I.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "HII Delivers First of the Newest REMUS Variant: 130",
-        "url": "https://www.navalnews.com/naval-news/2026/06/hii-delivers-first-of-the-newest-remus-variant-130/",
-        "published": "2026-06-16T14:38:52Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On June 16, 2026, Huntington Ingalls Industries announced the delivery of the first REMUS 130 unmanned underwater vehicle (UUV) to a U.S. ally, marking a major milestone for the next generation of the world’s most widely deployed autonomous underwater vehicle. HII press release Building on more than 25 years of operational success, REMUS 130 is ...\nThe post HII Delivers First of the Newest REMUS Variant: 130 appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       }
     ]

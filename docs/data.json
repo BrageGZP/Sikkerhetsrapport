@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T15:34:17Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-20T07:41:02Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -212,16 +212,6 @@
         "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of June 15, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 292 (USS 233, USNS 59) 103 (USS 73, USNS 30) (37 FDNF, 66 Rotational) 87 (66 Deployed, 21 Local) In the Philippine Sea Aircraft carrier USS George Washi",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/FT_6_15_26.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "Coast Guard, Eastern Shipbuilding Terminate Offshore Patrol Cutter Contract; Rick Scott Ends Promotion Holds",
-        "url": "https://news.usni.org/2026/06/12/coast-guard-eastern-shipbuilding-terminate-offshore-patrol-cutter-contract-rick-scott-ends-promotion-holds",
-        "published": "2026-06-12T20:49:35Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Coast Guard and Eastern Shipbuilding have reached an agreement to terminate a 10-year-old agreement to build the service’s Offshore Patrol Cutters, USNI News has learned. “The Coast Guard has reached an agreement with the Offshore Patrol Cutter (OPC) Stage 1 shipbuilder to close out the contract,” the service said in a Friday statement to USNI News. “The Coast Guard will acquire and deliver the OPC class as fast as possible to address the nation’s security and safety needs, while maintaining",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/FF_CNSA-23-105805.png",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -362,16 +352,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket søker passende lokaler til losstasjon i Sandnessjøen for en ny leieperiode på ti år, m...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Husøy fiskerihavn: Klar for neste fase",
-        "url": "https://www.kystverket.no/nyheter/husoy-fiskerihavn-sprengning-fullfort/",
-        "published": "2026-04-21T05:39:22Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Sprengningsarbeidet i prosjektet Husøy fiskerihavn er nå ferdigstilt.",
         "image_url": "",
         "section": "regelverk"
       }

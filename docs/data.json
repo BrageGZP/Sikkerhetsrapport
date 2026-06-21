@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-20T14:19:12Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-21T08:19:47Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "ASFAT Delivers TCG Koçhisar to the Turkish Navy and CAm. Roman to Romania in Landmark Double Ceremony",
+        "url": "https://www.navalnews.com/naval-news/2026/06/asfat-delivers-tcg-kochisar-to-the-turkish-navy-and-cam-roman-to-romania-in-landmark-double-ceremony/",
+        "published": "2026-06-21T08:04:20Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Turkish defense company ASFAT and Istanbul Naval Shipyard Command marked a significant milestone for both the Turkish and Romanian navies on 20 June with the simultaneous delivery of two sister warships: TCG Koçhisar (P-1221), the first Hisar-class Offshore Patrol Vessel (OPV) for the Turkish Navy, and CAm. Roman, a corvette delivered to the Romanian Naval ...\nThe post ASFAT Delivers TCG Koçhisar to the Turkish Navy and CAm. Roman to Romania in Landmark Double Ceremony appeared first on Naval Ne",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/HLQ5-HmW0AAq7Bc-1024x714.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "SK Oceanplant Delivers Second Ulsan-class Batch-III Frigate to ROK Navy",
         "url": "https://www.navalnews.com/naval-news/2026/06/sk-oceanplant-delivers-second-ulsan-class-batch-iii-frigate-to-rok-navy/",
@@ -184,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Dutch MoD and Naval Group Ink F21 Torpedo Procurement Contract",
-        "url": "https://www.navalnews.com/naval-news/2026/06/dutch-mod-and-naval-group-ink-f21-torpedo-procurement-contract/",
-        "published": "2026-06-16T19:00:27Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 16th June 2026, the Netherlands Ministry of Defence represented by Vice Admiral Jan Willem Hartman from COMMIT and Naval Group signed the contract for the supply of new-generation F21 heavyweight torpedoes to equip the Orka-class submarines. With this contract, the Royal Netherlands Navy will become the first NATO SSK fleet to operate the F21. ...\nThe post Dutch MoD and Naval Group Ink F21 Torpedo Procurement Contract appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/F21-HWT.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Senate, House Defense Bills Propose Restrictions on U.S. Warships Built in Foreign Yards; Legislation Limits Navy Secretary’s Ability to Rename Ships",
         "url": "https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships",
         "published": "2026-06-16T15:20:25Z",
@@ -352,16 +352,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har besluttet å avlyse konkurransen om utbygging av Kjøllefjord fiskerihavn.",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Leie av lokaler til losstasjon i Sandnessjøen",
-        "url": "https://www.kystverket.no/nyheter/leie-av-lokaler-til-losstasjon-i-sandnessjoen/",
-        "published": "2026-04-22T05:38:26Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket søker passende lokaler til losstasjon i Sandnessjøen for en ny leieperiode på ti år, m...",
         "image_url": "",
         "section": "regelverk"
       }

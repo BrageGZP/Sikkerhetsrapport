@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-06-21T14:25:07Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-22T09:37:19Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Chile Launches First Multipurpose LPD",
+        "url": "https://www.navalnews.com/naval-news/2026/06/chile-launches-first-multipurpose-lpd/",
+        "published": "2026-06-22T08:29:57Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On 18 June 2026, Chile launched the first of four 8,000-ton LPD for the Chilean Navy, a key milestone in the Escotillón IV program and the PNCCN naval modernization plan. On 18 June, 2026, after 46 weeks of construction, Chile launched the first of four planned 8,000-ton multipurpose landing platform dock (LPD) ships for the ...\nThe post Chile Launches First Multipurpose LPD appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Ceremony-1024x731.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Terma and MBDA Join Forces to Strengthen Europe’s Defense Capabilities",
+        "url": "https://www.navalnews.com/naval-news/2026/06/terma-and-mbda-join-forces-to-strengthen-europes-defense-capabilities/",
+        "published": "2026-06-22T07:35:47Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The partnership brings together MBDA, a global leader in complex weapon systems, and Terma, Denmark’s largest defense company, in strengthening European resilience and industrial base. The importance of the deal was underlined by the attendance of French Minister Delegate for Industry Sébastien Martin and Danish Minister of Business and Competitiveness Martin Lidegaard. The deal is ...\nThe post Terma and MBDA Join Forces to Strengthen Europe&#8217;s Defense Capabilities appeared first on Naval N",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "ASFAT Delivers TCG Koçhisar to the Turkish Navy and CAm. Roman to Romania in Landmark Double Ceremony",
         "url": "https://www.navalnews.com/naval-news/2026/06/asfat-delivers-tcg-kochisar-to-the-turkish-navy-and-cam-roman-to-romania-in-landmark-double-ceremony/",
@@ -184,16 +204,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Naval Group’s MPLS Close-In Weapon System Becomes ‘Rampart’",
-        "url": "https://www.navalnews.com/naval-news/2026/06/naval-groups-mpls-close-in-weapon-system-becomes-rampart/",
-        "published": "2026-06-17T07:00:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Eurosatory 2026, Naval Group is sharing the latest with its &#8220;Multi-purpose and Modular Launching System&#8221; (MPLS) close-in weapon system (CIWS). The French shipbuilder announced the name for the system: Rampart. A model of the launcher is showcased for the first time on a wheeled vehicle to highlight its land warfare application. Naval Group also ...\nThe post Naval Group&#8217;s MPLS Close-In Weapon System Becomes &#8216;Rampart&#8217; appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Rampart-on-Zetros-truck-1024x543.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Senate, House Defense Bills Propose Restrictions on U.S. Warships Built in Foreign Yards; Legislation Limits Navy Secretary’s Ability to Rename Ships",
         "url": "https://news.usni.org/2026/06/16/senate-house-defense-bills-propose-restrictions-on-u-s-warships-built-in-foreign-yards-legislation-limits-navy-secretarys-ability-to-rename-ships",
         "published": "2026-06-16T15:20:25Z",
@@ -225,6 +235,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Status 2026 gir betre grunnlag for strategiske val langs kysten",
+        "url": "https://www.kystverket.no/nyheter/status-2026-gir-betre-grunnlag-for-strategiske-val-langs-kysten/",
+        "published": "2026-06-22T07:51:55Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I Status 2026 samlar Kystverket kunnskap om utviklinga langs norskekysten og gjer denne kunnskape...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket gjenopptar arbeidet på U-864",
         "url": "https://www.kystverket.no/nyheter/gjenopptar-arbeidet-pa-u-864/",
@@ -357,16 +377,6 @@
       }
     ],
     "rov_teknologi": [
-      {
-        "title": "Australia Makes Seabed Warfare a Top Defence Priority",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/australia-makes-seabed-warfare-a-top-defence-priority/",
-        "published": "2026-06-17T20:19:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Australia’s latest National Defence Strategy (NDS) has underlined the country’s need to secure critical undersea infrastructure (CUI). To meet this seabed warfare mission quickly, the Royal Australian Navy (RAN) is looking to the commercial underwater industry to provide the required capability. Discussing how foreign interference is posing intensified threats to Australian security and sovereignty, the ...\nThe post Australia Makes Seabed Warfare a Top Defence Priority appeared first on Naval Ne",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/NavNews-RAN-CUI-MCM-2-CoA-768x1024.jpg",
-        "section": "rov_teknologi"
-      },
       {
         "title": "Congress seeks to limit US Navy vessels built in foreign shipyards",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",

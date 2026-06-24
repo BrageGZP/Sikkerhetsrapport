@@ -1,15 +1,65 @@
 {
-  "generated_at": "2026-06-24T07:30:50Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-24T14:45:58Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Germany is cancelling the F126 frigate project and procuring eight MEKO frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/06/germany-is-cancelling-the-f126-frigate-project-and-procuring-eight-meko-frigates/",
+        "published": "2026-06-24T14:29:38Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The German Federal Ministry of Defense has decided to discontinue the construction of six F126-class frigates, as the ministry announced in a recent statement. The cancellation is attributed to significant project delays and the foreseeable cost increases and risks associated with changing the general contractor. Hartpunkt had already reported on corresponding rumors on June 23, ...\nThe post Germany is cancelling the F126 frigate project and procuring eight MEKO frigates appeared first on Naval ",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK industry team looks to miniaturize DragonFire laser for Type 45 destroyer debut",
+        "url": "https://breakingdefense.com/2026/06/uk-industry-partners-look-to-miniaturize-dragonfire-laser-weapon-for-type-45-destroyer-debut/",
+        "published": "2026-06-24T12:31:44Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Based on a 2027 target, the UK is set to become the first European NATO nation to operationally deploy novel, laser directed energy technology.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/20260623-NIAG_Industry_Day_DJC-7-scaled-e1782299138212-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
+        "url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
+        "published": "2026-06-24T10:28:27Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Germany Navy leaders have already blessed the fallback ships as capable of meeting NATO capability requirements, but an alliance deadline looms.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XYCJWUGD3NA3VATSNLWNHH24GA.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hellenic Navy’s Third FDI Frigate HS Formion Begins Sea Trials",
+        "url": "https://www.navalnews.com/naval-news/2026/06/hellenic-navys-third-fdi-frigate-hs-formion-begins-sea-trials/",
+        "published": "2026-06-24T10:04:39Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The third FDI frigate for the Hellenic Navy, HS Formion (F603), started her first sea trials on June 22nd setting sail from the Lorient shipyard. According to Naval Group, the FDI HN program is progressing smoothly and 2026 marks several miletones. The French Shipbuilder announced the start of sea trials for HS Formion on social media. ...\nThe post Hellenic Navy’s Third FDI Frigate HS Formion Begins Sea Trials appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "China Now Leads World Submarine Construction",
+        "url": "https://www.navalnews.com/naval-news/2026/06/china-now-leads-world-submarine-construction/",
+        "published": "2026-06-24T08:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "More countries are building and operating submarines today than at any point in modern history. Yet amid this global expansion, China has emerged as the dominant force, launching twice as many submarines as any other nation and introducing more new classes. World submarine construction is growing to levels unseen since the Cold War in the ...\nThe post China Now Leads World Submarine Construction appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Indian Navy Commissions Nilgiri class Frigate, ASW Vessel and Survey Vessel",
         "url": "https://www.navalnews.com/naval-news/2026/06/indian-navy-commissions-nilgiri-class-frigate-asw-vessel-and-survey-vessel/",
         "published": "2026-06-24T07:27:51Z",
         "source": "Naval News",
         "language": "en",
-        "summary": "The Indian Navy commissioned a Nilgiri-class frigate INS Dunagiri, Survey Vessel (Large) INS Sanshodhak and ASW Shallow Water Craft INS Agray on June 21. All three ships were designed by the Indian Navy’s Warship Design Bureau and constructed in Kolkata by Garden Reach Shipbuilders &#38; Engineers (GRSE). The commissioning ceremony was presided over by Prime ...\nThe post Indian Navy Commissions Nilgiri class Frigate, ASW Vessel and Survey Vessel appeared first on Naval News.",
+        "summary": "The Indian Navy commissioned the Nilgiri-class frigate INS Dunagiri, Survey Vessel (Large) INS Sanshodhak and ASW Shallow Water Craft INS Agray on June 21. All three ships were designed by the Indian Navy’s Warship Design Bureau and constructed in Kolkata by Garden Reach Shipbuilders &#38; Engineers (GRSE). The commissioning ceremony was presided over by Prime ...\nThe post Indian Navy Commissions Nilgiri class Frigate, ASW Vessel and Survey Vessel appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Sanshodhak.jpg",
         "section": "nyheter"
       },
@@ -164,36 +214,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Chile Launches First Multipurpose LPD",
-        "url": "https://www.navalnews.com/naval-news/2026/06/chile-launches-first-multipurpose-lpd/",
-        "published": "2026-06-22T08:29:57Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 18 June 2026, Chile launched the first of four 8,000-ton LPD for the Chilean Navy, a key milestone in the Escotillón IV program and the PNCCN naval modernization plan. On 18 June, 2026, after 46 weeks of construction, Chile launched the first of four planned 8,000-ton multipurpose landing platform dock (LPD) ships for the ...\nThe post Chile Launches First Multipurpose LPD appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Ceremony-1024x731.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Terma and MBDA Join Forces to Strengthen Europe’s Defense Capabilities",
-        "url": "https://www.navalnews.com/naval-news/2026/06/terma-and-mbda-join-forces-to-strengthen-europes-defense-capabilities/",
-        "published": "2026-06-22T07:35:47Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The partnership brings together MBDA, a global leader in complex weapon systems, and Terma, Denmark’s largest defense company, in strengthening European resilience and industrial base. The importance of the deal was underlined by the attendance of French Minister Delegate for Industry Sébastien Martin and Danish Minister of Business and Competitiveness Martin Lidegaard. The deal is ...\nThe post Terma and MBDA Join Forces to Strengthen Europe&#8217;s Defense Capabilities appeared first on Naval N",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "ASFAT Delivers TCG Koçhisar to the Turkish Navy and CAm. Roman to Romania in Landmark Double Ceremony",
-        "url": "https://www.navalnews.com/naval-news/2026/06/asfat-delivers-tcg-kochisar-to-the-turkish-navy-and-cam-roman-to-romania-in-landmark-double-ceremony/",
-        "published": "2026-06-21T08:04:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Turkish defense company ASFAT and Istanbul Naval Shipyard Command marked a significant milestone for both the Turkish and Romanian navies on 20 June with the simultaneous delivery of two sister warships: TCG Koçhisar (P-1221), the first Hisar-class Offshore Patrol Vessel (OPV) for the Turkish Navy, and CAm. Roman, a corvette delivered to the Romanian Naval ...\nThe post ASFAT Delivers TCG Koçhisar to the Turkish Navy and CAm. Roman to Romania in Landmark Double Ceremony appeared first on Naval Ne",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/HLQ5-HmW0AAq7Bc-1024x714.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: June 19, 2026",
         "url": "https://news.usni.org/2026/06/19/usni-news-western-pacific-pulse-june-19-2026",
         "published": "2026-06-19T14:51:28Z",
@@ -286,6 +306,26 @@
     ],
     "regelverk": [
       {
+        "title": "Kystverket på jakt etter fartøy til opplæring av nye loser",
+        "url": "https://www.kystverket.no/nyheter/kystverket-pa-jakt-etter-fartoy-til-opplaring-av-nye-loser/",
+        "published": "2026-06-24T11:53:45Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Har du et fartøy tilgjengelig i høst? Kystverket inviterer maritime aktører til å bidra i...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Endrer krav til havnesikring for å møte nye trusselbilder",
+        "url": "https://www.kystverket.no/nyheter/gjor-endringer-i-krav-til-havnesikring-for-a-mote-utfordringer-med-nye-trusselbilder/",
+        "published": "2026-06-24T11:44:19Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Havner er kritisk infrastruktur. Derfor er norske havner underlagt nasjonalt og internasjonalt...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
         "title": "Løft blikket 2026: – Jeg tror kanskje han hadde vært i live i dag hvis han hadde hatt på vesten",
         "url": "https://www.kystverket.no/nyheter/loft-blikket-2026--jeg-tror-kanskje-han-hadde-vart-i-live-i-dag-hvis-han-hadde-hatt-pa-vesten/",
         "published": "2026-06-23T08:58:34Z",
@@ -301,7 +341,7 @@
         "published": "2026-06-22T07:51:55Z",
         "source": "Kystverket.no",
         "language": "no",
-        "summary": "I Status 2026 samlar Kystverket kunnskap om utviklinga langs norskekysten og gjer denne kunnskape...",
+        "summary": "I artikkelsamlinga Status 2026 samlar Kystverket viktig og oppdatert kunnskap om utviklinga langs...",
         "image_url": "",
         "section": "regelverk"
       },

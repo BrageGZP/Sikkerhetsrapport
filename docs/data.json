@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-06-25T07:32:06Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-25T14:45:32Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Philippines deploys US-made Triton naval drones in its western waters to scout for intruders",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/06/25/philippines-deploys-us-made-triton-naval-drones-in-its-western-waters-to-scout-for-intruders/",
+        "published": "2026-06-25T14:32:31Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The transfer comes after the military revealed that China discreetly deployed a 6x6 meter floating platform equipped with an antenna at Scarborough Shoal.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R7ZWFA4HTBFXPKDH7PFHLFJK2U.webp",
+        "section": "nyheter"
+      },
+      {
+        "title": "USS Indianapolis Suffers Fire, 7 Sailors Treated for Minor Injuries",
+        "url": "https://news.usni.org/2026/06/25/uss-indianapolis-suffers-fire-7-sailors-treated-for-minor-injuries",
+        "published": "2026-06-25T14:31:32Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Littoral Combat Ship USS Indianapolis (LCS-17) suffered an in-port fire on Wednesday while in port at Naval Station Mayport, Fla., USNI News has learned. Seven sailors were taken to area hospitals, treated for minor injuries and released. “All have since been released and cleared to return to the ship that same afternoon. The cause of the incident is being reviewed,” reads a statement from U.S. Naval Surface Force Atlantic to USNI News. The fire began around 11:30 a.m., and the ship’s compan",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/8777988.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "North Korea Commissions First Guided-Missile Destroyer, Plans Cruiser",
+        "url": "https://www.navalnews.com/naval-news/2026/06/north-korea-commissions-first-guided-missile-destroyer-plans-cruiser/",
+        "published": "2026-06-25T14:31:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On June 23, 2026, North Korea formally commissioned its largest-ever warship, the lead vessel of the 5,000-ton Choe Hyon-class guided-missile destroyers, while also outlining plans to follow the program with a new class of 10,000-ton cruisers. On June 23, 2026, North Korea (Democratic People&#8217;s Republic of Korea &#8211; DPRK) formally commissioned its largest-ever warship, the ...\nThe post North Korea Commissions First Guided-Missile Destroyer, Plans Cruiser appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Choe-Hyon-destroyer-was-commissioned-in-June-2026-1024x679.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Major Italian shipbuilder Fincantieri exploring nuclear-powered vessels, CEO says",
+        "url": "https://breakingdefense.com/2026/06/major-italian-shipbuilder-fincantieri-exploring-nuclear-powered-vessels-ceo-says/",
+        "published": "2026-06-25T14:23:48Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Fincantieri CEO Pierroberto Folgiero also touched on several other topics during a closed-door roundtable, including lessons learned from the war in Ukraine regarding naval drones and the future of a common European patrol corvette.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/11/IMG_2233-1-scaled-e1730890343210-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Poland buys V-BAT drones to boost Baltic Sea naval operations",
+        "url": "https://www.defensenews.com/global/europe/2026/06/25/poland-buys-v-bat-drones-to-boost-baltic-sea-naval-operations/",
+        "published": "2026-06-25T08:20:43Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The deal puts Poland in line to become the first country on NATO’s eastern flank to acquire the Shield AI-made drone.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LYC7GB4HDJDG7HGDEH5WAFYQUA.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "North Korea Commissions First-in-class Destroyer Choe Hyon",
         "url": "https://news.usni.org/2026/06/24/north-korea-commissions-first-in-class-destroyer-choe-hyon",
@@ -94,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "How L3Harris transformed a Qatari 747 into a new Air Force One plane before July 4",
-        "url": "https://breakingdefense.com/2026/06/how-l3harris-transformed-a-qatari-747-into-a-new-air-force-one-plane-before-july-4/",
-        "published": "2026-06-23T16:54:37Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "L3Harris modified the jet in 10 months, with  400 employees working 24/7 to deliver the plane by a July 4 deadline, the head of the company&#8217;s ISR division said.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/air-force-one-qatar-scaled-e1782230164695-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Shield AI’s V-BAT to support Polish naval operations",
         "url": "https://www.navalnews.com/naval-news/2026/06/shield-ais-v-bat-to-support-polish-naval-operations/",
         "published": "2026-06-23T16:13:47Z",
@@ -131,26 +171,6 @@
         "language": "en",
         "summary": "MANILA, Philippines — The Philippine Navy&#8217;s drone unit gained another system with the transfer of Ocean Aero Triton autonomous underwater and surface vehicles through a U.S.-funded initiative. Four Tritons were officially handed over to the Philippine Navy&#8217;s Unmanned Surface Vessel Unit One at Naval Operating Base Subic Bay on Monday. Powered by wind and solar ...\nThe post U.S. Transfers Ocean Aero Tritons to Philippine Navy USV Unit appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/06-23-2026-PR-United-States-Provides-Triton-Unmanned-Systems-to-Strengthen-Philippines-Maritime-Domain-Awareness-1-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Indonesia’s First Two Scorpene Evolved Will Have Missile Launch Capability",
-        "url": "https://www.navalnews.com/naval-news/2026/06/indonesias-first-two-scorpene-evolved-will-have-missile-launch-capability/",
-        "published": "2026-06-23T09:54:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A recent report suggested that the first two Scorpene Evolved submarines for the Indonesian Navy (TNI AL), which will be constructed domestically by the state-owned company PT PAL Indonesia in East Java, will not have missile-launch capability from the outset. However, sources involved in the project have confirmed to Naval News that the report is ...\nThe post Indonesia’s First Two Scorpene Evolved Will Have Missile Launch Capability appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Scorpene-Evolved-specs-1024x743.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Sets Sights on 10 Commercial Tankers To Rapidly Expand Logistics Fleet",
-        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-navy-sets-sights-on-10-commercial-tankers-to-rapidly-expand-logistics-fleet/",
-        "published": "2026-06-23T08:30:56Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Commercial orders for the Military Sealift Command (MSC), the backbone of global U.S. Navy operations, can rapidly close the U.S. Navy&#8217;s logistics shortage concerns in the Pacific. The U.S. Navy&#8217;s newly established Portfolio Acquisition Executive (PAE) Maritime office has started a search for commercial tankers to fill the service&#8217;s shortage of logistics ships, pushing a ...\nThe post U.S. Navy Sets Sights on 10 Commercial Tankers To Rapidly Expand Logistics Fleet appeared first",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/9074890-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -191,16 +211,6 @@
         "language": "en",
         "summary": "China’s Liaoning Carrier Strike Group returned Monday to its homeport of Qingdao, concluding a 40-day deployment to the South China Sea and Philippine Sea, the People’s Liberation Army Navy announced. “Back to Port: A Chinese PLA Navy’s task force led by aircraft carrier Liaoning (Hull 16) completed its 40-odd open-sea combat training in the South China Sea and the Western Pacific Ocean, and returned to home port in east China’s Qingdao city on Monday,” reads an announcement on the PLA’s officia",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.38.29-PM-scaled.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "MARTAC and Intrepid Powerboats Announce Manufacturing Partnership to Scale Autonomous Surface Vessel Production",
-        "url": "https://www.navalnews.com/naval-news/2026/06/martac-and-intrepid-powerboats-announce-manufacturing-partnership-to-scale-autonomous-surface-vessel-production/",
-        "published": "2026-06-22T19:31:58Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Maritime Tactical Systems, Inc. (MARTAC) announced a manufacturing partnership with Intrepid Powerboats, a Florida-based premium boatbuilder. The collaboration gives MARTAC the ability to scale production of its Devil Ray USV platforms to between 200 and 300 vessels per year, meeting accelerating demand from U.S. government, allied-nation, and commercial customers. MARTAC press release Under the partnership, ...\nThe post MARTAC and Intrepid Powerboats Announce Manufacturing Partnership to Scale ",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -457,6 +467,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "HGH to provide SPYNEL surveillance systems for Kuwait Navy’s AL DORRA OPV Program",
+        "url": "https://www.navalnews.com/naval-news/2026/06/hgh-to-provide-spynel-surveillance-systems-for-kuwait-navys-al-dorra-opv-program/",
+        "published": "2026-06-25T14:20:50Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HGH, a global leader in electro-optical and infrared solutions, announces a new major contract with&#160;EDGE Group’s naval arm, Abu Dhabi Ship Building PJSC (ADSB), to equip eight Offshore Patrol Vessels (OPVs) under the Kuwait Navy’s AL DORRA program with its advanced&#160;SPYNEL 360° infrared surveillance systems. HGH press release The new contract builds on the long-standing ...\nThe post HGH to provide SPYNEL surveillance systems for Kuwait Navy&#8217;s AL DORRA OPV Program appeared first on",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Photo-of-one-FALAJ-3-OPV-vessel-with-SPYNEL-X-8000-camera.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Belgian-Dutch rMCM programme enters critical integration phase",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/belgian-dutch-rmcm-programme-enters-critical-integration-phase/",
+        "published": "2026-06-25T08:31:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The joint Belgian-Dutch replacement Mine Countermeasures (rMCM) programme continues to make progress towards demonstrating its full stand-off mine warfare capability before the end of 2026, with recent ship and system deliveries paving the way for a critical phase of operational integration. Speaking at the recent Navy Leaders Combined Naval Event (CNE) 2026, Commander Pierre Van ...\nThe post Belgian-Dutch rMCM programme enters critical integration phase appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Oostende-christening-1024x682.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Germany nixes multi-billion-dollar F126 frigate program, opts for MEKOs instead",
         "url": "https://breakingdefense.com/2026/06/germany-nixes-multi-billion-dollar-f126-frigate-program-opts-for-mekos-instead/",

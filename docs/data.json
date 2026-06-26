@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-06-26T07:41:11Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-26T14:37:52Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "French Seizes 5th Russian Shadow Fleet Tanker",
+        "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
+        "published": "2026-06-26T14:02:28Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off the coast of Sicily in violation of maritime law The seizure on Tuesday marked France’s fifth seizure of a suspected shadow fleet tanker since September 2025. It’s the second seizure of a Russian sha",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-9.54.24-AM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hanwha Unveils Striker MUSV Family at Eurosatory 2026",
+        "url": "https://www.navalnews.com/naval-news/2026/06/hanwha-unveils-striker-musv-family-at-eurosatory-2026/",
+        "published": "2026-06-26T09:34:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At Eurosatory 2026, Hanwha Systems’ new Striker Medium Uncrewed Surface Vessel (MUSV) stood out as one of the few concepts aimed at bringing missile firepower to an autonomous naval platform. Tayfun Ozberk story, additional reporting by Xavier Vavasseur Displayed at the company’s booth, the Striker-S represents a departure from the small explosive-laden surface drones. Instead, ...\nThe post Hanwha Unveils Striker MUSV Family at Eurosatory 2026 appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Striker-USV-Chunmoo-2-1024x771.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Naval Group delivers 4th Barracuda type submarine",
         "url": "https://www.navalnews.com/naval-news/2026/06/naval-group-delivers-4th-barracuda-type-submarine/",
@@ -154,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Shield AI’s V-BAT to support Polish naval operations",
-        "url": "https://www.navalnews.com/naval-news/2026/06/shield-ais-v-bat-to-support-polish-naval-operations/",
-        "published": "2026-06-23T16:13:47Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Shield AI, the defense-tech company building the world’s best AI pilots and next-generation aircraft, today announced that Poland’s Armament Agency has signed a contract for the acquisition of V-BAT vertical takeoff and landing (VTOL) unmanned aerial vehicles (UAVs) intended to support Polish Navy operations. Shield AI press release The V-BAT force will be deployed aboard ...\nThe post Shield AI’s V-BAT to support Polish naval operations appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "India’s three new naval ships boost maritime firepower",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/06/23/indias-three-new-naval-ships-boost-maritime-firepower/",
         "published": "2026-06-23T11:31:19Z",
@@ -252,19 +262,19 @@
         "summary": "Forces with Joint Task Force Southern Spear struck an alleged drug boat in the Eastern Pacific, killing three men, on Thursday. The strike was the 65th since President Donald Trump announced the first ones in September 2025. At least 208 people have been killed, including the three men from Thursday’s strike and three from a strike on Tuesday. Tuesday’s strike initially left two survivors, USNI News previously reported. The Coast Guard called off search and rescue operations after 20 hours and a",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-10.41.26-AM.png",
         "section": "nyheter"
-      },
-      {
-        "title": "A Simple Prayer and a Blasted Bridge: Marine John Ripley Receives Posthumous Medal of Honor",
-        "url": "https://news.usni.org/2026/06/19/a-simple-prayer-and-a-blasted-bridge-marine-john-ripley-receives-posthumous-medal-of-honor",
-        "published": "2026-06-19T11:56:02Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "For decades, young midshipmen at the U.S. Naval Academy have walked by &#8220;Ripley at the Bridge,&#8221; a dramatic diorama within the Memorial Hall foyer in Bancroft Hall featuring Marine Capt. John Ripley dangling from a girder over the Cua Viet River. On Thursday, 54 years after his actions in Vietnam that made him an iconic military hero and 18 years after his death in 2008, Ripley was posthumously presented with the Medal of Honor at the White House. Previously awarded the Navy Cross, Rip",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9761192.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Kystverket formaliserer samarbeid med Kenya",
+        "url": "https://www.kystverket.no/nyheter/avtale-signert-mellom-kystverket-og-kenya-maritime-authority/",
+        "published": "2026-06-26T07:48:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket og Kenya Maritime Authority har samarbeidet om beredskap mot akutt forurensning i mer...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket på jakt etter fartøy til opplæring av nye loser",
         "url": "https://www.kystverket.no/nyheter/kystverket-pa-jakt-etter-fartoy-til-opplaring-av-nye-loser/",
@@ -276,7 +286,7 @@
         "section": "regelverk"
       },
       {
-        "title": "Endrer krav til havnesikring for å møte nye trusselbilder",
+        "title": "Endrer krav til havnesikring",
         "url": "https://www.kystverket.no/nyheter/gjor-endringer-i-krav-til-havnesikring-for-a-mote-utfordringer-med-nye-trusselbilder/",
         "published": "2026-06-24T11:44:19Z",
         "source": "Kystverket.no",
@@ -438,6 +448,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Video: Ukraine’s Massive New Underwater Drone – Sea Trident ST-1000",
+        "url": "https://www.navalnews.com/naval-news/2026/06/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
+        "published": "2026-06-26T12:55:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Ukraine’s Global Mark has just unveiled its first-ever Extra-Large Uncrewed Underwater Vehicle (XLUUV) at the Eurosatory 2026 defense exhibition in Paris: the Sea Trident ST-1000. Known previously for their aerial drones and powerful electronic warfare (EW) systems, Global Mark is taking things below the surface. This steel-hulled, oval-shaped underwater beast is built for heavy-duty strikes, ...\nThe post Video: Ukraine’s Massive New Underwater Drone &#8211; Sea Trident ST-1000 appeared first on",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "HGH to provide SPYNEL surveillance systems for Kuwait Navy’s AL DORRA OPV Program",
         "url": "https://www.navalnews.com/naval-news/2026/06/hgh-to-provide-spynel-surveillance-systems-for-kuwait-navys-al-dorra-opv-program/",
         "published": "2026-06-25T14:20:50Z",
@@ -475,16 +495,6 @@
         "language": "en",
         "summary": "MANILA, PHILIPPINES – The latest tranche of American-made and funded drones were formally received by Philippine forces this week ahead of Washington’s larger plans to equip the Southeast Asian ally with asymmetric capabilities that could prove crucial in monitoring and deterring Beijing in the South China Sea. Four Ocean Aero Triton autonomous underwater and surface vehicles were delivered on Monday to the Philippine Navy as part of Washington’s drone-focused asymmetric capabilities program. Th",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Triton-e1782229257446.jpeg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "GAO Report to Congress on the Navy’s Robotic Autonomous Systems",
-        "url": "https://news.usni.org/2026/06/16/gao-report-to-congress-on-the-navys-robotic-autonomous-systems",
-        "published": "2026-06-16T18:14:32Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the June 15, 2026, Government Accountability Office report to Congress on Robotic Autonomous Systems: Navy Needs to Address Leadership and Organizational Challenges to Meet Urgent Needs. The report was given to the Senate Armed Services Committee and the House Armed Services Committee.  From the Report What GAO found Recent conflicts in Ukraine and the Middle East prove that robotic and autonomous systems (RAS) are disrupting naval warfare and challenging traditional naval super",
-        "image_url": "",
         "section": "rov_teknologi"
       }
     ]

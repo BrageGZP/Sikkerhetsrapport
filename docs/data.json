@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T13:57:04Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-28T07:42:26Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -160,16 +160,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "The third FDI frigate for the Hellenic Navy, HS Formion (F603), started her first sea trials on June 22nd setting sail from the Lorient shipyard. According to Naval Group, the FDI HN program is progressing smoothly and 2026 marks several miletones. The French Shipbuilder announced the start of sea trials for HS Formion on social media. ...\nThe post Hellenic Navy’s Third FDI Frigate HS Formion Begins Sea Trials appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "China Now Leads World Submarine Construction",
-        "url": "https://www.navalnews.com/naval-news/2026/06/china-now-leads-world-submarine-construction/",
-        "published": "2026-06-24T08:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "More countries are building and operating submarines today than at any point in modern history. Yet amid this global expansion, China has emerged as the dominant force, launching twice as many submarines as any other nation and introducing more new classes. World submarine construction is growing to levels unseen since the Cold War in the ...\nThe post China Now Leads World Submarine Construction appeared first on Naval News.",
         "image_url": "",
         "section": "nyheter"
       },
@@ -427,6 +417,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Airbus signs MoU to explore Japanese anti-submarine variant of the Eurodrone",
+        "url": "https://www.navalnews.com/naval-news/2026/06/airbus-signs-mou-to-explore-japanese-anti-submarine-variant-of-the-eurodrone/",
+        "published": "2026-06-28T07:25:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Airbus has signed a Memorandum of Understanding (MoU) with Kawasaki Heavy Industries. Under the MoU, Airbus, in cooperation with&#160; Kawasaki Heavy Industries, will analyse opportunities to work on a Japanese anti-submarine warfare variant of the U950 Eurodrone,&#160;Europe’s first Large Long Endurance Remotely Piloted Aircraft System (RPAS). Japan has held observer status in the Eurodrone programme ...\nThe post Airbus signs MoU to explore Japanese anti-submarine variant of the Eurodrone appea",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "USNI News Western Pacific Pulse: June 26, 2026",
         "url": "https://news.usni.org/2026/06/26/usni-news-western-pacific-pulse-june-26-2026",

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-06-28T14:03:24Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-06-29T08:48:15Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan Commissions 10th Mogami-class Frigate ‘Nagara’ 「ながら」",
+        "url": "https://www.navalnews.com/naval-news/2026/06/japan-commissions-10th-mogami-class-frigate-nagara-%e3%80%8c%e3%81%aa%e3%81%8c%e3%82%89%e3%80%8d/",
+        "published": "2026-06-29T07:13:46Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Japan Maritime Self-Defense Force (JMSDF) commissioned its tenth Mogami-class frigate, JS Nagara (ながら), on June 29, 2026, marking another milestone in its ongoing effort to field a leaner, more technologically advanced surface fleet. The Nagara (with pennant number FFM-10) was inducted into Patrol and Defense Squadron 2 of the newly established Patrol and Defense ...\nThe post Japan Commissions 10th Mogami-class Frigate ‘Nagara’ 「ながら」 appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Mogami-class-joystick-1024x552.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Stations Marine Anti-Ship Missiles in the Western Pacific",
         "url": "https://www.navalnews.com/naval-news/2026/06/u-s-stations-marine-anti-ship-missiles-in-the-western-pacific/",
@@ -34,7 +44,7 @@
         "section": "nyheter"
       },
       {
-        "title": "French Seizes 5th Russian Shadow Fleet Tanker",
+        "title": "France Seizes 5th Russian Shadow Fleet Tanker",
         "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
         "published": "2026-06-26T14:02:28Z",
         "source": "USNI News",
@@ -144,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Germany is cancelling the F126 frigate project and procuring eight MEKO frigates",
-        "url": "https://www.navalnews.com/naval-news/2026/06/germany-is-cancelling-the-f126-frigate-project-and-procuring-eight-meko-frigates/",
-        "published": "2026-06-24T14:29:38Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The German Ministry of Defense has decided to discontinue the construction of six F126-class frigates, as the ministry announced in a recent statement. The cancellation is attributed to significant project delays and the foreseeable cost increases and risks associated with changing the general contractor. Hartpunkt had already reported on corresponding rumors on June 23, 2026. ...\nThe post Germany is cancelling the F126 frigate project and procuring eight MEKO frigates appeared first on Naval Ne",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
         "url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
         "published": "2026-06-24T10:28:27Z",
@@ -225,6 +225,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Har du bustad til leige i området Åheim–Selje?",
+        "url": "https://www.kystverket.no/nyheter/har-du-bustad-til-leige-i-omradet-aheimselje/",
+        "published": "2026-06-28T17:27:18Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I samband med bygginga av Stad skipstunnel ønskjer Kystverket å leige leilegheiter og bustadar i...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "AF Gruppen får kontrakten for bygging av Stad skipstunnel",
         "url": "https://www.kystverket.no/nyheter/af-gruppen-far-kontrakten-for-bygging-av-stad-skipstunnel/",
@@ -392,16 +402,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har fått på plass tre nye, faste sjømerker med lys ved innseilingen til Kristiansand....",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "DNT Sunnmøre leigetakar på Flåvær fyrstasjon",
-        "url": "https://www.kystverket.no/nyheter/dnt-sunnmore-leigetakar-pa-flavar-fyrstasjon/",
-        "published": "2026-04-30T06:28:57Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har inngått avtale med DNT Sunnmøre som leigetakar på Flåvær fyrstasjon i Herøy kommun...",
         "image_url": "",
         "section": "regelverk"
       }

@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-06-29T08:48:15Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-29T15:58:41Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Former U.S. Amphib Sunk in Pacific Maritime Strike Drills",
+        "url": "https://news.usni.org/2026/06/29/former-u-s-amphib-sunk-in-pacific-maritime-strike-drills",
+        "published": "2026-06-29T15:56:32Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Decommissioned amphibious transport dock USS Juneau (LPD-10) was sunk by the U.S. and partner nations on Saturday in the Philippine Sea during the ongoing Valiant Shield 2026 exercise. Juneau was sunk more than 200 nautical miles off the coast in the Mariana Islands Range Complex during a sinking exercise that brought together air, surface and subsurface assets for coordinated strikes. The ship entered service in 1969 and saw action in the Vietnam War and Operation Desert Storm before decommissi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9778117-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy sees scores of applications for tech-focused Reserve unit, mirroring Army push",
+        "url": "https://breakingdefense.com/2026/06/navy-sees-scores-of-applications-for-tech-focused-reserve-unit-mirroring-army-push/",
+        "published": "2026-06-29T15:21:11Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The Navy is trying to entice senior engineers, software architects, and other technical leaders in the civilian world for the new unit.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/04/220419_navy_cybersecurity_sub_3221220-scaled-e1650390902670-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Poland awards $4.8 billion A26 submarine deal to Saab",
+        "url": "https://www.defensenews.com/global/europe/2026/06/29/poland-awards-48-billion-a26-submarine-deal-to-saab/",
+        "published": "2026-06-29T14:37:55Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Under a separate deal, Warsaw aims to urgently acquire a “gap filler” boat for its Baltic Sea operations that will be used to train its sailors.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YO3FFYRL25DGHPDSAZXWMMVXK4.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Poland signs $4.8 billion contract for Saab-made A26 submarines",
+        "url": "https://breakingdefense.com/2026/06/poland-signs-4-8-billion-contract-for-saab-made-a26-submarines/",
+        "published": "2026-06-29T13:01:07Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "“It is a very large and long-term deal — it will make the Polish Navy one of the strongest in all of NATO. A strong Polish submarine force strengthens security in our shared Baltic Sea and across the alliance,” the Swedish Prime Minister Ulf Kristersson said on X.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/saab-poland-sub-e1782737469696.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saab receives order for three A26 submarines for Poland",
+        "url": "https://www.navalnews.com/naval-news/2026/06/saab-receives-order-for-three-a26-submarines-for-poland/",
+        "published": "2026-06-29T11:53:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saab has today signed a contract with the Polish State Treasury Armaments Agency and received an order for the production and delivery of three A26-type submarines. The contract also encompasses a weapon package and a training- and support package. The order value corresponds to approximately SEK 47 billion. Saab will deliver continuously with the final ...\nThe post Saab receives order for three A26 submarines for Poland appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "At least six Common Combat Vessels will be built for the Royal Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/06/at-least-six-common-combat-vessels-will-be-built-for-the-royal-navy/",
+        "published": "2026-06-29T11:44:55Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At least six new Common Combat Vessels will be built for the Royal Navy under the Defence Investment Plan, delivering the UK&#8217;s most advanced maritime air defence capability and keeping British shipyards working for decades to come. UK MoD press release The Common Combat Vessels (CCVs) will replace the current fleet of six Type 45 ...\nThe post At least six Common Combat Vessels will be built for the Royal Navy appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Japan Commissions 10th Mogami-class Frigate ‘Nagara’ 「ながら」",
         "url": "https://www.navalnews.com/naval-news/2026/06/japan-commissions-10th-mogami-class-frigate-nagara-%e3%80%8c%e3%81%aa%e3%81%8c%e3%82%89%e3%80%8d/",
@@ -226,6 +286,16 @@
     ],
     "regelverk": [
       {
+        "title": "Dypvannskaia i Mo i Rana er snart ferdig",
+        "url": "https://www.kystverket.no/nyheter/dypvannskaia-i-mo-i-rana-er-snart-ferdig/",
+        "published": "2026-06-29T12:46:27Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Etter over to år med omfattende anleggsaktivitet nærmer den nye dypvannskaia i Mo i Rana seg...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
         "title": "Har du bustad til leige i området Åheim–Selje?",
         "url": "https://www.kystverket.no/nyheter/har-du-bustad-til-leige-i-omradet-aheimselje/",
         "published": "2026-06-28T17:27:18Z",
@@ -394,16 +464,6 @@
         "summary": "Norge er første land i Europa som lanserer en nettportal for skipsrapportering i tråd med EUs nye...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Nye sjømerker gir tryggere innseiling til Kristiansand",
-        "url": "https://www.kystverket.no/nyheter/nye-sjomerker-gir-tryggere-innseiling-til-kristiansand/",
-        "published": "2026-04-30T09:07:46Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har fått på plass tre nye, faste sjømerker med lys ved innseilingen til Kristiansand....",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -435,26 +495,6 @@
         "language": "en",
         "summary": "Ukraine’s Global Mark has just unveiled its first-ever Extra-Large Uncrewed Underwater Vehicle (XLUUV) at the Eurosatory 2026 defense exhibition in Paris: the Sea Trident ST-1000. Known previously for their aerial drones and powerful electronic warfare (EW) systems, Global Mark is taking things below the surface. This steel-hulled, oval-shaped underwater beast is built for heavy-duty strikes, ...\nThe post Video: Ukraine’s Massive New Underwater Drone &#8211; Sea Trident ST-1000 appeared first on",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "HGH to provide SPYNEL surveillance systems for Kuwait Navy’s AL DORRA OPV Program",
-        "url": "https://www.navalnews.com/naval-news/2026/06/hgh-to-provide-spynel-surveillance-systems-for-kuwait-navys-al-dorra-opv-program/",
-        "published": "2026-06-25T14:20:50Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HGH, a global leader in electro-optical and infrared solutions, announces a new major contract with&#160;EDGE Group’s naval arm, Abu Dhabi Ship Building PJSC (ADSB), to equip eight Offshore Patrol Vessels (OPVs) under the Kuwait Navy’s AL DORRA program with its advanced&#160;SPYNEL 360° infrared surveillance systems. HGH press release The new contract builds on the long-standing ...\nThe post HGH to provide SPYNEL surveillance systems for Kuwait Navy&#8217;s AL DORRA OPV Program appeared first on",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Photo-of-one-FALAJ-3-OPV-vessel-with-SPYNEL-X-8000-camera.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Belgian-Dutch rMCM programme enters critical integration phase",
-        "url": "https://www.navalnews.com/event-news/cne-2026/2026/06/belgian-dutch-rmcm-programme-enters-critical-integration-phase/",
-        "published": "2026-06-25T08:31:04Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The joint Belgian-Dutch replacement Mine Countermeasures (rMCM) programme continues to make progress towards demonstrating its full stand-off mine warfare capability before the end of 2026, with recent ship and system deliveries paving the way for a critical phase of operational integration. Speaking at the recent Navy Leaders Combined Naval Event (CNE) 2026, Commander Pierre Van ...\nThe post Belgian-Dutch rMCM programme enters critical integration phase appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Oostende-christening-1024x682.jpg",
         "section": "rov_teknologi"
       },
       {

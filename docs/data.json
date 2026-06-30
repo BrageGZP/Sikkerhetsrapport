@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-06-30T07:40:55Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-06-30T14:33:04Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "UK Prime Minister pledges near $105B defense budget by 2029",
+        "url": "https://breakingdefense.com/2026/06/uk-prime-minister-pledges-near-105b-defense-budget-by-2029/",
+        "published": "2026-06-30T13:43:09Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Courtesy of a £8.6 billion investment in the forthcoming Defence Investment Plan, the UK is also &#8220;renewing&#8221; a commitment to build sixth generation fighter jets, under the Global Combat Air Programme (GCAP), in collaboration with Italy and Japan.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Anti-Drone Warfare: The Missing Tier in Maritime Defence Architecture",
+        "url": "https://www.navalnews.com/naval-news/2026/06/anti-drone-warfare-the-missing-tier-in-maritime-defence-architecture/",
+        "published": "2026-06-30T08:40:35Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The proliferation of autonomous one-way attack (OWA) drones has exposed a critical gap in defence architecture: Anti-Drone Warfare (ADW) is neither conventional air defence nor C-UAS. It is a distinct operational domain — with unique threat physics, unique engagement economics, and unique platform requirements. For maritime environments, that gap is structural and cannot be closed ...\nThe post Anti-Drone Warfare: The Missing Tier in Maritime Defence Architecture appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-15.27.26.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "DESAN Lays Keel for Second MPMS Vessel for Malaysian Coast Guard",
         "url": "https://www.navalnews.com/naval-news/2026/06/desan-lays-keel-for-second-mpms-vessel-for-malaysian-coast-guard/",
@@ -161,26 +181,6 @@
         "language": "en",
         "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off the coast of Sicily in violation of maritime law The seizure on Tuesday marked France’s fifth seizure of a suspected shadow fleet tanker since September 2025. It’s the second seizure of a Russian sha",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-9.54.24-AM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hanwha Unveils Striker MUSV Family at Eurosatory 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/06/hanwha-unveils-striker-musv-family-at-eurosatory-2026/",
-        "published": "2026-06-26T09:34:56Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Eurosatory 2026, Hanwha Systems’ new Striker Medium Uncrewed Surface Vessel (MUSV) stood out as one of the few concepts aimed at bringing missile firepower to an autonomous naval platform. Tayfun Ozberk story, additional reporting by Xavier Vavasseur Displayed at the company’s booth, the Striker-S represents a departure from the small explosive-laden surface drones. Instead, ...\nThe post Hanwha Unveils Striker MUSV Family at Eurosatory 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Striker-USV-Chunmoo-2-1024x771.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Naval Group delivers 4th Barracuda type submarine",
-        "url": "https://www.navalnews.com/naval-news/2026/06/naval-group-delivers-4th-barracuda-type-submarine/",
-        "published": "2026-06-26T06:23:37Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Naval Group handed over the fourth Barracuda type nuclear-powered attack submarine (SSN) De Grasse (S636) to the French defense procurement agency (DGA) and to the French Navy (Marine Nationale) on 24 June 2026. According to Naval Group, the delivery of the SSN De Grasse comes exactly four months after the submarine’s first sea trials. This ...\nThe post Naval Group delivers 4th Barracuda type submarine appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -438,6 +438,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability",
+        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-pacific-air-forces-flex-b-2-stealth-bomber-lrasm-capability/",
+        "published": "2026-06-30T10:00:03Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Air Force demonstrated a new long-range and stealthy maritime strike capability from the service&#8217;s B-2 bombers employing AGM-158C Long-Range Anti-Ship Missiles (LRASM) during a recent sinking exercise in the Pacific that could prove crucial in a potential conflict with China. &#8220;By prioritizing counter-maritime strike operations, we can maintain a decisive edge over adversaries, ...\nThe post U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability appeared first on Nav",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/B-2-Lrasm-2-1024x683.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Airbus signs MoU to explore Japanese anti-submarine variant of the Eurodrone",
         "url": "https://www.navalnews.com/naval-news/2026/06/airbus-signs-mou-to-explore-japanese-anti-submarine-variant-of-the-eurodrone/",
         "published": "2026-06-28T07:25:23Z",
@@ -455,16 +465,6 @@
         "language": "en",
         "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Valiant Shield Exercise Valiant Shield 2026 (VS26) began on Monday, taking place taking place in the Commonwealth of the Northern Mariana Islands, Guam, Japan, and at sea around the Mariana Islands Range Complex, with Australia, Japan, Canada and New Zealand joining the U.S. in the drills with a number of activities being carried out. Around the waters of Guam, an Anti-Submarine Warfare ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9774706-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Video: Ukraine’s Massive New Underwater Drone – Sea Trident ST-1000",
-        "url": "https://www.navalnews.com/naval-news/2026/06/video-ukraines-massive-new-underwater-drone-sea-trident-st-1000/",
-        "published": "2026-06-26T12:55:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Ukraine’s Global Mark has just unveiled its first-ever Extra-Large Uncrewed Underwater Vehicle (XLUUV) at the Eurosatory 2026 defense exhibition in Paris: the Sea Trident ST-1000. Known previously for their aerial drones and powerful electronic warfare (EW) systems, Global Mark is taking things below the surface. This steel-hulled, oval-shaped underwater beast is built for heavy-duty strikes, ...\nThe post Video: Ukraine’s Massive New Underwater Drone &#8211; Sea Trident ST-1000 appeared first on",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

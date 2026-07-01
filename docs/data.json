@@ -1,10 +1,40 @@
 {
-  "generated_at": "2026-06-30T14:33:04Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-07-01T08:01:26Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
-        "title": "UK Prime Minister pledges near $105B defense budget by 2029",
+        "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
+        "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
+        "published": "2026-06-30T19:14:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Russia and China conducted joint bomber patrol flights on Saturday for the first time this year, prompting Japan and South Korea to scramble fighter aircraft. Two Chinese H-6 bombers flew from the East China Sea into the Sea of Japan where they were joined by two Russian Tu-95 bombers and two Russian Tu-142 Maritime Patrol Aircraft, according to Japan’s Joint Staff Office. The Russian and Chinese aircraft then conducted a joint flight back to the East China Sea. Two Chinese J-16 fighters and one",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.46.48-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Drones, fighters, armored vehicles: Highlights from the UK’s Defence Investment Plan",
+        "url": "https://breakingdefense.com/2026/06/drones-fighters-armored-vehicles-highlights-from-the-uks-defence-investment-plan/",
+        "published": "2026-06-30T18:23:12Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Beyond top line spending, one of the leading takeaways from the DIP is the clear push to acquire and field autonomous systems, underpinned by a £5 billion investment in the technology, which includes plans for a &#8220;hybrid navy.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/05/VCOP-20250320-0024-ACP_DRONE_TRAINING-0360-1024x605.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Marines Use Commercial Ferries to Haul Anti-ship Missiles Across the Philippines",
+        "url": "https://news.usni.org/2026/06/30/u-s-marines-use-commercial-ferries-to-haul-anti-ship-missiles-across-the-philippines",
+        "published": "2026-06-30T16:02:59Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, PHILIPPINES ― Marine anti-ship missile launchers and air defense rolled off contracted Philippine commercial transport vessels onto an island in the middle of the Luzon Strait near Taiwan during drills earlier this month. The 3rd Marine Littoral Regiment (MLR) worked with their Philippine counterparts to transport the unit’s maritime strike and air defense systems to Calayan Island during the 10th iteration of the Kaagapay ng mga Mandirigma ng Dagat drills, according to a news release pu",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9766631-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK prime minister pledges near $105B defense budget by 2029",
         "url": "https://breakingdefense.com/2026/06/uk-prime-minister-pledges-near-105b-defense-budget-by-2029/",
         "published": "2026-06-30T13:43:09Z",
         "source": "Breaking Defense",
@@ -94,16 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy sees scores of applications for tech-focused Reserve unit, mirroring Army push",
-        "url": "https://breakingdefense.com/2026/06/navy-sees-scores-of-applications-for-tech-focused-reserve-unit-mirroring-army-push/",
-        "published": "2026-06-29T15:21:11Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The Navy is trying to entice senior engineers, software architects and other technical leaders in the civilian world for the new unit.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/04/220419_navy_cybersecurity_sub_3221220-scaled-e1650390902670-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Poland awards $4.8 billion A26 submarine deal to Saab",
         "url": "https://www.defensenews.com/global/europe/2026/06/29/poland-awards-48-billion-a26-submarine-deal-to-saab/",
         "published": "2026-06-29T14:37:55Z",
@@ -151,16 +171,6 @@
         "language": "en",
         "summary": "A Japan-based U.S. Marine Corps unit designed to lock down maritime chokepoints and sink naval vessels has deployed the first forward-based American anti-ship missiles along the first island chain this week.  Stationed on Okinawa, Japan, the 12th Marine Littoral Regiment (MLR) is the most recent of the service’s next-generation units derived from Force Design concepts ...\nThe post U.S. Stations Marine Anti-Ship Missiles in the Western Pacific appeared first on Naval News.",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Accepts Two Modernized Destroyers Ahead of Schedule",
-        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-navy-accepts-two-modernized-destroyers-ahead-of-schedule/",
-        "published": "2026-06-26T20:12:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy took delivery of two modernized destroyers, USS Chung-Hoon (DDG 93) and USS James E. Williams (DDG 95), ahead of schedule through accelerated acquisition, planning, and execution milestones led by the service&#8217;s new Portfolio Acquisition Executive (PAE) Maritime office. Both ships completed their combat system sea trials, calibrations, and shakedowns successfully and ahead ...\nThe post U.S. Navy Accepts Two Modernized Destroyers Ahead of Schedule appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/9775035-edited.jpg",
         "section": "nyheter"
       },
       {
@@ -242,19 +252,19 @@
         "summary": "North Korea commissioned its largest warship to date, the 5,000-ton destroyer Choe Hyon (51), in a ceremony Tuesday in the port city Nampho. The first-in-class Choe Hyon was built at Nampho Shipyard and launched on April 25, 2025. Prior to its commissioning, Choe Hyon conducted a number of sea trials and weapons tests, several of which were overseen by North Korea leader Kim Jong Un. “Today, June 23, 2026, is witnessing the first page being written in a new chapter of our Navy’s history of safeg",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-11.44.05-AM.png",
         "section": "nyheter"
-      },
-      {
-        "title": "The Navy’s Big 3-D Printing Bet",
-        "url": "https://news.usni.org/2026/06/23/the-navys-big-3-d-printing-bet",
-        "published": "2026-06-23T18:47:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "DANVILLE, Va. — Dozens of miles from an interstate or a major airport, a tiny mill town in the Virginia piedmont is the crucible for next-generation manufacturing for the Navy. At the height of the 600-ship Navy shipbuilding boom in the 1980s there were more than 2,000 casting and forging businesses in pthe U.S. Hundreds of different valves, fittings and other hull parts were made from molten steel and packed into warships as precisely and densely as the gears in a Swiss watch. Forty years later",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/AM1A1065-scaled.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Fant kvikksølvbeholdere i ubåtvraket",
+        "url": "https://www.kystverket.no/nyheter/fant-kvikksolvbeholdere-i-ubatvraket/",
+        "published": "2026-06-30T17:42:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "22 beholdere er tatt opp.",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Dypvannskaia i Mo i Rana er snart ferdig",
         "url": "https://www.kystverket.no/nyheter/dypvannskaia-i-mo-i-rana-er-snart-ferdig/",
@@ -437,6 +447,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "USS San Antonio Leaves Norfolk for Deployment",
+        "url": "https://news.usni.org/2026/06/30/uss-san-antonio-leaves-norfolk-for-deployment",
+        "published": "2026-06-30T20:13:03Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "USS San Antonio (LPD-17) on June 29, 2026, shortly before deploying from Naval Station Norfolk, Va. USNI News photo Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional details on the mission. San Antonio returned in April from a 258-day deployment as part o",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/AM1A5798-scaled.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "PT PAL Launches Third Tarlac-class LPD for Philippine Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/06/pt-pal-launches-third-tarlac-class-lpd-for-philippine-navy/",
+        "published": "2026-06-30T19:21:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Surabaya &#8211; On June 30, Indonesia’s state-owned shipbuilder PT PAL Indonesia launched the third Tarlac-class Landing Platform Dock (LPD) it built for the Philippine Navy. This is the first &#8220;improved&#8221; ship from the follow-on two-ship contract ordered by the Philippines in 2022, with the fourth LPD also expected to be launched later this year. The ...\nThe post PT PAL Launches Third Tarlac-class LPD for Philippine Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/LPD-603-launching-ceremony.-On-the-left-you-can-see-Indonesias-first-Arrowhead-140-Red-White-Frigate-currently-being-fitted-out.-PT-PAL-picture-1024x683.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability",
         "url": "https://www.navalnews.com/naval-news/2026/06/u-s-pacific-air-forces-flex-b-2-stealth-bomber-lrasm-capability/",

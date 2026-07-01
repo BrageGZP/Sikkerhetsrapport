@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-01T08:01:26Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-01T14:49:57Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "UK DIP Details Platform Types to Underpin Royal Navy Hybrid Force Structure and Atlantic Fleet Series",
+        "url": "https://www.navalnews.com/naval-news/2026/07/uk-dip-details-platform-types-to-underpin-royal-navy-hybrid-force-structure-and-atlantic-fleet-series/",
+        "published": "2026-07-01T11:33:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The UK’s new Defence Investment Plan (DIP) has detailed four platform types to be introduced into Royal Navy (RN) service, as central elements of the RN’s new ‘hybrid’ force structure and the spine of its ‘Atlantic Fleet’ operational concept series. In June 2025, the UK’s latest Strategic Defence Review (SDR) first detailed the evolution of ...\nThe post UK DIP Details Platform Types to Underpin Royal Navy Hybrid Force Structure and Atlantic Fleet Series appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/11/1732532448233-1024x683.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "First composite superstructure for Singapore’s MRCV breaks cover",
+        "url": "https://www.navalnews.com/naval-news/2026/07/first-composite-superstructure-for-singapores-mrcv-breaks-cover/",
+        "published": "2026-07-01T10:23:26Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "PENGUIN Shipyard International has completed and delivered a composite superstructure (CSS) using Saab&#8217;s unique technology for the Republic of Singapore Navy&#8217;s new Multi Role Combat Vessel (MRCV). PENGUIN International press release &#8220;This milestone marks the successful completion of Penguin&#8217;s first composite shipbuilding project and our first naval defence project,&#8221; said Penguin&#8217;s Managing Director James Tham. ...\nThe post First composite superstructure for Si",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/05/MRCV-Mast-Saab-IMDEX-2025-1024x771.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK’s Starmer unveils $20 billion defense boost in long-delayed investment plan",
+        "url": "https://www.defensenews.com/global/europe/2026/07/01/uks-starmer-unveils-20-billion-defense-boost-in-long-delayed-investment-plan/",
+        "published": "2026-07-01T08:06:04Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Defence Investment Plan falls short of the £28 billion($37 billion) wanted by defense chiefs and represents a 5% increase in annual defense spending.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YM7JII6MWFGQTJ7BAIOJFZWB3A.JPG",
+        "section": "nyheter"
+      },
       {
         "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
         "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
@@ -94,16 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "The Navy can’t afford to slow-roll its new trainer, even as competitors drop",
-        "url": "https://breakingdefense.com/2026/06/the-navy-cant-afford-to-slow-roll-its-new-trainer-even-as-competitors-drop/",
-        "published": "2026-06-29T16:49:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "With Boeing and Lockheed both dropping out of the competition to replace the Navy&#8217;s T-45,  service officials need to press ahead, columnist Robbin Laird writes.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Goshawk-scaled-e1780668938549-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Marine Missing from USS Anchorage Declared Lost at Sea",
         "url": "https://news.usni.org/2026/06/29/marine-missing-from-uss-anchorage-declared-lost-at-sea",
         "published": "2026-06-29T16:45:59Z",
@@ -154,26 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Japan Commissions 10th Mogami-class Frigate ‘Nagara’ 「ながら」",
-        "url": "https://www.navalnews.com/naval-news/2026/06/japan-commissions-10th-mogami-class-frigate-nagara-%e3%80%8c%e3%81%aa%e3%81%8c%e3%82%89%e3%80%8d/",
-        "published": "2026-06-29T07:13:46Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Japan Maritime Self-Defense Force (JMSDF) commissioned its tenth Mogami-class frigate, JS Nagara (ながら), on June 29, 2026, marking another milestone in its ongoing effort to field a leaner, more technologically advanced surface fleet. The Nagara (with pennant number FFM-10) was inducted into Patrol and Defense Squadron 2 of the newly established Patrol and Defense ...\nThe post Japan Commissions 10th Mogami-class Frigate ‘Nagara’ 「ながら」 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/Mogami-class-joystick-1024x552.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Stations Marine Anti-Ship Missiles in the Western Pacific",
-        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-stations-marine-anti-ship-missiles-in-the-western-pacific/",
-        "published": "2026-06-28T11:39:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A Japan-based U.S. Marine Corps unit designed to lock down maritime chokepoints and sink naval vessels has deployed the first forward-based American anti-ship missiles along the first island chain this week.  Stationed on Okinawa, Japan, the 12th Marine Littoral Regiment (MLR) is the most recent of the service’s next-generation units derived from Force Design concepts ...\nThe post U.S. Stations Marine Anti-Ship Missiles in the Western Pacific appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Romania bolsters Black Sea fleet with Turkish-built corvette",
         "url": "https://www.defensenews.com/global/europe/2026/06/26/romania-bolsters-black-sea-fleet-with-turkish-built-corvette/",
         "published": "2026-06-26T15:58:22Z",
@@ -204,26 +204,6 @@
         "section": "nyheter"
       },
       {
-        "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
-        "published": "2026-06-25T16:50:55Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The White House budget office wants to raid a Navy radar-plane account and a classified Air Force line to pull the E-7 Wedgetail back from the dead.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/OX4ICBLPK5HSXLD43HGHJOOBGE.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Philippines deploys US-made Triton naval drones in its western waters to scout for intruders",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/06/25/philippines-deploys-us-made-triton-naval-drones-in-its-western-waters-to-scout-for-intruders/",
-        "published": "2026-06-25T14:32:31Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The transfer comes after the military revealed that China discreetly deployed a 6x6 meter floating platform equipped with an antenna at Scarborough Shoal.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R7ZWFA4HTBFXPKDH7PFHLFJK2U.webp",
-        "section": "nyheter"
-      },
-      {
         "title": "USS Indianapolis Suffers Fire, 7 Sailors Treated for Minor Injuries",
         "url": "https://news.usni.org/2026/06/25/uss-indianapolis-suffers-fire-7-sailors-treated-for-minor-injuries",
         "published": "2026-06-25T14:31:32Z",
@@ -231,16 +211,6 @@
         "language": "en",
         "summary": "The Littoral Combat Ship USS Indianapolis (LCS-17) suffered an in-port fire on Wednesday while in port at Naval Station Mayport, Fla., USNI News has learned. Seven sailors were taken to area hospitals, treated for minor injuries and released. “All have since been released and cleared to return to the ship that same afternoon. The cause of the incident is being reviewed,” reads a statement from U.S. Naval Surface Force Atlantic to USNI News. The fire began around 11:30 a.m., and the ship’s compan",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/8777988.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Poland buys V-BAT drones to boost Baltic Sea naval operations",
-        "url": "https://www.defensenews.com/global/europe/2026/06/25/poland-buys-v-bat-drones-to-boost-baltic-sea-naval-operations/",
-        "published": "2026-06-25T08:20:43Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The deal puts Poland in line to become the first country on NATO’s eastern flank to acquire the Shield AI-made drone.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LYC7GB4HDJDG7HGDEH5WAFYQUA.jpg",
         "section": "nyheter"
       },
       {
@@ -453,7 +423,7 @@
         "published": "2026-06-30T20:13:03Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "USS San Antonio (LPD-17) on June 29, 2026, shortly before deploying from Naval Station Norfolk, Va. USNI News photo Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional details on the mission. San Antonio returned in April from a 258-day deployment as part o",
+        "summary": "Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional details on the mission. San Antonio returned in April from a 258-day deployment as part of the Iwo Jima Amphibious Ready Group mission to U.S. Southern Command. San Antonio deployed on Aug. 14, along with ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/AM1A5798-scaled.jpg",
         "section": "rov_teknologi"
       },
@@ -475,16 +445,6 @@
         "language": "en",
         "summary": "The U.S. Air Force demonstrated a new long-range and stealthy maritime strike capability from the service&#8217;s B-2 bombers employing AGM-158C Long-Range Anti-Ship Missiles (LRASM) during a recent sinking exercise in the Pacific that could prove crucial in a potential conflict with China. &#8220;By prioritizing counter-maritime strike operations, we can maintain a decisive edge over adversaries, ...\nThe post U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability appeared first on Nav",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/B-2-Lrasm-2-1024x683.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Airbus signs MoU to explore Japanese anti-submarine variant of the Eurodrone",
-        "url": "https://www.navalnews.com/naval-news/2026/06/airbus-signs-mou-to-explore-japanese-anti-submarine-variant-of-the-eurodrone/",
-        "published": "2026-06-28T07:25:23Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Airbus has signed a Memorandum of Understanding (MoU) with Kawasaki Heavy Industries. Under the MoU, Airbus, in cooperation with&#160; Kawasaki Heavy Industries, will analyse opportunities to work on a Japanese anti-submarine warfare variant of the U950 Eurodrone,&#160;Europe’s first Large Long Endurance Remotely Piloted Aircraft System (RPAS). Japan has held observer status in the Eurodrone programme ...\nThe post Airbus signs MoU to explore Japanese anti-submarine variant of the Eurodrone appea",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-02T14:18:54Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-07-03T06:52:42Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Bollinger Quietly Cut Steel for First Arctic Security Cutter in April Ahead of $2.2B Award",
+        "url": "https://news.usni.org/2026/07/02/bollinger-quietly-cut-steel-for-first-arctic-security-cutter-in-april-ahead-of-2-2b-award",
+        "published": "2026-07-02T19:47:32Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The network of Bollinger shipyards in Louisiana wasted no time starting work on their Coast Arctic Security Cutter, beginning fabrication of the first planned U.S. hull two months ahead of the finalized contract, Bollinger president Ben Bordelon told USNI News this week. This week, the Coast Guard finalized an award to Bollinger for $2.2 billion in contracts for four ASC hulls while Finnish shipbuilder partner Rauma was awarded $1.1 billion for two hulls to be built in Finland, the Department of",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-3.42.37-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Australia announces defense industry policy and acquisitions reforms",
+        "url": "https://breakingdefense.com/2026/07/australia-announces-defense-industry-policy-and-acquisitions-reforms/",
+        "published": "2026-07-02T17:42:04Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Australian Defence Minister Richard Marles said the reforms seek to build “a more agile, disciplined and strategically focused Defence organisation.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/RAN_Ghost_Shark_XL-AUV_20250910ADF8654564_7428-e1757518856388-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy seeks to boost production of new anti-radar missile",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
+        "published": "2026-07-02T15:37:04Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Naval Air Systems Command is asking industry whether it is capable of supplying up to 600 Advanced Emission Suppression Missiles per year.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/G7XLJAWU7RDZ3O7MANW3FHXUNU.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "First Local Construction of Scorpène Evolved to Begin This Month in Indonesia",
         "url": "https://www.navalnews.com/naval-news/2026/07/first-local-construction-of-scorpene-evolved-to-begin-this-month-in-indonesia/",
@@ -114,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "UK prime minister pledges near $105B defense budget by 2029",
-        "url": "https://breakingdefense.com/2026/06/uk-prime-minister-pledges-near-105b-defense-budget-by-2029/",
-        "published": "2026-06-30T13:43:09Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Courtesy of a £8.6 billion investment in the forthcoming Defence Investment Plan, the UK is also &#8220;renewing&#8221; a commitment to build sixth generation fighter jets, under the Global Combat Air Programme (GCAP), in collaboration with Italy and Japan.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "World War II Wreck Hunter RV Petrel Reborn as Navy Survey Ship Sarah Lynn",
         "url": "https://news.usni.org/2026/06/29/world-war-ii-wreck-hunter-rv-petrel-reborn-as-navy-survey-ship-sarah-lynn",
         "published": "2026-06-29T18:13:31Z",
@@ -164,26 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Poland awards $4.8 billion A26 submarine deal to Saab",
-        "url": "https://www.defensenews.com/global/europe/2026/06/29/poland-awards-48-billion-a26-submarine-deal-to-saab/",
-        "published": "2026-06-29T14:37:55Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Under a separate deal, Warsaw aims to urgently acquire a “gap filler” boat for its Baltic Sea operations that will be used to train its sailors.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YO3FFYRL25DGHPDSAZXWMMVXK4.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Romania bolsters Black Sea fleet with Turkish-built corvette",
-        "url": "https://www.defensenews.com/global/europe/2026/06/26/romania-bolsters-black-sea-fleet-with-turkish-built-corvette/",
-        "published": "2026-06-26T15:58:22Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The transfer marks the first delivery of a Turkish-built warship to a European Union and NATO member state, underscoring Turkey’s growing naval exports.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/D7W2A5ZWDRGJJOMXJ2PQBKTJHM.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "France Seizes 5th Russian Shadow Fleet Tanker",
         "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
         "published": "2026-06-26T14:02:28Z",
@@ -192,240 +192,9 @@
         "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off the coast of Sicily in violation of maritime law The seizure on Tuesday marked France’s fifth seizure of a suspected shadow fleet tanker since September 2025. It’s the second seizure of a Russian sha",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-9.54.24-AM.png",
         "section": "nyheter"
-      },
-      {
-        "title": "Air Force Wants New 1,000-Nautical Mile Range Missile for Air, Sea Targets",
-        "url": "https://news.usni.org/2026/06/25/air-force-wants-new-1000-nautical-mile-range-missile-for-air-sea-targets",
-        "published": "2026-06-25T19:00:42Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Air Force wants a family of next-generation long-range missiles to strike targets out to ranges of at least 1,000 nautical miles to support the service’s plans to counter Chinese air and naval forces in a potential conflict. The Air Force Long Range Weapon program plans to field air-to-air and air-to-surface variants to meet Pentagon priorities from China-focused near peer defense planning scenarios, according to an industry day notice released on Wednesday. Both variants should have a minim",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/4107818-scaled.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USS Indianapolis Suffers Fire, 7 Sailors Treated for Minor Injuries",
-        "url": "https://news.usni.org/2026/06/25/uss-indianapolis-suffers-fire-7-sailors-treated-for-minor-injuries",
-        "published": "2026-06-25T14:31:32Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Littoral Combat Ship USS Indianapolis (LCS-17) suffered an in-port fire on Wednesday while in port at Naval Station Mayport, Fla., USNI News has learned. Seven sailors were taken to area hospitals, treated for minor injuries and released. “All have since been released and cleared to return to the ship that same afternoon. The cause of the incident is being reviewed,” reads a statement from U.S. Naval Surface Force Atlantic to USNI News. The fire began around 11:30 a.m., and the ship’s compan",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/8777988.jpg",
-        "section": "nyheter"
       }
     ],
-    "regelverk": [
-      {
-        "title": "Kontrakt signert for Herøy–Ulstein-prosjektet",
-        "url": "https://www.kystverket.no/nyheter/kontrakt-signert-for-heroyulstein-prosjektet/",
-        "published": "2026-07-02T12:26:14Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har signert kontrakt med Terramare Oy for gjennomføring av prosjektet Gjennomseiling...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Endringer i sjøtrafikkforskriften fra 1. juli",
-        "url": "https://www.kystverket.no/nyheter/endringer-i-sjotrafikkforskriften-fra-1.-juli",
-        "published": "2026-07-02T09:15:19Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har fastsatt endringer i forskrift om sjøtrafikksentralenes tjenesteområde og bruk av...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Fant kvikksølvbeholdere i ubåtvraket",
-        "url": "https://www.kystverket.no/nyheter/fant-kvikksolvbeholdere-i-ubatvraket/",
-        "published": "2026-06-30T17:42:30Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "22 beholdere er tatt opp.",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Dypvannskaia i Mo i Rana er snart ferdig",
-        "url": "https://www.kystverket.no/nyheter/dypvannskaia-i-mo-i-rana-er-snart-ferdig/",
-        "published": "2026-06-29T12:46:27Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Etter over to år med omfattende anleggsaktivitet nærmer den nye dypvannskaia i Mo i Rana seg...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Har du bustad til leige i området Åheim–Selje?",
-        "url": "https://www.kystverket.no/nyheter/har-du-bustad-til-leige-i-omradet-aheimselje/",
-        "published": "2026-06-28T17:27:18Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "I samband med bygginga av Stad skipstunnel ønskjer Kystverket å leige leilegheiter og bustadar i...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "AF Gruppen får kontrakten for bygging av Stad skipstunnel",
-        "url": "https://www.kystverket.no/nyheter/af-gruppen-far-kontrakten-for-bygging-av-stad-skipstunnel/",
-        "published": "2026-06-26T14:51:43Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kontrakten på totalentreprisen for Stad Skipstunnel har en verdi på ca. 5,6 milliarder kr eks. mv...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket formaliserer samarbeid med Kenya",
-        "url": "https://www.kystverket.no/nyheter/avtale-signert-mellom-kystverket-og-kenya-maritime-authority/",
-        "published": "2026-06-26T07:48:30Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket og Kenya Maritime Authority har samarbeidet om beredskap mot akutt forurensning i mer...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket på jakt etter fartøy til opplæring av nye loser",
-        "url": "https://www.kystverket.no/nyheter/kystverket-pa-jakt-etter-fartoy-til-opplaring-av-nye-loser/",
-        "published": "2026-06-24T11:53:45Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Har du et fartøy tilgjengelig i høst? Kystverket inviterer maritime aktører til å bidra i...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Endrer krav til havnesikring",
-        "url": "https://www.kystverket.no/nyheter/gjor-endringer-i-krav-til-havnesikring-for-a-mote-utfordringer-med-nye-trusselbilder/",
-        "published": "2026-06-24T11:44:19Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Havner er kritisk infrastruktur. Derfor er norske havner underlagt nasjonalt og internasjonalt...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Løft blikket 2026: – Jeg tror kanskje han hadde vært i live i dag hvis han hadde hatt på vesten",
-        "url": "https://www.kystverket.no/nyheter/loft-blikket-2026--jeg-tror-kanskje-han-hadde-vart-i-live-i-dag-hvis-han-hadde-hatt-pa-vesten/",
-        "published": "2026-06-23T08:58:34Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Hvor godt ser du egentlig i mørket? Hvor lang tid tar det å reagere i høy fart? Og hvor mye...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Status 2026 gir betre grunnlag for strategiske val langs kysten",
-        "url": "https://www.kystverket.no/nyheter/status-2026-gir-betre-grunnlag-for-strategiske-val-langs-kysten/",
-        "published": "2026-06-22T07:51:55Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "I artikkelsamlinga Status 2026 samlar Kystverket viktig og oppdatert kunnskap om utviklinga langs...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket gjenopptar arbeidet på U-864",
-        "url": "https://www.kystverket.no/nyheter/gjenopptar-arbeidet-pa-u-864/",
-        "published": "2026-06-18T11:35:03Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har gjenopptatt arbeidet med undersøkelser av ubåtvraket U-864 utenfor Fedje. Nye...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Styrker fiskerihavnene – over 83 millioner kroner til nye tiltak",
-        "url": "https://www.kystverket.no/nyheter/styrker-fiskerihavnene--over-83-millioner-kroner-til-nye-tiltak/",
-        "published": "2026-06-18T11:29:13Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket gir nå tilsagn om mer enn 83 millioner kroner til syv kommunale fiskerihavnetiltak, de...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Leie av lokaler til losstasjon i Brevik",
-        "url": "https://www.kystverket.no/nyheter/leie-av-lokale-til-losstasjon-i-brevik/",
-        "published": "2026-06-15T10:14:11Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Har du ledige lokaler i Grenlandsområdet som kan egne seg som losstasjon? Kystverket søker...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Ny veileder skal gi bedre beslutninger om bruk av sjøarealer",
-        "url": "https://www.kystverket.no/nyheter/ny-veileder-skal-gi-bedre-beslutninger-om-bruk-av-sjoarealer/",
-        "published": "2026-06-12T10:02:27Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har laget en ny veileder som skal gjøre det enklere for kommuner og andre å vurdere...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Cruisekonferansen 2027 – Sett av datoen",
-        "url": "https://www.kystverket.no/nyheter/cruisekonferansen-2027--sett-av-datoen/",
-        "published": "2026-06-11T11:27:47Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Den norske Cruisekonferansen 2027 finner sted 28. januar 2027. Programmet er under utvikling. Vi...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "– Vi er klare til å bygge Stad skipstunnel",
-        "url": "https://www.kystverket.no/nyheter/-vi-er-klare-til-a-bygge-stad-skipstunnel/",
-        "published": "2026-06-08T07:36:13Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket er klar til å signere kontrakt med entreprenør og sette fart på arbeidet med Stad...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Ny kunnskap om eksplosiver på U-864 gir bedre grunnlag for videre vurderinger",
-        "url": "https://www.kystverket.no/nyheter/ny-kunnskap-om-eksplosiver-pa-u-864-gir-bedre-grunnlag-for-videre-vurderinger/",
-        "published": "2026-06-04T12:25:27Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har mottatt nye analyser av risiko knyttet til eksplosiver i vraket av ubåten U‑864.",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket peikar ut fire hamne- og farleisprosjekt som modne for oppstart i 2027",
-        "url": "https://www.kystverket.no/nyheter/kystverket-peikar-ut-fire-hamne--og-farleisprosjekt-som-modne-for-oppstart-i-2027/",
-        "published": "2026-05-18T14:11:06Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har lagt fram årets porteføljeprioritering for farlei- og fiskerihamneprosjekt. Der...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Inviterer til opning av ny kai i Kvalsund",
-        "url": "https://www.kystverket.no/nyheter/inviterer-til-opning-av-ny-kai-i-kvalsund/",
-        "published": "2026-05-18T11:51:14Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Onsdag 20. mai blir den nye allmenningskaia i Kvalsund hamn offisielt opna. Kystverket inviterer...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket først i Europa med ny portal for skipsrapportering",
-        "url": "https://www.kystverket.no/nyheter/kystverket-forst-i-europa-med-ny-portal-for-skipsrapportering/",
-        "published": "2026-05-12T11:26:20Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Norge er første land i Europa som lanserer en nettportal for skipsrapportering i tråd med EUs nye...",
-        "image_url": "",
-        "section": "regelverk"
-      }
-    ],
+    "regelverk": [],
     "rov_teknologi": [
       {
         "title": "U.S., Partners Wrap Exercise Valiant Shield",

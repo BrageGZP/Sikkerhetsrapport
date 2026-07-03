@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-07-03T06:52:42Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-03T14:23:21Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "USS Nimitz: An Aircraft Carrier’s Final Journey",
+        "url": "https://news.usni.org/2026/07/03/uss-nimitz-an-aircraft-carriers-final-journey",
+        "published": "2026-07-03T12:57:35Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "ABOARD USS NIMITZ UNDERWAY IN THE ATLANTIC ― Approximately 100 miles off the coast of North Carolina, a 14-nation armada converged in the blue waters of the Atlantic. Twenty-six ships from every corner of the world – including the U.S., Norway, Brazil, Morocco, Turkey and South Korea – synchronized at sea last week in a massive demonstration of deterrence and diplomacy. At the forefront of it all was USS Nimitz (CVN-68), the U.S. Navy’s oldest aircraft carrier in active service. “She is still a ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/IMG_1083-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navantia lays the keel of the eighth corvette for Saudi Arabia at the San Fernando shipyard",
+        "url": "https://www.navalnews.com/naval-news/2026/07/navantia-lays-the-keel-of-the-eighth-corvette-for-saudi-arabia-at-the-san-fernando-shipyard/",
+        "published": "2026-07-03T09:27:40Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Navantia&#8217;s San Fernando shipyard held the keel-laying ceremony this Thursday for the eighth corvette for the Royal Saudi Naval Forces (RSNF). This vessel will be the shipyard&#8217;s construction number C/577 and will be named HMS ALULA. Navantia press release As on previous occasions, this keel-laying was held as a working event and was attended by ...\nThe post Navantia lays the keel of the eighth corvette for Saudi Arabia at the San Fernando shipyard appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/09/First-Avante-2200-Corvette-For-Royal-Saudi-Navy-Starts-Sea-Trials-1024x575.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Bollinger Quietly Cut Steel for First Arctic Security Cutter in April Ahead of $2.2B Award",
         "url": "https://news.usni.org/2026/07/02/bollinger-quietly-cut-steel-for-first-arctic-security-cutter-in-april-ahead-of-2-2b-award",
@@ -182,19 +202,220 @@
         "summary": "Decommissioned amphibious transport dock USS Juneau (LPD-10) was sunk by the U.S. and partner nations on Saturday in the Philippine Sea during the ongoing Valiant Shield 2026 exercise. Juneau was sunk more than 200 nautical miles off the coast in the Mariana Islands Range Complex during a sinking exercise that brought together air, surface and subsurface assets for coordinated strikes. The ship entered service in 1969 and saw action in the Vietnam War and Operation Desert Storm before decommissi",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9778117-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "France Seizes 5th Russian Shadow Fleet Tanker",
-        "url": "https://news.usni.org/2026/06/26/french-seizes-5th-russian-shadow-fleet-tanker",
-        "published": "2026-06-26T14:02:28Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The French Navy boarded and diverted a suspected Russian shadow fleet tanker in the Mediterranean off Sicily, officials announced on Thursday. In a social media post on Thursday, French President Emmanuel Macron stated that the French Navy intercepted tanker MT Deliver on Tuesday as it transited off the coast of Sicily in violation of maritime law The seizure on Tuesday marked France’s fifth seizure of a suspected shadow fleet tanker since September 2025. It’s the second seizure of a Russian sha",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-9.54.24-AM.png",
-        "section": "nyheter"
       }
     ],
-    "regelverk": [],
+    "regelverk": [
+      {
+        "title": "Kontrakt signert for Herøy–Ulstein-prosjektet",
+        "url": "https://www.kystverket.no/nyheter/kontrakt-signert-for-heroyulstein-prosjektet/",
+        "published": "2026-07-03T07:02:18Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har signert kontrakt med Terramare Oy for gjennomføring av prosjektet Gjennomseiling...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Endringer i sjøtrafikkforskriften fra 1. juli",
+        "url": "https://www.kystverket.no/nyheter/endringer-i-sjotrafikkforskriften-fra-1.-juli",
+        "published": "2026-07-02T09:15:19Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har fastsatt endringer i forskrift om sjøtrafikksentralenes tjenesteområde og bruk av...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Fant kvikksølvbeholdere i ubåtvraket",
+        "url": "https://www.kystverket.no/nyheter/fant-kvikksolvbeholdere-i-ubatvraket/",
+        "published": "2026-06-30T17:42:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "22 beholdere er tatt opp.",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Dypvannskaia i Mo i Rana er snart ferdig",
+        "url": "https://www.kystverket.no/nyheter/dypvannskaia-i-mo-i-rana-er-snart-ferdig/",
+        "published": "2026-06-29T12:46:27Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Etter over to år med omfattende anleggsaktivitet nærmer den nye dypvannskaia i Mo i Rana seg...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Har du bustad til leige i området Åheim–Selje?",
+        "url": "https://www.kystverket.no/nyheter/har-du-bustad-til-leige-i-omradet-aheimselje/",
+        "published": "2026-06-28T17:27:18Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I samband med bygginga av Stad skipstunnel ønskjer Kystverket å leige leilegheiter og bustadar i...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "AF Gruppen får kontrakten for bygging av Stad skipstunnel",
+        "url": "https://www.kystverket.no/nyheter/af-gruppen-far-kontrakten-for-bygging-av-stad-skipstunnel/",
+        "published": "2026-06-26T14:51:43Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kontrakten på totalentreprisen for Stad Skipstunnel har en verdi på ca. 5,6 milliarder kr eks. mv...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket formaliserer samarbeid med Kenya",
+        "url": "https://www.kystverket.no/nyheter/avtale-signert-mellom-kystverket-og-kenya-maritime-authority/",
+        "published": "2026-06-26T07:48:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket og Kenya Maritime Authority har samarbeidet om beredskap mot akutt forurensning i mer...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket på jakt etter fartøy til opplæring av nye loser",
+        "url": "https://www.kystverket.no/nyheter/kystverket-pa-jakt-etter-fartoy-til-opplaring-av-nye-loser/",
+        "published": "2026-06-24T11:53:45Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Har du et fartøy tilgjengelig i høst? Kystverket inviterer maritime aktører til å bidra i...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Endrer krav til havnesikring",
+        "url": "https://www.kystverket.no/nyheter/gjor-endringer-i-krav-til-havnesikring-for-a-mote-utfordringer-med-nye-trusselbilder/",
+        "published": "2026-06-24T11:44:19Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Havner er kritisk infrastruktur. Derfor er norske havner underlagt nasjonalt og internasjonalt...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Løft blikket 2026: – Jeg tror kanskje han hadde vært i live i dag hvis han hadde hatt på vesten",
+        "url": "https://www.kystverket.no/nyheter/loft-blikket-2026--jeg-tror-kanskje-han-hadde-vart-i-live-i-dag-hvis-han-hadde-hatt-pa-vesten/",
+        "published": "2026-06-23T08:58:34Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Hvor godt ser du egentlig i mørket? Hvor lang tid tar det å reagere i høy fart? Og hvor mye...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Status 2026 gir betre grunnlag for strategiske val langs kysten",
+        "url": "https://www.kystverket.no/nyheter/status-2026-gir-betre-grunnlag-for-strategiske-val-langs-kysten/",
+        "published": "2026-06-22T07:51:55Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I artikkelsamlinga Status 2026 samlar Kystverket viktig og oppdatert kunnskap om utviklinga langs...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket gjenopptar arbeidet på U-864",
+        "url": "https://www.kystverket.no/nyheter/gjenopptar-arbeidet-pa-u-864/",
+        "published": "2026-06-18T11:35:03Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har gjenopptatt arbeidet med undersøkelser av ubåtvraket U-864 utenfor Fedje. Nye...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Styrker fiskerihavnene – over 83 millioner kroner til nye tiltak",
+        "url": "https://www.kystverket.no/nyheter/styrker-fiskerihavnene--over-83-millioner-kroner-til-nye-tiltak/",
+        "published": "2026-06-18T11:29:13Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket gir nå tilsagn om mer enn 83 millioner kroner til syv kommunale fiskerihavnetiltak, de...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Leie av lokaler til losstasjon i Brevik",
+        "url": "https://www.kystverket.no/nyheter/leie-av-lokale-til-losstasjon-i-brevik/",
+        "published": "2026-06-15T10:14:11Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Har du ledige lokaler i Grenlandsområdet som kan egne seg som losstasjon? Kystverket søker...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ny veileder skal gi bedre beslutninger om bruk av sjøarealer",
+        "url": "https://www.kystverket.no/nyheter/ny-veileder-skal-gi-bedre-beslutninger-om-bruk-av-sjoarealer/",
+        "published": "2026-06-12T10:02:27Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har laget en ny veileder som skal gjøre det enklere for kommuner og andre å vurdere...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Cruisekonferansen 2027 – Sett av datoen",
+        "url": "https://www.kystverket.no/nyheter/cruisekonferansen-2027--sett-av-datoen/",
+        "published": "2026-06-11T11:27:47Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Den norske Cruisekonferansen 2027 finner sted 28. januar 2027. Programmet er under utvikling. Vi...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "– Vi er klare til å bygge Stad skipstunnel",
+        "url": "https://www.kystverket.no/nyheter/-vi-er-klare-til-a-bygge-stad-skipstunnel/",
+        "published": "2026-06-08T07:36:13Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket er klar til å signere kontrakt med entreprenør og sette fart på arbeidet med Stad...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Ny kunnskap om eksplosiver på U-864 gir bedre grunnlag for videre vurderinger",
+        "url": "https://www.kystverket.no/nyheter/ny-kunnskap-om-eksplosiver-pa-u-864-gir-bedre-grunnlag-for-videre-vurderinger/",
+        "published": "2026-06-04T12:25:27Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har mottatt nye analyser av risiko knyttet til eksplosiver i vraket av ubåten U‑864.",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket peikar ut fire hamne- og farleisprosjekt som modne for oppstart i 2027",
+        "url": "https://www.kystverket.no/nyheter/kystverket-peikar-ut-fire-hamne--og-farleisprosjekt-som-modne-for-oppstart-i-2027/",
+        "published": "2026-05-18T14:11:06Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har lagt fram årets porteføljeprioritering for farlei- og fiskerihamneprosjekt. Der...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Inviterer til opning av ny kai i Kvalsund",
+        "url": "https://www.kystverket.no/nyheter/inviterer-til-opning-av-ny-kai-i-kvalsund/",
+        "published": "2026-05-18T11:51:14Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Onsdag 20. mai blir den nye allmenningskaia i Kvalsund hamn offisielt opna. Kystverket inviterer...",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Kystverket først i Europa med ny portal for skipsrapportering",
+        "url": "https://www.kystverket.no/nyheter/kystverket-forst-i-europa-med-ny-portal-for-skipsrapportering/",
+        "published": "2026-05-12T11:26:20Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Norge er første land i Europa som lanserer en nettportal for skipsrapportering i tråd med EUs nye...",
+        "image_url": "",
+        "section": "regelverk"
+      }
+    ],
     "rov_teknologi": [
       {
         "title": "U.S., Partners Wrap Exercise Valiant Shield",
@@ -227,16 +448,6 @@
         "section": "rov_teknologi"
       },
       {
-        "title": "U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability",
-        "url": "https://www.navalnews.com/naval-news/2026/06/u-s-pacific-air-forces-flex-b-2-stealth-bomber-lrasm-capability/",
-        "published": "2026-06-30T10:00:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Air Force demonstrated a new long-range and stealthy maritime strike capability from the service&#8217;s B-2 bombers employing AGM-158C Long-Range Anti-Ship Missiles (LRASM) during a recent sinking exercise in the Pacific that could prove crucial in a potential conflict with China. &#8220;By prioritizing counter-maritime strike operations, we can maintain a decisive edge over adversaries, ...\nThe post U.S. Pacific Air Forces Flex B-2 Stealth Bomber LRASM Capability appeared first on Nav",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/B-2-Lrasm-2-1024x683.jpg",
-        "section": "rov_teknologi"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: June 26, 2026",
         "url": "https://news.usni.org/2026/06/26/usni-news-western-pacific-pulse-june-26-2026",
         "published": "2026-06-26T20:58:14Z",
@@ -244,16 +455,6 @@
         "language": "en",
         "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Valiant Shield Exercise Valiant Shield 2026 (VS26) began on Monday, taking place taking place in the Commonwealth of the Northern Mariana Islands, Guam, Japan, and at sea around the Mariana Islands Range Complex, with Australia, Japan, Canada and New Zealand joining the U.S. in the drills with a number of activities being carried out. Around the waters of Guam, an Anti-Submarine Warfare ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9774706-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Asymmetric Aid Program Transfers Unmanned Vessels to the Philippines, Plans Attack Drone Transfer by 2027",
-        "url": "https://news.usni.org/2026/06/23/u-s-asymmetric-aid-program-transfers-unmanned-vessels-to-the-philippines-plans-attack-drone-transfer-by-2027",
-        "published": "2026-06-23T15:42:24Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES – The latest tranche of American-made and funded drones were formally received by Philippine forces this week ahead of Washington’s larger plans to equip the Southeast Asian ally with asymmetric capabilities that could prove crucial in monitoring and deterring Beijing in the South China Sea. Four Ocean Aero Triton autonomous underwater and surface vehicles were delivered on Monday to the Philippine Navy as part of Washington’s drone-focused asymmetric capabilities program. Th",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Triton-e1782229257446.jpeg",
         "section": "rov_teknologi"
       }
     ]

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-04T13:48:24Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-07-05T06:58:22Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Saronic Launches First Mirage 16-Meter Uncrewed Surface Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/07/saronic-launches-first-mirage-16-meter-uncrewed-surface-vessel/",
+        "published": "2026-07-04T15:08:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saronic on July 2, 2026 announced the launch of its first Mirage, a 52-ft. (16-meter) dual-use Autonomous Surface Vessel (ASV) that joins the 24-ft. (7-meter) Corsair and 180-ft. (55-meter) Marauder as the third flagship platform in Saronic’s growing fleet, and is the latest milestone in a production model delivering autonomous vessels at speed and scale. ...\nThe post Saronic Launches First Mirage 16-Meter Uncrewed Surface Vessel appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/04/Saronic-Mirage-USV-1024x512.webp",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy Eyes CPS Deployment from New VLS, Containers",
         "url": "https://www.navalnews.com/naval-news/2026/07/u-s-navy-eyes-cps-deployment-from-new-vls-containers/",
@@ -455,16 +465,6 @@
         "language": "en",
         "summary": "Amphibious warship USS San Antonio (LPD-17) departed Naval Station Norfolk, Va., on Monday as part of an extended deployment after a brief maintenance period, USNI News has learned. A U.S. 2nd Fleet spokesperson confirmed San Antonio left Norfolk for a deployment but did not provide additional details on the mission. San Antonio returned in April from a 258-day deployment as part of the Iwo Jima Amphibious Ready Group mission to U.S. Southern Command. San Antonio deployed on Aug. 14, along with ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/AM1A5798-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "PT PAL Launches Third Tarlac-class LPD for Philippine Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/06/pt-pal-launches-third-tarlac-class-lpd-for-philippine-navy/",
-        "published": "2026-06-30T19:21:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Surabaya &#8211; On June 30, Indonesia’s state-owned shipbuilder PT PAL Indonesia launched the third Tarlac-class Landing Platform Dock (LPD) it built for the Philippine Navy. This is the first &#8220;improved&#8221; ship from the follow-on two-ship contract ordered by the Philippines in 2022, with the fourth LPD also expected to be launched later this year. The ...\nThe post PT PAL Launches Third Tarlac-class LPD for Philippine Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/LPD-603-launching-ceremony.-On-the-left-you-can-see-Indonesias-first-Arrowhead-140-Red-White-Frigate-currently-being-fitted-out.-PT-PAL-picture-1024x683.jpg",
         "section": "rov_teknologi"
       },
       {

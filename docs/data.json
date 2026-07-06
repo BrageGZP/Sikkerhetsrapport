@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-06T08:08:29Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-06T15:48:13Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "NATO summit host Turkey sees its alliance clout rising amid war raging nearby",
+        "url": "https://www.defensenews.com/global/europe/2026/07/06/nato-summit-host-turkey-sees-its-alliance-clout-rising-amid-war-raging-nearby/",
+        "published": "2026-07-06T12:31:33Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Government leaders hope to show off the country's burgeoning defense industry at the alliance event.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBDMPDOUCRBOBHTNXXFDI7WCPA.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "India and Japan to Co-develop Naval Radio Antenna Based on UNICORN",
         "url": "https://www.navalnews.com/naval-news/2026/07/india-and-japan-to-co-develop-naval-radio-antenna-based-on-unicorn/",
@@ -84,6 +94,16 @@
         "section": "nyheter"
       },
       {
+        "title": "Australia announces defense industry policy and acquisitions reforms",
+        "url": "https://breakingdefense.com/2026/07/australia-announces-defense-industry-policy-and-acquisitions-reforms/",
+        "published": "2026-07-02T17:42:04Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Australian Defence Minister Richard Marles said the reforms seek to build “a more agile, disciplined and strategically focused Defence organisation.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/RAN_Ghost_Shark_XL-AUV_20250910ADF8654564_7428-e1757518856388-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
         "title": "US Navy seeks to boost production of new anti-radar missile",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
         "published": "2026-07-02T15:37:04Z",
@@ -91,36 +111,6 @@
         "language": "en",
         "summary": "Naval Air Systems Command is asking industry whether it is capable of supplying up to 600 Advanced Emission Suppression Missiles per year.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/G7XLJAWU7RDZ3O7MANW3FHXUNU.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "First Local Construction of Scorpène Evolved to Begin This Month in Indonesia",
-        "url": "https://www.navalnews.com/naval-news/2026/07/first-local-construction-of-scorpene-evolved-to-begin-this-month-in-indonesia/",
-        "published": "2026-07-02T11:57:05Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 2 July, PT PAL Indonesia and Naval Group organised a press tour of PT PAL’s submarine construction and maintenance facilities in Surabaya, East Java, to showcase preparations for the start of construction of two Scorpène Evolved submarines for the Indonesian Navy (TNI AL) under the Scorpène Republik Indonesia (SRI) programme. The visit highlighted the ...\nThe post First Local Construction of Scorpène Evolved to Begin This Month in Indonesia appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/PT-PAL-and-Naval-Group-representatives-presenting-the-Scorpene-Evolved-construction-readiness.-PT-PAL-picture-1-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Video: MBDA’s New LCM Mk2 Sovereign Deep Strike Cruise Missile",
-        "url": "https://www.navalnews.com/naval-news/2026/07/video-mbdas-new-lcm-mk2-sovereign-deep-strike-cruise-missile/",
-        "published": "2026-07-02T09:22:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Eurosatory 2026, MBDA unveiled its new generation &#8220;Land Cruise Missile &#8211; Naval Cruise Missile (LCM &#8211; NCM) MK2&#8221;, the European very long-range and high-performance cruise missile. In this video, Paul Houot, Product Line Owner, Deep Strike, at MBDA, introduces the new Mk2 variant to us and shares several key features of the Land Cruise ...\nThe post Video: MBDA’s New LCM Mk2 Sovereign Deep Strike Cruise Missile appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "HII Begins Fabrication of Flight III Destroyer John F. Lehman (DDG 137)",
-        "url": "https://www.navalnews.com/naval-news/2026/07/hii-begins-fabrication-of-flight-iii-destroyer-john-f-lehman-ddg-137/",
-        "published": "2026-07-01T20:46:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HII’s Ingalls Shipbuilding division began fabrication of the future USS John F. Lehman (DDG 137) Monday, marking the official start of construction on the Navy’s newest Flight III Arleigh Burke‑class destroyer. Huntington Ingalls Industries (HII) press release The milestone builds upon early construction gains enabled by HII’s distributed shipbuilding model, which expands capacity by shifting fabrication of major ...\nThe post HII Begins Fabrication of Flight III Destroyer John F. Lehman (DDG 137",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -134,26 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Denmark Orders New Multi-Role Environmental and Minelaying Vessels",
-        "url": "https://www.navalnews.com/naval-news/2026/07/denmark-orders-new-multi-role-environmental-and-minelaying-vessels/",
-        "published": "2026-07-01T15:05:07Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Danish Ministry of Defence Acquisition and Logistics Organisation (DALO) announced that a contract for new marine environment and minelaying vessels for the Royal Danish Navy was signed on 4 February. The vessels will be capable of laying mines and supporting the Navy in missions such as maritime surveillance and the assertion of sovereignty. Denmark ...\nThe post Denmark Orders New Multi-Role Environmental and Minelaying Vessels appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/1782899184172-1024x620.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "UK’s Starmer unveils $20 billion defense boost in long-delayed investment plan",
-        "url": "https://www.defensenews.com/global/europe/2026/07/01/uks-starmer-unveils-20-billion-defense-boost-in-long-delayed-investment-plan/",
-        "published": "2026-07-01T08:06:04Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Defence Investment Plan falls short of the £28 billion($37 billion) wanted by defense chiefs and represents a 5% increase in annual defense spending.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YM7JII6MWFGQTJ7BAIOJFZWB3A.JPG",
-        "section": "nyheter"
-      },
-      {
         "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
         "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
         "published": "2026-06-30T19:14:58Z",
@@ -161,6 +131,16 @@
         "language": "en",
         "summary": "Russia and China conducted joint bomber patrol flights on Saturday for the first time this year, prompting Japan and South Korea to scramble fighter aircraft. Two Chinese H-6 bombers flew from the East China Sea into the Sea of Japan where they were joined by two Russian Tu-95 bombers and two Russian Tu-142 Maritime Patrol Aircraft, according to Japan’s Joint Staff Office. The Russian and Chinese aircraft then conducted a joint flight back to the East China Sea. Two Chinese J-16 fighters and one",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.46.48-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Drones, fighters, armored vehicles: Highlights from the UK’s Defence Investment Plan",
+        "url": "https://breakingdefense.com/2026/06/drones-fighters-armored-vehicles-highlights-from-the-uks-defence-investment-plan/",
+        "published": "2026-06-30T18:23:12Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Beyond top line spending, one of the leading takeaways from the DIP is the clear push to acquire and field autonomous systems, underpinned by a £5 billion investment in the technology, which includes plans for a &#8220;hybrid navy.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/05/VCOP-20250320-0024-ACP_DRONE_TRAINING-0360-1024x605.jpg",
         "section": "nyheter"
       },
       {
@@ -427,6 +407,56 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal",
+        "url": "https://www.defensenews.com/global/europe/2026/07/06/thales-to-buy-french-underwater-drone-maker-exail-in-45-billion-deal/",
+        "published": "2026-07-06T15:19:55Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Industry champions in France and Italy move to consolidate their positions in a growing market for unmanned underwater naval equipment.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R7VOXRCIW5CI7CVL3RZCHSWQNM.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Thales and Exail Join Forces: Creating an Autonomous Underwater Warfare Powerhouse",
+        "url": "https://www.navalnews.com/naval-news/2026/07/thales-and-exail-join-forces-creating-an-autonomous-underwater-warfare-powerhouse/",
+        "published": "2026-07-06T14:30:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Thales has announced a binding agreement to acquire the Gorgé family’s stake in Exail Technologies with a view to launching a full tender offer. While the financial scale of the transaction establishes it as a heavyweight defense industry move, the true significance lies in its operational and technological rationale. By integrating Exail, Thales is assembling ...\nThe post Thales and Exail Join Forces: Creating an Autonomous Underwater Warfare Powerhouse appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Thales_2-1024x578.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Lockheed Martin to Acquire Ultra Maritime Solutions",
+        "url": "https://www.navalnews.com/naval-news/2026/07/lockheed-martin-to-acquire-ultra-maritime-solutions/",
+        "published": "2026-07-06T13:55:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Lockheed Martin today announced the signing of a definitive agreement to acquire Ultra Maritime, a global defense company specializing in advanced undersea warfare and anti-submarine warfare (ASW) capabilities for allied naval forces for $3.45 billion. Lockheed Martin press release Ultra Maritime company develops and delivers mission-critical systems including sonar technologies, sonobuoys, torpedo defense systems, radar ...\nThe post Lockheed Martin to Acquire Ultra Maritime Solutions appeared f",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Fincantieri Acquires Four Companies to Expand Underwater Drone Business",
+        "url": "https://www.navalnews.com/naval-news/2026/07/fincantieri-acquires-four-companies-to-expand-underwater-drone-business/",
+        "published": "2026-07-06T13:22:08Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fincantieri announces the agreement for the acquisition of&#160;Next Geosolutions,&#160;WSense,&#160;Graal Tech&#160;and&#160;Defcomm. These&#160;four strategic transactions&#160;in the Underwater segment&#160;significantly enhance the Group’s positioning in a domain that is becoming increasingly central to security, energy and the development of critical infrastructure. Fincantieri press release The Group establishes the first vertically integrated underwater operator, bringing together eight c",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Communication starts with us – SEICAM® and TRITON® II for the Next Generation of Submarines",
+        "url": "https://www.navalnews.com/naval-news/2026/07/communication-starts-with-us-seicam-and-triton-ii-for-the-next-generation-of-submarines/",
+        "published": "2026-07-06T08:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The role of modern submarines is changing. In a security environment shaped by geopolitical tensions, advanced anti-submarine warfare capabilities and increasingly networked military operations, stealth alone is no longer sufficient. Today’s platforms are expected to exchange information securely, cooperate with allied assets in real time and integrate seamlessly into multi-domain operations. Communication has therefore become ...\nThe post Communication starts with us – SEICAM® and TRITON® II fo",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/TKMS_logo.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "HAVELSAN’s AI-Powered Digital Lookout BLUEVISION Proves Itself Across Maritime Platforms",
         "url": "https://www.navalnews.com/naval-news/2026/07/havelsans-ai-powered-digital-lookout-bluevision-proves-itself-across-maritime-platforms/",

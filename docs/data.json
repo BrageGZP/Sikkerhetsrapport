@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-07-07T07:26:30Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-07T14:52:01Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Chinese ballistic missile test is said to undermine nuclear weapons-free zone in South Pacific",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/07/07/chinese-ballistic-missile-test-is-said-to-undermine-nuclear-weapons-free-zone-in-south-pacific/",
+        "published": "2026-07-07T14:49:04Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "China has repeatedly called out the AUKUS nuclear submarine deal between Australia, the U.S. and the U.K. as violating the treaty.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WOLNO5AZ6ZHERDUQZ6IUJX5K2M.webp",
+        "section": "nyheter"
+      },
+      {
+        "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
+        "url": "https://www.defensenews.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
+        "published": "2026-07-07T09:42:08Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RPNECBVFGJF2TJ6PUXPGVYERPA.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Four NATO Allies to Procure Up to Five MQ-4C Triton HALE UAVs",
+        "url": "https://www.navalnews.com/naval-news/2026/07/nato-mq-4c-triton-procurement-uav-isr/",
+        "published": "2026-07-07T08:28:14Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On 7 July 2026, Denmark, Finland, Germany and Norway announced the procurement of up to five Northrop Grumman’s MQ-4C Triton high-end, high-altitude and long-endurance (HALE) unmanned aerial vehicle (UAV) to enhance NATO’s owned Intelligence, Surveillance and Reconnaissance (ISR) Force. NATO press release The announcement was made at the NATO Summit Defence Industry Forum in Ankara, ...\nThe post Four NATO Allies to Procure Up to Five MQ-4C Triton HALE UAVs appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Indonesia Signs BrahMos Missile Deal with India",
         "url": "https://www.navalnews.com/naval-news/2026/07/indonesia-signs-brahmos-missile-deal-with-india/",
         "published": "2026-07-07T06:59:51Z",
         "source": "Naval News",
         "language": "en",
-        "summary": "On 7 July, after months of reports that the two countries were finalizing an agreement, Indonesia and India officially signed and announced a contract on the BrahMos missile system. The announcement took place in Jakarta during Indian Prime Minister Narendra Modi’s visit, marking a major step forward in defense ties between the two countries and ...\nThe post Indonesia Signs BrahMos Missile Deal with India appeared first on Naval News.",
+        "summary": "On 7 July 2026, after months of reports that the two countries were finalizing an agreement, Indonesia and India officially signed and announced a contract on the BrahMos missile system. The announcement took place in Jakarta during Indian Prime Minister Narendra Modi’s visit, marking a major step forward in defense ties between the two countries ...\nThe post Indonesia Signs BrahMos Missile Deal with India appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Indian-Prime-Minister-and-Indonesian-President-announcing-the-BrahMos-Missile-deal-in-Jakarta.-Indonesia-Presidential-Secretariat-picture-1024x576.png",
         "section": "nyheter"
       },
@@ -94,36 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "India and Japan to Co-develop Naval Radio Antenna Based on UNICORN",
-        "url": "https://www.navalnews.com/naval-news/2026/07/india-and-japan-to-co-develop-naval-radio-antenna-based-on-unicorn/",
-        "published": "2026-07-06T05:28:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "India and Japan signed an agreement for the co-development of a naval radio antenna based on Japan’s UNICORN system. The announcement occurred during the visit of Prime Minister of Japan Sanae Takaichi to India. Prime Minister of India Narendra Modi revealed the development during a joint press briefing, stating: In the field of defence, today ...\nThe post India and Japan to Co-develop Naval Radio Antenna Based on UNICORN appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/08/UNICORN-mast-details-648x1024.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Naval Strike Missile Appears in Ukrainian Service for the First Time",
-        "url": "https://www.navalnews.com/naval-news/2026/07/naval-strike-missile-appears-in-ukrainian-service-for-the-first-time/",
-        "published": "2026-07-05T08:28:12Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A photo appearing to show a truck-based launcher for the Norwegian-built Naval Strike Missile (NSM) anti-ship cruise missile surfaced on social media following Ukrainian President Volodymyr Zelenskyy&#8217;s visit to the Command of the Naval Forces of Ukraine. The NSM launcher bears a distinct shape in the missile canisters (with the top 2 corners rounded) and ...\nThe post Naval Strike Missile Appears in Ukrainian Service for the First Time appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/picture-2-mlv.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Saronic Launches First Mirage 16-Meter Uncrewed Surface Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/07/saronic-launches-first-mirage-16-meter-uncrewed-surface-vessel/",
-        "published": "2026-07-04T15:08:15Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saronic on July 2, 2026 announced the launch of its first Mirage, a 52-ft. (16-meter) dual-use Autonomous Surface Vessel (ASV) that joins the 24-ft. (7-meter) Corsair and 180-ft. (55-meter) Marauder as the third flagship platform in Saronic’s growing fleet, and is the latest milestone in a production model delivering autonomous vessels at speed and scale. ...\nThe post Saronic Launches First Mirage 16-Meter Uncrewed Surface Vessel appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/04/Saronic-Mirage-USV-1024x512.webp",
-        "section": "nyheter"
-      },
-      {
         "title": "America’s Navy at 250: A Naval History and Heritage Command Publication",
         "url": "https://news.usni.org/2026/07/03/americas-navy-at-250-a-naval-history-and-heritage-command-publication",
         "published": "2026-07-03T13:30:51Z",
@@ -151,16 +151,6 @@
         "language": "en",
         "summary": "The network of Bollinger shipyards in Louisiana wasted no time starting work on their Coast Arctic Security Cutter, beginning fabrication of the first planned U.S. hull two months ahead of the finalized contract, Bollinger president Ben Bordelon told USNI News this week. This week, the Coast Guard finalized an award to Bollinger for $2.2 billion in contracts for four ASC hulls while Finnish shipbuilder partner Rauma was awarded $1.1 billion for two hulls to be built in Finland, the Department of",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-3.42.37-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Australia announces defense industry policy and acquisitions reforms",
-        "url": "https://breakingdefense.com/2026/07/australia-announces-defense-industry-policy-and-acquisitions-reforms/",
-        "published": "2026-07-02T17:42:04Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Australian Defence Minister Richard Marles said the reforms seek to build “a more agile, disciplined and strategically focused Defence organisation.&#8221;",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/RAN_Ghost_Shark_XL-AUV_20250910ADF8654564_7428-e1757518856388-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -417,6 +407,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "U.S. Navy Boosts Lionfish UUV Production with New HII Contract Option",
+        "url": "https://www.navalnews.com/naval-news/2026/07/u-s-navy-boosts-lionfish-uuv-production-with-new-hii-contract-option/",
+        "published": "2026-07-07T14:27:08Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HII has been awarded an option year production contract for the U.S. Navy’s next-generation program of record, the Lionfish small unmanned undersea vehicle (SUUV). Lionfish is based on HII’s commercial REMUS 300 platform, originally developed as part of a rapid prototyping initiative in collaboration with the U.S. Navy and the Defense Innovation Unit (DIU). Huntington ...\nThe post U.S. Navy Boosts Lionfish UUV Production with New HII Contract Option appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Finland Signs Multi-Million Euro Framework Agreement for Forcit Blocker Naval Mines",
+        "url": "https://www.navalnews.com/naval-news/2026/07/finland-leads-joint-procurement-forcit-blocker-naval-mines/",
+        "published": "2026-07-07T12:01:46Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "An international Naval Mines Cooperation (NMC) project concerning the common procurement of naval mines has advanced to the framework agreement phase. As a representative of the lead nation, the Finnish Defence Forces Logistics Command has signed a contract with the Finnish company Forcit on procuring the Blocker Influence Mine for the participating countries. So far, ...\nThe post Finland Signs Multi-Million Euro Framework Agreement for Forcit Blocker Naval Mines appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Thales acquires Exail Technologies stake as it expands undersea warfare footprint",
         "url": "https://breakingdefense.com/2026/07/thales-acquires-exail-technologies-stake-as-it-expands-undersea-warfare-footprint/",

@@ -1,8 +1,88 @@
 {
-  "generated_at": "2026-07-07T14:52:01Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-07-08T06:20:26Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "US Army tests autonomous mass mine-laying",
+        "url": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
+        "published": "2026-07-07T21:25:41Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Army’s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KBIDJ2BJZRAJPDPX3WR7EEKJ6Q.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Philippines Confirms Deal to Acquire Five Japanese Abukuma-class Destroyer Escorts",
+        "url": "https://www.navalnews.com/naval-news/2026/07/philippines-confirms-deal-to-acquire-five-japanese-abukuma-class-destroyer-escorts/",
+        "published": "2026-07-07T20:59:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Philippines has reached a broad agreement with Japan to acquire five soon-to-be-retired Abukuma-class destroyer escorts from the Japan Maritime Self-Defense Force (JMSDF), marking one of Japan&#8217;s largest planned transfers of retired naval combatants to a foreign navy and another milestone in Tokyo&#8217;s evolving defense equipment transfer policy. Philippine Defense Secretary Gilberto Teodoro Jr. announced ...\nThe post Philippines Confirms Deal to Acquire Five Japanese Abukuma-class De",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Meets Recruiting Goal Ahead of Schedule",
+        "url": "https://news.usni.org/2026/07/07/navy-meets-recruiting-goal-ahead-of-schedule",
+        "published": "2026-07-07T20:27:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a row the sea service met its goals. Unlike the previous two fiscal years, the Navy increased its goal to 45,000, up from 40,600. Navy Recruiting Command has worked over the past three years to accelerate applicant timelines, especially with medical waivers, and ov",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9773072-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK and Netherlands Sign £2.4 Billion Deal for Next-Gen Amphibious Ships",
+        "url": "https://www.navalnews.com/naval-news/2026/07/uk-netherlands-new-amphibious-ships-deal-2026/",
+        "published": "2026-07-07T20:16:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The UK and Netherlands have signed a landmark £2.4 billion agreement to build eight next-generation, 15,000-ton amphibious transport ships optimized for hybrid drone warfare. UK MoD press release British and Dutch forces are set to be equipped with new amphibious transport ships under a new maritime partnership signed today (July 7, 2026). Based on a ...\nThe post UK and Netherlands Sign £2.4 Billion Deal for Next-Gen Amphibious Ships appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/12/Damen-Enforcer-LPD-LPX-UK-NL-2-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: July 7, 2026",
+        "url": "https://news.usni.org/2026/07/07/usni-news-fleet-and-marine-tracker-july-7-2026",
+        "published": "2026-07-07T19:10:30Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 7, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 293 (USS 233, USNS 60) 100 (USS 71, USNS 29) (39 FDNF, 61 Rotational) 72 (58 Deployed, 14 Local) In the Philippine Sea Aircraft carrier USS George Washin",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/FT_7_07_26.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
+        "published": "2026-07-07T19:10:20Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy is searching for better methods of protecting its missile subs, as well as the shore installations that support them.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FWI7NP66TVFSTNFTZ222O5GPBY.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "From GlobalEye to Triton, first wave of NATO Summit deals bet big on aerial capabilities",
+        "url": "https://breakingdefense.com/2026/07/from-globaleye-to-triton-first-wave-of-nato-summit-deals-bet-big-on-aerial-capabilities/",
+        "published": "2026-07-07T15:15:36Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The air power shift also comes as allies attempt to come to terms with the US opting to scale back some of its military assets in Europe and as they brace for Trump’s Summit address where he will reportedly urge them to increase defense spending.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260707_rutte_nato_GettyImages-2284522811-e1783437032412.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "PAL Aerospace Adapts Dash 8s for Greenland Maritime Surveillance",
+        "url": "https://www.navalnews.com/naval-news/2026/07/pal-aerospace-adapts-dash-8s-for-greenland-maritime-surveillance/",
+        "published": "2026-07-07T14:59:43Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "PAL Aerospace has been selected by Air Greenland to support the modification and configuration of two DHC-8-200 aircraft for Maritime Domain Awareness operations in Greenland. PAL Aerospace press release PAL Aerospace is proud to confirm the signature of a contract with Air Greenland to support the missionization of two DHC-8-200 aircraft for Maritime Domain Awareness ...\nThe post PAL Aerospace Adapts Dash 8s for Greenland Maritime Surveillance appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/pal_greenland_bg2_001-1024x683.webp",
+        "section": "nyheter"
+      },
       {
         "title": "Chinese ballistic missile test is said to undermine nuclear weapons-free zone in South Pacific",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/07/07/chinese-ballistic-missile-test-is-said-to-undermine-nuclear-weapons-free-zone-in-south-pacific/",
@@ -104,16 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Lockheed Martin to purchase Ultra Maritime in $3.5B deal",
-        "url": "https://breakingdefense.com/2026/07/lockheed-martin-to-purchase-ultra-maritime-in-3-5b-deal/",
-        "published": "2026-07-06T16:45:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Lockheed Martin said that Ultra Maritime will fall under the company’s rotary and mission systems division upon closing.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/08/lockheed-logo-scaled-e1724445352572-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "NATO summit host Turkey sees its alliance clout rising amid war raging nearby",
         "url": "https://www.defensenews.com/global/europe/2026/07/06/nato-summit-host-turkey-sees-its-alliance-clout-rising-amid-war-raging-nearby/",
         "published": "2026-07-06T12:31:33Z",
@@ -154,16 +224,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US Navy seeks to boost production of new anti-radar missile",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
-        "published": "2026-07-02T15:37:04Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Naval Air Systems Command is asking industry whether it is capable of supplying up to 600 Advanced Emission Suppression Missiles per year.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/G7XLJAWU7RDZ3O7MANW3FHXUNU.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Sailor Missing After Helo Assigned to USS George H.W. Bush Ditches in Arabian Sea",
         "url": "https://news.usni.org/2026/07/01/sailor-missing-after-helo-assigned-to-uss-george-h-w-bush-ditches-in-arabian-sea",
         "published": "2026-07-01T17:59:42Z",
@@ -171,26 +231,6 @@
         "language": "en",
         "summary": "One aircrewman is missing after an MH-60S helicopter assigned to USS George H.W. Bush (CVN-77) made an emergency landing on Wednesday in the Arabian Sea. The helicopter went down at 3:30 a.m. Eastern Time with four crew members on board, the U.S. 5th Fleet said on social media platform X. Three of the crew members were recovered from the water and are in stable condition aboard George H. W. Bush. U.S. Navy assets in the region are currently searching for the missing crew member. “There is no ind",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9757184-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Russia, China Fly Joint Bomber Missions Near Japan, South Korea",
-        "url": "https://news.usni.org/2026/06/30/russia-china-fly-joint-bomber-missions-near-japan-south-korea",
-        "published": "2026-06-30T19:14:58Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Russia and China conducted joint bomber patrol flights on Saturday for the first time this year, prompting Japan and South Korea to scramble fighter aircraft. Two Chinese H-6 bombers flew from the East China Sea into the Sea of Japan where they were joined by two Russian Tu-95 bombers and two Russian Tu-142 Maritime Patrol Aircraft, according to Japan’s Joint Staff Office. The Russian and Chinese aircraft then conducted a joint flight back to the East China Sea. Two Chinese J-16 fighters and one",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.46.48-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Marines Use Commercial Ferries to Haul Anti-ship Missiles Across the Philippines",
-        "url": "https://news.usni.org/2026/06/30/u-s-marines-use-commercial-ferries-to-haul-anti-ship-missiles-across-the-philippines",
-        "published": "2026-06-30T16:02:59Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES ― Marine anti-ship missile launchers and air defense rolled off contracted Philippine commercial transport vessels onto an island in the middle of the Luzon Strait near Taiwan during drills earlier this month. The 3rd Marine Littoral Regiment (MLR) worked with their Philippine counterparts to transport the unit’s maritime strike and air defense systems to Calayan Island during the 10th iteration of the Kaagapay ng mga Mandirigma ng Dagat drills, according to a news release pu",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/06/9766631-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -464,36 +504,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Lockheed Martin today announced the signing of a definitive agreement to acquire Ultra Maritime, a global defense company specializing in advanced undersea warfare and anti-submarine warfare (ASW) capabilities for allied naval forces for $3.45 billion. Lockheed Martin press release Ultra Maritime company develops and delivers mission-critical systems including sonar technologies, sonobuoys, torpedo defense systems, radar ...\nThe post Lockheed Martin to Acquire Ultra Maritime Solutions appeared f",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Fincantieri Acquires Four Companies to Expand Underwater Drone Business",
-        "url": "https://www.navalnews.com/naval-news/2026/07/fincantieri-acquires-four-companies-to-expand-underwater-drone-business/",
-        "published": "2026-07-06T13:22:08Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Fincantieri announces the agreement for the acquisition of&#160;Next Geosolutions,&#160;WSense,&#160;Graal Tech&#160;and&#160;Defcomm. These&#160;four strategic transactions&#160;in the Underwater segment&#160;significantly enhance the Group’s positioning in a domain that is becoming increasingly central to security, energy and the development of critical infrastructure. Fincantieri press release The Group establishes the first vertically integrated underwater operator, bringing together eight c",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Communication starts with us – SEICAM® and TRITON® II for the Next Generation of Submarines",
-        "url": "https://www.navalnews.com/naval-news/2026/07/communication-starts-with-us-seicam-and-triton-ii-for-the-next-generation-of-submarines/",
-        "published": "2026-07-06T08:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The role of modern submarines is changing. In a security environment shaped by geopolitical tensions, advanced anti-submarine warfare capabilities and increasingly networked military operations, stealth alone is no longer sufficient. Today’s platforms are expected to exchange information securely, cooperate with allied assets in real time and integrate seamlessly into multi-domain operations. Communication has therefore become ...\nThe post Communication starts with us – SEICAM® and TRITON® II fo",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/TKMS_logo.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "HAVELSAN’s AI-Powered Digital Lookout BLUEVISION Proves Itself Across Maritime Platforms",
-        "url": "https://www.navalnews.com/naval-news/2026/07/havelsans-ai-powered-digital-lookout-bluevision-proves-itself-across-maritime-platforms/",
-        "published": "2026-07-06T07:49:41Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Türkiye&#8217;s defence solutions provider HAVELSAN unveiled BLUEVISION, an AI-powered maritime awareness system. HAVELSAN press release Maritime operators are expected to keep track of an increasingly complex environment. Small boats, floating objects, low visibility contacts and boat operating without reliable identification data can be difficult to detect, particularly in busy waterways or demanding weather conditions. While ...\nThe post HAVELSAN&#8217;s AI-Powered Digital Lookout BLUEVISION ",
         "image_url": "",
         "section": "rov_teknologi"
       },

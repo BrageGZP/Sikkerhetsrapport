@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-07-11T06:05:35Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-11T13:41:05Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "LRASM and JASSM Production to Triple Under New US Air Force Contract",
+        "url": "https://www.navalnews.com/naval-news/2026/07/lrasm-and-jassm-production-to-triple-under-new-us-air-force-contract/",
+        "published": "2026-07-11T13:26:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Air Force now anticipates buying more than 11,000 new JASSM and LRASM cruise missiles over the next five to seven years according to a notice of intent published Friday, dramatically expanding the Pentagon&#8217;s JASSM and LRASM topline inventory objectives for both weapons that have had their objectives periodically increased over the past decade. ...\nThe post LRASM and JASSM Production to Triple Under New US Air Force Contract appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/9792221-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Anti-Drone Warfare at Sea: Matching Sensors and Effectors to the Threat",
+        "url": "https://www.navalnews.com/naval-news/2026/07/anti-drone-warfare-at-sea-matching-sensors-and-effectors-to-the-threat/",
+        "published": "2026-07-11T07:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Effective Anti-Drone Warfare demands a complete kill chain &#8211; detection, identification, tracking, and hard-kill engagement &#8211; with every link matched to the physics and economics of the Tier 2 OWA drone threat. This article examines the technology choices for each link: why only AESA radar meets the detection requirement, what the electro-optic director must deliver, ...\nThe post Anti-Drone Warfare at Sea: Matching Sensors and Effectors to the Threat appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Picture-1.png",
+        "section": "nyheter"
+      },
       {
         "title": "USNI News Western Pacific Pulse: July 10, 2026",
         "url": "https://news.usni.org/2026/07/10/usni-news-western-pacific-pulse-july-10-2026",
@@ -141,16 +161,6 @@
         "language": "en",
         "summary": "China’s July 6 submarine-launched ballistic missile (SLBM) test into the Pacific has drawn intense scrutiny not only for its political timing, but for what it reveals about the maturing state of Beijing’s sea-based nuclear deterrent. The People’s Liberation Army Navy (PLAN) said one of its strategic nuclear submarines launched a missile carrying a dummy warhead ...\nThe post Analysis: China’s Pacific SLBM Test Signals Shift Toward Continuous At-Sea Deterrence appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2023/10/Type-094-.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rohde & Schwarz completes Hunter PDR for the Integrated Communications System",
-        "url": "https://www.navalnews.com/naval-news/2026/07/rohde-schwarz-completes-hunter-pdr-for-the-integrated-communications-system/",
-        "published": "2026-07-09T02:00:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Rohde&#160;&#38;&#160;Schwarz Australia and BAE Systems Maritime Australia (BAESMA) have successfully completed the Preliminary Design Review (PDR) for delivery of NAVICS for the Hunter Class Frigate Program (HCFP). Rohde&#160;&#38;&#160;Schwarz press release Rohde&#160;&#38;&#160;Schwarz Australia has recently achieved a significant milestone in the delivery of the Integrated Communication System (ICS) for the Royal Australian Navy’s HCFP with the ...\nThe post Rohde &amp; Schwarz completes Hunt",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -494,16 +504,6 @@
         "summary": "Onsdag 20. mai blir den nye allmenningskaia i Kvalsund hamn offisielt opna. Kystverket inviterer...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Kystverket først i Europa med ny portal for skipsrapportering",
-        "url": "https://www.kystverket.no/nyheter/kystverket-forst-i-europa-med-ny-portal-for-skipsrapportering/",
-        "published": "2026-05-12T11:26:20Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Norge er første land i Europa som lanserer en nettportal for skipsrapportering i tråd med EUs nye...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -515,16 +515,6 @@
         "language": "en",
         "summary": "The future Henderson Defence Precinct near Perth in Western Australia is one of two primary shipbuilding and maintenance facilities supporting operations and future growth of the Royal Australian Navy. In this outline Naval News will provide a detailed overview of the present structure at this facility, policy planning for future modernisation and expansion, and finally, ...\nThe post Australian Naval Shipbuilding At The Henderson Defence Precinct &#8211; A Naval News Outline appeared first on Na",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-03-184348-921x1024.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Exail and KNDS strengthen a french industrial ecosystem dedicated to Autonomous Mine Countermeasures",
-        "url": "https://www.navalnews.com/naval-news/2026/07/exail-and-knds-strengthen-a-french-industrial-ecosystem-dedicated-to-autonomous-mine-countermeasures/",
-        "published": "2026-07-09T08:53:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "As navies worldwide accelerate the modernization of their mine countermeasure capabilities, Exail and KNDS are strengthening their cooperation. The two companies have signed a new framework agreement for the supply of several hundred equipped warheads intended for K-Ster mine neutralization systems. Exail press release Beyond the agreement itself, this new milestone illustrates the ramp-up of ...\nThe post Exail and KNDS strengthen a french industrial ecosystem dedicated to Autonomous Mine Counte",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/k-ster-ostende-shipment_544x295.webp",
         "section": "rov_teknologi"
       },
       {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:43:34Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-13T14:49:39Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -154,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Analysis: China’s Pacific SLBM Test Signals Shift Toward Continuous At-Sea Deterrence",
-        "url": "https://www.navalnews.com/naval-news/2026/07/china-pacific-slbm-test-casd-nuclear-deterrence/",
-        "published": "2026-07-09T08:59:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "China’s July 6 submarine-launched ballistic missile (SLBM) test into the Pacific has drawn intense scrutiny not only for its political timing, but for what it reveals about the maturing state of Beijing’s sea-based nuclear deterrent. The People’s Liberation Army Navy (PLAN) said one of its strategic nuclear submarines launched a missile carrying a dummy warhead ...\nThe post Analysis: China’s Pacific SLBM Test Signals Shift Toward Continuous At-Sea Deterrence appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/10/Type-094-.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Canada Selects German Firm to Build 12 Attack Boats for Royal Canadian Navy",
         "url": "https://news.usni.org/2026/07/08/canada-selects-german-firm-to-build-12-attack-boats-for-royal-canadian-navy",
         "published": "2026-07-08T20:40:10Z",
@@ -241,26 +231,6 @@
         "language": "en",
         "summary": "China has repeatedly called out the AUKUS nuclear submarine deal between Australia, the U.S. and the U.K. as violating the treaty.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WOLNO5AZ6ZHERDUQZ6IUJX5K2M.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
-        "url": "https://www.defensenews.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
-        "published": "2026-07-07T09:42:08Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "“It is genuinely made in NATO and is creating jobs on both sides of the Atlantic,” alliance Secretary-General Mark Rutte said.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RPNECBVFGJF2TJ6PUXPGVYERPA.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Canada picks Germany’s TKMS for historic submarine buy, in nod to Europe",
-        "url": "https://www.defensenews.com/global/europe/2026/07/07/canada-picks-germanys-tkms-for-historic-submarine-buy-in-nod-to-europe/",
-        "published": "2026-07-07T04:59:44Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The firm had offered its Type 212CD submarine which is being built for both Germany and Norway, beating a competing bid from South Korea's Hanwha Ocean.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YRQZKISK75ARXHHKHXPOYIT7FI.jpg",
         "section": "nyheter"
       },
       {
@@ -508,6 +478,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "US Navy Seeks ‘Seabed Superiority’ in Undersea Warfare Push",
+        "url": "https://www.navalnews.com/event-news/cne-2026/2026/07/us-navy-seabed-superiority-undersea-warfare/",
+        "published": "2026-07-13T08:28:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The US Navy (USN) is seeking “seabed superiority” in both offensive and defensive operations around the ocean floor as part of enhancing asymmetric advantage in underwater warfare, the USN’s Commander, Submarine Force (COMSUBFOR) told the annual Combined Naval Event 2026 (CNE26) conference. Incidents of threats to critical undersea infrastructure (CUI) in the Baltic Sea and ...\nThe post US Navy Seeks ‘Seabed Superiority’ in Undersea Warfare Push appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/2-NavNews-USN-SBW-Delaware-USN-1-1.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Australian Naval Shipbuilding At The Henderson Defence Precinct – A Naval News Outline",
         "url": "https://www.navalnews.com/naval-news/2026/07/australian-naval-shipbuilding-at-the-henderson-defence-precinct/",
         "published": "2026-07-09T22:39:08Z",
@@ -515,16 +495,6 @@
         "language": "en",
         "summary": "The future Henderson Defence Precinct near Perth in Western Australia is one of two primary shipbuilding and maintenance facilities supporting operations and future growth of the Royal Australian Navy. In this outline Naval News will provide a detailed overview of the present structure at this facility, policy planning for future modernisation and expansion, and finally, ...\nThe post Australian Naval Shipbuilding At The Henderson Defence Precinct &#8211; A Naval News Outline appeared first on Na",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-03-184348-921x1024.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal",
-        "url": "https://www.defensenews.com/global/europe/2026/07/06/thales-to-buy-french-underwater-drone-maker-exail-in-45-billion-deal/",
-        "published": "2026-07-06T15:19:55Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Industry champions in France and Italy move to consolidate their positions in a growing market for unmanned underwater naval equipment.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R7VOXRCIW5CI7CVL3RZCHSWQNM.jpg",
         "section": "rov_teknologi"
       },
       {

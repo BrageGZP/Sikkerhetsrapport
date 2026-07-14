@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T06:02:30Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-14T13:59:29Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -254,16 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US Army tests autonomous mass minelaying",
-        "url": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
-        "published": "2026-07-07T21:25:41Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Army’s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KBIDJ2BJZRAJPDPX3WR7EEKJ6Q.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Meets Recruiting Goal Ahead of Schedule",
         "url": "https://news.usni.org/2026/07/07/navy-meets-recruiting-goal-ahead-of-schedule",
         "published": "2026-07-07T20:27:33Z",
@@ -272,19 +262,19 @@
         "summary": "This story has been updated to clarify end strength numbers.  The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a row the sea service met its goals. Unlike the previous two fiscal years, the Navy increased its goal to 45,000, up from 40,600. Navy Recruiting Command has worked over the past three years to accelerat",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9773072-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
-        "published": "2026-07-07T19:10:20Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy is searching for better methods of protecting its missile subs, as well as the shore installations that support them.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FWI7NP66TVFSTNFTZ222O5GPBY.jpeg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Her melder du inn feil på sjømerker og farer til sjøs",
+        "url": "https://www.kystverket.no/nyheter/her-melder-du-inn-feil-pa-sjomerker-og-farer-til-sjos/",
+        "published": "2026-07-14T11:30:18Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "En ny digital løsning gjør det enklere for sjøfarende å melde inn feil på sjømerker, drivende...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "KUNNGJØRING: Salg av utdypingsmasser i forbindelse med prosjektet Nordlig innseiling Haugesund",
         "url": "https://www.kystverket.no/nyheter/kunngjoring--salg-av-utdypingsmasser-i-forbindelse-med-prosjektet-nordlig-innseiling-haugesund/",

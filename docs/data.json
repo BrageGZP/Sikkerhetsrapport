@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-07-14T13:59:29Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-07-15T06:05:44Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "SDA awards L3Harris, Sierra  $1.75B for missile defense satellites",
+        "url": "https://breakingdefense.com/2026/07/sda-awards-l3harris-sierra-1-75b-for-missile-defense-satellites/",
+        "published": "2026-07-14T20:51:53Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The new satellites for missile warning, tracking and targeting are being developed under an &#8220;accelerated&#8221; schedule to meet the Pentagon&#8217;s 2028 plans for demonstrating its Golden Dome missile defense shield.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/07/220718_l3harris_sat_missile_tracking-1024x576.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "MARAD Ship Suffers Fire in Baltimore",
+        "url": "https://news.usni.org/2026/07/14/marad-ship-suffers-fire-in-baltimore",
+        "published": "2026-07-14T19:50:57Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Two lifeboats aboard U.S. Maritime Administration’s Charles L. Gilliland caught fire Monday in the Port of Baltimore. Baltimore City Fire Department responded around 11 a.m. to the two-alarm fire, meaning additional resources were needed to control the flames. There were no injuries reported. The cause of the fire is under investigation. Gilliland is one of MARAD’s roll-on, roll-off logistics ships. It has been docked in Baltimore since 2024, according to Maritime Executive, next to its sister s",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-3.48.08-PM-e1784058582536.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy awards TOTE $2.2 billion to manage Medium Landing Ships project",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/14/navy-awards-tote-22-billion-to-build-medium-landing-ships/",
+        "published": "2026-07-14T19:15:53Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Navy awarded TOTE $2.2 billion to manage its medium landing ship construction efforts, with the first vessel scheduled for delivery in fall 2029.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SOIXX3WMUJA7NFBESQIPIXRWXY.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "USS Essex at the Center of Additive Manufacturing Trials During RIMPAC 26",
+        "url": "https://news.usni.org/2026/07/14/uss-essex-at-the-center-of-additive-manufacturing-trials-during-rimpac-26",
+        "published": "2026-07-14T18:54:21Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "USS Essex (LHD-2) is the centerpiece of large-scale additive manufacturing tests during Rim of the Pacific 2026 exercise, as the U.S. Navy and Marine Corps lean on modern machine-made parts to hone self-repair capabilities. RIMPAC 26, which is being held in Hawaii through July 31, brings together military, government, academic, commercial and coalition partners in what the U.S. Navy has described as the largest advanced manufacturing demonstration conducted by the Defense Department. Throughout ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9798132-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Carrier USS Gerald R. Ford Starts First Major Post-Deployment Maintenance Period",
+        "url": "https://news.usni.org/2026/07/14/carrier-uss-gerald-r-ford-starts-first-major-post-deployment-maintenance-period",
+        "published": "2026-07-14T18:12:16Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Aircraft carrier USS Gerald R. Ford (CVN-78) is now at Norfolk Naval Shipyard for a maintenance period following a nearly 11-month deployment. Ford, the Navy’s newest in-service carrier, arrived last week at Norfolk Naval Shipyard in Portsmouth, Va., for its planned incremental availability, or PIA, according to a Navy news release. “[T]his marks Gerald R. Ford’s first regularly scheduled availability at a public shipyard as well as the first time a Ford-class aircraft carrier has been serviced ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/260707-N-YO710-1002-scaled.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "‘Innovative shift’: Navy bets $2.2 billion on new vessel construction manager strategy for LSM",
+        "url": "https://breakingdefense.com/2026/07/navy-taps-tote-services-for-lsm-vessel-construction-manager/",
+        "published": "2026-07-14T14:16:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The Navy said that the contract award seeks to &#8220;maximize commercial practices to accelerate delivery&#8221; of the vessels.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "History in the Making: Ukraine Conducts First Fully Unmanned Amphibious Raid at Kinburn Split",
+        "url": "https://www.navalnews.com/naval-news/2026/07/ukraine-unmanned-amphibious-raid-kinburn-split/",
+        "published": "2026-07-14T14:01:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Ukrainian armed forces have reportedly conducted a groundbreaking amphibious raid against Russian-held positions at the Kinburn Split. Executed entirely by unmanned vehicles operating across the sea, land, and air domains, the operation marks the first completely automated amphibious assault in military history conducted under wartime conditions. The raid, reportedly conducted by Ukraine’s 123rd Territorial ...\nThe post History in the Making: Ukraine Conducts First Fully Unmanned Amphibious ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Ukraine-Conducts-First-Fully-Unmanned-Amphibious-Raid-at-Kinburn-Split-2-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Navy Awards TOTE $2.2B to Serve as Vessel Construction Manager for Landing Ship Medium",
         "url": "https://news.usni.org/2026/07/13/navy-awards-tote-2-2b-to-serve-as-vessel-construction-manager-for-landing-ship-medium",
@@ -114,36 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "DIU, Navy launch containerized payload competition",
-        "url": "https://breakingdefense.com/2026/07/diu-navy-launch-containerized-payload-competition/",
-        "published": "2026-07-10T16:50:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Chief of Naval Operations Adm. Daryl Caudle has been on a “containerized capability campaign.&#8221;",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/8030940-scaled-e1783688822126-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "The state of play with the defense budget’s various moving parts",
-        "url": "https://breakingdefense.com/2026/07/the-state-of-play-with-the-defense-budgets-various-moving-parts/",
-        "published": "2026-07-10T16:00:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Here&#8217;s what we&#8217;re watching for after Congress comes back in July.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/CRU26-playbutton-1024x576.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Pentagon picks Lockheed, nLIGHT for laser defense project",
-        "url": "https://breakingdefense.com/2026/07/pentagon-picks-lockheed-nlight-for-laser-defense-project/",
-        "published": "2026-07-10T15:13:42Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Separately, MBDA and Rheinmetall were selected to develop a laser weapon system for the German Navy.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/230222_IDEX_lockheed_drone_laser-1024x576.png",
-        "section": "nyheter"
-      },
-      {
         "title": "German Navy to Deploy New MBDA and Rheinmetall Laser Weapon by 2029",
         "url": "https://www.navalnews.com/naval-news/2026/07/german-navy-to-deploy-new-mbda-and-rheinmetall-laser-weapon-by-2029/",
         "published": "2026-07-10T12:42:04Z",
@@ -251,16 +291,6 @@
         "language": "en",
         "summary": "Cmdr. Gabriel Edwards, commanding officer of Helicopter Sea Squadron 5, embarked on USS George H.W. Bush (CVN-77), died July 1 after his helicopter ditched into the Arabian Sea, the Navy announced late Tuesday. Edwards was one of four sailors aboard the MH-60S helicopter when it landed in the water. The other three sailors were rescued. The Navy called off the search for Edwards after four days. Bush is currently deployed in the Middle East as part of the Navy’s participation in the war with Ira",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/260707-N-NO001-1001-e1783523861226.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Meets Recruiting Goal Ahead of Schedule",
-        "url": "https://news.usni.org/2026/07/07/navy-meets-recruiting-goal-ahead-of-schedule",
-        "published": "2026-07-07T20:27:33Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This story has been updated to clarify end strength numbers.  The Navy met its recruiting goal for Fiscal Year 2026 three months before the fall deadline, the sea service announced last week. The Navy brought in 45,000 new recruits, according to a Thursday news release, marking the third year in a row the sea service met its goals. Unlike the previous two fiscal years, the Navy increased its goal to 45,000, up from 40,600. Navy Recruiting Command has worked over the past three years to accelerat",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9773072-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -488,6 +518,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "The US Navy is eyeing next-gen carrier-based drones. Here’s what they might do.",
+        "url": "https://www.defensenews.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
+        "published": "2026-07-14T23:56:55Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Navy wants its next-gen carrier-based drones to handle a wide range of missions, from strikes and anti-submarine warfare to aerial refueling and more.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7XWM475FVNFJ5IL67OFSM4HMQQ.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "US Navy Seeks ‘Seabed Superiority’ in Undersea Warfare Push",
         "url": "https://www.navalnews.com/event-news/cne-2026/2026/07/us-navy-seabed-superiority-undersea-warfare/",
         "published": "2026-07-13T08:28:12Z",
@@ -495,16 +535,6 @@
         "language": "en",
         "summary": "The US Navy (USN) is seeking “seabed superiority” in both offensive and defensive operations around the ocean floor as part of enhancing asymmetric advantage in underwater warfare, the USN’s Commander, Submarine Force (COMSUBFOR) told the annual Combined Naval Event 2026 (CNE26) conference. Incidents of threats to critical undersea infrastructure (CUI) in the Baltic Sea and ...\nThe post US Navy Seeks ‘Seabed Superiority’ in Undersea Warfare Push appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/2-NavNews-USN-SBW-Delaware-USN-1-1.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Australian Naval Shipbuilding At The Henderson Defence Precinct – A Naval News Outline",
-        "url": "https://www.navalnews.com/naval-news/2026/07/australian-naval-shipbuilding-at-the-henderson-defence-precinct/",
-        "published": "2026-07-09T22:39:08Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The future Henderson Defence Precinct near Perth in Western Australia is one of two primary shipbuilding and maintenance facilities supporting operations and future growth of the Royal Australian Navy. In this outline Naval News will provide a detailed overview of the present structure at this facility, policy planning for future modernisation and expansion, and finally, ...\nThe post Australian Naval Shipbuilding At The Henderson Defence Precinct &#8211; A Naval News Outline appeared first on Na",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-03-184348-921x1024.jpg",
         "section": "rov_teknologi"
       }
     ]

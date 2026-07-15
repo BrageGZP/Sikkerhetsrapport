@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-07-15T06:05:44Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-15T13:56:44Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Israeli firm wants to convert commercial ships into floating drone bases",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/",
+        "published": "2026-07-15T10:27:52Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z4Q3CNNDGNFQHCIVKUUH4ZJC7M.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Operation Firecrest: HMS Prince of Wales Demonstrates Royal Navy’s ‘Hybrid’ Shift",
+        "url": "https://www.navalnews.com/naval-news/2026/07/operation-firecrest-hms-prince-of-wales-hybrid-navy/",
+        "published": "2026-07-15T09:02:51Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The current deployment of the UK Royal Navy’s (RN’s) HMS Prince of Wales carrier strike group (CSG) across the North Atlantic and into the High North is building deterrence against regional threats – but is also demonstrating the navy’s quickening transition towards a ‘hybrid’ crewed/uncrewed operational force structure. With the deployment including extensive engagement with ...\nThe post Operation Firecrest: HMS Prince of Wales Demonstrates Royal Navy’s &#8216;Hybrid&#8217; Shift appeared first",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/2-NavNews-Firecrest-CSG-hybrid-CC-MoD-26-1024x693.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "SDA awards L3Harris, Sierra  $1.75B for missile defense satellites",
         "url": "https://breakingdefense.com/2026/07/sda-awards-l3harris-sierra-1-75b-for-missile-defense-satellites/",
@@ -194,16 +214,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Kuwait procures Rheinmetall’s MASS decoy launchers for the first time",
-        "url": "https://www.navalnews.com/naval-news/2026/07/kuwait-procures-rheinmetalls-mass-decoy-launchers-for-the-first-time/",
-        "published": "2026-07-10T12:22:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Rheinmetall is supplying the Kuwaiti Naval Forces with Multi Ammunition Softkill Systems (MASS). This is the first delivery of the decoy launcher to Kuwait. Rheinmetall press release A total of eight vessels will be equipped with these systems. The order value is in the low double-digit million-euro range. The contract also includes the corresponding Omnitrap ...\nThe post Kuwait procures Rheinmetall’s MASS decoy launchers for the first time appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
         "url": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
         "published": "2026-07-10T10:59:02Z",
@@ -211,16 +221,6 @@
         "language": "en",
         "summary": "Rheinmetall and MBDA aim to field an operational laser weapon for the German Navy in 2029.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LGGJERZKVNDNDIWMEL5BX67QOA.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Eyes South Korean Yards for Tankers and Destroyers",
-        "url": "https://www.navalnews.com/naval-news/2026/07/us-navy-rfi-south-korea-shipbuilding-destroyers/",
-        "published": "2026-07-10T08:34:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "In a historic move that could end an 80-year ban on foreign warship construction, the U.S. Navy has officially issued two Requests for Information (RFIs) to major South Korean shipbuilders to assess their capacity to build American destroyers and fleet tankers. Following initial reports from South Korea&#8217;s Yonhap News, Naval News can confirm that the ...\nThe post U.S. Navy Eyes South Korean Yards for Tankers and Destroyers appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/09/ROKS-Dasan-Jeong-Yak-yong-KDX-III-Batch-2-HHI-1024x734.jpg",
         "section": "nyheter"
       },
       {
@@ -517,6 +517,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "GABLER and FLANQ’s Torpedo Tube-Launched USV Completes Sea Trials",
+        "url": "https://www.navalnews.com/naval-news/2026/07/gabler-and-flanqs-torpedo-tube-launched-usv-completes-sea-trials/",
+        "published": "2026-07-15T07:46:35Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "GABLER, a leading provider of submarine systems, and German defence technology company&#160;FLANQ&#160;have successfully completed the Sea Acceptance Test (SAT) demonstrating seaworthiness of their jointly developed Torpedo-Tube-Launched Uncrewed Surface Vessel (TTL USV) capability demonstrator. GABLER press release The demonstrator vehicle, named Ranger, combines GABLER’s decades of expertise in mission-critical submarine components and defence manufacturing with FLANQ’s ...\nThe post GABLER and",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "The US Navy is eyeing next-gen carrier-based drones. Here’s what they might do.",
         "url": "https://www.defensenews.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",

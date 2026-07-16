@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-07-16T06:08:49Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-16T14:08:36Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "The Navy’s Strategy to Weaponize Data and Artificial Intelligence",
+        "url": "https://news.usni.org/2026/07/16/the-navys-strategy-to-weaponize-data-and-artificial-intelligence",
+        "published": "2026-07-16T14:03:40Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the Department of the Navy’s Strategy to Weaponize Data and Artificial Intelligence, published June 15, 2026. From the Report This strategy, signed by Acting Secretary of the Navy Hung Cao, establishes the Department’s roadmap for building a data-ready, AI-enabled force capable of accelerating decision-making and maintaining maritime superiority. Foreword from the Acting Secretary of the Navy The Department of the Navy’s (DON) renewed focus on warfighting coincides with one of t",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saab receives order to equip the German Navy’s new F128 frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/07/saab-receives-order-to-equip-the-german-navys-new-f128-frigates/",
+        "published": "2026-07-16T12:06:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saab has signed a contract with the German naval defence company TKMS and received an order to deliver and integrate combat systems, composite structures and sensors onto four of the German Navy’s new MEKO A-200 DEU class frigates. Saab press release The order value is approximately SEK 8.7 billion and Saab’s deliveries to TKMS will ...\nThe post Saab receives order to equip the German Navy&#8217;s new F128 frigates appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Germany’s defense industry is evolving. Here’s how firms are trying to tap in.",
+        "url": "https://breakingdefense.com/2026/07/germanys-defense-industry-is-evolving-heres-how-firms-are-trying-to-tap-in/",
+        "published": "2026-07-16T10:46:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "In a special video program, Breaking Defense walks you through the past, present and future of Germany&#8217;s burgeoning defense market.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/Berlin-video-play-button-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Typhoon USV Completes First-Ever At-Sea Resupply with USS Essex",
+        "url": "https://www.navalnews.com/naval-news/2026/07/typhoon-usv-uss-essex-at-sea-resupply/",
+        "published": "2026-07-16T08:40:43Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "As part of the ongoing Rim of the Pacific (RIMPAC) 2026 naval exercises, a Splash Industries Typhoon Unmanned Surface Vessel (USV) successfully landed in the well deck of the Wasp-class Landing Helicopter Dock USS Essex (LHD-2), marking the first instance of a USV performing an underway replenishment for a larger, crewed vessel. Splash Industries&#8217; CEO ...\nThe post Typhoon USV Completes First-Ever At-Sea Resupply with USS Essex appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/GxofkcPawAQ4I-s.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Blue Water Autonomy, Saildrone Sue Navy Over MUSV Rejection",
         "url": "https://news.usni.org/2026/07/15/blue-water-autonomy-saildrone-sue-navy-over-musv-rejection",
@@ -124,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "‘Innovative shift’: Navy bets $2.2 billion on new vessel construction manager strategy for LSM",
-        "url": "https://breakingdefense.com/2026/07/navy-taps-tote-services-for-lsm-vessel-construction-manager/",
-        "published": "2026-07-14T14:16:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The Navy said that the contract award seeks to &#8220;maximize commercial practices to accelerate delivery&#8221; of the vessels.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "History in the Making: Ukraine Conducts First Fully Unmanned Amphibious Raid at Kinburn Split",
         "url": "https://www.navalnews.com/naval-news/2026/07/ukraine-unmanned-amphibious-raid-kinburn-split/",
         "published": "2026-07-14T14:01:15Z",
@@ -234,16 +264,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Anti-Drone Warfare at Sea: Matching Sensors and Effectors to the Threat",
-        "url": "https://www.navalnews.com/naval-news/2026/07/anti-drone-warfare-at-sea-matching-sensors-and-effectors-to-the-threat/",
-        "published": "2026-07-11T07:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Effective Anti-Drone Warfare demands a complete kill chain &#8211; detection, identification, tracking, and hard-kill engagement &#8211; with every link matched to the physics and economics of the Tier 2 OWA drone threat. This article examines the technology choices for each link: why only AESA radar meets the detection requirement, what the electro-optic director must deliver, ...\nThe post Anti-Drone Warfare at Sea: Matching Sensors and Effectors to the Threat appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Picture-1.png",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: July 10, 2026",
         "url": "https://news.usni.org/2026/07/10/usni-news-western-pacific-pulse-july-10-2026",
         "published": "2026-07-10T19:34:50Z",
@@ -251,26 +271,6 @@
         "language": "en",
         "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Hawaii The U.S. Navy-led Rim of the Pacific (RIMPAC) 2026 exercise is now in its at-sea phase with ships and unmanned surface vessels departing from Joint Base Pearl Harbor – Hickam in stages from Monday to Thursday. Live-firing drills for RIMPAC began Tuesday with Royal Canadian Navy (RCN) frigate HMCS Ottawa (FFH341) carrying out a torpedo firing while Japan Maritime Self-Defense F",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9798142-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "German Navy to Deploy New MBDA and Rheinmetall Laser Weapon by 2029",
-        "url": "https://www.navalnews.com/naval-news/2026/07/german-navy-to-deploy-new-mbda-and-rheinmetall-laser-weapon-by-2029/",
-        "published": "2026-07-10T12:42:04Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 9 July 2026, the Federal Office of Bundeswehr Equipment, Information Technology and In-Service Support (BAAINBw) signed a contract with the High-Energy Laser Naval Demonstrator Working Group (ARGE HEL) for the development of a high-energy laser weapon system for the German Navy. Rheinmetall press release The ARGE HEL consists of MBDA Deutschland and Rheinmetall Waffe ...\nThe post German Navy to Deploy New MBDA and Rheinmetall Laser Weapon by 2029 appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
-        "url": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
-        "published": "2026-07-10T10:59:02Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Rheinmetall and MBDA aim to field an operational laser weapon for the German Navy in 2029.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LGGJERZKVNDNDIWMEL5BX67QOA.jpg",
         "section": "nyheter"
       },
       {
@@ -527,6 +527,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Exail to supply a European navy with a light, rapidly deployable MCM system",
+        "url": "https://www.navalnews.com/naval-news/2026/07/exail-to-supply-a-european-navy-with-a-light-rapidly-deployable-mcm-system/",
+        "published": "2026-07-16T07:37:34Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Exail has been awarded a contract by a European navy to deliver three light Mine Countermeasures (MCM) systems. Designed for rapid deployment from Rigid-Hulled Inflatable Boats (RHIBs), these systems will allow naval forces to identify and neutralize underwater mines quickly. Exail press release Each system integrates Exail’s UMIS technology into a 9.5-meter RHIB, primarily configured ...\nThe post Exail to supply a European navy with a light, rapidly deployable MCM system appeared first on Naval",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "GABLER and FLANQ’s Torpedo Tube-Launched USV Completes Sea Trials",
         "url": "https://www.navalnews.com/naval-news/2026/07/gabler-and-flanqs-torpedo-tube-launched-usv-completes-sea-trials/",

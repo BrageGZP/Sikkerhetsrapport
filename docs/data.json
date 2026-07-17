@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-07-17T06:07:49Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-17T13:52:35Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan and Vietnam to Jointly Develop Fast Landing Craft",
+        "url": "https://www.navalnews.com/naval-news/2026/07/japan-vietnam-fast-landing-craft-development/",
+        "published": "2026-07-17T12:05:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan and Vietnam have agreed to begin discussions on the possible joint development and production of fast landing craft (高速揚陸艇), marking a significant step in their expanding defence-industrial cooperation and Tokyo&#8217;s broader effort to deepen defence-industrial ties with Indo-Pacific partners. The agreement was reached during talks in Tokyo on July 13 between Japanese Defense Minister ...\nThe post Japan and Vietnam to Jointly Develop Fast Landing Craft appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/HNRDf8ebcAADpO7-1024x682.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "French Pacific Commander Says France Had Advance Notice of China’s SLBM Launch",
+        "url": "https://www.navalnews.com/interviews/2026/07/france-advance-notice-china-slbm-launch/",
+        "published": "2026-07-17T08:28:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Rear Adm. Guillaume Pinget says France viewed the missile test as a demonstration of nuclear deterrence while reaffirming its status as a resident Pacific power. France had advance notice of China&#8217;s recent submarine-launched ballistic missile (SLBM) launch into the South Pacific and viewed the test as a demonstration of the credibility of nuclear deterrence, Rear ...\nThe post French Pacific Commander Says France Had Advance Notice of China&#8217;s SLBM Launch appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Rear-Admiral-Guillaume-Pinget-Commander-French-Pacific-Command-1-683x1024.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "2 defense tech companies sue US Navy after losing out on MUSV program",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
@@ -282,29 +302,19 @@
         "summary": "The U.S. military will begin enforcing a maritime blockade on Iran on Tuesday.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SVFWQHMGYBCTRKAMRZBAVQ2PQE.JPG",
         "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: July 13, 2026",
-        "url": "https://news.usni.org/2026/07/13/usni-news-fleet-and-marine-tracker-july-13-2026",
-        "published": "2026-07-13T17:51:07Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of July 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 293 (USS 233, USNS 60) 101 (USS 72, USNS 29) (39 FDNF, 62 Rotational) 83 (57 Deployed, 26 Local) In the Philippine Sea Aircraft carrier USS George Washi",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/FT_7_13_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "VIDEO: 3 Lethal U.S. Drones Attack Iranian Sub, Port Facility",
-        "url": "https://news.usni.org/2026/07/13/video-3-lethal-u-s-drones-attack-iranian-sub-port-facility",
-        "published": "2026-07-13T17:10:12Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Three Saronic Corsair unmanned surface craft were used in a Sunday attack on an Iranian port, U.S. Central Command announced on social media. In the 25-second video posted Monday on X, the Corsairs approach an Iranian pier at Bandar Abbas near the Strait of Hormuz with what appears to be a Ghadir-class midget submarine suspended from a gantry out of water. “Yesterday, using multiple one-way attack surface drones, CENTCOM forces successfully struck a submarine and ship maintenance facility in Ira",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-11.53.42-AM.png",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "NCC Norge skal bygge ut Kjøllefjord fiskerihavn",
+        "url": "https://www.kystverket.no/nyheter/ncc-norge-skal-bygge-ut-kjollefjord-fiskerihavn/",
+        "published": "2026-07-17T06:10:44Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har signert kontrakt med NCC Norge AS for gjennomføring av prosjektet Kjøllefjord...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Her melder du inn feil på sjømerker og farer til sjøs",
         "url": "https://www.kystverket.no/nyheter/her-melder-du-inn-feil-pa-sjomerker-og-farer-til-sjos/",
@@ -512,16 +522,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har lagt fram årets porteføljeprioritering for farlei- og fiskerihamneprosjekt. Der...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Inviterer til opning av ny kai i Kvalsund",
-        "url": "https://www.kystverket.no/nyheter/inviterer-til-opning-av-ny-kai-i-kvalsund/",
-        "published": "2026-05-18T11:51:14Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Onsdag 20. mai blir den nye allmenningskaia i Kvalsund hamn offisielt opna. Kystverket inviterer...",
         "image_url": "",
         "section": "regelverk"
       }

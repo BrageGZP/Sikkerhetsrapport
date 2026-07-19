@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-07-19T06:21:02Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-19T13:38:23Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Hanwha Philly Shipyard and TOTE Services Selected to Build New MDA Missile Range Instrumentation Vessels",
+        "url": "https://www.navalnews.com/naval-news/2026/07/hanwha-philly-shipyard-tote-mda-missile-range-vessel/",
+        "published": "2026-07-19T11:58:09Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "TOTE Services and Hanwha Philly Shipyard have been selected to build the U.S. Missile Defense Agency’s new Missile Range Instrumentation Vessel, &#8216;Golden Defender.&#8217; TOTE Services press release Philadelphia, PA (July 17, 2026) — TOTE Services, LLC, a leading U.S. maritime services company specializing in vessel construction management and ship management, and Hanwha Philly Shipyard (HPSI), ...\nThe post Hanwha Philly Shipyard and TOTE Services Selected to Build New MDA Missile Range Ins",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Navy, Army risk wasting money, time without unified hypersonic missile strategy: GAO",
         "url": "https://breakingdefense.com/2026/07/navy-army-risk-wasting-money-time-without-unified-hypersonic-missile-strategy-gao/",
@@ -291,16 +301,6 @@
         "language": "en",
         "summary": "Two lifeboats aboard U.S. Maritime Administration’s Charles L. Gilliland caught fire Monday in the Port of Baltimore. Baltimore City Fire Department responded around 11 a.m. to the two-alarm fire, meaning additional resources were needed to control the flames. There were no injuries reported. The cause of the fire is under investigation. Gilliland is one of MARAD’s roll-on, roll-off logistics ships. It has been docked in Baltimore since 2024, according to Maritime Executive, next to its sister s",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-3.48.08-PM-e1784058582536.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy awards TOTE $2.2 billion to manage Medium Landing Ships project",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/07/14/navy-awards-tote-22-billion-to-build-medium-landing-ships/",
-        "published": "2026-07-14T19:15:53Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Navy awarded TOTE $2.2 billion to manage its medium landing ship construction efforts, with the first vessel scheduled for delivery in fall 2029.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SOIXX3WMUJA7NFBESQIPIXRWXY.png",
         "section": "nyheter"
       }
     ],

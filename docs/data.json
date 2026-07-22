@@ -1,10 +1,70 @@
 {
-  "generated_at": "2026-07-22T06:20:04Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-22T14:10:17Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
-        "title": "Multinational Crews Fly on U.S. Navy Poseidon’s for RIMPAC",
+        "title": "Raytheon Secures $1.8B Contract Extension for US Navy SPY-6 Radars",
+        "url": "https://www.navalnews.com/naval-news/2026/07/raytheon-us-navy-spy6-radar-contract-extension/",
+        "published": "2026-07-22T13:47:11Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Raytheon receives a $1.8B contract extension for US Navy SPY-6 radars, bringing potential value to $3.3B as production ramps for 50+ ships. RTX press release Raytheon, an RTX business, was awarded a $1.8 billion contract extension for SPY-6 radars for the U.S. Navy, building on the initial hardware production and sustainment contract awarded in March 2022. ...\nThe post Raytheon Secures $1.8B Contract Extension for US Navy SPY-6 Radars appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK’s BAE enters uncrewed fighter competition with ‘Brontanax’",
+        "url": "https://www.defensenews.com/global/europe/2026/07/22/uks-bae-enters-uncrewed-fighter-competition-with-brontanax/",
+        "published": "2026-07-22T13:28:20Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "BAE Systems revealed a new unmanned fighter jet on Wednesday, boosting Britain’s entry into one of the defense industry’s hottest markets.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3UG4IIZMYZHPRDOCQ2G3UTONBM.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "HD Hyundai and SIMA Unveil HDS-MGP Submarine Vision for Peruvian Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/07/hd-hyundai-and-sima-unveil-hds-mgp-submarine-vision-for-peruvian-navy/",
+        "published": "2026-07-22T13:27:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HD Hyundai Heavy Industries and Peru’s SIMA Shipyard have presented the HDS-MGP (Hyundai Design Submarine – Marina de Guerra del Perú) next-generation submarine design, aiming to establish a regional submarine construction and MRO hub in Latin America following successful basic design completion. On Tuesday, July 14, the “Presentation of the Vision for the Construction of ...\nThe post HD Hyundai and SIMA Unveil HDS-MGP Submarine Vision for Peruvian Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/HD-Hyundai-and-SIMA-Unveil-HDS-MGP-Submarine-Vision-for-Peruvian-Navy.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Babcock partners with ACUA Ocean Technologies and Frankenburg on maritime counter-drone air defence systems",
+        "url": "https://www.navalnews.com/naval-news/2026/07/babcock-partners-with-acua-ocean-technologies-and-frankenburg-on-maritime-counter-drone-air-defence-systems/",
+        "published": "2026-07-22T09:38:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Babcock International Group (Babcock) has signed a Memorandum of Understanding (MOU) today at Farnborough International Air Show with British businesses ACUA Ocean Technologies and Frankenberg Technologies to advance counter-Uncrewed Aerial Systems solutions in the marine domain. Babcock press release As threats from low-cost UAS continue to evolve, the need for effective and adaptable counter-drone capabilities ...\nThe post Babcock partners with ACUA Ocean Technologies and Frankenburg on mariti",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/1000078346-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Elistair and Exail bring persistent aerial surveillance to USVs",
+        "url": "https://www.navalnews.com/naval-news/2026/07/elistair-and-exail-bring-persistent-aerial-surveillance-to-usvs/",
+        "published": "2026-07-22T07:36:50Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Elistair and Exail have partnered to integrate the Khronos automated tethered DroneBox on Exail&#8217;s DriX unmanned surface vessel (USV), giving maritime operators a persistent &#8220;eye in the sky&#8221; launched directly from the vessel. Elistair press release The combination extends surveillance well beyond the range of the platform&#8217;s surface sensors, while keeping personnel safe on shore. ...\nThe post Elistair and Exail bring persistent aerial surveillance to USVs appeared first on ",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "The Netherlands and Naval Group extend the Industrial Cooperation Agreement",
+        "url": "https://www.navalnews.com/naval-news/2026/07/the-netherlands-and-naval-group-extend-the-industrial-cooperation-agreement/",
+        "published": "2026-07-22T06:32:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On 17th July 2026, the Netherlands Ministry of Economic Affairs and Climate and Naval Group signed an amendment to the Industrial Cooperation Agreement (ICA) related to the Replacement Netherlands Submarine Capability (RNSC) program. This amendment will enable Naval Group to contract new Dutch companies to contribute to the manufacturing of the Orka-class submarines and F21 ...\nThe post The Netherlands and Naval Group extend the Industrial Cooperation Agreement appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Multinational Crews Fly on U.S. Navy Poseidons for RIMPAC",
         "url": "https://news.usni.org/2026/07/21/multinational-crews-fly-on-u-s-navy-poseidons-for-rimpac",
         "published": "2026-07-21T18:38:33Z",
         "source": "USNI News",
@@ -74,26 +134,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Naval Group Selects Saft Next-Gen Li-ion Batteries for Submarines",
-        "url": "https://www.navalnews.com/naval-news/2026/07/naval-group-selects-saft-next-gen-li-ion-batteries-for-submarines/",
-        "published": "2026-07-21T07:57:42Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saft, a subsidiary of TotalEnergies and a global specialist in advanced battery technology, has been awarded a major contract by Naval Group to supply next-generation lithium-ion (Li-ion) battery systems for the Barracuda and Scorpene submarine families. Saft press release This award represents a strategic milestone for Saft, strengthening its position in European defense programs and ...\nThe post Naval Group Selects Saft Next-Gen Li-ion Batteries for Submarines appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "BAE Systems secures 40Mk4 naval gun order from Brazil",
-        "url": "https://www.navalnews.com/naval-news/2026/07/bae-systems-secures-40mk4-naval-gun-order-from-brazil/",
-        "published": "2026-07-21T06:16:50Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "BAE Systems has received a contract for two Bofors 40Mk4 naval gun systems for&#160;the Brazilian Navy, forming part of the Patrol Vessel Construction Project (PRONAPA). BAE Systems press release The state-of-the-art ammunition used by the 40Mk4&#160;is a flexible and multipurpose round, suitable to defeat targets such as drones, missiles, helicopters, swarming boats, surface vessels, and ...\nThe post BAE Systems secures 40Mk4 naval gun order from Brazil  appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/40Mk4-naval-gun-1-1024x576.webp",
-        "section": "nyheter"
-      },
-      {
         "title": "New executive order tightens defense supply chain waiver rules",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
         "published": "2026-07-20T20:30:11Z",
@@ -124,36 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Canada Awards Babcock $1.1 Billion Contract Extension for Victoria-class Submarine Support",
-        "url": "https://www.navalnews.com/naval-news/2026/07/canada-babcock-victoria-class-submarine-support-contract/",
-        "published": "2026-07-20T14:57:54Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Canada has awarded Babcock a $1.1B, six-year extension for the Victoria In-Service Support Contract (VISSC) to sustain the Royal Canadian Navy&#8217;s submarine fleet. Babcock press release As Prime Contractor of the Victoria In-Service Support Contract (VISSC), we’ve been awarded a six‑year extension to continue leading and delivering the nation’s only industry-led submarine in-service support solution ...\nThe post Canada Awards Babcock $1.1 Billion Contract Extension for Victoria-class Submari",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "NAVANTIA lays the keel of the F113 frigate at the Ferrol shipyard seven months ahead of schedule",
-        "url": "https://www.navalnews.com/naval-news/2026/07/navantia-lays-the-keel-of-the-f113-frigate-at-the-ferrol-shipyard-seven-months-ahead-of-schedule/",
-        "published": "2026-07-20T14:45:38Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Navantia&#8217;s Ferrol shipyard has reached a new milestone in the F110 programme with the keel laying of the F113 frigate &#8220;Menéndez de Avilés&#8221;. Navantia press release The ceremony, chaired by the Director General for Armament and Material (DIGAM), Admiral Aniceto Rosique, and by Navantia&#8217;s Chairman, Ricardo Domínguez, took place at midday as a working event ...\nThe post NAVANTIA lays the keel of the F113 frigate at the Ferrol shipyard seven months ahead of schedule appeared f",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/IMG-20260720-WA0043-759x1024.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "JAGM-Armed Saildrone Surveyor USV Joins RIMPAC 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/07/jagm-armed-saildrone-surveyor-usv-rimpac-2026/",
-        "published": "2026-07-20T12:30:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A missile-armed variant of Saildrone’s 20-meter Surveyor unmanned surface vessel (USV) has officially joined the at-sea phase of Exercise Rim of the Pacific (RIMPAC) 2026. Featuring a custom launcher capable of firing four AGM-179 Joint Air-to-Ground Missiles (JAGM), the deployment marks a critical milestone in the U.S. Navy’s push to field a hybrid fleet of ...\nThe post JAGM-Armed Saildrone Surveyor USV Joins RIMPAC 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Saildrone-JAGM-RIMPAC-2026-2-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Philippine Sailor Injured in Violent Clash with China Coast Guard off Second Thomas Shoal",
         "url": "https://news.usni.org/2026/07/20/philippine-sailor-injured-in-violent-clash-with-china-coast-guard-off-second-thomas-shoal",
         "published": "2026-07-20T12:06:55Z",
@@ -161,16 +171,6 @@
         "language": "en",
         "summary": "MANILA, PHILIPPINES – A Philippine sailor was injured today at Second Thomas Shoal following a clash with a Chinese small boat at the contested South China Sea maritime feature. The melee resulted in a blow to the head of a Philippine service member, according to photos and video released from the incident by the Armed Forces of the Philippines (AFP). Previous injuries sustained by Filipino sailors, troops and civilians were inflicted by water cannon blasts, flying glass and a 2024 incident at S",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-7.31.13-AM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Indonesia Set to Receive Ex-Italian Aircraft Carrier Garibaldi on Sept 20",
-        "url": "https://www.navalnews.com/naval-news/2026/07/indonesia-italian-aircraft-carrier-garibaldi-september-arrival/",
-        "published": "2026-07-20T10:39:05Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 20 July, the Indonesian Ministry of Defence revealed more details on the planned transfer of the former Italian Navy aircraft carrier Giuseppe Garibaldi during a meeting with Commission I of the Indonesian House of Representatives. According to the ministry, the ship is scheduled to arrive in Indonesia on 20 September and will be based ...\nThe post Indonesia Set to Receive Ex-Italian Aircraft Carrier Garibaldi on Sept 20 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Large-pier-construction-at-Lampung-Naval-Base.-TNI-AL-picture.webp",
         "section": "nyheter"
       },
       {

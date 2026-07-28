@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-07-28T06:17:06Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-07-28T14:24:43Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
+        "url": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
+        "published": "2026-07-28T14:09:34Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Finland’s military said it closed a section of Finnish airspace and restricted maritime traffic off the country’s southern coast near the Russian border.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KS4Z2L37KBHCLHMDVZUZC2NRNY.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Joint Russian, Chinese Navy Patrol Sails Near Japan",
+        "url": "https://news.usni.org/2026/07/28/joint-russian-chinese-navy-patrol-sails-near-japan",
+        "published": "2026-07-28T13:52:28Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Chinese and Russian warships were operating south of Hokkaido, Japan, on Saturday as part of an annual joint patrol, the archipelago country announced over the weekend. The joint patrol includes People’s Liberation Army Navy cruiser CNS Anshan (103), destroyer CNS Kaifeng (124) and fleet oiler CNS Kekexilihu (903) and Russian Navy corvette RFS Rezkiy (343). On Thursday at 4 p.m. local time, Anshan was sighted sailing northeast 220 kilometers – 137 miles – northeast of Cape Inubō on the east coas",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-9.47.23-AM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Poland’s A26 Submarine Deal: Details on Weapons Package, Interim Boat, and Delivery Schedule",
+        "url": "https://www.navalnews.com/naval-news/2026/07/poland-a26-submarine-deal-weapons-interim-boat-schedule/",
+        "published": "2026-07-28T08:33:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Following Poland’s order for Saab A26 submarines, Naval News breaks down the weapons package, undisclosed missile integration, HMS Södermanland lease, and 2031 delivery timelines. The long-running Polish Orka-submarine program has finally resulted in a firm order, with the order to Saab for production and delivery of three A26-type submarines, or the Blekinge-class as it will ...\nThe post Poland’s A26 Submarine Deal: Details on Weapons Package, Interim Boat, and Delivery Schedule appeared first ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2019/12/HMS_Södermanland-Sweden-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Navy Requires Flu Vaccine for New Recruits, Officer Candidates",
         "url": "https://news.usni.org/2026/07/27/navy-requires-flu-vaccine-for-new-recruits-officer-candidates",
@@ -141,16 +171,6 @@
         "language": "en",
         "summary": "Saronic and Samsung Heavy Industries (SHI) today announced a strategic partnership to accelerate the development of autonomy-capable maritime systems and technologies to strengthen America’s shipbuilding industrial base. Through this partnership, the companies will harness technology and expertise to build the maritime industrial capacity and workforce needed to deliver on American and allied shipbuilding needs, both ...\nThe post Saronic and Samsung Heavy Industries Partner to Accelerate the Rei",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Malaysia moves closer to VL MICA missiles procurement for LCS",
-        "url": "https://www.navalnews.com/naval-news/2026/07/malaysia-moves-closer-to-vl-mica-missiles-procurement-for-lcs/",
-        "published": "2026-07-24T09:57:49Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Malaysian Ministry of Defence (MINDEF) has officially issued a Letter of Acceptance (Surat Setuju Terima or SST) to MBDA France for the procurement of the VL MICA surface-to-air missile (SAM) system. The agreement was finalized during the opening day of the Farnborough International Airshow 2026 in the United Kingdom. A formal contract is still ...\nThe post Malaysia moves closer to VL MICA missiles procurement for LCS appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/LCS-1-Maharaja-Lela-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -488,6 +508,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "HII Expands Distributed Shipbuilding to Amphibious Ships",
+        "url": "https://www.navalnews.com/naval-news/2026/07/hii-expands-distributed-shipbuilding-to-amphibious-ships/",
+        "published": "2026-07-28T14:14:19Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HII&#8217;s Ingalls Shipbuilding division has expanded its distributed shipbuilding strategy to include modular unit construction for the U.S. Navy&#8217;s amphibious transport dock program, beginning with&#160;Philadelphia&#160;(LPD 32). Huntington Ingalls Industries press release This expansion builds on the proven success achieved through&#160;distributed shipbuilding&#160;in HII&#8217;s destroyer program, further strengthening the company&#8217;s commitment to increasing throughput and suppo",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "The Cairncross Dockyard Brisbane Project And Prospects For Australian Naval Infrastructure",
         "url": "https://www.navalnews.com/naval-news/2026/07/the-cairncross-dockyard-brisbane-project-and-prospects-for-australian-naval-infrastructure/",
         "published": "2026-07-27T20:22:48Z",
@@ -534,16 +564,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Ultra Maritime and Anduril successfully demonstrated the capability of Seabed Sentry and Sea Spear to detect and classify advanced unmanned underwater vehicles (UUVs) during the U.S. Navy’s 2026 Lanternfish exercise. Ultra Maritime press release In a major technological advancement for the protection of ports and critical infrastructure worldwide, Ultra Maritime successfully demonstrated a groundbreaking capability ...\nThe post Ultra Maritime, Anduril Track UUV Threats at US Navy Lanternfish Exe",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Dutch MoD selects OPTICS11 for new ‘ASW in a box’ capability",
-        "url": "https://www.navalnews.com/naval-news/2026/07/dutch-mod-selects-optics11-for-new-asw-in-a-box-capability/",
-        "published": "2026-07-24T12:32:33Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "OPTICS11, the world leader in passive fibre optic acoustic subsea sensing, today announces a major expansion of its OptiArray product line. The Dutch Ministry of Defence has contracted OPTICS11 to further develop and deliver operational containerised towed array systems. The systems are intended for deployment from a range of crewed and uncrewed maritime platforms, allowing ...\nThe post Dutch MoD selects OPTICS11 for new &#8216;ASW in a box&#8217; capability appeared first on Naval News.",
         "image_url": "",
         "section": "rov_teknologi"
       }

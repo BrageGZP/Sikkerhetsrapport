@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T06:17:58Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-05T14:23:08Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -191,16 +191,6 @@
         "language": "en",
         "summary": "U.S. and Taiwanese officials revealed this week that a joint exercise was held at an unspecified time between their respective Coast Guard agencies. Media from the American Institute in Taiwan and the Ocean Affairs Council show the U.S. Coast Guard Cutter USS Midgett (WMSL 757) sailing alongside the Coast Guard Administration patrol frigate Taipei (CG 5005). The location and date of the joint activity was not identified by U.S. or Taiwanese officials. Washington’s de facto embassy in Taipei high",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/IMG_8669.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy deploys GARC uncrewed surface vessel in first live-fire training exercise",
-        "url": "https://www.defensenews.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
-        "published": "2026-07-29T16:16:05Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Navy confirmed its first live-fire training exercise of its Global Autonomous Reconnaissance Craft uncrewed surface vessel.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/22TQ733IW5FBNPKHYAUHN3MNZU.png",
         "section": "nyheter"
       },
       {
@@ -425,16 +415,6 @@
         "language": "en",
         "summary": "MANILA, PHILIPPINES – The U.S. pledged to fund the expansion of a Coast Guard base used for operations in the South China Sea and increase foreign military financing for Manila last week. The Philippines will receive up to $9 million for the expansion of a pier in the western province of Palawan to enhance “maritime law enforcement presence and sustain operations in the South China Sea,” according to a Department of State fact sheet covering U.S. initiatives in Southeast Asia released July 22. W",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9831519-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy Orders Low-cost Missiles to Expand Fleet, Allied Long-Range Maritime Strike Capabilities",
-        "url": "https://news.usni.org/2026/07/24/u-s-navy-orders-low-cost-missiles-to-expand-fleet-allied-long-range-maritime-strike-capabilities",
-        "published": "2026-07-24T17:23:50Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy is procuring a low-cost cruise missile to expand the fleet’s long-range precision strike capabilities and provide allies with affordable maritime strike munitions. CoAspire announced its selection for the Navy’s Coalition Heterogenous Affordable Offensive Strike (CHAOS) program this week. The Assistant Secretary of the Navy for Research, Development and Acquisition also confirmed the award in a Thursday social media post on LinkedIn. The American defense firm was awarded $70 millio",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/RAACM_Deck_Launch_Early.jpeg",
         "section": "rov_teknologi"
       }
     ]

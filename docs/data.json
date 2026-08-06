@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-06T06:21:07Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-06T14:26:41Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Rheinmetall projects $346 million naval loss after F126 frigate cancellation",
+        "url": "https://breakingdefense.com/2026/08/rheinmetall-projects-346-million-naval-loss-after-f126-frigate-cancellation/",
+        "published": "2026-08-06T13:51:16Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The loss was a blow to Rheinmetall&#8217;s new naval ambitions, but the rest of the European giant saw a large rise in revenue.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/10/Rohde-Schwarz-to-provide-RS-KORA-for-F126-frigates-1024x575.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japanese MoD report highlights push to bolster defense industry",
+        "url": "https://breakingdefense.com/2026/08/japanese-mod-report-highlights-push-to-bolster-defense-industry/",
+        "published": "2026-08-06T10:46:37Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The latest defense white paper, accompanied by an anime-style summary video, also pledges continued industrial cooperation with American firms.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260805_DVIDS_JSDF_soldier_7520887-e1785947515275-1024x577.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Navy Removes Head of Drone Programs After 8 Months, PAE Maritime Head Miller Now Leading PAE RAS",
         "url": "https://news.usni.org/2026/08/05/navy-removes-head-of-drone-programs-after-8-months-pae-maritime-head-miller-now-leading-pae-ras",
@@ -171,16 +191,6 @@
         "language": "en",
         "summary": "Japanese destroyer JS Chokai (DDG-176) launched a Tomahawk cruise missile for the first time on Wednesday, a major milestone as the archipelago country’s military works alongside the U.S. Navy to expand its capabilities. Chokai conducted a live-fire test of a Tomahawk missile in the Pacific Ocean on Wednesday with the support of the U.S. Navy, the Japan Ministry of Defense announced Thursday. The test confirmed the destroyer’s new capability and the proficiency of the crew. “This live-fire test ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/30a_01.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USS George Washington Arrives in Da Nang, First Carrier Visit to Vietnam since 2023",
-        "url": "https://news.usni.org/2026/07/30/uss-george-washington-arrives-in-da-nang-first-carrier-visit-to-vietnam-since-2023",
-        "published": "2026-07-30T10:51:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Aircraft carrier USS George Washington (CVN 73) pulled into Da Nang today for a scheduled port visit, marking the first American aircraft carrier to Vietnam since 2023. George Washington and its two escorts &#8211; Ticonderoga-class cruiser USS Robert Smalls (CG-62) and Arleigh Burke-class destroyer USS Shoup (DDG-86) &#8211; pulled into Vietnam’s third-largest port this morning. This is the fourth time Washington’s carrier strike groups have visited the Southeast Asian country, which has become",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/260730-N-PA209-2046.jpg",
         "section": "nyheter"
       }
     ],

@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-05T14:23:08Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-06T06:21:07Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Navy Removes Head of Drone Programs After 8 Months, PAE Maritime Head Miller Now Leading PAE RAS",
+        "url": "https://news.usni.org/2026/08/05/navy-removes-head-of-drone-programs-after-8-months-pae-maritime-head-miller-now-leading-pae-ras",
+        "published": "2026-08-06T00:01:05Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy’s portfolio acquisition executive for robotics and autonomous systems – the first job the service created as part of a broader acquisition overhaul last year – was removed from the position on Wednesday, fewer than eight months after stepping into the role. Rebecca Gassler assumed the helm of the Portfolio Acquisition Executive for Robotic and Autonomous Systems (PAE RAS) upon its creation in December. Chris Miller, the head of PAE Maritime, will step into the PAE RAS job on an acting b",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/03/9546447-1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Trump-class battleship program will cost $275 billion, CBO report says",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
+        "published": "2026-08-05T23:17:27Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Congressional Budget Office estimates the Navy’s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QU6SMXWWWBAH5NDPT2DV7ISSUE.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Marine Corps ACVs to Counter Drones with Anduril Jammer Package",
+        "url": "https://news.usni.org/2026/08/05/u-s-marine-corps-acvs-to-counter-drones-with-anduril-jammer-package",
+        "published": "2026-08-05T17:26:44Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Marine Corps’ new amphibious assault vehicles will receive jammers to defeat unmanned aerial systems through a program that is set to begin this fall. The Portfolio Acquisition Executive – Marine Corps released a solicitation on Monday identifying the service’s interest in pursuing Anduril’s Pulsar-Lite to meet an Urgent Statement of Need for a counter-unmanned aerial system. This follows an initial notice of intent announced in July for the mounting of the Anduril electronic warfare sy",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9826605-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan Plans to Transform Military Capabilities with Drones, Boost Domestic Defense Industry",
+        "url": "https://news.usni.org/2026/08/05/japan-plans-to-transform-military-capabilities-with-drones-boost-domestic-defense-industry",
+        "published": "2026-08-05T16:31:08Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Japan intends to transform its military capabilities with drones and will build up its domestic defense industry, according to the 2026 Defense of Japan white paper released on Tuesday. The Japanese government is prioritizing domestic defense production to mitigate the cost of defense equipment and avoid being overly dependent on foreign manufactures, according to the defense white paper. While Japanese defense industries produce high-end items such as ships, aircraft and missiles, Japan relies ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-9.42.19-AM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
+        "published": "2026-08-05T14:37:54Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy is extending its use of Saildrone unmanned surface vehicles for an expanded counternarcotics mission.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VGS3R4DE3FBTDGA3UU5LI4DZ2Q.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Navy Extends Saildrone USVs in SOUTHCOM",
         "url": "https://news.usni.org/2026/08/04/navy-extends-saildrone-usvs-in-southcom",
@@ -34,16 +84,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy renews Saildrone’s counter-drug mission in the Caribbean, Eastern Pacific",
-        "url": "https://breakingdefense.com/2026/08/navy-renews-saildrones-counter-drug-mission-in-the-caribbean-eastern-pacific/",
-        "published": "2026-08-04T09:05:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The task order extension will keep Voyager USVs operating in the Caribbean and the Eastern Pacific.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/20250109-St-Thomas-200W-Radar-Voyagers-6741-scaled-e1738750883331-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "A Last Look at ‘Old Salt’: Former USS Nimitz Sailors Say Goodbye",
         "url": "https://news.usni.org/2026/08/03/a-last-look-at-old-salt-former-uss-nimitz-sailors-say-goodbye",
         "published": "2026-08-03T20:34:08Z",
@@ -61,26 +101,6 @@
         "language": "en",
         "summary": "Cmdr. Joseph Sammur was relieved as the commanding officer of USS West Virginia (SSBN-736) (Blue Crew) last week due to a loss of confidence, the Navy announced Saturday. Sammur’s relief follows an investigation into a maintenance issue, a Submarine Forces Public Affairs spokesperson told USNI News on Monday. West Virginia is currently in port for maintenance, according to the Navy’s Saturday news release. Cmdr. Luke Kelvington, Submarine Squadron 20 deputy for training, has temporarily assumed ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/1167959.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "With Hormuz in the spotlight, the Navy can do better",
-        "url": "https://breakingdefense.com/2026/08/with-hormuz-in-the-spotlight-the-navy-can-do-better/",
-        "published": "2026-08-03T18:10:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "CSIS&#8217;s Mark Cancian responds to a recent op-ed in Breaking Defense about the relative standstill at the strait.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260731_DVIDS_hormuz_sailor_9441586-scaled-e1785518144694-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
-        "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender/",
-        "published": "2026-08-03T17:38:42Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The German GMF 140 is envisioned to integrate US-sourced radar options, hypersonic weapons and ballistic missiles, the AEGIS Combat System, and 64 Strike-Length Vertical Launch System cells.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Capture-decran-le-2026-08-03-a-16.54.25-1024x565.png",
         "section": "nyheter"
       },
       {
@@ -161,46 +181,6 @@
         "language": "en",
         "summary": "Aircraft carrier USS George Washington (CVN 73) pulled into Da Nang today for a scheduled port visit, marking the first American aircraft carrier to Vietnam since 2023. George Washington and its two escorts &#8211; Ticonderoga-class cruiser USS Robert Smalls (CG-62) and Arleigh Burke-class destroyer USS Shoup (DDG-86) &#8211; pulled into Vietnam’s third-largest port this morning. This is the fourth time Washington’s carrier strike groups have visited the Southeast Asian country, which has become",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/07/260730-N-PA209-2046.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Awards $76.6B for 9 Virginia, 5 Columbia Subs to General Dynamics, HII",
-        "url": "https://news.usni.org/2026/07/29/navy-awards-76-6b-for-9-virginia-5-columbia-subs-to-general-dynamics-hii",
-        "published": "2026-07-29T21:09:35Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated with an additional statement from the Navy and General Dyanmics. The U.S. Navy awarded General Dynamics Electric Boat and HII $76.6 billion in contracts on Wednesday for the next batch of attack and ballistic missile submarines after a nearly three-year delay. The award is split between $42.1 billion for nine Block VI of the Virginia-class attack boats and material for a tenth boat, $29.5 billion for five Build II Columbia-class ballistic missile submarines that will r",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/960x0-1.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "More than 35 Experiments Test Unmanned Systems, Emerging Technologies During RIMPAC",
-        "url": "https://news.usni.org/2026/07/29/more-than-35-experiments-test-unmanned-systems-emerging-technologies-during-rimpac",
-        "published": "2026-07-29T18:16:28Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "U.S. and partner forces conducted more than 35 experiments to test unmanned systems and emerging technologies, pushing interoperability among nations to new limits during the biennial Rim of the Pacific Exercise. “These efforts help us understand how new capabilities fit into the fight and give operators real-world feedback early in the process,” U.S. Navy Vice Adm. Jeff Jablon, deputy commander of U.S. Pacific Fleet and Commander, Combined Task Force RIMPAC, told reporters Wednesday in a virtua",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/9800266-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Reveals Coast Guard Cooperation with Taiwan",
-        "url": "https://news.usni.org/2026/07/29/u-s-reveals-coast-guard-cooperation-with-taiwan",
-        "published": "2026-07-29T16:30:40Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "U.S. and Taiwanese officials revealed this week that a joint exercise was held at an unspecified time between their respective Coast Guard agencies. Media from the American Institute in Taiwan and the Ocean Affairs Council show the U.S. Coast Guard Cutter USS Midgett (WMSL 757) sailing alongside the Coast Guard Administration patrol frigate Taipei (CG 5005). The location and date of the joint activity was not identified by U.S. or Taiwanese officials. Washington’s de facto embassy in Taipei high",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/IMG_8669.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Report to Congress on the U.S. Marine Corps Ground Combat Element 2040 Initiative",
-        "url": "https://news.usni.org/2026/07/29/report-to-congress-on-the-u-s-marine-corps-ground-combat-element-2040-initiative",
-        "published": "2026-07-29T14:34:50Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the July 28, 2026, Congressional Research Service report, U.S. Marine Corps Ground Combat Element (GCE) 2040 Initiative. From the Report In March 2020, the U.S. Marine Corps announced a major force design initiative it referred to as &#8220;Force Design 2030,&#8221; now known as &#8220;Force Design.&#8221; As part of this 10-year initiative, the Marines planned to redesign the service to prioritize naval expeditionary warfare as part of U.S. military plans to strategically compe",
-        "image_url": "",
         "section": "nyheter"
       }
     ],

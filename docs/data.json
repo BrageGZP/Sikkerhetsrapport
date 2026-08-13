@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:26:13Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-13T13:25:13Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -161,26 +161,6 @@
         "language": "en",
         "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valiant Shield, U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, worked with engineers from Naval Surface Warfare Center Carderock on a demonstration known as Manufacturing Attritable Systems at Scale, or MASS, an initiative focused on rapidly producing low-cost maritime platforms u",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9821846-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Spain’s Naval Aviation Crossroads: The F-35B, the Harrier, and a Capability Gap",
-        "url": "https://www.navalnews.com/naval-news/2026/08/spains-naval-aviation-crossroads-f35b-harrier-capability-gap/",
-        "published": "2026-08-10T07:36:12Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Keeping fixed-wing naval aviation alive will force Spain to choose between paying the price of continuity, and accepting that the retirement of the Harrier will leave the Spanish Navy without carrier-based fighters for a generation. By Jorge Estévez-Bujez / Defensa y Seguridad There are debates that begin with discussions about aircraft and end up debating ...\nThe post Spain’s Naval Aviation Crossroads: The F-35B, the Harrier, and a Capability Gap appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/11/14_F-35B_@Italian-Navy-1-1024x684.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Malaysia’s Third LMS Batch II Corvette Launched in Türkiye",
-        "url": "https://www.navalnews.com/naval-news/2026/08/malaysias-third-lms-batch-ii-corvette-launched-in-turkiye/",
-        "published": "2026-08-09T15:50:35Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Royal Malaysian Navy’s third and final Littoral Mission Ship Batch II (LMSB2) corvette, TUNKU OSMAN JEWA (143), was launched at Istanbul Shipyard in Türkiye on 9 August. The naming and launch ceremony completed the launch sequence for Malaysia’s three-ship LMS Batch II program. The first vessel, TUNKU LAKSAMANA ABDUL JALIL (141), was launched on ...\nThe post Malaysia’s Third LMS Batch II Corvette Launched in Türkiye appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -417,6 +397,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Ukrainian Drone Strike Damages Russian Frigates in Novorossiysk",
+        "url": "https://www.navalnews.com/naval-news/2026/08/ukrainian-drone-strike-russian-frigates-novorossiysk/",
+        "published": "2026-08-13T12:01:21Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Commercial satellite imagery confirms Ukrainian drone and missile strikes damaged at least four Russian Black Sea Fleet warships in Novorossiysk, including two Admiral Grigorovich-class frigates.\nThe post Ukrainian Drone Strike Damages Russian Frigates in Novorossiysk appeared first on Naval News.",
+        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f8.png",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Vietnam Begins Construction on First Indigenous Multipurpose Frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/08/vietnam-begins-construction-indigenous-multipurpose-frigate/",
+        "published": "2026-08-13T08:43:48Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On 10 August 2026, Vietnam held a ceremony to initiate construction of a brand new type of indigenously designed, multipurpose frigate for the Vietnam People’s Navy (VPN). The chosen shipbuilder of this anti-submarine warfare (ASW) frigate is Song Thu Corporation. It is unclear how many vessels will be eventually produced, but the first is now ...\nThe post Vietnam Begins Construction on First Indigenous Multipurpose Frigate appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Vietnam-Frigate-2.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "L3Harris launches new facility in Rhode Island to produce undersea training systems",
         "url": "https://breakingdefense.com/2026/08/l3harris-launches-new-facility-in-rhode-island-to-produce-undersea-training-systems/",

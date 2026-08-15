@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-14T13:19:30Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-15T04:18:43Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
+        "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
+        "published": "2026-08-15T02:16:44Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Guided-missile destroyer USS Benfold (DDG-65) spent four days in the South China Sea without power after an engineering failure, USNI News has learned. Benfold suffered the engineering casualty resulting in a loss of power last month, Cmdr. Matthew Comer, spokesperson with U.S. 7th Fleet, told USNI News in a statement. “On July 24, 2026, while conducting routine operations in the Indo-Pacific, Arleigh Burke-class guided-missile destroyer USS Benfold (DDG 65) reported an engineering casualty invo",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9835497-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Trump opens door for foreign-built Navy ships. It could get complicated.",
+        "url": "https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like/",
+        "published": "2026-08-14T14:02:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "President Donald Trump has called for the US to outsource the building of at least a few Navy ships to foreign shipyards.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/EDGE-UAE-RUSI-photo-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "F128: TKMS open to Rheinmetall’s participation in the 2nd lot of MEKO A-200",
         "url": "https://www.navalnews.com/naval-news/2026/08/f128-tkms-open-to-rheinmetalls-participation-in-the-2nd-lot-of-meko-a-200/",
@@ -59,7 +79,7 @@
         "published": "2026-08-13T18:32:53Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type 054A-class guided-missile frigate Honghe (523) and Indonesian Navy Bung Tomo-class corvette KRI John Lie (358) held a passing exercise, according to a news release from China’s military media. The two warships practiced communication and resupply at-sea drills. “The exercise aim",
+        "summary": "This story has been updated to correct the participating Indonesian Navy ship.  TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence east of Taiwan. The People’s Liberation Army Navy Type 054A-class guided-missile frigate Honghe (523) and Indonesian Navy frigate KRI I Gusti Ngurah Rai (332) held a passing exercise, according to a news release from China’s military media. The two warsh",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/A062E596-79B4-4DDE-AB00-E6D74C3A2FA2.png",
         "section": "nyheter"
       },
@@ -221,26 +241,6 @@
         "language": "en",
         "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valiant Shield, U.S. Marines with Intermediate Repair Company, 3rd Maintenance Battalion, 3rd Marine Logistics Group, worked with engineers from Naval Surface Warfare Center Carderock on a demonstration known as Manufacturing Attritable Systems at Scale, or MASS, an initiative focused on rapidly producing low-cost maritime platforms u",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9821846-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "70 Ships Trapped in Persian Gulf as Iran-U.S. Conflict Nears Six Months",
-        "url": "https://news.usni.org/2026/08/07/70-ships-trapped-in-persian-gulf-as-iran-u-s-conflict-nears-six-months",
-        "published": "2026-08-07T18:52:44Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "At least 70 ships remain trapped in the Persian Gulf nearly six months into the Iran-U.S. conflict with more ships now being stalled after the ceasefire between the countries broke down. The memorandum of understanding implemented from June 18 to July 8 between Tehran and Washington created the opportunity for many of the stranded ships to finally exit the Persian Gulf after being stuck for months, Bridget Diakun, maritime intelligence and research director with London-based Lloyd’s List Intelli",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-2.49.57-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Acting Secretary of the Navy’s ‘Warrior Ethos’ ALNAV",
-        "url": "https://news.usni.org/2026/08/07/acting-secretary-of-the-navys-warrior-ethos-alnav",
-        "published": "2026-08-07T14:14:34Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Aug. 5, 2026, &#8220;Warrior Ethos&#8221; message to the fleet from the Acting Secretary of the Navy Hung Cao. From the Report CLASSIFICATION: UNCLASSIFIED/ FM SECNAV WASHINGTON DC ALNAV 047/26 MSGID/GENADMIN/SECNAV WASHINGTON DC/-/AUG// SUBJ/WARRIOR ETHOS// RMKS/1. The bedrock of the Navy and Marine Corps is our Warrior Ethos, and its direct relationship to good order and discipline forge these principles into the foundation of our lethality as a naval force. We must recogn",
-        "image_url": "",
         "section": "nyheter"
       }
     ],

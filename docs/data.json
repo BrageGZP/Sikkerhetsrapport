@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-17T04:30:01Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-17T12:55:30Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Open to Foreign-Built Warships Under New White House Shipbuilding Order",
+        "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-foreign-built-warships-shipbuilding-order/",
+        "published": "2026-08-17T08:57:32Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "A new White House Presidential Memorandum invites international shipbuilders to compete for a U.S. Navy convoy escort under the &#8220;Finland Model.&#8221; In a dramatic policy shift aimed at overriding domestic industrial bottlenecks and accelerating fleet expansion, the White House has issued a sweeping Presidential Memorandum opening the door for allied international shipbuilders to design and ...\nThe post U.S. Open to Foreign-Built Warships Under New White House Shipbuilding Order appeared ",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
         "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
@@ -174,16 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Saronic Expands to Mississippi, Selects Port of Gulfport for Marauder On-Water Testing",
-        "url": "https://www.navalnews.com/naval-news/2026/08/saronic-expands-to-mississippi-selects-port-of-gulfport-for-marauder-on-water-testing/",
-        "published": "2026-08-11T15:06:29Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saronic announced it has expanded its operations to Gulfport, Mississippi, establishing an initial site for on-water testing of the company’s Medium Unmanned Surface Vessel (MUSV), Marauder, at the Port of Gulfport. Saronic press release As production of Saronic’s Marauder platform continues to scale, the site will support testing and commissioning of the company’s 180 ft. ...\nThe post Saronic Expands to Mississippi, Selects Port of Gulfport for Marauder On-Water Testing appeared first on Naval ",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Hanwha Makes $1B Bid to Acquire Austal USA, Shipbuilder Declares $79.73M Loss",
         "url": "https://news.usni.org/2026/08/10/hanwha-makes-1b-bid-to-acquire-austal-usa-shipbuilder-declares-79-73m-loss",
         "published": "2026-08-11T02:59:08Z",
@@ -235,6 +235,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Signerte kontrakten for byggingen av Stad skipstunnel",
+        "url": "https://www.kystverket.no/nyheter/signerte-kontrakten-for-byggingen-av-stad-skipstunnel/",
+        "published": "2026-08-17T10:52:32Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket og AF Gruppen har i dag signert kontrakten om bygging av Stad skipstunnel....",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Hvordan kan vi forenkle og forbedre operasjon av fartøy? - Kystverket på Maritim uke",
         "url": "https://www.kystverket.no/nyheter/hvordan-kan-vi-forenkle-og-forbedre-operasjon-av-fartoy---kystverket-pa-maritim-uke-21.--25.-september",
@@ -382,26 +392,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "I artikkelsamlinga Status 2026 samlar Kystverket viktig og oppdatert kunnskap om utviklinga langs...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket gjenopptar arbeidet på U-864",
-        "url": "https://www.kystverket.no/nyheter/gjenopptar-arbeidet-pa-u-864/",
-        "published": "2026-06-18T11:35:03Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har gjenopptatt arbeidet med undersøkelser av ubåtvraket U-864 utenfor Fedje. Nye...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Styrker fiskerihavnene – over 83 millioner kroner til nye tiltak",
-        "url": "https://www.kystverket.no/nyheter/styrker-fiskerihavnene--over-83-millioner-kroner-til-nye-tiltak/",
-        "published": "2026-06-18T11:29:13Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket gir nå tilsagn om mer enn 83 millioner kroner til syv kommunale fiskerihavnetiltak, de...",
         "image_url": "",
         "section": "regelverk"
       }

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-18T04:23:34Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-18T12:57:06Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Indian Navy Leases Two Additional  MQ-9B SeaGuardian UAVs",
+        "url": "https://www.navalnews.com/naval-news/2026/08/indian-navy-leases-two-additional-mq-9b-seaguardian-uavs/",
+        "published": "2026-08-18T05:00:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "India signed a contract with General Atomics Aeronautical Systems, Inc. (GA-ASI) for the leasing of two MQ-9B Sea Guardian High-Altitude Long-Endurance (HALE) Remotely Piloted Aircraft Systems (RPAS) for the Indian Navy for a period of 30 months.\nThe post Indian Navy Leases Two Additional  MQ-9B SeaGuardian UAVs appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/1000580479-1024x682.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Twin Icebreaker Projects Progressing at Bollinger’s Gulf Coast Yards",
         "url": "https://news.usni.org/2026/08/17/twin-icebreaker-projects-progressing-at-bollingers-gulf-coast-yards",
@@ -84,16 +94,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
-        "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard/",
-        "published": "2026-08-13T21:49:57Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The memo also called for the establishment of a new component repair center in an attempt to reduce submarine repair delays.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Presidential Memo: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
         "url": "https://news.usni.org/2026/08/13/presidential-memo-rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
         "published": "2026-08-13T21:46:21Z",
@@ -151,16 +151,6 @@
         "language": "en",
         "summary": "The following is the Aug. 12, 2026, Congressional Research Service report, MQ-25 Stingray: Background and Issues for Congress. From the Report The U.S. Navy is developing a carrier-based uncrewed aircraft system (UAS) to perform aerial refueling and intelligence, surveillance, and reconnaissance (ISR) missions. The MQ-25 Stingray, if the system is fielded as planned, would be the U.S. Department of Defense&#8217;s (DOD&#8217;s) first uncrewed tanker and the Navy&#8217;s first carrier-based uncre",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Turkish Navy’s Future FAC Takes Shape at Istanbul Shipyard",
-        "url": "https://www.navalnews.com/naval-news/2026/08/turkish-navys-future-fac-takes-shape-at-istanbul-shipyard/",
-        "published": "2026-08-12T09:46:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Türkiye’s future National Fast Attack Craft (FAC) broke cover during the naming and launching ceremony of the Royal Malaysian Navy’s third LMS Batch 2 vessel on August 9, 2026. The ceremony for the Tunku Osman Jewa (143) took place at Istanbul Shipyard. Photo and video coverage from the event showed the hull and superstructure of ...\nThe post Turkish Navy’s Future FAC Takes Shape at Istanbul Shipyard appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/STM-FAC-4-829x1024.jpg",
         "section": "nyheter"
       },
       {
@@ -348,6 +338,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
+        "url": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
+        "published": "2026-08-18T11:26:39Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Red Cat Holdings, Inc., a U.S.-based provider of advanced all-domain drone and robotic solutions for defense and national security, and Havoc, a leader in all-domain collaborative autonomy, announced a partnership, formalized through Red Cat’s maritime division, Blue Ops. Red Cat press release Under the partnership, Blue Ops and Havoc plan to integrate Havoc’s collaborative autonomy software ...\nThe post Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems ",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Australia and US Test AUKUS Pillar II Undersea Capabilities at RIMPAC 2026",
         "url": "https://www.navalnews.com/naval-news/2026/08/australia-and-us-test-aukus-pillar-ii-undersea-capabilities-at-rimpac-2026/",
         "published": "2026-08-17T21:28:00Z",
@@ -405,16 +405,6 @@
         "language": "en",
         "summary": "Commercial satellite imagery confirms Ukrainian drone and missile strikes damaged at least four Russian Black Sea Fleet warships in Novorossiysk, including two Admiral Grigorovich-class frigates.\nThe post Ukrainian Drone Strike Damages Russian Frigates in Novorossiysk appeared first on Naval News.",
         "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f8.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Vietnam Begins Construction on First Indigenous Multipurpose Frigate",
-        "url": "https://www.navalnews.com/naval-news/2026/08/vietnam-begins-construction-indigenous-multipurpose-frigate/",
-        "published": "2026-08-13T08:43:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On 10 August 2026, Vietnam held a ceremony to initiate construction of a brand new type of indigenously designed, multipurpose frigate for the Vietnam People’s Navy (VPN). The chosen shipbuilder of this anti-submarine warfare (ASW) frigate is Song Thu Corporation. It is unclear how many vessels will be eventually produced, but the first is now ...\nThe post Vietnam Begins Construction on First Indigenous Multipurpose Frigate appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Vietnam-Frigate-2.jpg",
         "section": "rov_teknologi"
       },
       {

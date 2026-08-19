@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-19T04:25:12Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-19T12:57:54Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "HD Hyundai Heavy Industries Launches Second Landing Support Ship for Peru",
+        "url": "https://www.navalnews.com/naval-news/2026/08/hd-hyundai-heavy-industries-launches-second-landing-support-ship-for-peru/",
+        "published": "2026-08-19T12:11:29Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HD HHI and SIMA Perú have launched BAP Chimbote, the second landing support ship (BALOG) built for the Peruvian Navy, just one week after the launch of the lead vessel, BAP Talara. On Tuesday, August 18, approximately one week after the launch of the first landing support ship / logistics support ship (Buque de Apoyo ...\nThe post HD Hyundai Heavy Industries Launches Second Landing Support Ship for Peru appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Ceremony-officials-1024x683.avif",
+        "section": "nyheter"
+      },
+      {
+        "title": "Snowbird Technologies Manufactures Stainless Steel Parts Aboard USS Essex During RIMPAC 2026",
+        "url": "https://www.navalnews.com/naval-news/2026/08/snowbird-technologies-manufactures-stainless-steel-parts-aboard-uss-essex-during-rimpac-2026/",
+        "published": "2026-08-19T11:32:55Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Snowbird Technologies announced the successful production and machining of a 316L stainless steel component aboard the USS Essex (LHD-2) during Rim of the Pacific Exercise 2026 (RIMPAC 2026), demonstrating expeditionary manufacturing capabilities in an operational maritime environment.  Snowbird Technologies press release As part of the Naval Postgraduate School’s Consortium for Advanced Manufacturing Research and Education ...\nThe post Snowbird Technologies Manufactures Stainless Steel Parts Ab",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/snow-bird.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "E-2D Advanced Hawkeye Block II Passes Critical Design Review as Navy Plans to Expand Fleet",
         "url": "https://news.usni.org/2026/08/18/e-2d-advanced-hawkeye-block-ii-passes-critical-design-review-as-navy-plans-to-expand-fleet",
@@ -405,16 +425,6 @@
         "language": "en",
         "summary": "L3Harris did not provide specifics on what led to Chris Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was not consistent” with its code of conduct.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/220920_KATZ_L3Harris_sign-scaled-e1690550785613-1024x575.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy Orca XLUUV Completes 1,000-Mile Pacific Transit",
-        "url": "https://www.navalnews.com/naval-news/2026/08/u-s-navy-orca-xluuv-completes-1000-mile-pacific-transit/",
-        "published": "2026-08-15T08:44:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy completed a 1,000 nautical mile transit with the service&#8217;s Orca XLUUV uncrewed submarine in July, a first for the service. The U.S. Navy, working with teams from the Program Executive Office for Unmanned Small Combatants (PEO USC), completed the service&#8217;s first long-range mission with a Boeing and Huntington Ingalls-built Orca Extra Large ...\nThe post U.S. Navy Orca XLUUV Completes 1,000-Mile Pacific Transit appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/05/Orca-XLUUV-US-Navy-Boeing-2-1024x683.jpg",
         "section": "rov_teknologi"
       }
     ]

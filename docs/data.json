@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-19T12:57:54Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-20T04:24:37Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "US Navy destroyer spent 4 days without power in South China Sea",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
+        "published": "2026-08-19T16:57:54Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
+        "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
+        "published": "2026-08-19T14:38:49Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswain’s Mate &#8211; Aircraft Handling Airman Apprentice Jayjrion Rodriguez is charged with murder while engaging in an act inherently dangerous to another, involuntary manslaughter and three specifications of simple assault with a loaded firearm and three specific",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "HD Hyundai Heavy Industries Launches Second Landing Support Ship for Peru",
         "url": "https://www.navalnews.com/naval-news/2026/08/hd-hyundai-heavy-industries-launches-second-landing-support-ship-for-peru/",
@@ -181,36 +201,6 @@
         "language": "en",
         "summary": "The forward-deployed George Washington Carrier Strike Group was in the Strait of Malacca on Thursday, USNI News has learned. Flagship USS George Washington (CVN-73), as well as cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), were in the Strait of Malacca after making a westbound transit through the Singapore Strait, a Navy official confirmed to USNI News. The Japan-based group is conducting their first patrol of 2026, having departed Yokosuka in May. The George Washington Car",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9835496-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy ‘Well Postured’ for Upcoming Fiscal Year, Says Recruiting Command Chief",
-        "url": "https://news.usni.org/2026/08/12/navy-well-postured-for-upcoming-fiscal-year-says-recruiting-command-chief",
-        "published": "2026-08-12T21:13:21Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Where can the sea take you? That’s what the Navy’s 2026 commercial, the latest in the Forged By The Sea campaign, asked young Americans. It was a challenge, the head of Navy Recruiting Command told USNI News. “The marketing theme is challenging them to say, ‘Are you good enough to join this elite world class organization?’” Rear Adm. James Waters said. The Forged By the Sea commercials are part of a modernization of Navy marketing meant to help the sea service meet its recruiting goals. And it a",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9635657-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Carrier John F. Kennedy Leaves Newport News for Acceptance Trials, 7 Weapons Elevators Delivered",
-        "url": "https://news.usni.org/2026/08/12/carrier-john-f-kennedy-leaves-newport-news-for-acceptance-trials-7-weapons-elevators-delivered",
-        "published": "2026-08-12T20:59:27Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The second Ford-class aircraft carrier — John F. Kennedy (CVN-79) — left Wednesday afternoon for acceptance trials after years of delays and Navy and congressionally mandated equipment changes to the ship. “John F. Kennedy departed our Newport News Shipbuilding division to begin acceptance sea trials. These trials will test and evaluate important ship systems and components at sea,” reads a Wednesday social media statement from HII. “This milestone is thanks to the dedication and commitment of o",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/DCS26-174-2-158-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Report to Congress on the MQ-25 Stingray",
-        "url": "https://news.usni.org/2026/08/12/report-to-congress-on-the-mq-25-stingray",
-        "published": "2026-08-12T13:18:01Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Aug. 12, 2026, Congressional Research Service report, MQ-25 Stingray: Background and Issues for Congress. From the Report The U.S. Navy is developing a carrier-based uncrewed aircraft system (UAS) to perform aerial refueling and intelligence, surveillance, and reconnaissance (ISR) missions. The MQ-25 Stingray, if the system is fielded as planned, would be the U.S. Department of Defense&#8217;s (DOD&#8217;s) first uncrewed tanker and the Navy&#8217;s first carrier-based uncre",
-        "image_url": "",
         "section": "nyheter"
       }
     ],
@@ -415,16 +405,6 @@
         "language": "en",
         "summary": "The U.S. Navy's Pacific Fleet is testing new UUV roles, including carrier-basing and undersea resupply, to boost stealth in contested waters.\nThe post U.S. Navy Looks to Carrier-Basing, Submarine Replenishment Missions for UUVs appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2025/07/HII-and-Hitachi-Lock-In-Multi-Year-REMUS-300-UUV-Production-Agreement-1024x576.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Kubasik ousted as L3Harris CEO following conduct violation, company says",
-        "url": "https://breakingdefense.com/2026/08/kubasik-ousted-as-l3harris-ceo-following-conduct-violation-company-says/",
-        "published": "2026-08-17T15:21:06Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "L3Harris did not provide specifics on what led to Chris Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was not consistent” with its code of conduct.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/220920_KATZ_L3Harris_sign-scaled-e1690550785613-1024x575.jpg",
         "section": "rov_teknologi"
       }
     ]

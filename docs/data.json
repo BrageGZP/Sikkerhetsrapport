@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-20T04:24:37Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-20T13:00:08Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Babcock advances Anglo-Danish naval cooperation with new agreements",
+        "url": "https://www.navalnews.com/naval-news/2026/08/babcock-advances-anglo-danish-naval-cooperation-with-new-agreements/",
+        "published": "2026-08-20T10:12:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Babcock International Group has taken a significant step forward in its partnership with Danish industry through a number of major agreements unveiled at DALO Industry Days, strengthening cooperation across the maritime defence sector. Babcock press release Babcock today signed Memoranda of Understanding (MOU) with Danish technology companies, STORMBORN and CUBEDIN, to examine future hybrid naval ...\nThe post Babcock advances Anglo-Danish naval cooperation with new agreements appeared first on N",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "US Navy destroyer spent 4 days without power in South China Sea",
         "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
@@ -141,16 +151,6 @@
         "language": "en",
         "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class guided-missile destroyer pulled into Yokosuka on Thursday, USNI News previously reported. About five days prior, Benfold left Subic Bay, Philippines, where it underwent repairs following an engineering casualty that left the ship stalled for four days without power in the South China Sea. Benfold lost power on July 24. It was tow",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9835492.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Open to Foreign-Built Warships Under New White House Shipbuilding Order",
-        "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-foreign-built-warships-shipbuilding-order/",
-        "published": "2026-08-17T08:57:32Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A new White House Presidential Memorandum invites international shipbuilders to compete for a U.S. Navy convoy escort under the &#8220;Finland Model.&#8221; In a dramatic policy shift aimed at overriding domestic industrial bottlenecks and accelerating fleet expansion, the White House has issued a sweeping Presidential Memorandum opening the door for allied international shipbuilders to design and ...\nThe post U.S. Open to Foreign-Built Warships Under New White House Shipbuilding Order appeared ",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -368,6 +368,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Lockheed Martin and U.S. Navy Demonstrate AI-Powered Submarine Hunter at RIMPAC 2026",
+        "url": "https://www.navalnews.com/naval-news/2026/08/lockheed-martin-and-u-s-navy-demonstrate-ai-powered-submarine-hunter-at-rimpac-2026/",
+        "published": "2026-08-20T11:21:20Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "This summer at RIMPAC 26, Lockheed Martin collaborated with the U.S. Navy to successfully demonstrate a rapidly retrainable AI/ML sonar expert for antisubmarine warfare (ASW). The system, known as SensorMAX™, monitors spectral energy including subsurface acoustic data to assist the crew with rapid threat detection. Augmented by over-the-air (OTA) model update capability, SensorMAX aims to dramatically ...\nThe post Lockheed Martin and U.S. Navy Demonstrate AI-Powered Submarine Hunter at RIMPAC 20",
+        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "South Korea delivers first PKX-B Batch-II fast patrol craft to ROK Navy",
         "url": "https://www.navalnews.com/naval-news/2026/08/south-korea-delivers-first-pkx-b-batch-ii-fast-patrol-craft-to-rok-navy/",
         "published": "2026-08-18T19:45:10Z",
@@ -395,16 +405,6 @@
         "language": "en",
         "summary": "Australia and the United States have successfully tested AUKUS Pillar II subsea and seabed warfare capabilities during an undersea warfare activity as part of Exercise Rim of the Pacific 2026 (RIMPAC 26) in July. Australian MoD press release Taking place off the coast of Hawaii, RIMPAC 26 is the world’s largest international maritime exercise, involving ...\nThe post Australia and US Test AUKUS Pillar II Undersea Capabilities at RIMPAC 2026 appeared first on Naval News.",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy Looks to Carrier-Basing, Submarine Replenishment Missions for UUVs",
-        "url": "https://www.navalnews.com/naval-news/2026/08/u-s-navy-looks-to-carrier-basing-submarine-replenishment-missions-for-uuvs/",
-        "published": "2026-08-17T19:58:22Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy's Pacific Fleet is testing new UUV roles, including carrier-basing and undersea resupply, to boost stealth in contested waters.\nThe post U.S. Navy Looks to Carrier-Basing, Submarine Replenishment Missions for UUVs appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/07/HII-and-Hitachi-Lock-In-Multi-Year-REMUS-300-UUV-Production-Agreement-1024x576.png",
         "section": "rov_teknologi"
       }
     ]

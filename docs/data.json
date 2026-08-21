@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T04:26:51Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-21T12:59:29Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -332,16 +332,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Hvor godt ser du egentlig i mørket? Hvor lang tid tar det å reagere i høy fart? Og hvor mye...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Status 2026 gir betre grunnlag for strategiske val langs kysten",
-        "url": "https://www.kystverket.no/nyheter/status-2026-gir-betre-grunnlag-for-strategiske-val-langs-kysten/",
-        "published": "2026-06-22T07:51:55Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "I artikkelsamlinga Status 2026 samlar Kystverket viktig og oppdatert kunnskap om utviklinga langs...",
         "image_url": "",
         "section": "regelverk"
       }

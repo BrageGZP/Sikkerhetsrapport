@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-21T12:59:29Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-22T04:20:54Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase",
+        "url": "https://news.usni.org/2026/08/21/2-mariners-killed-in-strait-of-hormuz-as-transits-see-small-increase",
+        "published": "2026-08-22T01:13:56Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one seafarer dead. It is the second attack on a ship managed by Greek company Modion Maritime Management. On Aug. 3, MV Minoan Pioneer was struck, with the International Maritime Organization reporting one missing seafarer. It is not clear if the seafarer has been recovered. Two days before the attack on Minoan Dignity, Iran also hi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.03.35-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Türkiye’s MARLIN USV Demonstrates Mine-Laying Capability With MALAMAN",
+        "url": "https://www.navalnews.com/naval-news/2026/08/turkiyes-marlin-usv-demonstrates-mine-laying-capability-with-malaman/",
+        "published": "2026-08-21T15:28:32Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Türkiye’s MARLIN unmanned surface vessel (USV) has completed mine-laying trials using the MALAMAN smart bottom mine, adding a new mission set to the Turkish Navy’s first operational USV. The demonstration included the release of MALAMAN mines in both remotely controlled and autonomous modes. According to information released by state-owned Anadolu Agency on August 17, the ...\nThe post Türkiye’s MARLIN USV Demonstrates Mine-Laying Capability With MALAMAN appeared first on Naval News.",
+        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f91d.png",
+        "section": "nyheter"
+      },
       {
         "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
         "url": "https://www.defensenews.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/",
@@ -172,16 +192,6 @@
         "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class guided-missile destroyer pulled into Yokosuka on Thursday, USNI News previously reported. About five days prior, Benfold left Subic Bay, Philippines, where it underwent repairs following an engineering casualty that left the ship stalled for four days without power in the South China Sea. Benfold lost power on July 24. It was tow",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9835492.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
-        "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
-        "published": "2026-08-15T02:16:44Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "&#160; This story has been updated to include Benfold was towed to Subic Bay. Guided-missile destroyer USS Benfold (DDG-65) spent four days in the South China Sea without power after an engineering failure, USNI News has learned. Benfold suffered the engineering casualty resulting in a loss of power last month, Cmdr. Matthew Comer, spokesperson with U.S. 7th Fleet, told USNI News in a statement. “On July 24, 2026, while conducting routine operations in the Indo-Pacific, Arleigh Burke-class guide",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9835497-scaled.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -338,6 +348,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Taiwan proposes record $35 billion defense budget",
+        "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/",
+        "published": "2026-08-21T17:06:33Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The new budget proposal will have to be approved by the opposition-controlled legislature.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/230918_taiwan_f16s_GettyImages-1249302776-scaled-e1695069880314-1024x577.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "U.S. Navy Awards Contract For Zone 5’s Combat-Proven Rusty Dagger Cruise Missile",
         "url": "https://www.navalnews.com/naval-news/2026/08/u-s-navy-awards-contract-for-zone-5s-combat-proven-rusty-dagger-cruise-missile/",
         "published": "2026-08-21T04:23:11Z",
@@ -365,16 +385,6 @@
         "language": "en",
         "summary": "The ROK Navy has received its first PKX-B Batch-II fast patrol craft, featuring enhanced combat-system integration, anti-jamming capability and improved operability.\nThe post South Korea delivers first PKX-B Batch-II fast patrol craft to ROK Navy appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2025/12/PKMR-Batch-II_1-1024x536.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems",
-        "url": "https://www.navalnews.com/naval-news/2026/08/blue-ops-and-havoc-partner-to-develop-open-architecture-autonomous-maritime-defense-systems/",
-        "published": "2026-08-18T11:26:39Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Red Cat Holdings, Inc., a U.S.-based provider of advanced all-domain drone and robotic solutions for defense and national security, and Havoc, a leader in all-domain collaborative autonomy, announced a partnership, formalized through Red Cat’s maritime division, Blue Ops. Red Cat press release Under the partnership, Blue Ops and Havoc plan to integrate Havoc’s collaborative autonomy software ...\nThe post Blue Ops and Havoc Partner to Develop Open-Architecture Autonomous Maritime Defense Systems ",
-        "image_url": "",
         "section": "rov_teknologi"
       }
     ]

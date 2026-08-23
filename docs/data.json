@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-23T04:25:50Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-23T12:51:47Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Navy Unveils AIM-424 Malice Long-Range Air-to-Air Missile",
+        "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-unveils-aim-424-malice-lraam/",
+        "published": "2026-08-23T07:21:31Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy and Raytheon have unveiled the AIM-424 Malice, a long-range air-to-air missile built to hit targets over 250 nautical miles away.\nThe post U.S. Navy Unveils AIM-424 Malice Long-Range Air-to-Air Missile appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/9879420-1024x683.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
         "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
@@ -164,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Raytheon awarded 7-year contract for Tomahawk cruise missiles",
-        "url": "https://www.navalnews.com/naval-news/2026/08/raytheon-awarded-7-year-contract-for-tomahawk-cruise-missiles/",
-        "published": "2026-08-18T14:56:44Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Raytheon will dramatically accelerate the production of Tomahawk cruise missiles for the U.S. Navy over the multi-year period under the terms of an unprecedented $22.9 billion contract, awarded as part of the U.S. Department of War&#8217;s Arsenal of Freedom. Raytheon press release This contract follows the landmark agreements between Raytheon and the Department of War and supports the ...\nThe post Raytheon awarded 7-year contract for Tomahawk cruise missiles appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Twin Icebreaker Projects Progressing at Bollinger’s Gulf Coast Yards",
         "url": "https://news.usni.org/2026/08/17/twin-icebreaker-projects-progressing-at-bollingers-gulf-coast-yards",
         "published": "2026-08-17T22:06:26Z",
@@ -322,26 +322,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket og Kenya Maritime Authority har samarbeidet om beredskap mot akutt forurensning i mer...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Kystverket på jakt etter fartøy til opplæring av nye loser",
-        "url": "https://www.kystverket.no/nyheter/kystverket-pa-jakt-etter-fartoy-til-opplaring-av-nye-loser/",
-        "published": "2026-06-24T11:53:45Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Har du et fartøy tilgjengelig i høst? Kystverket inviterer maritime aktører til å bidra i...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Endrer krav til havnesikring",
-        "url": "https://www.kystverket.no/nyheter/gjor-endringer-i-krav-til-havnesikring-for-a-mote-utfordringer-med-nye-trusselbilder/",
-        "published": "2026-06-24T11:44:19Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Havner er kritisk infrastruktur. Derfor er norske havner underlagt nasjonalt og internasjonalt...",
         "image_url": "",
         "section": "regelverk"
       }

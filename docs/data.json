@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-24T04:33:39Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-24T13:01:41Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Vaisala launches cybersecure offshore weather station for navy, coast guard, offshore, icebreakers and research fleets",
+        "url": "https://www.navalnews.com/naval-news/2026/08/vaisala-launches-cybersecure-offshore-weather-station-for-navy-coast-guard-offshore-icebreakers-and-research-fleets/",
+        "published": "2026-08-24T09:02:52Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "New modular cybersecure offshore weather station Vaisala delivers real-time metocean intelligence for polar operations, helideck safety, and built-in cybersecurity.\nThe post Vaisala launches cybersecure offshore weather station for navy, coast guard, offshore, icebreakers and research fleets appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Vaisala_Logo.png",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy Unveils AIM-424 Malice Long-Range Air-to-Air Missile",
         "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-unveils-aim-424-malice-lraam/",
@@ -141,16 +151,6 @@
         "language": "en",
         "summary": "HD HHI and SIMA Perú have launched BAP Chimbote, the second landing support ship (BALOG) built for the Peruvian Navy, just one week after the launch of the lead vessel, BAP Talara. On Tuesday, August 18, approximately one week after the launch of the first landing support ship / logistics support ship (Buque de Apoyo ...\nThe post HD Hyundai Heavy Industries Launches Second Landing Support Ship for Peru appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Ceremony-officials-1024x683.avif",
-        "section": "nyheter"
-      },
-      {
-        "title": "Snowbird Technologies Manufactures Stainless Steel Parts Aboard USS Essex During RIMPAC 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/08/snowbird-technologies-manufactures-stainless-steel-parts-aboard-uss-essex-during-rimpac-2026/",
-        "published": "2026-08-19T11:32:55Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Snowbird Technologies announced the successful production and machining of a 316L stainless steel component aboard the USS Essex (LHD-2) during Rim of the Pacific Exercise 2026 (RIMPAC 2026), demonstrating expeditionary manufacturing capabilities in an operational maritime environment.  Snowbird Technologies press release As part of the Naval Postgraduate School’s Consortium for Advanced Manufacturing Research and Education ...\nThe post Snowbird Technologies Manufactures Stainless Steel Parts Ab",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/snow-bird.jpg",
         "section": "nyheter"
       },
       {
@@ -328,6 +328,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Australia Lays Keel for First Hunter-class Anti-Submarine Frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/08/australia-lays-keel-first-hunter-class-frigate/",
+        "published": "2026-08-24T08:06:14Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "BAE Systems Maritime Australia has officially laid the keel for the Royal Australian Navy's first Hunter-class frigate at the Osborne Naval Shipyard...\nThe post Australia Lays Keel for First Hunter-class Anti-Submarine Frigate appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/07/Rohde-Schwarz-completes-Hunter-Preliminary-Design-Review-for-the-Integrated-Communications-System-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Taiwan proposes record $35 billion defense budget",
         "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/",
         "published": "2026-08-21T17:06:33Z",
@@ -355,16 +365,6 @@
         "language": "en",
         "summary": "This summer at RIMPAC 26, Lockheed Martin collaborated with the U.S. Navy to successfully demonstrate a rapidly retrainable AI/ML sonar expert for antisubmarine warfare (ASW). The system, known as SensorMAX™, monitors spectral energy including subsurface acoustic data to assist the crew with rapid threat detection. Augmented by over-the-air (OTA) model update capability, SensorMAX aims to dramatically ...\nThe post Lockheed Martin and U.S. Navy Demonstrate AI-Powered Submarine Hunter at RIMPAC 20",
         "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "South Korea delivers first PKX-B Batch-II fast patrol craft to ROK Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/08/south-korea-delivers-first-pkx-b-batch-ii-fast-patrol-craft-to-rok-navy/",
-        "published": "2026-08-18T19:45:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The ROK Navy has received its first PKX-B Batch-II fast patrol craft, featuring enhanced combat-system integration, anti-jamming capability and improved operability.\nThe post South Korea delivers first PKX-B Batch-II fast patrol craft to ROK Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/12/PKMR-Batch-II_1-1024x536.jpg",
         "section": "rov_teknologi"
       }
     ]

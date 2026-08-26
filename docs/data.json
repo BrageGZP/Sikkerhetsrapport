@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-26T04:28:48Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-26T13:03:45Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "US Navy Awards Castelion $90M for Blackbeard Hypersonic Weapon EOC",
+        "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-castelion-90m-blackbeard-hypersonic-weapon-eoc/",
+        "published": "2026-08-26T07:02:06Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The US Navy has awarded Castelion an $89.9M contract to advance the Blackbeard hypersonic strike weapon toward Early Operational Capability (EOC) by 2028.\nThe post US Navy Awards Castelion $90M for Blackbeard Hypersonic Weapon EOC appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/US-Navy-Awards-Castelion-90M-for-Blackbeard-Hypersonic-Weapon-EOC-1024x576.webp",
+        "section": "nyheter"
+      },
+      {
+        "title": "FNSS Unveils U-MAV Unmanned Amphibious Vehicle",
+        "url": "https://www.navalnews.com/naval-news/2026/08/fnss-unveils-u-mav-unmanned-amphibious-vehicle/",
+        "published": "2026-08-26T06:28:40Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "FNSS has unveiled the U-MAV Multi-Purpose Modular Unmanned Amphibious Vehicle (known as ZAHA) at TEKNOFEST Mavi Vatan. FNSS press release FNSS unveiled U-MAV, the Multi-Purpose Modular Unmanned Amphibious Vehicle at TEKNOFEST Mavi Vatan 2026, hosted by the Gölcük Naval Shipyard Command in Kocaeli from 20 to 23 August 2026. İ-ZAHA designed to take the crew ...\nThe post FNSS Unveils U-MAV Unmanned Amphibious Vehicle appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/1787227694_fnss-image-1784699346481-topaz-upscale-3.4x-1024x571.png",
+        "section": "nyheter"
+      },
       {
         "title": "USMC Accepts First Australian-Designed Ancillary Surface Craft Prototype",
         "url": "https://www.navalnews.com/naval-news/2026/08/usmc-accepts-first-australian-designed-ancillary-surface-craft-prototype/",
@@ -94,16 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Australia Selects Site Layout for Henderson Defence Precinct",
-        "url": "https://www.navalnews.com/naval-news/2026/08/australia-selects-site-layout-henderson-defence-precinct/",
-        "published": "2026-08-24T21:30:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Australian and Western Australian governments have finalized the site layout for the Henderson Defence Precinct, paving the way for AUKUS submarine sustainment and naval shipbuilding.\nThe post Australia Selects Site Layout for Henderson Defence Precinct appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
         "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
         "published": "2026-08-24T21:08:25Z",
@@ -161,26 +171,6 @@
         "language": "en",
         "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 289 (USS 231, USNS 58) 99 (USS 69, USNS 30) (39 FDNF, 60 Rotational) 75 (50 Deployed, 25 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_24_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "TUFAN Kamikaze USV Launched at TEKNOFEST Mavi Vatan 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/08/tufan-kamikaze-usv-launched-at-teknofest-mavi-vatan-2026/",
-        "published": "2026-08-24T14:41:28Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "TUFAN, a new kamikaze unmanned surface vessel (USV) developed by ASELSAN and built by ARES Shipyard, was launched during TEKNOFEST Mavi Vatan 2026\nThe post TUFAN Kamikaze USV Launched at TEKNOFEST Mavi Vatan 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/TUFAN-USVjpg-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Vaisala launches cybersecure offshore weather station for navy, coast guard, offshore, icebreakers and research fleets",
-        "url": "https://www.navalnews.com/naval-news/2026/08/vaisala-launches-cybersecure-offshore-weather-station-for-navy-coast-guard-offshore-icebreakers-and-research-fleets/",
-        "published": "2026-08-24T09:02:52Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "New modular cybersecure offshore weather station Vaisala delivers real-time metocean intelligence for polar operations, helideck safety, and built-in cybersecurity.\nThe post Vaisala launches cybersecure offshore weather station for navy, coast guard, offshore, icebreakers and research fleets appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Vaisala_Logo.png",
         "section": "nyheter"
       },
       {
@@ -357,6 +347,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Liberator: Understanding the U.S. Navy’s New Seabed Carrier Killer",
+        "url": "https://www.navalnews.com/naval-news/2026/08/liberator-understanding-the-u-s-navys-covert-seabed-ship-killer/",
+        "published": "2026-08-26T09:58:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Liberator is a classified seabed warfare system deployable from uncrewed submarines, capable of firing the U.S. Navy's largest ship-killing torpedoes.\nThe post Liberator: Understanding the U.S. Navy&#8217;s New Seabed Carrier Killer appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/9778117-1-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Ocius Selects ThayerMahan and Thales Australia Thin-line Arrays for Bluebottle Fleets",
         "url": "https://www.navalnews.com/naval-news/2026/08/ocius-selects-thayermahan-and-thales-australia-thin-line-arrays-for-bluebottle-fleets/",

@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-26T13:03:45Z",
+  "generated_at": "2026-08-27T14:50:39Z",
   "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Navantia Unveils F-110 Flight II / IAMD Frigate",
+        "url": "https://www.navalnews.com/naval-news/2026/08/navantia-unveils-f-110-flight-ii-iamd-frigate/",
+        "published": "2026-08-27T08:19:14Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Navantia reveals the F-110 Flight II IAMD frigate at DALO 2026. Features a 64-cell VLS and more powerful AN/SPY-7 radar for high-intensity air defense.\nThe post Navantia Unveils F-110 Flight II / IAMD Frigate appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/F-110-Flight-II-IAMD-2-1024x771.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Planning for Extended Carrier Deployments as Iran Conflict Continues, CNO, MCPON Say",
+        "url": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say",
+        "published": "2026-08-26T21:36:38Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "NAVAL SUPPORT ACTIVITY HAMPTON ROADS, Va. — Families of sailors assigned to the Theodore Roosevelt Carrier Strike Group are already preparing for a deployment that will last more than seven months as the U.S. conflict with Iran continues. When USS Theodore Roosevelt (CVN-71), its escorts and the embarked Carrier Air Wing 11 leave from San Diego in the coming weeks, the strike group is expected to move to U.S. Central Command to relieve the Japan-based USS George Washington (CVN-73), which entere",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
+        "url": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
+        "published": "2026-08-26T21:08:19Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Navy’s top admiral says the service is changing how it does pre-deployment stocking and resupply and looking at different places to make port calls.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YSC7NDAUEBHXDABAVEBMGEEGQU.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Flight Demonstration Team Stand Down Ends, Growler Team Still Grounded",
+        "url": "https://news.usni.org/2026/08/26/navy-flight-demonstration-team-stand-down-ends-growler-team-still-grounded",
+        "published": "2026-08-26T18:35:25Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for Commander, Naval Air Forces, told USNI News on Aug. 19. The Growler demo team – from the “Vikings” of Electronic Attack Squadron (VAQ) 129 – is still grounded pending review. The “Gladiators” of Strike Fi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9696474-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "US Navy Awards Castelion $90M for Blackbeard Hypersonic Weapon EOC",
         "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-castelion-90m-blackbeard-hypersonic-weapon-eoc/",
@@ -104,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "STR8 Industries Reveals Made in Taiwan Ghostwake USV",
-        "url": "https://www.navalnews.com/naval-news/2026/08/str8-industries-reveals-made-in-taiwan-ghostwake-usv/",
-        "published": "2026-08-25T06:04:58Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Taiwan-based STR8 Industries unveils Ghostwake, a USV designed for regional operations and mass production.\nThe post STR8 Industries Reveals Made in Taiwan Ghostwake USV   appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/STR8-USV-2-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
         "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
         "published": "2026-08-24T21:08:25Z",
@@ -129,7 +159,7 @@
         "published": "2026-08-24T19:13:00Z",
         "source": "Breaking Defense",
         "language": "en",
-        "summary": "The Navy said that the missile is designed for 4th, 5th, and 6th generation aircraft platforms.",
+        "summary": "The Navy said that the missile is designed for 4th, 5th and 6th generation aircraft platforms.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9879419-1-scaled-e1787594223875-1024x577.jpg",
         "section": "nyheter"
       },
@@ -141,26 +171,6 @@
         "language": "en",
         "summary": "The United States canceled a joint amphibious landing drill scheduled for next month with South Korea due to force availability.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XYNVFAZEMBG6DI4U56HWATNNCE.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
-        "url": "https://breakingdefense.com/2026/08/australia-identifies-future-defense-precinct-site-for-aukus-sub-sustainment/",
-        "published": "2026-08-24T17:05:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "It has also conducted a keel laying ceremony for the first Hunter-class frigate",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Australia_Henderson_Defence_Precinct_defence_2026_Aug_S20262634-1024x582.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
-        "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle/",
-        "published": "2026-08-24T16:42:23Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "“İ-ZAHA [is] designed to take the crew out of the first wave which is the highest-risk phase of any amphibious assault and to operate as part of a manned-unmanned team (MUM-T) with the Marine Assault Vehicles (MAV) already in service with the Turkish Naval Forces Command,” FNSS said in a statement.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260824_amphib_vehicle_FNSS-e1787589431200-1024x576.png",
         "section": "nyheter"
       },
       {
@@ -201,46 +211,6 @@
         "language": "en",
         "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NMKT3HEOLRHJTPQEYG4UWW7EMQ.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
-        "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
-        "published": "2026-08-20T20:23:22Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Carrier USS George Washington Now in the Middle East",
-        "url": "https://news.usni.org/2026/08/20/carrier-uss-george-washington-now-in-the-middle-east",
-        "published": "2026-08-20T14:40:01Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrier, which was accompanied by cruiser USS Robert Smalls (CG-62) and destroyer USS Shoup (DDG-86), transited the Arabian Sea on Thursday, according to the CENTCOM post on social media site X. It is not clear how close GW is to the Abraham Lincoln Carrier Strike Group. The George Washington Carrier Strike Group is expected to relieve",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9876799-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy destroyer spent 4 days without power in South China Sea",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
-        "published": "2026-08-19T16:57:54Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
-        "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
-        "published": "2026-08-19T14:38:49Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswain’s Mate &#8211; Aircraft Handling Airman Apprentice Jayjrion Rodriguez is charged with murder while engaging in an act inherently dangerous to another, involuntary manslaughter and three specifications of simple assault with a loaded firearm and three specific",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
         "section": "nyheter"
       }
     ],
@@ -405,16 +375,6 @@
         "language": "en",
         "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-range air-to-air missile, the sea service revealed the new Malice system over the weekend at the Tailhook Association Naval Aviation Symposium in Reno, Nev. RTX, formerly known as Raytheon, is the lead contractor behind Malice. “LRAAM sustains the Department’s first look, first shot, first kill advantage by providing our aviators g",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Taiwan proposes record $35 billion defense budget",
-        "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/",
-        "published": "2026-08-21T17:06:33Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The new budget proposal will have to be approved by the opposition-controlled legislature.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/230918_taiwan_f16s_GettyImages-1249302776-scaled-e1695069880314-1024x577.jpg",
         "section": "rov_teknologi"
       }
     ]

@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-27T14:50:39Z",
+  "generated_at": "2026-08-27T22:07:33Z",
   "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
+        "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
+        "published": "2026-08-27T21:46:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton, Wash., one of the Navy’s bases where ship maintenance occurs, according to a Commander, Navy Installations Command news release. As part of a quality of life initiative, the Navy renovated a 10-story",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
+        "published": "2026-08-27T19:46:27Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PBWR2AEEDZEKRE3BRQEX32YUGE.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Submarine maintenance delays, ‘idle time’ cost $3.4 billion, GAO says",
+        "url": "https://breakingdefense.com/2026/08/submarine-maintenance-delays-idle-time-cost-3-4-billion-gao-says/",
+        "published": "2026-08-27T18:17:04Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "While the report said the Navy had made progress cutting delays for operational subs, the problem would get worse — and costlier — for those destined for decommissioning.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260827_DVIDS_pasadena_sub_7895251-e1787844321580-1024x578.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
+        "url": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
+        "published": "2026-08-27T15:05:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it returns from recess in September.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Navantia Unveils F-110 Flight II / IAMD Frigate",
         "url": "https://www.navalnews.com/naval-news/2026/08/navantia-unveils-f-110-flight-ii-iamd-frigate/",
@@ -154,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy reveals new long range air-to-air missile, dubbed ‘Malice’",
-        "url": "https://breakingdefense.com/2026/08/navy-reveals-new-long-range-air-to-air-missile-dubbed-malice/",
-        "published": "2026-08-24T19:13:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The Navy said that the missile is designed for 4th, 5th and 6th generation aircraft platforms.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9879419-1-scaled-e1787594223875-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US cancels joint marine drills with South Korea over Iran war-related force constraints",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
         "published": "2026-08-24T19:05:10Z",
@@ -201,16 +231,6 @@
         "language": "en",
         "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one seafarer dead. It is the second attack on a ship managed by Greek company Modion Maritime Management. On Aug. 3, MV Minoan Pioneer was struck, with the International Maritime Organization reporting one missing seafarer. It is not clear if the seafarer has been recovered. Two days before the attack on Minoan Dignity, Iran also hi",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.03.35-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
-        "url": "https://www.defensenews.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/",
-        "published": "2026-08-20T23:20:57Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NMKT3HEOLRHJTPQEYG4UWW7EMQ.jpg",
         "section": "nyheter"
       }
     ],
@@ -304,19 +324,19 @@
         "summary": "Etter over to år med omfattende anleggsaktivitet nærmer den nye dypvannskaia i Mo i Rana seg...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Har du bustad til leige i området Åheim–Selje?",
-        "url": "https://www.kystverket.no/nyheter/har-du-bustad-til-leige-i-omradet-aheimselje/",
-        "published": "2026-06-28T17:27:18Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "I samband med bygginga av Stad skipstunnel ønskjer Kystverket å leige leilegheiter og bustadar i...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Navy Receives its Final Expeditionary Sea Base",
+        "url": "https://news.usni.org/2026/08/27/navy-receives-its-final-expeditionary-sea-base",
+        "published": "2026-08-27T20:02:59Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. General Dynamics NASSCO delivered the future USS Hector A. Cafferata Jr. (ESB-8) to the Navy on Tuesday in San Diego following sea trials earlier this summer. Expeditionary Sea Bases have historically been forward deployed and used as a host for both mine countermeasures and special operations forces. “Our ESBs are critical to marit",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/646765557_1553906026735300_4785548589680734951_n.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Liberator: Understanding the U.S. Navy’s New Seabed Carrier Killer",
         "url": "https://www.navalnews.com/naval-news/2026/08/liberator-understanding-the-u-s-navys-covert-seabed-ship-killer/",

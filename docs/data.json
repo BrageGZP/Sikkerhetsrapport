@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T16:34:37Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-30T09:32:26Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -302,16 +302,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har fastsatt endringer i forskrift om sjøtrafikksentralenes tjenesteområde og bruk av...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Fant kvikksølvbeholdere i ubåtvraket",
-        "url": "https://www.kystverket.no/nyheter/fant-kvikksolvbeholdere-i-ubatvraket/",
-        "published": "2026-06-30T17:42:30Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "22 beholdere er tatt opp.",
         "image_url": "",
         "section": "regelverk"
       }

@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-08-31T10:12:46Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-08-31T19:01:58Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "USNI News Fleet and Marine Tracker: Aug. 31, 2026",
+        "url": "https://news.usni.org/2026/08/31/usni-news-fleet-and-marine-tracker-aug-31-2026",
+        "published": "2026-08-31T17:57:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 31, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 99 (USS 70, USNS 29) (39 FDNF, 60 Rotational) 79 (51 Deployed, 28 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_27_26.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Sweden signs French warship order to boost defense",
+        "url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense/",
+        "published": "2026-08-31T16:53:47Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Sweden signed an order for four Naval Group frigates during a ceremony in Stockholm attended by French President Emmanuel Macron.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LHW2TOIOV5EETJC2OFX4UN76Z4.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "Sweden Inks Contract with France for Four FDI Frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/08/sweden-inks-contract-france-4-fdi-frigates/",
+        "published": "2026-08-31T16:47:41Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Sweden and France have signed a landmark contract for four FDI frigates for the Royal Swedish Navy. Discover how the new Luleå-class warships will transform Baltic Sea defense and balance crewed capabilities with uncrewed systems.\nThe post Sweden Inks Contract with France for Four FDI Frigates appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Signature-FDI-contract-with-Sweden-1024x605.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan’s First Tomahawk Cruise Missile Destroyer Back from U.S.",
+        "url": "https://news.usni.org/2026/08/31/japans-first-tomahawk-cruise-missile-destroyer-back-from-u-s",
+        "published": "2026-08-31T16:36:51Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Japanese destroyer JS Chokai (DDG-176) returned on Sunday to its homeport of Sasebo, Japan, after one year in the U.S. being outfitted to be Tomahawk cruise missile capable. Chokai departed Sept. 25, 2025, from Yokosuka Naval Base for San Diego following pre-deployment training and preparation. Crew training and modification work on the destroyer for Tomahawk operations began in October with the modification work completed in late March, USNI News reported. Chokai conducted a live firing of a To",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/07/30a_01.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USS New Orleans Fire Response Hindered by Initial Confusion, Investigation Shows",
+        "url": "https://news.usni.org/2026/08/31/uss-new-orleans-fire-response-hindered-by-initial-confusion-investigation-shows",
+        "published": "2026-08-31T15:31:18Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A single cigarette or vape may have started a fire in a storeroom onboard amphibious transport dock USS New Orleans (LPD-18) in August 2025 but key crew failures enabled the blaze to continue for 11 hours before it was extinguished, according to a newly released command investigation. The 46-page investigation was completed in November and released Friday to USNI News via a public records request. The report describes how the crew of New Orleans, which was anchored near White Beach, Okinawa, at ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-11.10.29-AM.png",
+        "section": "nyheter"
+      },
       {
         "title": "Japan’s Record FY2027 Budget Request: Focus on New FFM, ASEV and Submarines",
         "url": "https://www.navalnews.com/naval-news/2026/08/japan-record-fy2027-defense-budget-new-ffm-submarines/",
@@ -144,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
-        "url": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
-        "published": "2026-08-27T15:05:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it returns from recess in September.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navantia Unveils F-110 Flight II / IAMD Frigate",
         "url": "https://www.navalnews.com/naval-news/2026/08/navantia-unveils-f-110-flight-ii-iamd-frigate/",
         "published": "2026-08-27T08:19:14Z",
@@ -194,36 +234,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US Navy Awards Castelion $90M for Blackbeard Hypersonic Weapon EOC",
-        "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-castelion-90m-blackbeard-hypersonic-weapon-eoc/",
-        "published": "2026-08-26T07:02:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The US Navy has awarded Castelion an $89.9M contract to advance the Blackbeard hypersonic strike weapon toward Early Operational Capability (EOC) by 2028.\nThe post US Navy Awards Castelion $90M for Blackbeard Hypersonic Weapon EOC appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/US-Navy-Awards-Castelion-90M-for-Blackbeard-Hypersonic-Weapon-EOC-1024x576.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hung Cao taps civilian to stand up Navy industrial base office",
-        "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
-        "published": "2026-08-25T15:39:49Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FVBG37GUZRALZCCDTCFIWHV6NI.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
-        "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
-        "published": "2026-08-25T08:50:44Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Royal Netherlands Navy plans to equip its fleet with a new counter-UAS capability from defense firm Destinus.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3OGBHCGR2NGHBD4TNAASNFQ5VI.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
         "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
         "published": "2026-08-24T21:08:25Z",
@@ -231,16 +241,6 @@
         "language": "en",
         "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said last week. A February stress test of the electromagnetic launch system, EMALS, and the advanced arresting gear installed aboard Ford generated higher sortie rates than the Nimitz-class, Chief of Naval Operations Adm. Daryl Caudle said during a roundtable at the Tailhook Symposium in Reno, Nevada. The test occurred while Ford was i",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9614967-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Aug. 24, 2026",
-        "url": "https://news.usni.org/2026/08/24/usni-news-fleet-and-marine-tracker-aug-24-2026",
-        "published": "2026-08-24T15:20:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 289 (USS 231, USNS 58) 99 (USS 69, USNS 30) (39 FDNF, 60 Rotational) 75 (50 Deployed, 25 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_24_26.jpg",
         "section": "nyheter"
       }
     ],
@@ -318,6 +318,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
+        "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",
+        "published": "2026-08-31T17:53:48Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Other weapons sought include submarine-launched missiles and missile modules for underwater drones.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/USN_AGM-88G_AARGM-ER_NAVAIR_210422-N-UZ648-281-1024x577.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "U.S. Navy Wants New Standoff Aerial Torpedo for Carrier Aircraft",
         "url": "https://news.usni.org/2026/08/28/u-s-navy-wants-new-standoff-aerial-torpedo-for-carrier-aircraft",
         "published": "2026-08-28T15:55:59Z",
@@ -345,16 +355,6 @@
         "language": "en",
         "summary": "Liberator is a classified seabed warfare system deployable from uncrewed submarines, capable of firing the U.S. Navy's largest ship-killing torpedoes.\nThe post Liberator: Understanding the U.S. Navy&#8217;s New Seabed Carrier Killer appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/9778117-1-1024x576.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
-        "published": "2026-08-25T19:30:37Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NSCVSJOPWFD4DHKBEVGBLRLQ3I.jpg",
         "section": "rov_teknologi"
       },
       {

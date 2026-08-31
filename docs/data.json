@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-08-30T16:29:55Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-08-31T10:12:46Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan’s Record FY2027 Budget Request: Focus on New FFM, ASEV and Submarines",
+        "url": "https://www.navalnews.com/naval-news/2026/08/japan-record-fy2027-defense-budget-new-ffm-submarines/",
+        "published": "2026-08-31T08:34:59Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan’s Ministry of Defense (MoD) on August 31 requested a record 8.9 trillion yen ($55.5 billion) for fiscal year 2027, which begins in April 2027. The fiscal 2027 request places particular emphasis on artificial intelligence (AI) and unmanned assets as Japan seeks to adapt to what the ministry calls “new ways of warfare.” It includes ...\nThe post Japan’s Record FY2027 Budget Request: Focus on New FFM, ASEV and Submarines appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/New-FFM-1024x576.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fairbanks Morse Defense and Vestdavit Unveil AutoHook for Automated USV Recovery",
+        "url": "https://www.navalnews.com/naval-news/2026/08/fairbanks-morse-defense-and-vestdavit-unveil-autohook-for-automated-usv-recovery/",
+        "published": "2026-08-31T06:53:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fairbanks Morse Defense and Vestdavit are advancing AutoHook, an automated connector designed to make USV launch and recovery from motherships safer, faster and less reliant on personnel during demanding at-sea operations.\nThe post Fairbanks Morse Defense and Vestdavit Unveil AutoHook for Automated USV Recovery appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/00-AutoHook-Activation-CloseUp-02-1024x683.png",
+        "section": "nyheter"
+      },
       {
         "title": "Türkiye’s Second I-class Frigate Begins Sea Trials With Enlarged VLS",
         "url": "https://www.navalnews.com/naval-news/2026/08/turkiye-second-iclass-frigate-tcg-izmir-sea-trials-vls/",
@@ -110,7 +130,7 @@
         "source": "Defense News",
         "language": "en",
         "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PBWR2AEEDZEKRE3BRQEX32YUGE.jpg",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LWEGV5E2TBASXJT5OHPPNRTLBI.jpg",
         "section": "nyheter"
       },
       {
@@ -184,16 +204,6 @@
         "section": "nyheter"
       },
       {
-        "title": "FNSS Unveils U-MAV Unmanned Amphibious Vehicle",
-        "url": "https://www.navalnews.com/naval-news/2026/08/fnss-unveils-u-mav-unmanned-amphibious-vehicle/",
-        "published": "2026-08-26T06:28:40Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "FNSS has unveiled the U-MAV Multi-Purpose Modular Unmanned Amphibious Vehicle (known as ZAHA) at TEKNOFEST Mavi Vatan. FNSS press release FNSS unveiled U-MAV, the Multi-Purpose Modular Unmanned Amphibious Vehicle at TEKNOFEST Mavi Vatan 2026, hosted by the Gölcük Naval Shipyard Command in Kocaeli from 20 to 23 August 2026. İ-ZAHA designed to take the crew ...\nThe post FNSS Unveils U-MAV Unmanned Amphibious Vehicle appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/1787227694_fnss-image-1784699346481-topaz-upscale-3.4x-1024x571.png",
-        "section": "nyheter"
-      },
-      {
         "title": "Hung Cao taps civilian to stand up Navy industrial base office",
         "url": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
         "published": "2026-08-25T15:39:49Z",
@@ -235,6 +245,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Her finner du Kystverket på Maritim uke",
+        "url": "https://www.kystverket.no/nyheter/her-finner-du-kystverket-pa-maritim-uke/",
+        "published": "2026-08-31T07:21:34Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Det nærmer seg Maritim uke, og vi ser frem til en uke med læring, samarbeid og erfaringsutvekslin...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Signerte kontrakten for byggingen av Stad skipstunnel",
         "url": "https://www.kystverket.no/nyheter/signerte-kontrakten-for-byggingen-av-stad-skipstunnel/",
@@ -294,16 +314,6 @@
         "summary": "Kystverket har signert kontrakt med Terramare Oy for gjennomføring av prosjektet Gjennomseiling...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Endringer i sjøtrafikkforskriften fra 1. juli",
-        "url": "https://www.kystverket.no/nyheter/endringer-i-sjotrafikkforskriften-fra-1.-juli",
-        "published": "2026-07-02T09:15:19Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har fastsatt endringer i forskrift om sjøtrafikksentralenes tjenesteområde og bruk av...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -335,16 +345,6 @@
         "language": "en",
         "summary": "Liberator is a classified seabed warfare system deployable from uncrewed submarines, capable of firing the U.S. Navy's largest ship-killing torpedoes.\nThe post Liberator: Understanding the U.S. Navy&#8217;s New Seabed Carrier Killer appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/9778117-1-1024x576.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Ocius Selects ThayerMahan and Thales Australia Thin-line Arrays for Bluebottle Fleets",
-        "url": "https://www.navalnews.com/naval-news/2026/08/ocius-selects-thayermahan-and-thales-australia-thin-line-arrays-for-bluebottle-fleets/",
-        "published": "2026-08-25T21:05:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Ocius Technology has signed agreements to integrate advanced sonar systems from ThayerMahan and Thales Australia across its growing fleet of Australian-made Bluebottle uncrewed surface vessels (USVs). Ocius Technology press release The sonar systems include fully retractable thin-line acoustic arrays (TLAs) which will be deployed to support persistent surface and subsurface intelligence, surveillance and reconnaissance (ISR) ...\nThe post Ocius Selects ThayerMahan and Thales Australia Thin-line A",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/OCIUS-Bluebottle-Keel-Underwater-1024x896.jpg",
         "section": "rov_teknologi"
       },
       {

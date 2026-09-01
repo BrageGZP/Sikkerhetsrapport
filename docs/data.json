@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-08-31T19:01:58Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-01T08:58:17Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Destinus, OMT and CUBEDIN Teaming Up on Containerized C-UAS Module",
+        "url": "https://www.navalnews.com/naval-news/2026/09/destinus-omt-and-cubedin-teaming-up-on-containerized-c-uas-module/",
+        "published": "2026-09-01T08:56:52Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At DALO Industry Days 2026 in Denmark, Destinus, CUBEDIN, and OMT Group announced a joint effort to develop a modular, containerized naval counter-unmanned aerial system (C-UAS) capability.\nThe post Destinus, OMT and CUBEDIN Teaming Up on Containerized C-UAS Module appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/Destinus-Hornet-B2-C-UAS-interceptor-DALO-2-1024x771.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "USNI News Fleet and Marine Tracker: Aug. 31, 2026",
         "url": "https://news.usni.org/2026/08/31/usni-news-fleet-and-marine-tracker-aug-31-2026",
@@ -232,16 +242,6 @@
         "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for Commander, Naval Air Forces, told USNI News on Aug. 19. The Growler demo team – from the “Vikings” of Electronic Attack Squadron (VAQ) 129 – is still grounded pending review. The “Gladiators” of Strike Fi",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9696474-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "USS Gerald R. Ford Sortie Test Exceeded Nimitz-class Performance, Says CNO Caudle",
-        "url": "https://news.usni.org/2026/08/24/uss-gerald-r-ford-sortie-test-exceeded-nimitz-class-performance-says-cno-caudle",
-        "published": "2026-08-24T21:08:25Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said last week. A February stress test of the electromagnetic launch system, EMALS, and the advanced arresting gear installed aboard Ford generated higher sortie rates than the Nimitz-class, Chief of Naval Operations Adm. Daryl Caudle said during a roundtable at the Tailhook Symposium in Reno, Nevada. The test occurred while Ford was i",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9614967-scaled.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -304,16 +304,6 @@
         "summary": "Kystverket skal gjennomføre utdypingsarbeider ved den nordlige innseilingen til Haugesund....",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Kontrakt signert for Herøy–Ulstein-prosjektet",
-        "url": "https://www.kystverket.no/nyheter/kontrakt-signert-for-heroyulstein-prosjektet/",
-        "published": "2026-07-03T07:02:18Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har signert kontrakt med Terramare Oy for gjennomføring av prosjektet Gjennomseiling...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -345,16 +335,6 @@
         "language": "en",
         "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. General Dynamics NASSCO delivered the future USS Hector A. Cafferata Jr. (ESB-8) to the Navy on Tuesday in San Diego following sea trials earlier this summer. Expeditionary Sea Bases have historically been forward deployed and used as a host for both mine countermeasures and special operations forces. “Our ESBs are critical to marit",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/646765557_1553906026735300_4785548589680734951_n.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Liberator: Understanding the U.S. Navy’s New Seabed Carrier Killer",
-        "url": "https://www.navalnews.com/naval-news/2026/08/liberator-understanding-the-u-s-navys-covert-seabed-ship-killer/",
-        "published": "2026-08-26T09:58:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Liberator is a classified seabed warfare system deployable from uncrewed submarines, capable of firing the U.S. Navy's largest ship-killing torpedoes.\nThe post Liberator: Understanding the U.S. Navy&#8217;s New Seabed Carrier Killer appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/9778117-1-1024x576.jpg",
         "section": "rov_teknologi"
       },
       {

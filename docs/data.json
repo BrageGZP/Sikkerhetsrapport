@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-01T16:25:35Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-02T08:12:12Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
+        "published": "2026-09-02T08:00:10Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/S6NY3FZY4RDYTDC2DIWEJ3X3UE.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "German Navy Conducts Firing with IAI’s Naval LORA Ballistic Missile",
+        "url": "https://www.navalnews.com/naval-news/2026/09/german-navy-iai-naval-lora-test-firing/",
+        "published": "2026-09-02T06:50:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The German Navy completed a successful live-fire trial of IAI’s Naval LORA ballistic missile as part of its Marine 2035 OPEX initiative. IAI press release The missile was launched from an operational German vessel that comprises a command trailer and a launcher. Under both scenarios, the missile was launched to its trajectory, navigated its course ...\nThe post German Navy Conducts Firing with IAI&#8217;s Naval LORA Ballistic Missile appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Trump to formally nominate Cao as Navy Secretary",
+        "url": "https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary/",
+        "published": "2026-09-01T23:59:59Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Navy veteran Hung Cao has been the service&#8217;s acting secretary since April.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/cao-scaled-e1740749286984-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Trump Nominates Hung Cao for SECNAV",
+        "url": "https://news.usni.org/2026/09/01/trump-nominates-hung-cao-for-secnav",
+        "published": "2026-09-01T23:38:17Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Acting Secretary of the Navy Hung Cao is President Donald Trump’s pick to be the permanent SECNAV, the president announced on Tuesday. “I am pleased to nominate a true WARRIOR, Hung Cao, to become the next Secretary of the Navy. We need Patriots like Hung leading our Navy and Marine Corps, and I can think of no one better than him to make sure our Great Navy and Marine Corps remain the FIERCEST and BEST Force the World has ever seen,” Trump wrote on Truth Social. “The Senate needs to confirm thi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9890160-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japanese, South Korean, Turkish Warships Under Consideration for New U.S. Frigate Competition",
+        "url": "https://news.usni.org/2026/09/01/japanese-south-korean-turkish-warships-under-consideration-for-new-u-s-frigate-competition",
+        "published": "2026-09-01T21:10:28Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The White House and U.S. Navy are considering frigate designs from South Korea, Japan and Turkey for a new class of warships, USNI News has learned. An international warship competition could include building up to two of the ships in foreign shipyards before transitioning to domestic yards as part of the Trump administration’s push to rapidly expand the fleet, three industry sources familiar with the deliberations confirmed to USNI News this week. The move would break with more than a century o",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Collage-maker-project-September-01-2026-at-16.52.30.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan Budget Requests Record $55.6B for Unmanned, Long Range Strike Capabilities",
+        "url": "https://news.usni.org/2026/09/01/japan-budget-requests-record-55-6b-for-unmanned-long-range-strike-capabilities",
+        "published": "2026-09-01T19:39:42Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Japan’s Ministry of Defense has requested a record 8.9 trillion yen – or $55.6 billion – for its Fiscal Year 2027 Defense Budget to prioritize artificial intelligence, unmanned capabilities and long-range strike capabilities, according to budgetary documents released Monday. The Ministry of Defense is seeking to transform Japan’s military capabilities to adapt to what it calls “new ways of warfare” as the archipelago country “faces the most severe and complex security environment since the end o",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-3.05.08-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "ROK Navy Selects GE Aerospace to Power New KDDX Destroyer",
+        "url": "https://www.navalnews.com/naval-news/2026/09/rok-navy-selects-ge-aerospace-to-power-new-kddx-destroyer/",
+        "published": "2026-09-01T19:23:24Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "GE Aerospace will supply 12 LM2500+G4 marine gas turbine engines to power six ships of the Republic of Korea Navy’s next-generation destroyer project, KDDX.\nThe post ROK Navy Selects GE Aerospace to Power New KDDX Destroyer appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/ROK-Navy-Selects-GE-Aerospace-to-Power-New-KDDX-Destroyer.png",
+        "section": "nyheter"
+      },
       {
         "title": "GAO Report on Attack Submarine Maintenance Challenges",
         "url": "https://news.usni.org/2026/09/01/gao-report-on-attack-submarine-maintenance-challenges",
@@ -164,16 +234,6 @@
         "section": "nyheter"
       },
       {
-        "title": "The big defense spending priorities awaiting Congress in September",
-        "url": "https://breakingdefense.com/2026/08/the-big-defense-spending-priorities-awaiting-congress-in-september/",
-        "published": "2026-08-28T19:24:25Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "There is a lot of business awaiting the House and Senate when they return to Washington.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/CRU30-pb-1024x576.png",
-        "section": "nyheter"
-      },
-      {
         "title": "The devastation of NSA Bahrain is a national security warning",
         "url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
         "published": "2026-08-28T19:11:37Z",
@@ -194,26 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Taiwan-Bound Harpoon Coastal Defense System Scores Direct Hit in US Navy Test",
-        "url": "https://www.navalnews.com/naval-news/2026/08/taiwan-harpoon-coastal-defense-system-test/",
-        "published": "2026-08-28T17:41:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The land-based Harpoon Coastal Defense System (HCDS) scored a direct hit during US Navy trials ahead of its planned deployment to Taiwan's military.\nThe post Taiwan-Bound Harpoon Coastal Defense System Scores Direct Hit in US Navy Test appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Davie Wins $11.3 Billion Canadian Coast Guard Icebreaker Contract",
-        "url": "https://www.navalnews.com/naval-news/2026/08/davie-wins-11-3-billion-canadian-coast-guard-icebreaker-contract/",
-        "published": "2026-08-28T08:39:46Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At a ceremony in Lévis, Québec, Davie Shipbuilding announced that it has secured a historic contract from the Government of Canada to build six Program Icebreakers for the Canadian Coast Guard (CCG). Davie press release The fixed-price contract, valued at $11.3 billion, marks a decisive step in the renewal and expansion of Canada’s Arctic fleet ...\nThe post Davie Wins $11.3 Billion Canadian Coast Guard Icebreaker Contract appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
         "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
         "published": "2026-08-27T21:46:58Z",
@@ -221,16 +261,6 @@
         "language": "en",
         "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton, Wash., one of the Navy’s bases where ship maintenance occurs, according to a Commander, Navy Installations Command news release. As part of a quality of life initiative, the Navy renovated a 10-story",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
-        "published": "2026-08-27T19:46:27Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LWEGV5E2TBASXJT5OHPPNRTLBI.jpg",
         "section": "nyheter"
       },
       {
@@ -255,6 +285,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Ny rapport om U-864 overlevert til Nærings- og fiskeridepartementet",
+        "url": "https://www.kystverket.no/nyheter/ny-rapport-om-u-864-overlevert-til-narings--og-fiskeridepartementet/",
+        "published": "2026-09-01T16:54:31Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har i dag oversendt rapport om ubåtvraket U-864 til Nærings- og fiskeridepartementet.",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Her finner du Kystverket på Maritim uke",
         "url": "https://www.kystverket.no/nyheter/her-finner-du-kystverket-pa-maritim-uke/",
@@ -317,6 +357,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Marines Stage Hornet Maritime Strike Package off Japan",
+        "url": "https://news.usni.org/2026/09/01/marines-stage-hornet-maritime-strike-package-off-japan",
+        "published": "2026-09-01T17:33:02Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Marine Corps sortied anti-ship missile-equipped Hornets off Japan last month, showcasing its maritime strike capabilities. Ten F/A-18 Hornet fighters from Marine Fighter Attack Squadron 232 took off from U.S. Marine Corps Air Station Iwakuni with AGM-84D Harpoon anti-ship missiles on Aug. 19. According to a spokesperson with Marine Air Group 12, the maritime strike drill “provides a glimpse into the sizable maritime strike package and combat power” that the service’s tactical fighters c",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9877159-scaled.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
         "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",

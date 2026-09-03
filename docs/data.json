@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-02T16:23:34Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-03T08:21:25Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Japan Seeks AARGM-ER to Suppress Enemy Warship Air Defenses",
+        "url": "https://www.navalnews.com/naval-news/2026/09/japan-aargm-er-warship-air-defense-anti-ship/",
+        "published": "2026-09-03T07:08:11Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Japan seeks the U.S. AARGM-ER missile in its FY2027 budget to suppress enemy warship air defenses and enable long-range anti-ship strikes.\nThe post Japan Seeks AARGM-ER to Suppress Enemy Warship Air Defenses appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/05/U.S.-Navy-Completes-Captive-Carry-Test-of-AARGM-ER-missile-Aboard-Super-Hornet-1024x731.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "European Union Naval Force Intercepts Suspected Russian Shadow Fleet Tanker",
+        "url": "https://news.usni.org/2026/09/02/european-union-naval-force-intercepts-suspected-russian-shadow-fleet-tanker",
+        "published": "2026-09-02T16:30:29Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Italian Navy multi-purpose combat ship ITS Thaon di Revel (P430), flagship of EU Naval Force Mediterranean Irini, intercepted a Cameroon-flagged oil tanker suspected of being part of Russia’s shadow fleet on Sunday while operating in the Mediterranean.  Forces from Thaon di Revel boarded MV Sun (IMO: 9293117) to verify the tanker’s flag. Sun is suspected to be part of Russia’s shadow fleet of merchant vessels and tankers used for sanction evasion.  EU High Representative for Foreign Affairs and ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/HRC9Ns5W0AASFiO.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "Navy postpones new trainer jet proposal, award dates",
         "url": "https://breakingdefense.com/2026/09/navy-postpones-new-trainer-jet-proposal-award-dates/",
@@ -234,16 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Fairbanks Morse Defense and Vestdavit Unveil AutoHook for Automated USV Recovery",
-        "url": "https://www.navalnews.com/naval-news/2026/08/fairbanks-morse-defense-and-vestdavit-unveil-autohook-for-automated-usv-recovery/",
-        "published": "2026-08-31T06:53:28Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Fairbanks Morse Defense and Vestdavit are advancing AutoHook, an automated connector designed to make USV launch and recovery from motherships safer, faster and less reliant on personnel during demanding at-sea operations.\nThe post Fairbanks Morse Defense and Vestdavit Unveil AutoHook for Automated USV Recovery appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/00-AutoHook-Activation-CloseUp-02-1024x683.png",
-        "section": "nyheter"
-      },
-      {
         "title": "Strait of Hormuz Tanker Transits Up But Still Below Pre–War Levels",
         "url": "https://news.usni.org/2026/08/28/strait-of-hormuz-tanker-transits-up-but-still-below-pre-war-levels",
         "published": "2026-08-28T21:20:26Z",
@@ -281,26 +291,6 @@
         "language": "en",
         "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton, Wash., one of the Navy’s bases where ship maintenance occurs, according to a Commander, Navy Installations Command news release. As part of a quality of life initiative, the Navy renovated a 10-story",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Planning for Extended Carrier Deployments as Iran Conflict Continues, CNO, MCPON Say",
-        "url": "https://news.usni.org/2026/08/26/navy-planning-for-extended-carrier-deployments-as-iran-conflict-continues-cno-mcpon-say",
-        "published": "2026-08-26T21:36:38Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "NAVAL SUPPORT ACTIVITY HAMPTON ROADS, Va. — Families of sailors assigned to the Theodore Roosevelt Carrier Strike Group are already preparing for a deployment that will last more than seven months as the U.S. conflict with Iran continues. When USS Theodore Roosevelt (CVN-71), its escorts and the embarked Carrier Air Wing 11 leave from San Diego in the coming weeks, the strike group is expected to move to U.S. Central Command to relieve the Japan-based USS George Washington (CVN-73), which entere",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Flight Demonstration Team Stand Down Ends, Growler Team Still Grounded",
-        "url": "https://news.usni.org/2026/08/26/navy-flight-demonstration-team-stand-down-ends-growler-team-still-grounded",
-        "published": "2026-08-26T18:35:25Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams – minus the Growler demo team – have been able to participate in air shows since June 10, Cmdr. Amelia Umayam, spokesperson for Commander, Naval Air Forces, told USNI News on Aug. 19. The Growler demo team – from the “Vikings” of Electronic Attack Squadron (VAQ) 129 – is still grounded pending review. The “Gladiators” of Strike Fi",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9696474-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -415,16 +405,6 @@
         "language": "en",
         "summary": "The Marine Corps Warfighting Laboratory recently accepted the first of two Ancillary Surface Craft prototypes, according to a news release published last week. Ancillary Surface Craft are designed to provide transportation of personnel and supplies to shallow-gradient, unimproved and unsurveyed shorelines. The craft are meant to be able to conduct oceanic transits on its own in contrast to existing platforms like the Landing Craft Air Cushion, which has to be embarked on an amphibious ship. The ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9877983.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Navy Unveils New Anti-Air Missile Malice with a Range of 250 Nautical Miles",
-        "url": "https://news.usni.org/2026/08/24/navy-unveils-new-anti-air-missile-malice-with-a-range-of-250-nautical-miles",
-        "published": "2026-08-24T17:54:47Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-range air-to-air missile, the sea service revealed the new Malice system over the weekend at the Tailhook Association Naval Aviation Symposium in Reno, Nev. RTX, formerly known as Raytheon, is the lead contractor behind Malice. “LRAAM sustains the Department’s first look, first shot, first kill advantage by providing our aviators g",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
         "section": "rov_teknologi"
       }
     ]

@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-04T08:17:21Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-04T16:09:13Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Fixing the machine: Inside the Navy’s race to rebuild its aviator pipeline",
+        "url": "https://breakingdefense.com/2026/09/fixing-the-machine-inside-the-navys-race-to-rebuild-its-aviator-pipeline/",
+        "published": "2026-09-04T15:47:45Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "An in-depth discussion with the service&#8217;s chief of Naval Air Training Command.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships",
+        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-certifies-rolls-royce-mtu-engines-for-autonomous-ships/",
+        "published": "2026-09-04T09:49:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Rolls-Royce announced that its MTU Series 4000 and Series 2000 marine engines have received certification from the U.S. Navy for use in autonomous naval vessel operations, marking a significant milestone in the advancement of unmanned maritime capabilities. Rolls-Royce press release After passing two 720-hour durability tests, mtu Series 4000 engines were certified for use in ...\nThe post US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy Demonstrates USV Refueling At Sea Using Robotic Towed Connector",
+        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-demonstrates-usv-refueling-at-sea-using-robotic-towed-connector/",
+        "published": "2026-09-04T08:19:41Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy's NAWCWD has successfully demonstrated USV refueling at sea using a Robotic Towed Connector, advancing autonomous surface vessel operations.\nThe post U.S. Navy Demonstrates USV Refueling At Sea Using Robotic Towed Connector appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/9907255-1024x640.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "VIDEO: Navy, Marines Interdict Second Suspected Narco Refueling Station",
         "url": "https://news.usni.org/2026/09/03/video-navy-marines-interdict-second-suspected-narco-refueling-station",
@@ -134,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "German Navy Conducts Firing with IAI’s Naval LORA Ballistic Missile",
-        "url": "https://www.navalnews.com/naval-news/2026/09/german-navy-iai-naval-lora-test-firing/",
-        "published": "2026-09-02T06:50:04Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The German Navy completed a successful live-fire trial of IAI’s Naval LORA ballistic missile as part of its Marine 2035 OPEX initiative. IAI press release The missile was launched from an operational German vessel that comprises a command trailer and a launcher. Under both scenarios, the missile was launched to its trajectory, navigated its course ...\nThe post German Navy Conducts Firing with IAI&#8217;s Naval LORA Ballistic Missile appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Trump Nominates Hung Cao for SECNAV",
         "url": "https://news.usni.org/2026/09/01/trump-nominates-hung-cao-for-secnav",
         "published": "2026-09-01T23:38:17Z",
@@ -174,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "ROK Navy Selects GE Aerospace to Power New KDDX Destroyer",
-        "url": "https://www.navalnews.com/naval-news/2026/09/rok-navy-selects-ge-aerospace-to-power-new-kddx-destroyer/",
-        "published": "2026-09-01T19:23:24Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "GE Aerospace will supply 12 LM2500+G4 marine gas turbine engines to power six ships of the Republic of Korea Navy’s next-generation destroyer project, KDDX.\nThe post ROK Navy Selects GE Aerospace to Power New KDDX Destroyer appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/ROK-Navy-Selects-GE-Aerospace-to-Power-New-KDDX-Destroyer.png",
-        "section": "nyheter"
-      },
-      {
         "title": "GAO Report on Attack Submarine Maintenance Challenges",
         "url": "https://news.usni.org/2026/09/01/gao-report-on-attack-submarine-maintenance-challenges",
         "published": "2026-09-01T13:37:05Z",
@@ -211,16 +221,6 @@
         "language": "en",
         "summary": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7K6CSJPW4FFZRPI24I2I4JRLDQ.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy Eyes 2028 Installation of SPY-6 Radar on Zumwalt-class Destroyers",
-        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-2028-spy6-radar-zumwalt-destroyers/",
-        "published": "2026-09-01T12:08:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Raytheon and the US Navy explore accelerating the AN/SPY-6(V)3 radar retrofit on DDG-1000 Zumwalt-class destroyers to as early as 2028.\nThe post US Navy Eyes 2028 Installation of SPY-6 Radar on Zumwalt-class Destroyers appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -285,6 +285,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Kystverket endrer fartsgrenser i fire kommuner",
+        "url": "https://www.kystverket.no/nyheter/ny-sidekystverket-endrer-fartsgrenser-i-fire-kommuner/",
+        "published": "2026-09-04T08:45:44Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket har vedtatt endringer i de statlige fartsgrensene i Måsøy, Frosta, Stranda og Asker...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Ny rapport om U-864 overlevert til Nærings- og fiskeridepartementet",
         "url": "https://www.kystverket.no/nyheter/ny-rapport-om-u-864-overlevert-til-narings--og-fiskeridepartementet/",
@@ -357,6 +367,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "SubSea Craft Unveils Modular Payload Cassettes for MARS USV",
+        "url": "https://www.navalnews.com/naval-news/2026/09/subsea-craft-unveils-modular-payload-cassettes-for-mars-usv/",
+        "published": "2026-09-04T14:22:10Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "SubSea Craft has unveiled a new modular payload cassette system for its MARS USV, enabling rapid, two-person field exchanges of loitering munitions, UAVs, and sonobuoys.\nThe post SubSea Craft Unveils Modular Payload Cassettes for MARS USV appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/MARS-Anduril-ALTIUS.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "US Army launches laser production with $465M contract award",
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",

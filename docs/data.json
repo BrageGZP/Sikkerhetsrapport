@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-09-03T16:14:00Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-04T08:17:21Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "VIDEO: Navy, Marines Interdict Second Suspected Narco Refueling Station",
+        "url": "https://news.usni.org/2026/09/03/video-navy-marines-interdict-second-suspected-narco-refueling-station",
+        "published": "2026-09-03T20:25:16Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Sailors and Marines assigned to USS San Antonio (LPD-17) interdicted and destroyed a second suspected narco logistics vessel in the Eastern Pacific on Wednesday in coordination with Ecuadorian forces as part of Joint Task Force Western Hemisphere, reads a statement from U.S. Southern Command. Sailors and Marines, “interdicted, boarded, searched, and cleared the vessel without incident. Individuals removed from the vessel are being safely transferred to Ecuadorian Authorities. Once cleared, U.S. ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-4.12.11-PM.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Chinese Destroyer Involved in Fatal Collision Returns to South China Sea",
+        "url": "https://news.usni.org/2026/09/03/chinese-destroyer-involved-in-fatal-collision-returns-to-south-china-sea",
+        "published": "2026-09-03T19:50:30Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, PHILIPPINES – The PLAN destroyer that was involved in a fatal collision incident with a China Coast Guard cutter at Scarborough Shoal last summer is back in frontline service, according to recent military reports. Type 052D-class guided-missile destroyer Guilin (164) appeared with a combined flotilla under the People’s Liberation Army’s Southern Theater Command in the South China Sea on a Tuesday social media post. Sister ships Weinan (166), Changsha (173) and Guiyang (119) operated alon",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/image.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Singapore Lays Keel for Third Multi-Role Combat Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/09/singapore-lays-keel-for-third-multi-role-combat-vessel/",
+        "published": "2026-09-03T19:00:43Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On September 3, 2026, ST Engineering announced the keel-laying ceremony of the third Multi-Role Combat Vessel (MRCV) for the Republic of Singapore Navy The ceremony took place at ST Engineering Marine and was officiated by Singapore’s Permanent Secretary (Defence), Joseph Leong. Republic of Singapore Navy Chief Rear Admiral Sean Wat attended with representatives from the ...\nThe post Singapore Lays Keel for Third Multi-Role Combat Vessel appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/1788425229841-1024x683.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "Keel laid for first Fleet Solid Support ship as assembly begins at Appledore",
         "url": "https://www.navalnews.com/naval-news/2026/09/keel-laid-for-first-fleet-solid-support-ship-as-assembly-begins-at-appledore/",
@@ -74,16 +104,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy postpones new trainer jet proposal, award dates",
-        "url": "https://breakingdefense.com/2026/09/navy-postpones-new-trainer-jet-proposal-award-dates/",
-        "published": "2026-09-02T14:12:21Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Textron Aviation Defense and SNC are currently competing for the Navy&#8217;s  Undergraduate Jet Training System program.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Goshawk-scaled-e1780668938549-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy RFI Details Plans for Carrier-Based Collaborative Combat Aircraft (CCA)",
         "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-rfi-carrier-based-collaborative-combat-aircraft-cca/",
         "published": "2026-09-02T13:06:20Z",
@@ -91,16 +111,6 @@
         "language": "en",
         "summary": "The U.S. Navy officially issued an RFI for carrier-based Collaborative Combat Aircraft (CCA) to boost air wing mass alongside F/A-18E/F and F-35C fighters.\nThe post US Navy RFI Details Plans for Carrier-Based Collaborative Combat Aircraft (CCA) appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/02/marks-another-aviation-first-yfq-42a-1024x538.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Sweden to ‘evaluate’ adding French long-range strike missiles to new frigates",
-        "url": "https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates/",
-        "published": "2026-09-02T10:30:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "After inking a €4.3 billion frigate deal, Sweden’s defense minister told Breaking Defense Stockholm was keeping an “open mind” about additional cruise missiles.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260901_france_sweden_frigate_signing_JONAS-scaled-e1788281372436-1024x577.jpeg",
         "section": "nyheter"
       },
       {
@@ -131,16 +141,6 @@
         "language": "en",
         "summary": "The German Navy completed a successful live-fire trial of IAI’s Naval LORA ballistic missile as part of its Marine 2035 OPEX initiative. IAI press release The missile was launched from an operational German vessel that comprises a command trailer and a launcher. Under both scenarios, the missile was launched to its trajectory, navigated its course ...\nThe post German Navy Conducts Firing with IAI&#8217;s Naval LORA Ballistic Missile appeared first on Naval News.",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Trump to formally nominate Cao as Navy Secretary",
-        "url": "https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary/",
-        "published": "2026-09-01T23:59:59Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Navy veteran Hung Cao has been the service&#8217;s acting secretary since April.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/cao-scaled-e1740749286984-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -224,16 +224,6 @@
         "section": "nyheter"
       },
       {
-        "title": "TKMS and Fincantieri Expand Strategic Partnership in Underwater Sector",
-        "url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-fincantieri-expand-strategic-partnership-in-underwater-sector/",
-        "published": "2026-09-01T10:02:11Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "German shipbuilder TKMS and Italy's Fincantieri join forces to strengthen European underwater defense capabilities, targeting a joint framework by year-end.\nThe post TKMS and Fincantieri Expand Strategic Partnership in Underwater Sector appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Fleet and Marine Tracker: Aug. 31, 2026",
         "url": "https://news.usni.org/2026/08/31/usni-news-fleet-and-marine-tracker-aug-31-2026",
         "published": "2026-08-31T17:57:58Z",
@@ -291,16 +281,6 @@
         "language": "en",
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Strait of Malacca Aircraft carrier USS Abraham Lincoln (CVN-72) entered the north end of the Malacca Strait on Friday, according to automatic identification system data. The AIS data also showed cruiser USS Robert Smalls (CG-62) from the George Washington Carrier Strike Group accompanying the carrier.  Earlier on Friday, AIS data showed destroyer USS Frank E. Petersen Jr. (DDG-121)",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9884720-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
-        "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
-        "published": "2026-08-27T21:46:58Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installations command announced Thursday. The Navy installed new furnishings and renovated the living quarters at Naval Base Kitsap-Bremerton, Wash., one of the Navy’s bases where ship maintenance occurs, according to a Commander, Navy Installations Command news release. As part of a quality of life initiative, the Navy renovated a 10-story",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
         "section": "nyheter"
       }
     ],
@@ -378,6 +358,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "US Army launches laser production with $465M contract award",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
+        "published": "2026-09-03T19:54:51Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UFIKCIJ4NZAOTLTBGRZHXW3YFQ.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Marines Stage Hornet Maritime Strike Package off Japan",
         "url": "https://news.usni.org/2026/09/01/marines-stage-hornet-maritime-strike-package-off-japan",
         "published": "2026-09-01T17:33:02Z",
@@ -405,16 +395,6 @@
         "language": "en",
         "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. General Dynamics NASSCO delivered the future USS Hector A. Cafferata Jr. (ESB-8) to the Navy on Tuesday in San Diego following sea trials earlier this summer. Expeditionary Sea Bases have historically been forward deployed and used as a host for both mine countermeasures and special operations forces. “Our ESBs are critical to marit",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/08/646765557_1553906026735300_4785548589680734951_n.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Marine Corps Lab Accepts Surface Craft Prototype",
-        "url": "https://news.usni.org/2026/08/25/marine-corps-lab-accepts-surface-craft-prototype",
-        "published": "2026-08-25T15:14:22Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Marine Corps Warfighting Laboratory recently accepted the first of two Ancillary Surface Craft prototypes, according to a news release published last week. Ancillary Surface Craft are designed to provide transportation of personnel and supplies to shallow-gradient, unimproved and unsurveyed shorelines. The craft are meant to be able to conduct oceanic transits on its own in contrast to existing platforms like the Landing Craft Air Cushion, which has to be embarked on an amphibious ship. The ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9877983.jpg",
         "section": "rov_teknologi"
       }
     ]

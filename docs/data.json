@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-06T15:18:27Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-07T08:43:00Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions",
+        "url": "https://www.navalnews.com/naval-news/2026/09/indian-navy-1000km-ship-based-loitering-munitions/",
+        "published": "2026-09-07T07:50:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Indian Navy has issued an RFI for 1,000 km range ship-based loitering munitions. Explore the specs, local contenders, and strategic impact.\nThe post Indian Navy Eyes 1,000 km Ship-Based Loitering Munitions appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/05/Maritime-Harop-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy Accelerates Tomahawk Production Citing ‘Current International Conflict’",
         "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-accelerates-tomahawk-missile-production/",
@@ -141,16 +151,6 @@
         "language": "en",
         "summary": "On September 1, 2026, TKMS announced the delivery of the INS DRAKON, the third and final submarine of the HDW “Dolphin” class, to the Israeli Navy. TKMS press release The third and final submarine of the HDW “Dolphin” class, equipped with AIP propulsion, has left Germany and is on its way to Israel.&#160; With the ...\nThe post TKMS Delivers INS Drakon to Israel: Final Dolphin-class Submarine Features New Missile Capability appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/1788288014734-1024x655.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Japan Seeks AARGM-ER to Suppress Enemy Warship Air Defenses",
-        "url": "https://www.navalnews.com/naval-news/2026/09/japan-aargm-er-warship-air-defense-anti-ship/",
-        "published": "2026-09-03T07:08:11Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japan seeks the U.S. AARGM-ER missile in its FY2027 budget to suppress enemy warship air defenses and enable long-range anti-ship strikes.\nThe post Japan Seeks AARGM-ER to Suppress Enemy Warship Air Defenses appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/05/U.S.-Navy-Completes-Captive-Carry-Test-of-AARGM-ER-missile-Aboard-Super-Hornet-1024x731.jpg",
         "section": "nyheter"
       },
       {
@@ -332,16 +332,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "En ny digital løsning gjør det enklere for sjøfarende å melde inn feil på sjømerker, drivende...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "KUNNGJØRING: Salg av utdypingsmasser i forbindelse med prosjektet Nordlig innseiling Haugesund",
-        "url": "https://www.kystverket.no/nyheter/kunngjoring--salg-av-utdypingsmasser-i-forbindelse-med-prosjektet-nordlig-innseiling-haugesund/",
-        "published": "2026-07-09T07:12:22Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket skal gjennomføre utdypingsarbeider ved den nordlige innseilingen til Haugesund....",
         "image_url": "",
         "section": "regelverk"
       }

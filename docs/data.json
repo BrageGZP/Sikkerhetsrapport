@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:38:33Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-08T08:23:56Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -69,7 +69,7 @@
         "published": "2026-09-04T16:33:21Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "&#160; &#160; U.S.Central Command forces struck three Iranian crude oil carriers Saturday, the recent in a series of U.S. strikes on Iranian targets. The strikes on the tankers came after the Islamic Revolutionary Guard Corps launched ballistic missiles toward an aircraft carrier and a guided-missile destroyer. The U.S. warships evaded the missiles, and no personnel were harmed. CENTCOM forces permanently disabled MT Downy (IMO: 9218480) off the coast of Kharg Island and MT Stark 1 (IMO: 9171450",
+        "summary": "U.S.Central Command forces struck three Iranian crude oil carriers Saturday, the recent in a series of U.S. strikes on Iranian targets. The strikes on the tankers came after the Islamic Revolutionary Guard Corps launched ballistic missiles toward an aircraft carrier and a guided-missile destroyer. The U.S. warships evaded the missiles, and no personnel were harmed. CENTCOM forces permanently disabled MT Downy (IMO: 9218480) off the coast of Kharg Island and MT Stark 1 (IMO: 9171450) off the coas",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-12.27.48-PM.png",
         "section": "nyheter"
       },
@@ -241,16 +241,6 @@
         "language": "en",
         "summary": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7K6CSJPW4FFZRPI24I2I4JRLDQ.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Aug. 31, 2026",
-        "url": "https://news.usni.org/2026/08/31/usni-news-fleet-and-marine-tracker-aug-31-2026",
-        "published": "2026-08-31T17:57:58Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 31, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 99 (USS 70, USNS 29) (39 FDNF, 60 Rotational) 79 (51 Deployed, 28 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_27_26.jpg",
         "section": "nyheter"
       }
     ],

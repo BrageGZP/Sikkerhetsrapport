@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-08T08:23:56Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-08T16:26:27Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Greece and Italy Ink Deal for Two FREMM Frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/09/greece-italy-ink-deal-two-fremm-frigates/",
+        "published": "2026-09-08T13:32:54Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Greece and Italy have signed an agreement activating the Hellenic Navy’s acquisition of two Bergamini-class FREMM frigates, scheduled for transfer in 2028 and 2029.\nThe post Greece and Italy Ink Deal for Two FREMM Frigates appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/FREMM-agreement-Rome-1024x681.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Spanish Navy Selects MBDA’s SIMBAD RC to Fill VSHORAD Defense Gap",
+        "url": "https://www.navalnews.com/naval-news/2026/09/mbda-simbad-rc-spanish-navy/",
+        "published": "2026-09-08T10:02:08Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Spanish Navy selects MBDA’s SIMBAD RC VSHORAD system for its F80 frigates and Juan Carlos I LHD, with plans to expand across the surface fleet.\nThe post Spanish Navy Selects MBDA’s SIMBAD RC to Fill VSHORAD Defense Gap appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/New-SIMBAD-RC-4-mbda-1024x590.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Hung Cao Needs House, Senate Waivers for SECNAV Confirmation",
         "url": "https://news.usni.org/2026/09/07/hung-cao-needs-house-senate-waivers-for-secnav-confirmation",
@@ -124,26 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Singapore Lays Keel for Third Multi-Role Combat Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/09/singapore-lays-keel-for-third-multi-role-combat-vessel/",
-        "published": "2026-09-03T19:00:43Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On September 3, 2026, ST Engineering announced the keel-laying ceremony of the third Multi-Role Combat Vessel (MRCV) for the Republic of Singapore Navy The ceremony took place at ST Engineering Marine and was officiated by Singapore’s Permanent Secretary (Defence), Joseph Leong. Republic of Singapore Navy Chief Rear Admiral Sean Wat attended with representatives from the ...\nThe post Singapore Lays Keel for Third Multi-Role Combat Vessel appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/1788425229841-1024x683.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Keel laid for first Fleet Solid Support ship as assembly begins at Appledore",
-        "url": "https://www.navalnews.com/naval-news/2026/09/keel-laid-for-first-fleet-solid-support-ship-as-assembly-begins-at-appledore/",
-        "published": "2026-09-03T15:36:47Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Navantia UK has laid the keel of RFA Resurgent at its Appledore shipyard in North Devon, marking the formal start of assembly of the first of three new Fleet Solid Support vessels for the Royal Fleet Auxiliary.  Navantia press release The milestone was marked by the lowering of the first block, a section of RFA ...\nThe post Keel laid for first Fleet Solid Support ship as assembly begins at Appledore  appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Appledore-2.png",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S., U.K. Forces Use Virtual Summer Exercises to Go the Distance",
         "url": "https://news.usni.org/2026/09/03/u-s-u-k-forces-use-virtual-summer-exercises-to-go-the-distance",
         "published": "2026-09-03T15:06:33Z",
@@ -212,39 +212,19 @@
         "summary": "Japan’s Ministry of Defense has requested a record 8.9 trillion yen – or $55.6 billion – for its Fiscal Year 2027 Defense Budget to prioritize artificial intelligence, unmanned capabilities and long-range strike capabilities, according to budgetary documents released Monday. The Ministry of Defense is seeking to transform Japan’s military capabilities to adapt to what it calls “new ways of warfare” as the archipelago country “faces the most severe and complex security environment since the end o",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-3.05.08-PM.png",
         "section": "nyheter"
-      },
-      {
-        "title": "GAO Report on Attack Submarine Maintenance Challenges",
-        "url": "https://news.usni.org/2026/09/01/gao-report-on-attack-submarine-maintenance-challenges",
-        "published": "2026-09-01T13:37:05Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Aug. 27, 2026, Government Accountability Office report Navy Readiness: Actions Needed to Address Costly Attack Submarine Maintenance Challenges. From the Report The U.S. Navy&#8217;s attack submarines gather intelligence undetected and attack enemy targets. 10 years of maintenance delays for these submarines have resulted in over 15,000 lost operational days and an estimated $3.4 billion in costs. Additional delays are on the rise as submarines wait to be decommissioned—take",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
-        "published": "2026-09-01T13:23:27Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy has submitted a Request for Information that reveals new specifications for its future carrier-based Combat Collaborative Aircraft.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SKHOAFGPBNCBNIYRXUBWPB5PSU.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
-        "url": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/",
-        "published": "2026-09-01T12:26:59Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7K6CSJPW4FFZRPI24I2I4JRLDQ.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Nå starter utbyggingen av Kjøllefjord fiskerihavn – inviterer til folkemøte",
+        "url": "https://www.kystverket.no/nyheter/na-starter-utbyggingen-av-kjollefjord-fiskerihavn--inviterer-til-folkemote/",
+        "published": "2026-09-08T08:10:30Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket og NCC gjør seg nå klare for oppstart av utbyggingen av Kjøllefjord fiskerihavn....",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket endrer fartsgrenser i fire kommuner",
         "url": "https://www.kystverket.no/nyheter/ny-sidekystverket-endrer-fartsgrenser-i-fire-kommuner/",

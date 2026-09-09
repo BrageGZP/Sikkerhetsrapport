@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-09T08:26:46Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-09T16:23:06Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Congressional Report on Potential TBIs, Mental Health Risks in Naval Aviation",
+        "url": "https://news.usni.org/2026/09/09/congressional-report-on-potential-tbis-mental-health-risks-in-naval-aviation",
+        "published": "2026-09-09T14:48:12Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is “Unseen Impacts: An Investigation into the Navy’s Response to Potential Traumatic Brain Injury and Mental Health Risks in Naval Aviation” published on Sept. 8, 2026, by the House Committee on Oversight and Government Reform Subcommittee on Military and Foreign Affairs. From the Report Executive Summary Following reporting by The New York Times about an epidemic of potential brain injuries in naval aviators contributing to suicide, the House Committee on Oversight and Government ",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense",
+        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-l3harris-vampire-counter-drone/",
+        "published": "2026-09-09T14:22:49Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "L3Harris Technologies has been awarded a contract to deliver its VAMPIRE (Vehicle-Agnostic Modular Palletized ISR Rocket Equipment) counter-unmanned system to the U.S. Navy for littoral defense against drone threats.\nThe post US Navy Selects L3Harris VAMPIRE for Littoral Counter-Drone Defense appeared first on Naval News.",
+        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
+        "published": "2026-09-09T13:30:36Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TXGOMRWIQBGFXGOB64RKHTERYU.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program",
+        "url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-selected-as-preferred-bidder-for-thailands-next-generation-frigate-program/",
+        "published": "2026-09-09T12:13:44Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Hanwha Ocean has been selected as the preferred bidder for the Royal Thai Navy’s next-generation frigate procurement program.\nThe post Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Hanwha-Ocean-Thai-Next-gen-Frigate-CG_2-1024x492.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "DNV and Fassmer to Cooperate on Autonomous Naval Vessels",
+        "url": "https://www.navalnews.com/naval-news/2026/09/dnv-and-fassmer-to-cooperate-on-autonomous-naval-vessels/",
+        "published": "2026-09-09T09:48:49Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "DNV and Fr. Fassmer GmbH &#38; Co. KG have signed a Memorandum of Understanding (MoU) to jointly develop and classify autonomous and remotely operated vessels for naval and government customers. The signing took place at the SMM trade fair in Hamburg. Fassmer press release The partnership supports Fassmer&#8217;s growing portfolio of unmanned systems. DNV will ...\nThe post DNV and Fassmer to Cooperate on Autonomous Naval Vessels appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "South Korea supercharges defense budget to record levels",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/",
+        "published": "2026-09-09T09:23:05Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "South Korea's record defense budget comes amid disparaging comments about Seoul's alliance with the United States by its president, Donald Trump.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NJNCPEFWIVC2ZMDH2PSTHJWDRQ.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "US and German Navies Conduct Minelaying Operations During REPMUS 26",
+        "url": "https://www.navalnews.com/naval-news/2026/09/us-german-navies-minelaying-repmus-26/",
+        "published": "2026-09-09T08:32:03Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "US and German navies conducted exercise minelaying operations aboard Portuguese patrol vessel NRP Figueira da Foz during NATO exercise REPMUS 26.\nThe post US and German Navies Conduct Minelaying Operations During REPMUS 26 appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Minelaying-Operations-During-REPMUS-26-3-768x1024.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Iran says it captured US submarine drone in Strait of Hormuz",
         "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
@@ -114,26 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy Accelerates Tomahawk Production Citing ‘Current International Conflict’",
-        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-accelerates-tomahawk-missile-production/",
-        "published": "2026-09-06T12:15:50Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Citing a \"current international conflict\", the U.S. Navy is modifying a SLAM-ER contract with General Dynamics to fast-track Tomahawk warhead production.\nThe post U.S. Navy Accelerates Tomahawk Production Citing &#8216;Current International Conflict&#8217; appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/7707414-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "KONGSBERG StrikeMaster Deploys to Jan Mayen for NATO Arctic Exercise",
-        "url": "https://www.navalnews.com/naval-news/2026/09/kongsberg-strikemaster-jan-mayen-nato-exercise/",
-        "published": "2026-09-05T07:48:04Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A KONGSBERG StrikeMaster launcher deployed to Jan Mayen for NATO’s Operation Atlantic City, bringing mobile anti-ship missile capabilities to the Arctic.\nThe post KONGSBERG StrikeMaster Deploys to Jan Mayen for NATO Arctic Exercise appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/StrikeMaster-Jan-Mayen-1-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media",
         "url": "https://news.usni.org/2026/09/04/u-s-iran-trade-strikes-in-strait-of-hormuz-as-both-battle-on-social-media",
         "published": "2026-09-04T16:33:21Z",
@@ -141,26 +191,6 @@
         "language": "en",
         "summary": "U.S.Central Command forces struck three Iranian crude oil carriers Saturday, the recent in a series of U.S. strikes on Iranian targets. The strikes on the tankers came after the Islamic Revolutionary Guard Corps launched ballistic missiles toward an aircraft carrier and a guided-missile destroyer. The U.S. warships evaded the missiles, and no personnel were harmed. CENTCOM forces permanently disabled MT Downy (IMO: 9218480) off the coast of Kharg Island and MT Stark 1 (IMO: 9171450) off the coas",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-12.27.48-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Fixing the machine: Inside the Navy’s race to rebuild its aviator pipeline",
-        "url": "https://breakingdefense.com/2026/09/fixing-the-machine-inside-the-navys-race-to-rebuild-its-aviator-pipeline/",
-        "published": "2026-09-04T15:47:45Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "An in-depth discussion with the service&#8217;s chief of Naval Air Training Command.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships",
-        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-certifies-rolls-royce-mtu-engines-for-autonomous-ships/",
-        "published": "2026-09-04T09:49:28Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Rolls-Royce announced that its MTU Series 4000 and Series 2000 marine engines have received certification from the U.S. Navy for use in autonomous naval vessel operations, marking a significant milestone in the advancement of unmanned maritime capabilities. Rolls-Royce press release After passing two 720-hour durability tests, mtu Series 4000 engines were certified for use in ...\nThe post US Navy Certifies Rolls-Royce mtu Engines for Autonomous Ships appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -181,16 +211,6 @@
         "language": "en",
         "summary": "The U.S. military and U.K’s Royal Navy have conducted separate virtual exercises throughout the summer, simulating large scale operations with partner nations across the globe. Valiant Shield 2026 saw live U.S. pilots, high-fidelity virtual simulators and constructive computer-generated forces operate together in realistic scenarios across air, land, sea, space and cyber domains, according to a news release last week from Andersen Air Base in Guam. The virtual exercise linked key command and con",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/FRPUE-20260713-XF0124-009.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
-        "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
-        "published": "2026-09-03T12:58:34Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IYHD67WXDZFPFCCL7Y2LGSVLC4.jpg",
         "section": "nyheter"
       },
       {
@@ -308,16 +328,6 @@
         "section": "rov_teknologi"
       },
       {
-        "title": "SubSea Craft Unveils Modular Payload Cassettes for MARS USV",
-        "url": "https://www.navalnews.com/naval-news/2026/09/subsea-craft-unveils-modular-payload-cassettes-for-mars-usv/",
-        "published": "2026-09-04T14:22:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "SubSea Craft has unveiled a new modular payload cassette system for its MARS USV, enabling rapid, two-person field exchanges of loitering munitions, UAVs, and sonobuoys.\nThe post SubSea Craft Unveils Modular Payload Cassettes for MARS USV appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/MARS-Anduril-ALTIUS.jpg",
-        "section": "rov_teknologi"
-      },
-      {
         "title": "US Army launches laser production with $465M contract award",
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
         "published": "2026-09-03T19:54:51Z",
@@ -335,16 +345,6 @@
         "language": "en",
         "summary": "The U.S. Marine Corps sortied anti-ship missile-equipped Hornets off Japan last month, showcasing its maritime strike capabilities. Ten F/A-18 Hornet fighters from Marine Fighter Attack Squadron 232 took off from U.S. Marine Corps Air Station Iwakuni with AGM-84D Harpoon anti-ship missiles on Aug. 19. According to a spokesperson with Marine Air Group 12, the maritime strike drill “provides a glimpse into the sizable maritime strike package and combat power” that the service’s tactical fighters c",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9877159-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy Wants New Standoff Aerial Torpedo for Carrier Aircraft",
-        "url": "https://news.usni.org/2026/08/28/u-s-navy-wants-new-standoff-aerial-torpedo-for-carrier-aircraft",
-        "published": "2026-08-28T15:55:59Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy is looking to develop a next-generation standoff torpedo that can be carried by carrier-based aircraft and drones, USNI News has learned. A request for information detailing the Silent Anvil Air-Launched Torpedo (SAA-LT) was released by Naval Air Systems Command on Tuesday. According to the document, the sea service wants to field a small diameter bomb-sized anti-submarine weapon weighing up to 268 pounds to strike subsurface targets at range. “SAA-LT is a next-generation Anti-Subm",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/8268771-scaled.jpg",
         "section": "rov_teknologi"
       }
     ]

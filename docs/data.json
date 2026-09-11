@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-09-10T16:12:56Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-11T08:22:46Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "EDGE Delivers HT-100 NAVAL VTOL UAV to Angola",
+        "url": "https://www.navalnews.com/naval-news/2026/09/edge-delivers-ht-100-naval-vtol-uav-to-angola/",
+        "published": "2026-09-11T08:01:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "EDGE Group has announced the successful completion of Factory Acceptance Trials (FAT) for six ANAVIA HT-100 NAVAL unmanned helicopters (VTOL UAV), which have now been successfully delivered to the Angolan Navy under the landmark EUR 1 billion naval programme including three corvettes. EDGE Group press release The trials were conducted from 24 to 28 August ...\nThe post EDGE Delivers HT-100 NAVAL VTOL UAV to Angola appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/03/First-BR71-MKII-Corvette-for-Angola-2-1024x771.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
+        "url": "https://breakingdefense.com/2026/09/why-the-pentagon-picked-an-indiana-navy-base-to-host-a-nuclear-microreactor/",
+        "published": "2026-09-10T20:31:57Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a specific vendor and design.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/michael-dodd-scaled-e1789072270144-1024x577.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
         "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
@@ -214,16 +234,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Spanish Navy Selects MBDA’s SIMBAD RC to Fill VSHORAD Defense Gap",
-        "url": "https://www.navalnews.com/naval-news/2026/09/mbda-simbad-rc-spanish-navy/",
-        "published": "2026-09-08T10:02:08Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Spanish Navy selects MBDA’s SIMBAD RC VSHORAD system for its F80 frigates and Juan Carlos I LHD, with plans to expand across the surface fleet.\nThe post Spanish Navy Selects MBDA’s SIMBAD RC to Fill VSHORAD Defense Gap appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/New-SIMBAD-RC-4-mbda-1024x590.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Hung Cao Needs House, Senate Waivers for SECNAV Confirmation",
         "url": "https://news.usni.org/2026/09/07/hung-cao-needs-house-senate-waivers-for-secnav-confirmation",
         "published": "2026-09-07T14:46:21Z",
@@ -251,16 +261,6 @@
         "language": "en",
         "summary": "U.S.Central Command forces struck three Iranian crude oil carriers Saturday, the recent in a series of U.S. strikes on Iranian targets. The strikes on the tankers came after the Islamic Revolutionary Guard Corps launched ballistic missiles toward an aircraft carrier and a guided-missile destroyer. The U.S. warships evaded the missiles, and no personnel were harmed. CENTCOM forces permanently disabled MT Downy (IMO: 9218480) off the coast of Kharg Island and MT Stark 1 (IMO: 9171450) off the coas",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-12.27.48-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chinese Destroyer Involved in Fatal Collision Returns to South China Sea",
-        "url": "https://news.usni.org/2026/09/03/chinese-destroyer-involved-in-fatal-collision-returns-to-south-china-sea",
-        "published": "2026-09-03T19:50:30Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES – The PLAN destroyer that was involved in a fatal collision incident with a China Coast Guard cutter at Scarborough Shoal last summer is back in frontline service, according to recent military reports. Type 052D-class guided-missile destroyer Guilin (164) appeared with a combined flotilla under the People’s Liberation Army’s Southern Theater Command in the South China Sea on a Tuesday social media post. Sister ships Weinan (166), Changsha (173) and Guiyang (119) operated alon",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/image.png",
         "section": "nyheter"
       }
     ],

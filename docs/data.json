@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:11:29Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-12T15:22:49Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
@@ -342,16 +342,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har signert kontrakt med NCC Norge AS for gjennomføring av prosjektet Kjøllefjord...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Her melder du inn feil på sjømerker og farer til sjøs",
-        "url": "https://www.kystverket.no/nyheter/her-melder-du-inn-feil-pa-sjomerker-og-farer-til-sjos/",
-        "published": "2026-07-14T11:30:18Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "En ny digital løsning gjør det enklere for sjøfarende å melde inn feil på sjømerker, drivende...",
         "image_url": "",
         "section": "regelverk"
       }

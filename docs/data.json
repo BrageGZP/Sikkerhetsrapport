@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-12T15:22:49Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-13T08:35:59Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "World’s First Naval Drone Duel Results In Ukrainian Success",
+        "url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/",
+        "published": "2026-09-12T18:30:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "In a world first, two naval drones engaged in combat. A Ukrainian Sargan-3000 USV sunk a Russian USV.\nThe post World’s First Naval Drone Duel Results In Ukrainian Success appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Ukraine-UUV-20260704-display.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Houthis Make Moves On Red Sea, U.S., Iran Go Tanker for Warship",
         "url": "https://news.usni.org/2026/09/11/houthis-make-moves-on-red-sea-u-s-iran-go-tanker-for-warship",
@@ -161,16 +171,6 @@
         "language": "en",
         "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TXGOMRWIQBGFXGOB64RKHTERYU.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program",
-        "url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-selected-as-preferred-bidder-for-thailands-next-generation-frigate-program/",
-        "published": "2026-09-09T12:13:44Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Hanwha Ocean has been selected as the preferred bidder for the Royal Thai Navy’s next-generation frigate procurement program.\nThe post Hanwha Ocean Selected as Preferred Bidder for Thailand’s Next-Generation Frigate Program appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Hanwha-Ocean-Thai-Next-gen-Frigate-CG_2-1024x492.jpg",
         "section": "nyheter"
       },
       {

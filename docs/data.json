@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-09-14T09:20:19Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-14T17:59:05Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Northrop drops off SNC-led Navy trainer team",
+        "url": "https://breakingdefense.com/2026/09/northrop-drops-off-snc-led-navy-trainer-team/",
+        "published": "2026-09-14T16:40:36Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "SNC will continue moving forward with its Freedom trainer offering for the Undergraduate Jet Training System program.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/250821_freedom_trainer_rendering_flying_SNC-1-1024x576.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Funding Subic Bay Shipyard Repair Expansion",
+        "url": "https://news.usni.org/2026/09/14/u-s-funding-subic-bay-shipyard-repair-expansion",
+        "published": "2026-09-14T14:35:24Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, PHILIPPINES – Washington is funding a project that will expand the maintenance and repair capability of a shipyard in the Philippines frequently used by U.S. Navy warships. The Subic Drydock Corporation, an American-owned firm operating out of the former U.S. naval station, revealed a partnership with the U.S. Trade and Development Agency last week in Manila during the Luzon Economic Corridor Investment Forum. According to a statement from the shipyard, the project involves a $1.4 millio",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/55354372114_06358ac210_o.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "L3Harris gets $4.7 billion deal to help boost Patriot interceptor production",
+        "url": "https://www.defensenews.com/industry/2026/09/14/l3harris-gets-47-billion-deal-to-help-boost-patriot-interceptor-production/",
+        "published": "2026-09-14T14:34:06Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The multibillion-dollar deals comes as the domestic and global demand for Patriot interceptors far outpaces the supply.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TPRIF5KCW5ASBF2G32F6YG7UBU.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "France Launches Procurement for New Embarked Long-Endurance USV",
+        "url": "https://www.navalnews.com/naval-news/2026/09/france-procurement-embarked-long-endurance-surface-drones/",
+        "published": "2026-09-14T13:08:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The French DGA has launched a formal tender for embarked, long-endurance surface drones to support French Navy ISR missions, but the technical requirements for the USV are quite challenging.\nThe post France Launches Procurement for New Embarked Long-Endurance USV appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/exail-drix-ISR-01_H8-1024x1024.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "KERSHIP launches the first OPV 60M for the Montenegrin Navy",
         "url": "https://www.navalnews.com/naval-news/2026/09/kership-launches-the-first-opv-60m-for-the-montenegrin-navy/",
@@ -104,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
-        "url": "https://breakingdefense.com/2026/09/why-the-pentagon-picked-an-indiana-navy-base-to-host-a-nuclear-microreactor/",
-        "published": "2026-09-10T20:31:57Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a specific vendor and design.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/michael-dodd-scaled-e1789072270144-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
         "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
         "published": "2026-09-10T16:07:37Z",
@@ -121,16 +151,6 @@
         "language": "en",
         "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part of Operation Atlantic City 26 and NATO’s Arctic Sentry enhanced Vigilance Activity. The expeditionary long-range fire systems were deployed to Norwegian city Trondheim and remote island Jan Mayen in the High North, for drills that ran from Aug. 26-Sept. 4. Imagery released by the Pentagon shows a Containerized Launching System bei",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Why Japan’s Industry is Pulling Back from the U.S. Navy Frigate Plan",
-        "url": "https://www.navalnews.com/features/2026/09/japan-industry-pulling-back-us-navy-frigate-plan/",
-        "published": "2026-09-10T12:21:38Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japanese defense industry stakeholders are growing hesitant over a potential U.S. Navy frigate deal, weighed down by heavy investment demands and domestic naval commitments.\nThe post Why Japan’s Industry is Pulling Back from the U.S. Navy Frigate Plan appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/11/FTFYvpzVIAAE9RK-1024x682.jpg",
         "section": "nyheter"
       },
       {
@@ -174,26 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "South Korea supercharges defense budget to record levels",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/",
-        "published": "2026-09-09T09:23:05Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "South Korea's record defense budget comes amid disparaging comments about Seoul's alliance with the United States by its president, Donald Trump.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NJNCPEFWIVC2ZMDH2PSTHJWDRQ.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-        "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
-        "published": "2026-09-09T02:03:19Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VHVPIB23ORGQNEOKPSLBSLARTU.JPG",
-        "section": "nyheter"
-      },
-      {
         "title": "Updated: Navy, Marines Interdict Fifth Suspected Narco Refueling Station",
         "url": "https://news.usni.org/2026/09/08/navy-marines-interdict-fourth-suspected-narco-refueling-station",
         "published": "2026-09-08T20:09:32Z",
@@ -231,26 +231,6 @@
         "language": "en",
         "summary": "North Korea commissioned the second Choe Hyon-class destroyer, Kang Kon (52), on Sunday at Wonsan Port, state media Korean Central News Agency reported. Kang Kon was commissioned in a ceremony overseen by North Korean leader Kim Jong Un. During the speech, Kim addressed the commanding officer and crew of Kang Kon, telling them that they will soon be assigned with a strategic mission. The 5,000-ton destroyer is included in North Korea’s nuclear counteraction system. Kang Kon is assigned to North ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/983c74764d50d46eed473d67779f45baa12354a6e87df42cd43185519748323d.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hung Cao Needs House, Senate Waivers for SECNAV Confirmation",
-        "url": "https://news.usni.org/2026/09/07/hung-cao-needs-house-senate-waivers-for-secnav-confirmation",
-        "published": "2026-09-07T14:46:21Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Acting Secretary of the Navy Hung Cao will need a Congressional waiver from both the House and the Senate to be eligible for confirmation as the permanent SECNAV, USNI News has learned. In order to serve as a U.S. service secretary, nominees are required by law to have been retired from active-duty service for seven years. Cao, who was confirmed last year as Under Secretary of the Navy, is a 1996 U.S. Naval Academy graduate and served as an explosive ordnance disposal and diving officer. He reti",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9914031-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Trials Robotic Towed Connector to Refuel USV",
-        "url": "https://news.usni.org/2026/09/07/u-s-navy-trials-robotic-towed-connector-to-refuel-usv",
-        "published": "2026-09-07T12:28:50Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy trialled a robotic towed connector to repeatedly capture, refuel and release an unmanned surface vessel (USV) last month as the sea service seeks to enable persistent unmanned operations at sea, according to a Tuesday news release. The trial, which occurred Aug. 11, involved an underway refueling demonstration designed for USVs carried out by Naval Air Warfare Center Weapons Division (NAWCD) Blue Water Instrumentation (BWI) and BWI’s Future Capabilities Office fleet management team",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9907269-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -365,16 +345,6 @@
         "language": "en",
         "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Marines Stage Hornet Maritime Strike Package off Japan",
-        "url": "https://news.usni.org/2026/09/01/marines-stage-hornet-maritime-strike-package-off-japan",
-        "published": "2026-09-01T17:33:02Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Marine Corps sortied anti-ship missile-equipped Hornets off Japan last month, showcasing its maritime strike capabilities. Ten F/A-18 Hornet fighters from Marine Fighter Attack Squadron 232 took off from U.S. Marine Corps Air Station Iwakuni with AGM-84D Harpoon anti-ship missiles on Aug. 19. According to a spokesperson with Marine Air Group 12, the maritime strike drill “provides a glimpse into the sizable maritime strike package and combat power” that the service’s tactical fighters c",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9877159-scaled.jpg",
         "section": "rov_teknologi"
       }
     ]

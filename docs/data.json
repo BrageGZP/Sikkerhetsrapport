@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-15T09:01:57Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-15T16:44:08Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
-        "title": "Festskrift til Hærens jubileum i 1928",
-        "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-15T09:02:04Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
-        "image_url": "",
+        "title": "Russian frigate fires flares towards Danish military helicopter",
+        "url": "https://www.defensenews.com/global/europe/2026/09/15/russian-frigate-fires-flares-towards-danish-military-helicopter/",
+        "published": "2026-09-15T15:26:22Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "A Russian frigate fired two flares towards a Danish military helicopter sent to photograph it in international waters off Denmark on Monday.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WRDXUYU6BRAV5OTZ57XRXYBZHE.jpg",
         "section": "nyheter"
       },
       {
@@ -355,16 +355,6 @@
         "language": "en",
         "summary": "Ultra Maritime announces its complete portfolio of five core production-ready sonobuoys, boosting global anti-submarine warfare (ASW) and naval readiness.\nThe post Ultra Maritime Unveils Complete Suite of Production-Ready U.S.-Spec Sonobuoys appeared first on Naval News.",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Iran likely to reverse-engineer captured US underwater drone",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
-        "published": "2026-09-10T14:26:04Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
         "section": "rov_teknologi"
       }
     ]

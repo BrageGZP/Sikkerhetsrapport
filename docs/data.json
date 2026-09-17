@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-09-16T16:37:01Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-17T08:59:02Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Festskrift til Hærens jubileum i 1928",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-16T16:37:08Z",
+        "published": "2026-09-17T08:59:11Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
         "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "OSK Design Unveils Coastal Corvette Concept to Fill Danish Fleet Gap",
+        "url": "https://www.navalnews.com/naval-news/2026/09/osk-design-coastal-corvette-denmark/",
+        "published": "2026-09-17T08:30:20Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "OSK Design unveiled a 95-meter Coastal Corvette concept at DALO Industry Days 2026, offering the Royal Danish Navy a heavy-armed, modular solution to fill its fleet capability gap.\nThe post OSK Design Unveils Coastal Corvette Concept to Fill Danish Fleet Gap appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/OSK-Design-Coastal-Corvette-3-1024x498.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy, Pentagon Enter Into $1.7 Billion Housing Expansion in Newport News",
+        "url": "https://news.usni.org/2026/09/16/navy-pentagon-enter-into-1-7-billion-housing-expansion-in-newport-news",
+        "published": "2026-09-16T21:14:22Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Hunt Military Communities entered into a deal with the Pentagon and Navy to create a $1.7 billion development that will bring more unaccompanied housing for junior sailors in the Hampton Roads, Va., area, the sea service announced Wednesday.  The development, which will bring 8,098 beds through new construction and renovation projects, will replace the current Huntington Hall. In addition to housing, the new development is planned to include retail amenities, according to the Navy release.  The ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2023/05/1327013-1-4-scaled.jpg",
         "section": "nyheter"
       },
       {
@@ -164,16 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Quantum Systems launches Maritime domain, introducing Seavex and Subvex",
-        "url": "https://www.navalnews.com/naval-news/2026/09/quantum-systems-launches-maritime-domain-introducing-seavex-and-subvex/",
-        "published": "2026-09-14T19:35:37Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Quantum Systems expands into the maritime domain with Seavex and Subvex, introducing new autonomous surface and underwater systems integrated via MOSAIC UXS.\nThe post Quantum Systems launches Maritime domain, introducing Seavex and Subvex appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Quantum-Systems-Seavex-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Fleet and Marine Tracker: Sept. 14, 2026",
         "url": "https://news.usni.org/2026/09/14/usni-news-fleet-and-marine-tracker-sept-14-2026",
         "published": "2026-09-14T19:26:11Z",
@@ -191,16 +201,6 @@
         "language": "en",
         "summary": "MANILA, PHILIPPINES – Washington is funding a project that will expand the maintenance and repair capability of a shipyard in the Philippines frequently used by U.S. Navy warships. The Subic Drydock Corporation, an American-owned firm operating out of the former U.S. naval station, revealed a partnership with the U.S. Trade and Development Agency last week in Manila during the Luzon Economic Corridor Investment Forum. According to a statement from the shipyard, the project involves a $1.4 millio",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/55354372114_06358ac210_o.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "France Launches Procurement for New Embarked Long-Endurance USV",
-        "url": "https://www.navalnews.com/naval-news/2026/09/france-procurement-embarked-long-endurance-surface-drones/",
-        "published": "2026-09-14T13:08:17Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French DGA has launched a formal tender for embarked, long-endurance surface drones to support French Navy ISR missions, but the technical requirements for the USV are quite challenging.\nThe post France Launches Procurement for New Embarked Long-Endurance USV appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/06/exail-drix-ISR-01_H8-1024x1024.jpg",
         "section": "nyheter"
       },
       {
@@ -231,26 +231,6 @@
         "language": "en",
         "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part of Operation Atlantic City 26 and NATO’s Arctic Sentry enhanced Vigilance Activity. The expeditionary long-range fire systems were deployed to Norwegian city Trondheim and remote island Jan Mayen in the High North, for drills that ran from Aug. 26-Sept. 4. Imagery released by the Pentagon shows a Containerized Launching System bei",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Destroyer Makes Port Call in Africa",
-        "url": "https://news.usni.org/2026/09/09/u-s-destroyer-makes-port-call-in-africa",
-        "published": "2026-09-09T18:19:39Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "A Navy destroyer made a port call to Africa last week as the U.S. military considers new destinations for its warships amid longer deployments to support the war with Iran. USS Ross (DDG-71) pulled into Mombasa, Kenya, on Saturday for a planned stop, according to a Navy news release. The port call comes as deployments for U.S. Navy aircraft carriers and their escorts have been repeatedly extended amid the ongoing war between the U.S. and Iran. “Access to regional ports such as Mombasa supports t",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/USS-Ross.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Carrier HMS Queen Elizabeth Returns to Sea After Extended Repair Period",
-        "url": "https://news.usni.org/2026/09/09/carrier-hms-queen-elizabeth-returns-to-sea-after-extended-repair-period",
-        "published": "2026-09-09T16:38:49Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Royal Navy’s HMS Queen Elizabeth (R08) departed Saturday from Portsmouth, England, for a three-month deployment as the aircraft carrier prepares to return as the U.K. carrier strike group’s flagship. Queen Elizabeth will combine training and operations around the U.K. and Northern Europe. The three-month deployment marks the carrier’s return to service since it began a multi-phased maintenance and overhaul period in late 2024. Queen Elizabeth is expected in late 2027 to take the helm from si",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/HRh0_j8akAAVOHD.jpeg",
         "section": "nyheter"
       }
     ],
@@ -346,6 +326,17 @@
         "section": "regelverk"
       }
     ],
-    "rov_teknologi": []
+    "rov_teknologi": [
+      {
+        "title": "Video: MBDA Pitches Combat-Proven Aster Missiles to Royal Danish Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/09/mbda-combat-proven-aster-missiles-royal-danish-navy/",
+        "published": "2026-09-17T07:05:10Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "MBDA showcased combat-proven Aster missiles for the Royal Danish Navy at DALO Industry Days 2026, highlighting performance and new capabilities.\nThe post Video: MBDA Pitches Combat-Proven Aster Missiles to Royal Danish Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/FDI-Royal-Danish-Navy-DALO-2026-1024x576.jpg",
+        "section": "rov_teknologi"
+      }
+    ]
   }
 }

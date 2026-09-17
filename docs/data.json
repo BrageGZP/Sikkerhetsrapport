@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-09-17T08:59:02Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-17T16:43:45Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "Festskrift til Hærens jubileum i 1928",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-17T08:59:11Z",
+        "published": "2026-09-17T16:43:56Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
         "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
+        "url": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
+        "published": "2026-09-17T15:35:43Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DY4QLAFUJRF3FLYR6ONQGRIXUA.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
+        "url": "https://www.navalnews.com/naval-news/2026/09/tkms-atlas-uk-awarded-uk-mod-ngcm-torpedo-defence-system-contract/",
+        "published": "2026-09-17T14:50:33Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines.\nThe post TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK must focus on the Atlantic, ‘foundation’ of Britain’s security: Navy chief",
+        "url": "https://www.defensenews.com/global/europe/2026/09/17/uk-must-focus-on-the-atlantic-foundation-of-britains-security-navy-chief/",
+        "published": "2026-09-17T14:13:21Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Royal Navy is spending a growing amount of time and resources to monitor Russian vessels, on average devoting two British warships every week to it.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V3SNBGVHLJED5KH4XMAQ5JEQYI.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
+        "url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
+        "published": "2026-09-17T12:53:01Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta.\nThe post Indonesia&#8217;s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/ITS-Giuseppe-Garibaldi-arriving-in-Indonesia.-TNI-AL-picture-1024x680.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production",
+        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
+        "published": "2026-09-17T09:09:55Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy has awarded three prototype agreements to Conrad Shipyard, Master Boat Builders, and Saronic to accelerate LCU 1700 production.\nThe post U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Saronic-Port-Alpha-LCU-1700-1024x512.webp",
         "section": "nyheter"
       },
       {
@@ -84,26 +134,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul",
-        "url": "https://www.navalnews.com/naval-news/2026/09/hanwha-ocean-roks-sejong-the-great-overhaul/",
-        "published": "2026-09-16T07:58:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Hanwha Ocean has won a contract to overhaul ROKS Sejong-the-Great, marking the ROK Navy's first outsourced depot-level maintenance for a surface combatant.\nThe post Hanwha Ocean to Conduct ROK Navy’s First Outsourced Destroyer Overhaul appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "German Ministry of Defense to Procure an Additional Type 424 SIGINT Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/09/german-ministry-of-defense-to-procure-an-additional-type-424-sigint-vessel/",
-        "published": "2026-09-16T07:25:34Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The German Armed Forces (Bundeswehr) are set to receive a fourth Type 424 SIGINT (signals intelligence) vessel.\nThe post German Ministry of Defense to Procure an Additional Type 424 SIGINT Vessel appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "3 New Shipyards Tapped to Build LCU-1700s in $280M Deal",
         "url": "https://news.usni.org/2026/09/15/3-new-shipyards-tapped-to-build-lcu-1700s-in-280m-deal",
         "published": "2026-09-15T21:30:44Z",
@@ -154,36 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "China’s New Giant Submarine Drone Mothership",
-        "url": "https://www.navalnews.com/naval-news/2026/09/chinas-new-giant-submarine-drone-mothership/",
-        "published": "2026-09-15T08:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Satellite images reveal what appears to be the world's first submarine drone mothership under construction in China, marking a massive leap in uncrewed naval warfare.\nThe post China&#8217;s New Giant Submarine Drone Mothership appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Japan’s Defense Minister: Nuclear-Powered Submarines Will Not Be Ruled Out",
-        "url": "https://www.navalnews.com/naval-news/2026/09/japan-defense-minister-nuclear-powered-submarines/",
-        "published": "2026-09-15T05:54:36Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Japan’s Defense Minister Shinjiro Koizumi says nuclear-powered submarines will not be ruled out as Tokyo reviews its key national security documents.\nThe post Japan’s Defense Minister: Nuclear-Powered Submarines Will Not Be Ruled Out appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/JMSDF-Next-Gen-Submarine-VLS-1024x818.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
-        "published": "2026-09-15T01:13:26Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IG6VCDCMPZH4FA25RK5B2TZ3FE.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Fleet and Marine Tracker: Sept. 14, 2026",
         "url": "https://news.usni.org/2026/09/14/usni-news-fleet-and-marine-tracker-sept-14-2026",
         "published": "2026-09-14T19:26:11Z",
@@ -222,19 +222,19 @@
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the South China Sea Aircraft carrier USS Abraham Lincoln (CVN-72), cruiser USS Robert Smalls (CG-62), destroyer USS Frank E. Petersen Jr. (DDG-121) are operating in the South China Sea following their departure from Thailand on Sunday after completing a port visit. At Lumut Naval Base, Malaysia Indian Navy destroyer INS Mysore (D60) arrived Wednesday at Royal Malaysian Navy Lumut Naval",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9917077-1-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
-        "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
-        "published": "2026-09-10T16:07:37Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part of Operation Atlantic City 26 and NATO’s Arctic Sentry enhanced Vigilance Activity. The expeditionary long-range fire systems were deployed to Norwegian city Trondheim and remote island Jan Mayen in the High North, for drills that ran from Aug. 26-Sept. 4. Imagery released by the Pentagon shows a Containerized Launching System bei",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Bli med på beredskapsseminar i oktober",
+        "url": "https://www.kystverket.no/nyheter/bli-med-pa-beredskapsseminar-i-oktober/",
+        "published": "2026-09-17T12:13:48Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Fra nye energibærere til erfaringer fra faktiske aksjoner: Hvordan sikrer vi at beredskapen mot...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Den norske Cruisekonferansen 2027: Påmeldingen er åpnet",
         "url": "https://www.kystverket.no/nyheter/den-norske-cruisekonferansen-2027-pameldingen-er-apnet/",
@@ -327,6 +327,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Closing the Navy’s find, fix, and finish kill chain with remote mine hunting",
+        "url": "https://breakingdefense.com/2026/09/closing-the-navys-find-fix-and-finish-kill-chain-with-remote-mine-hunting/",
+        "published": "2026-09-17T12:27:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "[Sponsored] Remote mine hunting combines autonomy, AI, and advanced sonar to clear waterways faster with less danger.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/angler_02-1024x569.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics",
+        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-expands-hammerhead-anti-submarine-mine-production-with-general-dynamics/",
+        "published": "2026-09-17T11:53:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "General Dynamics Mission Systems has been awarded a contract modification by the U.S. Navy to continue development and delivery of the Hammerhead anti-submarine mine system.\nThe post U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/0x0.webp",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Video: MBDA Pitches Combat-Proven Aster Missiles to Royal Danish Navy",
         "url": "https://www.navalnews.com/naval-news/2026/09/mbda-combat-proven-aster-missiles-royal-danish-navy/",

@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-09-19T15:44:12Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-20T08:52:50Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Festskrift til Hærens jubileum i 1928",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-19T15:44:22Z",
+        "published": "2026-09-20T08:53:00Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
         "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Cochin Shipyard Lays Keel for Indian Navy’s First NGMV",
+        "url": "https://www.navalnews.com/naval-news/2026/09/cochin-shipyard-lays-keel-for-indian-navys-first-ngmv/",
+        "published": "2026-09-20T08:05:27Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Cochin Shipyard has laid the keel for the Indian Navy's first Next Generation Missile Vessel (NGMV), marking a major milestone for the stealth corvette program.\nThe post Cochin Shipyard Lays Keel for Indian Navy&#8217;s First NGMV appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/03/MFR-NGMV-1024x768.jpg",
         "section": "nyheter"
       },
       {
@@ -161,16 +171,6 @@
         "language": "en",
         "summary": "The U.S. Navy awarded $200 million this week for the production of low-cost Blackbeard hypersonic missiles that will be fielded from the sea service’s carrier-based fighters. On Monday, the Portfolio Acquisition Executive Aviation office and low-cost missile start-up Castelion announced the delivery order investment. The $200 million will support production of additional Blackbeards beyond the 50 early operational capability missiles previously funded in June. According to Defense Department con",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/mugu-web-05.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "First Virginia Payload Module (VPM) Spotted for U.S. Navy’s Block V Submarines",
-        "url": "https://www.navalnews.com/naval-news/2026/09/slug-first-virginia-payload-module-vpm-spotted-block-v-submarines/",
-        "published": "2026-09-16T16:02:28Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "General Dynamics Electric Boat has shared a photo showing the first completed Virginia Payload Module (VPM) for the U.S. Navy's Block V submarines, expanding strike capacity.\nThe post First Virginia Payload Module (VPM) Spotted for U.S. Navy&#8217;s Block V Submarines appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/07/US-Navy-Virginia-Block-V-Cutaway-1024x512.jpg",
         "section": "nyheter"
       },
       {

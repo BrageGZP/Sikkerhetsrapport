@@ -1,15 +1,25 @@
 {
-  "generated_at": "2026-09-20T15:51:50Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-21T09:22:54Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "Festskrift til Hærens jubileum i 1928",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-20T15:52:03Z",
+        "published": "2026-09-21T09:23:06Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
+        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
+        "published": "2026-09-21T07:30:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration.\nThe post U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray appeared first on Naval News.",
         "image_url": "",
         "section": "nyheter"
       },
@@ -355,16 +365,6 @@
         "language": "en",
         "summary": "General Dynamics Mission Systems has been awarded a contract modification by the U.S. Navy to continue development and delivery of the Hammerhead anti-submarine mine system.\nThe post U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/0x0.webp",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Video: MBDA Pitches Combat-Proven Aster Missiles to Royal Danish Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/09/mbda-combat-proven-aster-missiles-royal-danish-navy/",
-        "published": "2026-09-17T07:05:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "MBDA showcased combat-proven Aster missiles for the Royal Danish Navy at DALO Industry Days 2026, highlighting performance and new capabilities.\nThe post Video: MBDA Pitches Combat-Proven Aster Missiles to Royal Danish Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/FDI-Royal-Danish-Navy-DALO-2026-1024x576.jpg",
         "section": "rov_teknologi"
       }
     ]

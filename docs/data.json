@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-21T09:22:54Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-21T18:07:21Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "Festskrift til Hærens jubileum i 1928",
         "url": "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/haeren-400-ar/jubileet/haerens-400-arsjubileum-en-introduksjon/festskrift-til-haerens-jubileum-i-1928",
-        "published": "2026-09-21T09:23:06Z",
+        "published": "2026-09-21T18:07:34Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "14. januar 1928 kunne Forsvarsdepartementet melde om at to festskrift var utgitt i anledning «Hærens 300-års merkedag»; ett hver fra ‘Norsk Militært Tidsskrift’ og ‘Underofficersbladet’.",
@@ -14,23 +14,53 @@
         "section": "nyheter"
       },
       {
-        "title": "U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray",
-        "url": "https://www.navalnews.com/naval-news/2026/09/us-navy-boeing-mq-25a-stingray-production-contract/",
-        "published": "2026-09-21T07:30:05Z",
-        "source": "Naval News",
+        "title": "Feinberg’s closed-door meeting on the Hill",
+        "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill/",
+        "published": "2026-09-21T17:30:00Z",
+        "source": "Breaking Defense",
         "language": "en",
-        "summary": "The U.S. Navy and Boeing have officially launched production of the MQ-25A Stingray, advancing the carrier-based unmanned refueler toward 2029 fleet integration.\nThe post U.S. Navy and Boeing Ink First Production Contract for MQ-25A Stingray appeared first on Naval News.",
-        "image_url": "",
+        "summary": "Republicans are still pushing for a record-setting $1.5 trillion defense budget, but the way ahead on Capitol Hill is not yet clear.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/CRU34-pb-1024x576.png",
         "section": "nyheter"
       },
       {
-        "title": "Cochin Shipyard Lays Keel for Indian Navy’s First NGMV",
-        "url": "https://www.navalnews.com/naval-news/2026/09/cochin-shipyard-lays-keel-for-indian-navys-first-ngmv/",
-        "published": "2026-09-20T08:05:27Z",
-        "source": "Naval News",
+        "title": "USNI News Fleet and Marine Tracker: Sept. 21, 2026",
+        "url": "https://news.usni.org/2026/09/21/usni-news-fleet-and-marine-tracker-sept-21-2026",
+        "published": "2026-09-21T16:50:43Z",
+        "source": "USNI News",
         "language": "en",
-        "summary": "Cochin Shipyard has laid the keel for the Indian Navy's first Next Generation Missile Vessel (NGMV), marking a major milestone for the stealth corvette program.\nThe post Cochin Shipyard Lays Keel for Indian Navy&#8217;s First NGMV appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/03/MFR-NGMV-1024x768.jpg",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 21, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 104 (USS 74, USNS 30) (47 FDNF, 57 Rotational) 81 (55 Deployed, 26 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Jap",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/FT_9_21_26.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
+        "published": "2026-09-21T14:22:27Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Pentagon remains mum about defense contractors' plans to boost weapons production and delivery following a 21-day deadline for companies to send ideas.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YBSN5CBNHJBJ5IIQQY2XVJ32VQ.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Army Contracts First Batch of Maritime Precision Strike Missiles",
+        "url": "https://news.usni.org/2026/09/21/u-s-army-contracts-first-batch-of-maritime-precision-strike-missiles",
+        "published": "2026-09-21T14:19:47Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Army contracted the first batch of Precision Strike Missiles designed to strike moving maritime targets last week. Lockheed Martin was awarded $1.2 billion by the ground branch for work on the early operational capability munitions of PrSM Increment 2, a variant that integrates a new seeker capable of mobile targets, the Pentagon announced on Sept. 14. Work is expected to be completed by September of 2031, reads the Pentagon’s contracts page. The procurement of the maritime strike PrSM ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/8966743.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
+        "published": "2026-09-21T14:11:40Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The United States is watching China’s presence in its Arctic zone “very closely” amid increasing concerns, a senior U.S. Arctic military official said.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V4NCXAKUUFAF3AXFI53MKYONOE.jpg",
         "section": "nyheter"
       },
       {
@@ -44,16 +74,6 @@
         "section": "nyheter"
       },
       {
-        "title": "F127: Over-Reliance on U.S. Technology Is No Longer Appropriate",
-        "url": "https://www.navalnews.com/features/2026/09/f127-over-reliance-on-u-s-technology-is-outdated/",
-        "published": "2026-09-19T09:01:29Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Analyzing Germany&#8217;s F127 frigate program, this article by German defense media hartpunkt examines why relying heavily on the U.S. Aegis technology and ecosystem may undermine national sovereignty and defense readiness. By Lars Hoffman / hartpunkt The German Navy&#8217;s future F127 class air defense frigates are intended not only for area air defense, but also for ...\nThe post F127: Over-Reliance on U.S. Technology Is No Longer Appropriate appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: Sept. 18, 2026",
         "url": "https://news.usni.org/2026/09/18/usni-news-western-pacific-pulse-sept-18-2026",
         "published": "2026-09-18T18:13:01Z",
@@ -61,16 +81,6 @@
         "language": "en",
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Philippine Sea The Abraham Lincoln Carrier Strike Group is conducting routine operations in the U.S. 7th Fleet area of operations as it makes its way home to San Diego, Calif., following more than eight months in the Middle East.  Aircraft carrier USS Abraham Lincoln (CVN-72), destroyer USS Frank E. Petersen Jr. (DDG-121) and cruiser USS Robert Smalls (CG-62) transited the Surigao ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9942905-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "NAVANTIA Celebrates Naming of BAM-IS Submarine Rescue Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/09/navantia-celebrates-naming-of-bam-is-submarine-rescue-vessel/",
-        "published": "2026-09-18T15:23:03Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On September 18, 2026, Navantia celebrated the naming ceremony of the Spanish Navy&#8217;s new Underwater Intervention Maritime Action Vessel (BAM-IS), A-21&#160;Poseidón. Navantia press release The ceremony follows the successful float-out of the vessel earlier this week at Navantia&#8217;s Puerto Real shipyard and marks a major milestone in a programme that will significantly strengthen the Spanish ...\nThe post NAVANTIA Celebrates Naming of BAM-IS Submarine Rescue Vessel appeared first on Nava",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2020/11/Spanish-Navy-finally-getting-new-BAM-IS-submarine-rescue-ship-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -114,16 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract",
-        "url": "https://www.navalnews.com/naval-news/2026/09/tkms-atlas-uk-awarded-uk-mod-ngcm-torpedo-defence-system-contract/",
-        "published": "2026-09-17T14:50:33Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "TKMS ATLAS UK has been awarded a UK MOD contract to develop and supply the Next Generation Countermeasure (NGCM) system, enhancing torpedo defense for Royal Navy submarines.\nThe post TKMS ATLAS UK Awarded UK MOD NGCM Torpedo Defence System Contract appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "UK must focus on the Atlantic, ‘foundation’ of Britain’s security: Navy chief",
         "url": "https://www.defensenews.com/global/europe/2026/09/17/uk-must-focus-on-the-atlantic-foundation-of-britains-security-navy-chief/",
         "published": "2026-09-17T14:13:21Z",
@@ -131,36 +131,6 @@
         "language": "en",
         "summary": "The Royal Navy is spending a growing amount of time and resources to monitor Russian vessels, on average devoting two British warships every week to it.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V3SNBGVHLJED5KH4XMAQ5JEQYI.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Indonesia’s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters",
-        "url": "https://www.navalnews.com/naval-news/2026/09/indonesias-first-aircraft-carrier-former-italian-ship-garibaldi-reaches-domestic-waters/",
-        "published": "2026-09-17T12:53:01Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The ex-Italian Navy carrier Garibaldi reaches Indonesia as the nation's first aircraft carrier, ahead of its formal welcome in Jakarta.\nThe post Indonesia&#8217;s First Aircraft Carrier: Former Italian Ship ‘Garibaldi’ Reaches Domestic Waters appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/ITS-Giuseppe-Garibaldi-arriving-in-Indonesia.-TNI-AL-picture-1024x680.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production",
-        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-taps-three-shipyards-in-280m-push-to-accelerate-lcu-1700-production/",
-        "published": "2026-09-17T09:09:55Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy has awarded three prototype agreements to Conrad Shipyard, Master Boat Builders, and Saronic to accelerate LCU 1700 production.\nThe post U.S. Navy Taps Three Shipyards in $280M Push to Accelerate LCU 1700 Production appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/Saronic-Port-Alpha-LCU-1700-1024x512.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "OSK Design Unveils Coastal Corvette Concept to Fill Danish Fleet Gap",
-        "url": "https://www.navalnews.com/naval-news/2026/09/osk-design-coastal-corvette-denmark/",
-        "published": "2026-09-17T08:30:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "OSK Design unveiled a 95-meter Coastal Corvette concept at DALO Industry Days 2026, offering the Royal Danish Navy a heavy-armed, modular solution to fill its fleet capability gap.\nThe post OSK Design Unveils Coastal Corvette Concept to Fill Danish Fleet Gap appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/OSK-Design-Coastal-Corvette-3-1024x498.jpg",
         "section": "nyheter"
       },
       {
@@ -211,26 +181,6 @@
         "language": "en",
         "summary": "The White House formally passed nominations to the Senate for the top three civilian leadership roles in the Department of the Navy, the Trump administration announced late Monday. Acting Navy Secretary Hung Cao was nominated to be permanent Navy Secretary, and retired Navy Capt. Bill Toti, who is currently performing the duties of Undersecretary of the Navy, was nominated to fill the position permanently. Additionally, retired Vice Adm. Richard Breckenridge was tapped to be the Assistant Secret",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/collage-editor-September-15-2026-at-12.47.18-1.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Sept. 14, 2026",
-        "url": "https://news.usni.org/2026/09/14/usni-news-fleet-and-marine-tracker-sept-14-2026",
-        "published": "2026-09-14T19:26:11Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 14, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 290 (USS 232, USNS 58) 103 (USS 73, USNS 30) (39 FDNF, 64 Rotational) 79 (60 Deployed, 19 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Jap",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/FT_9_14_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Funding Subic Bay Shipyard Repair Expansion",
-        "url": "https://news.usni.org/2026/09/14/u-s-funding-subic-bay-shipyard-repair-expansion",
-        "published": "2026-09-14T14:35:24Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES – Washington is funding a project that will expand the maintenance and repair capability of a shipyard in the Philippines frequently used by U.S. Navy warships. The Subic Drydock Corporation, an American-owned firm operating out of the former U.S. naval station, revealed a partnership with the U.S. Trade and Development Agency last week in Manila during the Luzon Economic Corridor Investment Forum. According to a statement from the shipyard, the project involves a $1.4 millio",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/55354372114_06358ac210_o.jpg",
         "section": "nyheter"
       }
     ],
@@ -345,26 +295,6 @@
         "language": "en",
         "summary": "Chinese and Philippine maritime forces were involved in a ramming incident on Friday off Manila’s western island province. The incident is the latest high-profile skirmish between China and the Philippines in their long-running territorial dispute over maritime boundaries and features in the South China Sea. The encounter occurred around 11 a.m. local time, 54 nautical miles off Palawan, which lies within Manila’s exclusive economic zone. China Coast Guard cutter 21585 intercepted the Philippine",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-11.50.41-AM-scaled.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Future USS Baltimore to Serve as U.S. Navy’s Elite Seabed Warfare Submarine",
-        "url": "https://www.navalnews.com/naval-news/2026/09/uss-baltimore-seabed-warfare-submarine/",
-        "published": "2026-09-18T08:45:47Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "U.S. Navy and General Dynamics are converting the future USS Baltimore (SSN 812) into an elite seabed warfare submarine to succeed the USS Jimmy Carter.\nThe post Future USS Baltimore to Serve as U.S. Navy&#8217;s Elite Seabed Warfare Submarine appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/image-1-1024x576.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics",
-        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-navy-expands-hammerhead-anti-submarine-mine-production-with-general-dynamics/",
-        "published": "2026-09-17T11:53:07Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "General Dynamics Mission Systems has been awarded a contract modification by the U.S. Navy to continue development and delivery of the Hammerhead anti-submarine mine system.\nThe post U.S. Navy Expands Hammerhead Anti-Submarine Mine Production with General Dynamics appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/0x0.webp",
         "section": "rov_teknologi"
       }
     ]

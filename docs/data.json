@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-26T08:53:51Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-26T16:11:26Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options",
+        "url": "https://www.navalnews.com/naval-news/2026/09/dutch-aswf-frigate-program-delays-belgium-evaluates-options/",
+        "published": "2026-09-26T12:28:40Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Dutch Defence outlines ASWF frigate progress and a potential pivot to F126 industrial capacity following project delays, as Belgium weighs its options\nThe post Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
         "url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-edge-explore-collaboration-on-underwater-protection-and-surveillance-capability/",
@@ -292,16 +302,6 @@
         "summary": "The U.S. Army's 160th SOAR has landed an MH-47G Chinook on an autonomous Sea Machines barge for the first time, advancing naval logistics and drone integration.\nThe post U.S. Special Forces Operate Helicopter From Autonomous Barge for the First Time appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/4274541-1024x576.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "Ubemannede systemer skal bli en integrert del av Hæren",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/ubemannede-systemer-skal-bli-en-integrert-del-av-haeren",
-        "published": "2026-09-23T00:00:00Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Hæren skal bruke ubemannede systemer til å se lenger, redusere risikoen for soldatene\nog øke evnen til å påvirke en motstander. Nå samarbeider Hæren, Forsvarsmateriell og\nFFI med industrien om hvordan nye løsninger kan utvikles, testes og tas raskere i bruk.",
-        "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/ubemannede-systemer-skal-bli-en-integrert-del-av-haeren/_/image/487b513f-f3ab-498e-bc46-9cf29e27a98a:32ce3b346f2a93ce2193cc304ad3dfd229649539/block-1200-630/2026.03.12.AH-13%20(2).jpg?quality=85",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -445,16 +445,6 @@
         "language": "en",
         "summary": "Pistorius is asking lawmakers to approve nearly €140 billion ($160 billion) for defense next year, a record sum.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XSIRZL6WUNFRNAOAYGS4R33WAU.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "VOYANT Demonstrates Software-Defined Approach to Strengthen ASW Operations",
-        "url": "https://www.navalnews.com/naval-news/2026/09/voyant-demonstrates-software-defined-approach-to-strengthen-asw-operations/",
-        "published": "2026-09-23T11:47:02Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Voyant has successfully demonstrated how advanced software can unlock significantly greater capability from existing sonar systems as part of a UK Ministry of Defence’s Programme to strengthen anti-submarine warfare operations.&#160; Voyant press release Working alongside the Ministry of Defence, the Royal Navy, Thales UK, and Mind Foundry, Voyant integrated its proprietary probabilistic tracking and particle-filter ...\nThe post VOYANT Demonstrates Software-Defined Approach to Strengthen ASW Ope",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

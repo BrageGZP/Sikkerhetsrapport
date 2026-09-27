@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-26T16:11:26Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-27T09:37:30Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
+        "url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
+        "published": "2026-09-27T07:55:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Royal Saudi Naval Forces personnel have completed Bayraktar AKINCI training in Turkey, paving the way for maritime UCAV surveillance and stand-off strike operations.\nThe post Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/HTDRPcPWQAAUOZE-1024x576.jpeg",
+        "section": "nyheter"
+      },
       {
         "title": "Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options",
         "url": "https://www.navalnews.com/naval-news/2026/09/dutch-aswf-frigate-program-delays-belgium-evaluates-options/",
@@ -291,16 +301,6 @@
         "language": "en",
         "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DHO3FU7UNNA6ZNLZ7FZJGSADXI.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Special Forces Operate Helicopter From Autonomous Barge for the First Time",
-        "url": "https://www.navalnews.com/naval-news/2026/09/u-s-special-forces-operate-helicopter-from-autonomous-barge-for-the-first-time/",
-        "published": "2026-09-23T13:22:01Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Army's 160th SOAR has landed an MH-47G Chinook on an autonomous Sea Machines barge for the first time, advancing naval logistics and drone integration.\nThe post U.S. Special Forces Operate Helicopter From Autonomous Barge for the First Time appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/4274541-1024x576.jpg",
         "section": "nyheter"
       }
     ],

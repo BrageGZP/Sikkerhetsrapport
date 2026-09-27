@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-09-27T09:37:30Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-27T16:47:23Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "HII FF(X) Patrol Frigate Program Progressing as Navy Considers Foreign Options",
+        "url": "https://news.usni.org/2026/09/27/hii-ffx-patrol-frigate-program-progressing-as-navy-considers-foreign-options",
+        "published": "2026-09-27T15:30:22Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "VIRGINIA BEACH, Va. — Both U.S. and foreign designs for the next small-surface combatant are under consideration after the cancellation of the Constellation-class guided-missile frigate, the new head of the Navy’s shipbuilding enterprise said this week. A foreign design study is running in parallel with the development of HII Ingalls’ FF(X) Flight I patrol frigate, which was announced late last year following the Constellation cancellation, Portfolio Acquisition Executive Rear Adm. Casey Moton t",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/680018947_122110144148985384_3628097066774778081_n.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
         "url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
@@ -291,16 +301,6 @@
         "language": "en",
         "summary": "MANILA, PHILIPPINES – An ex-Taiwan Coast Guard Administration patrol vessel is now under a Philippine flag in the most significant maritime security development between Taipei and Manila in recent years.  The decommissioned Kinmen, one of four 500-ton Taipei-class patrol vessels commissioned between 2001 and 2008, appeared registered under the Philippines with the name BLING NO.1 on Sept. 16. Maritime tracking website VesselFinder placed the patrol vessel at the Southern Taiwanese port city of K",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Kinmen.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
-        "published": "2026-09-23T18:22:04Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DHO3FU7UNNA6ZNLZ7FZJGSADXI.jpg",
         "section": "nyheter"
       }
     ],

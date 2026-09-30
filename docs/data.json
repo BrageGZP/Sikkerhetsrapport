@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-29T17:58:20Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-09-30T10:04:10Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
+        "url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
+        "published": "2026-09-30T06:20:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress. The initial contract for continued work on F/A-XX totals $20 billion dollars, likely covering several initial airframes as well as ...\nThe post Boeing Wins U.S. Navy&#8217;s F/A-XX Next Generation Fighter Contract appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/05/BI232269.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy to purchase 30 MUSVs following at-sea testing",
+        "url": "https://breakingdefense.com/2026/09/navy-to-purchase-30-musvs-following-at-sea-testing/",
+        "published": "2026-09-29T22:25:05Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The contracts come as the Navy expands its marketplace for unmanned systems and moves into the second phase of the MUSV program.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220513-N-OA516-1038-scaled-e1653508351355-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy selects Boeing to build next-generation F/A-XX fighter",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
+        "published": "2026-09-29T22:20:07Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Boeing has officially been selected to build the Navy’s sixth-generation carrier-based strike fighter, dubbed F/A-XX.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MZFJ5YIWNZBLXDJ2BLAGT4XZ54.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Boeing Picked to Build Navy’s F/A-XX Carrier Fighter in Estimated $20B Deal",
+        "url": "https://news.usni.org/2026/09/29/boeing-picked-to-build-navys-f-a-xx-carrier-fighter-in-20b-contract",
+        "published": "2026-09-29T21:42:33Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Boeing will build the Navy’s next-generation fighter after decades of indecision on the future of the carrier air wing, according to a Tuesday Pentagon announcement. &#8220;The contract is valued at more than $20B for the full-scale development phase. The contract procures multiple test aircraft for ground, airworthiness, systems, and weapons integration testing,&#8221; reads the announcement. The new tactical aircraft is set to enter the fleet as the first Boeing F/A-18E/F Super Hornets leave t",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/boeing_fa-xx_concept_-_hd.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Boeing wins Navy next-gen fighter F/A-XX competition",
+        "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop/",
+        "published": "2026-09-29T21:26:24Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Boeing&#8217;s win gives it a monopoly on American sixth-gen fighters, following its 2025 selection to build the F-47.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Boeing-faax-BIG-1024x612.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "3 Louisiana Shipyards to Build 30 Drone Ships in $1.2B Navy MUSV Deal",
+        "url": "https://news.usni.org/2026/09/29/3-louisiana-shipyards-to-build-30-drone-ships-in-navy-musv-deal",
+        "published": "2026-09-29T21:14:12Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Three Louisiana-based shipyards will build unmanned surface vessels for the U.S. Navy following recent at-sea testing, the service announced Tuesday.  The three companies – Saronic, HII and Galliano Marine Service – will each build 10 medium unmanned surface vessels, or MUSVs, at about $40 million per hull, the Navy’s acting direct reporting portfolio manager for robotic and autonomous systems Chris Miller told reporters in a virtual roundtable.  The Navy issued the awards using other transactio",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3-1536x882.jpg.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "UPDATED: Navy Partially Accepts Carrier John F. Kennedy, HII Newport News Awarded USS Harry S. Truman Overhaul Contract",
+        "url": "https://news.usni.org/2026/09/29/navy-partially-accepts-carrier-john-f-kennedy-from-hii-newport-news-shipbuilding",
+        "published": "2026-09-29T19:00:14Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The future USS John F. Kennedy (CVN-79) achieved preliminary acceptance Tuesday, one of the last steps before it formally joins the fleet, as carrier USS Harry S. Truman (CVN-75) prepares for its mid-life overhaul. JFK, the second Ford-class aircraft carrier, left Tuesday from HII’s Newport News Shipbuilding division to eventually transition to the waterfront at Naval Station Norfolk, Va., as part of the preliminary acceptance, according to an HII spokesperson. The milestone allows the Navy and ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/DCS26-220-168-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Raytheon nets potential $20.7 billion AMRAAM deal",
         "url": "https://breakingdefense.com/2026/09/raytheon-nets-potential-20-7-billion-amraam-deal/",
@@ -34,6 +104,16 @@
         "section": "nyheter"
       },
       {
+        "title": "SINKEX: U.S. and UK Forces Sink Decommissioned Frigate at Atlantic Thunder 2026",
+        "url": "https://www.navalnews.com/naval-news/2026/09/sinkex-u-s-and-uk-forces-sink-decommissioned-frigate-at-atlantic-thunder-2026/",
+        "published": "2026-09-29T12:24:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Ships, aircraft, and a submarine from the United States and the United Kingdom concluded Exercise Atlantic Thunder 2026, a multi-domain sinking exercise (SINKEX) led by the U.S. 6th Fleet, in the North Atlantic, Sept. 25, 2026. U.S. Navy 6th Fleet press release During the SINKEX, participating forces assigned to U.S. Commander, Task Force 65, U.S. ...\nThe post SINKEX: U.S. and UK Forces Sink Decommissioned Frigate at Atlantic Thunder 2026 appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/FLEET-20260921-XQ0236-001-PortlandFiring0-1024x576.webp",
+        "section": "nyheter"
+      },
+      {
         "title": "New Zealand, Australia sign pact to deepen naval cooperation",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation/",
         "published": "2026-09-29T10:25:20Z",
@@ -41,6 +121,16 @@
         "language": "en",
         "summary": "The New Zealand and Australian navies signed “Plan Tasman” this month, formalizing a blueprint for integrating the two neighboring sea services.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2MLK3RU445BUJKVF6RQHDBL5RU.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Stark and MBDA launch Vanta-12/Sea Venom combination to support NATO deterrence requirements",
+        "url": "https://www.navalnews.com/naval-news/2026/09/stark-and-mbda-launch-vanta-12-sea-venom-combination-to-support-nato-deterrence-requirements/",
+        "published": "2026-09-29T09:40:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Stark and MBDA have combined to offer a new capability package designed to support NATO requirements for projecting strike capability into the North Atlantic, to build alliance deterrence and defence. On 28 September, Stark revealed the development of its new Vanta-12 uncrewed surface vessel; the USV is set to bring a fit of MBDA’s Sea ...\nThe post Stark and MBDA launch Vanta-12/Sea Venom combination to support NATO deterrence requirements appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/NavNews-Vanta2-REPMUS-dockside-LW-1024x768.jpg",
         "section": "nyheter"
       },
       {
@@ -64,6 +154,16 @@
         "section": "nyheter"
       },
       {
+        "title": "Kongsberg Signs $404 Million Framework Agreement for USMC NSM Equipment",
+        "url": "https://www.navalnews.com/naval-news/2026/09/kongsberg-signs-404-million-framework-agreement-for-usmc-nsm-equipment/",
+        "published": "2026-09-28T19:00:57Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Norwegian defence company Kongsberg has signed a framework agreement with the U.S. Marine Corps for the production and sustainment of Naval Strike Missile (NSM) launcher units, weapon control systems and associated support equipment. Announced on 28 September, the agreement has a potential value of up to $404 million and may support deliveries through 2034. The ...\nThe post Kongsberg Signs $404 Million Framework Agreement for USMC NSM Equipment appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/04/USMC-NMESIS-NSM-ROGUE-Fires-JLTV-1024x590.jpg",
+        "section": "nyheter"
+      },
+      {
         "title": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone",
         "url": "https://news.usni.org/2026/09/28/china-claims-expanded-zone-around-scarborough-shoal-deploys-new-drone",
         "published": "2026-09-28T18:51:50Z",
@@ -84,6 +184,26 @@
         "section": "nyheter"
       },
       {
+        "title": "Fincantieri and PT PAL Indonesia sign agreement for the modernization of ex-Giuseppe Garibaldi",
+        "url": "https://www.navalnews.com/naval-news/2026/09/fincantieri-and-pt-pal-indonesia-sign-agreement-for-the-modernization-of-ex-giuseppe-garibaldi/",
+        "published": "2026-09-28T15:16:46Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fincantieri, one of the world’s leading shipbuilding groups, and PT PAL Indonesia, the country&#8217;s leading state-owned shipbuilder, signed a Memorandum of Understanding (MoU) establishing a framework for cooperation on the future modernization program of the Indonesian Navy’s KRI SRIWIJAYA (former Giuseppe Garibaldi). Fincantieri press release The agreement was signed in Jakarta by Mauro Manzini, Vice President Sales of the Fincantieri Naval Vessels ...\nThe post Fincantieri and PT PAL Indone",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pakistan Navy’s First Hangor-class Submarine Performs First Live Firing in North Arabian Sea",
+        "url": "https://www.navalnews.com/naval-news/2026/09/pakistan-navys-first-hangor-class-submarine-performs-first-live-firing-in-north-arabian-sea/",
+        "published": "2026-09-28T08:30:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On September 26, 2026, the Pakistan Navy announced the successful completion of the maiden live firing of the first Hangor-class submarine, PNS Hangor, in the North Arabian Sea. Pakistan Navy press release In a significant demonstration of operational readiness and combat capability, Pakistan Navy’s newly inducted submarine PNS/M HANGOR successfully conducted its maiden Live Weapon ...\nThe post Pakistan Navy&#8217;s First Hangor-class Submarine Performs First Live Firing in North Arabian Sea app",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
         "title": "HII FF(X) Patrol Frigate Program Progressing as Navy Considers Foreign Options",
         "url": "https://news.usni.org/2026/09/27/hii-ffx-patrol-frigate-program-progressing-as-navy-considers-foreign-options",
         "published": "2026-09-27T15:30:22Z",
@@ -91,6 +211,36 @@
         "language": "en",
         "summary": "VIRGINIA BEACH, Va. — Both U.S. and foreign designs for the next small-surface combatant are under consideration after the cancellation of the Constellation-class guided-missile frigate, the new head of the Navy’s shipbuilding enterprise said this week. A foreign design study is running in parallel with the development of HII Ingalls’ FF(X) Flight I patrol frigate, which was announced late last year following the Constellation cancellation, Portfolio Acquisition Executive Rear Adm. Casey Moton t",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/680018947_122110144148985384_3628097066774778081_n.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
+        "url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
+        "published": "2026-09-27T07:55:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Royal Saudi Naval Forces personnel have completed Bayraktar AKINCI training in Turkey, paving the way for maritime UCAV surveillance and stand-off strike operations.\nThe post Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/HTDRPcPWQAAUOZE-1024x576.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options",
+        "url": "https://www.navalnews.com/naval-news/2026/09/dutch-aswf-frigate-program-delays-belgium-evaluates-options/",
+        "published": "2026-09-26T12:28:40Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Dutch Defence outlines ASWF frigate progress and a potential pivot to F126 industrial capacity following project delays, as Belgium weighs its options\nThe post Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
+        "url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-edge-explore-collaboration-on-underwater-protection-and-surveillance-capability/",
+        "published": "2026-09-26T07:44:37Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "TKMS and EDGE Group have signed a Memorandum of Understanding (MoU) within the framework of the state visit of the United Arab Emirates (UAE) to Germany. The MoU is a part of an initiative agreed by the German government and the UAE for a closer cooperation in the area of defense and security and aims ...\nThe post TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -104,16 +254,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
-        "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao/",
-        "published": "2026-09-25T19:45:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The Navy originally estimated that the Shipyard Infrastructure Optimization Program (SIOP) would cost approximately $21 billion.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/210512-N-LX838-1230-scaled-e1659707922643-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
         "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
         "published": "2026-09-25T19:19:29Z",
@@ -121,16 +261,6 @@
         "language": "en",
         "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6N7EZFKZOZF27FAT4MFMPHS25I.JPG",
-        "section": "nyheter"
-      },
-      {
-        "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
-        "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral/",
-        "published": "2026-09-25T19:12:45Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "In the wake of public debates about the health of physical US munitions, a senior Navy official said the &#8220;cyber magazine&#8221; isn&#8217;t infinite either.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -172,119 +302,29 @@
         "summary": "VIRGINIA BEACH, Va. — Not quite two months on the job, a submariner turned head of the Navy’s vast maintenance operation promised his office would create a more nimble organization that would better balance risk to speed ships back to the fleet. Program Acquisition Executive for Industrial Operations Rear Adm. Todd Weeks told a crowd of ship maintainers the service wants to reduce the barriers to get ships out of maintenance on time. “We absolutely need to change, and we&#8217;re not getting it ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "Autonomous Aircraft Executes Mission Plan in Collaborative Tool Test, Navy Says",
-        "url": "https://news.usni.org/2026/09/24/autonomous-aircraft-executes-mission-plan-in-collaborative-tool-test-navy-says",
-        "published": "2026-09-24T16:34:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S Navy recently demonstrated that an autonomous aircraft can receive a mission plan and execute that mission as part of the Collaborative Autonomy Mission Planning (CAMP) tool, the service announced Tuesday.  CAMP is meant to integrate autonomous aircraft with mission planners, helping the two communicate in a common way. Mission planners develop the overall mission – including what each aircraft should do, when it should do it, and what authorities and limitations apply in the Collaborati",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9956434-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Italy taps state-owned firms to build two naval destroyers in $4.2 billion deal",
-        "url": "https://www.defensenews.com/global/europe/2026/09/24/italy-taps-state-owned-firms-to-build-two-naval-destroyers-in-42-billion-deal/",
-        "published": "2026-09-24T16:33:41Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Italy has signed to buy two new naval destroyers that will mark a quantum leap in capabilities for the Italian navy, the ships’ builders have promised.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/A3Z2SLWO65HBHHVUH3WWL3UAY4.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Report to Congress on Bahrain, Issues for U.S. Policy",
-        "url": "https://news.usni.org/2026/09/24/report-to-congress-on-bahrain-issues-for-u-s-policy",
-        "published": "2026-09-24T14:55:50Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Sept. 23, 2026, Congressional Research Service report, Bahrain: Issues for U.S. Policy. From the Report The Kingdom of Bahrain is a small island nation connected by a causeway to Saudi Arabia (15.5 miles away) and once claimed by Iran (124 miles away). Wedged between these two larger regional powers, Bahrain has hosted a U.S. naval command headquarters since 1948. For decades, Bahrain has permitted U.S. access to its facilities and has hosted U.S. Naval Central Command (NAVC",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
-        "url": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
-        "published": "2026-09-24T14:25:19Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "U.S. naval drone maker Saildrone seeks to expand its footprint in Europe, with Denmark a key customer in the contested Baltic and North seas.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/P3PV7RZOONGFJLNUYH4UNJHOVM.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "The Robot Ships of Route 90",
-        "url": "https://news.usni.org/2026/09/23/three-louisiana-shipyards-are-vying-for-a-stake-in-navys-autonomous-future",
-        "published": "2026-09-23T23:35:40Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "NEW IBERIA, Louisiana – Surrounded by rows of sugar cane fields on Bayou Teche, generations of shipbuilders are wrenching on the U.S. Navy’s latest push toward a future drone fleet. Work boat builders and repair facilities dot U.S. Route 90 in southern Louisiana, where the boom and bust of the oil and gas industry looms over yards small and large. It’s along this road where several shipyards are vying for a chance to build unmanned ships for the world’s most powerful navy. At Breaux Brothers Ent",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "3 Years of Middle East Combat Altering How Navy Supplies, Maintains Fleet, Leaders Say",
-        "url": "https://news.usni.org/2026/09/23/3-years-of-middle-east-combat-altering-how-navy-supplies-maintains-fleet-leaders-say",
-        "published": "2026-09-23T23:19:42Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated to include that BAE Jacksonville received a $70 million maintenance availability for the Littoral Combat Ship USS Wichita (LCS-13). VIRGINIA BEACH, Va. — The ongoing U.S. conflict with Iran is morphing how the Navy fixes and supplies ships operating thousands of miles from logistics hubs as extended time at sea and the prospect of an extended naval commitment in the Middle East are creating a maintenance wave back home, service officials said this week. As of Monday, t",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9577828-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Taiwan Transfers Coast Guard Patrol Vessel to the Philippines",
-        "url": "https://news.usni.org/2026/09/23/taiwan-transfers-coast-guard-patrol-vessel-to-the-philippines",
-        "published": "2026-09-23T18:53:24Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES – An ex-Taiwan Coast Guard Administration patrol vessel is now under a Philippine flag in the most significant maritime security development between Taipei and Manila in recent years.  The decommissioned Kinmen, one of four 500-ton Taipei-class patrol vessels commissioned between 2001 and 2008, appeared registered under the Philippines with the name BLING NO.1 on Sept. 16. Maritime tracking website VesselFinder placed the patrol vessel at the Southern Taiwanese port city of K",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Kinmen.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Steam catapults? US Navy appears to be sticking with electromagnetics on carriers",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
-        "published": "2026-09-23T18:22:04Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Despite an August order for the U.S. Navy to return to steam catapults on its newest carriers, the service appears to be sticking with electromagnetics.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DHO3FU7UNNA6ZNLZ7FZJGSADXI.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Ubemannede systemer skal bli en integrert del av Hæren",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/ubemannede-systemer-skal-bli-en-integrert-del-av-haeren",
-        "published": "2026-09-23T00:00:00Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "Hæren skal bruke ubemannede systemer til å se lenger, redusere risikoen for soldatene\nog øke evnen til å påvirke en motstander. Nå samarbeider Hæren, Forsvarsmateriell og\nFFI med industrien om hvordan nye løsninger kan utvikles, testes og tas raskere i bruk.",
-        "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/ubemannede-systemer-skal-bli-en-integrert-del-av-haeren/_/image/487b513f-f3ab-498e-bc46-9cf29e27a98a:32ce3b346f2a93ce2193cc304ad3dfd229649539/block-1200-630/2026.03.12.AH-13%20(2).jpg?quality=85",
-        "section": "nyheter"
-      },
-      {
-        "title": "Public Works Teams to Operate Under Navy Installations Command to Expedite Base Maintenance",
-        "url": "https://news.usni.org/2026/09/22/public-works-teams-to-operate-under-navy-installations-command-to-expedite-base-maintenance",
-        "published": "2026-09-22T21:17:37Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Navy public works maintenance teams will now be under Commander, Navy Installations Command instead of the Naval Facilities Engineering Systems Command, the sea service announced Tuesday. The move puts approximately 10,000 civilian and military personnel under the direct authority of base commanding officers, reads the CNIC release. The realignment is meant to allow for faster maintenance decisions and repair prioritization, according to the release. “This move is all about giving our base comma",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/8424055-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.K. Defense Nuclear Enterprise 2026 Annual Update to Parliament",
-        "url": "https://news.usni.org/2026/09/22/u-k-defense-nuclear-enterprise-2026-annual-update-to-parliament",
-        "published": "2026-09-22T18:37:58Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the U.K.&#8217;s Defense Nuclear Enterprise 2026 Annual Update to Parliament, released Sept. 15, 2026. From the Report Introduction The UK’s nuclear deterrent, delivered since 1969 by the Royal Navy through Operation RELENTLESS, remains at the heart of our national security. To modernize and sustain the nuclear deterrent, the DNE is recapitalizing much of the enterprise simultaneously. This includes two submarine build programs and a further one in design, two warhead programs, ",
-        "image_url": "",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Kyst- og havnekonferansen 30. september og 1. oktober - streames her",
+        "url": "https://www.kystverket.no/om-kystverket/arrangementer/kyst--og-havnekonferansen/",
+        "published": "2026-09-30T08:00:15Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "",
+        "image_url": "",
+        "section": "regelverk"
+      },
+      {
+        "title": "Styrker den nordiske beredskapen",
+        "url": "https://www.kystverket.no/nyheter/styrker-den-nordiske-beredskapen/",
+        "published": "2026-09-30T07:28:52Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "I september samlet Kystverket en rekke naboland i Horten for å øve på nødlossing av havarister og...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket på Maritim uke 2026",
         "url": "https://www.kystverket.no/nyheter/kystverket-pa-maritim-uke-2026/",
@@ -435,16 +475,6 @@
         "language": "en",
         "summary": "The U.S. and U.K. test launched a torpedo from a Royal Navy extra-large unmanned underwater vehicle earlier this month as a proof of concept trial for AUKUS Pillar 2, the U.S. Navy announced on Tuesday. On Sept. 13, the Royal Navy&#8217;s experimental XLUUV XV Excalibur launched a U.S. Mk 48 Heavyweight Torpedo while at the British Underwater Test &#38; Evaluation Centre in Scotland, reads the U.S. Navy release. The milestone was achieved under Project Broadsword and Trial Iron and marked a majo",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/videoframe_1792.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "VIDEO: China Coast Guard Rams Philippine Fisheries Vessel in South China Sea",
-        "url": "https://news.usni.org/2026/09/18/video-china-coast-guard-rams-philippine-fisheries-vessel-in-south-china-sea",
-        "published": "2026-09-18T16:13:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Chinese and Philippine maritime forces were involved in a ramming incident on Friday off Manila’s western island province. The incident is the latest high-profile skirmish between China and the Philippines in their long-running territorial dispute over maritime boundaries and features in the South China Sea. The encounter occurred around 11 a.m. local time, 54 nautical miles off Palawan, which lies within Manila’s exclusive economic zone. China Coast Guard cutter 21585 intercepted the Philippine",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-18-at-11.50.41-AM-scaled.png",
         "section": "rov_teknologi"
       }
     ]

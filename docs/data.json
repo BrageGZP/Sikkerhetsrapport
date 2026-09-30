@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-09-30T10:04:10Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-09-30T17:53:32Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "VIDEO: Former U.S. Frigate Sunk in Exercise with U.S., Royal Navies",
+        "url": "https://news.usni.org/2026/09/30/video-former-u-s-frigate-sunk-in-exercise-with-u-s-royal-navies",
+        "published": "2026-09-30T17:27:13Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Navy and Royal Navy sunk decommissioned frigate USS Klarkring (FFG-42) earlier this month as part of a sinking exercise with Royal Navy forces. Newly commissioned Virginia-class submarine USS Massachusetts (SSN-798) dealt the final blow to Klarkring, sending it to the bottom of the Atlantic Ocean. Massachusetts fired an Mk48 Advanced Capability Torpedo at Klarkring during the Sept. 20 exercise, sinking the decommissioned frigate around 150 miles off the northwest coast of Scotland. Mass",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/45338.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "White House names nominees for SPACECOM, Navy No. 2",
+        "url": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2/",
+        "published": "2026-09-30T17:01:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Overseeing the ongoing move of SPACECOM&#8217;s headquarters from its current home at Peterson SFB, Colo., to Huntsville, Ala., will be one of the first tasks Lt. Gen. David Miller will face if he is confirmed.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/05/8268473-scaled-e1715017339303-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
+        "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
+        "published": "2026-09-30T16:21:59Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/f-15ex-1024x502.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
+        "url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
+        "published": "2026-09-30T15:30:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic Technologies press release The Firm-Fixed Price award, executed under the authority of 10 U.S.C. § 4022(f), reflects a streamlined acquisition approach that enables the Navy to procure capabilities ...\nThe post Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV ",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. to Transfer Surveillance Aircraft to the Philippine Coast Guard",
+        "url": "https://news.usni.org/2026/09/30/u-s-to-transfer-surveillance-aircraft-to-the-philippine-coast-guard",
+        "published": "2026-09-30T14:04:22Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, PHILIPPINES – The U.S. will transfer three King Air turboprop planes equipped for maritime domain awareness operations to the Philippine Coast Guard, the Pentagon announced Monday. Technology Service Corp. was awarded $39 million for the procurement and integration of intelligence, surveillance and reconnaissance kits onto King Air 350 Extended Range aircraft, reads the contract announcement. Two of the three aircraft will receive the ISR hardware and software modifications. Work also in",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-9.55.45-AM-scaled.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "HII Wins U.S. Navy Contract for 10 ROMULUS USVs",
+        "url": "https://www.navalnews.com/naval-news/2026/09/hii-wins-u-s-navy-contract-for-10-romulus-usvs/",
+        "published": "2026-09-30T11:04:38Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HII was awarded a contract by the U.S. Navy to build 10 ROMULUS unmanned surface vessels (USVs) for the Medium Unmanned Surface Vessel (MUSV) program. HII press release The award marks a major advancement in the U.S. Navy&#8217;s transition from experimentation to fleet-scale deployment of trusted, operational autonomy across the maritime domain. &#8220;HII has made ...\nThe post HII Wins U.S. Navy Contract for 10 ROMULUS USVs appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/romulus-1024x768.webp",
+        "section": "nyheter"
+      },
       {
         "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
         "url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
@@ -134,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
-        "url": "https://breakingdefense.com/2026/09/us-uk-test-sm-6-other-missiles-on-sinkex-target-frigate/",
-        "published": "2026-09-28T22:00:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The joint exercise saw the test of several muntions but the final blow was delivered by an Mk 48 Advanced Capability Torpedo, a Navy official said.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/8087683-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
         "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
         "published": "2026-09-28T20:55:06Z",
@@ -214,36 +264,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation",
-        "url": "https://www.navalnews.com/naval-news/2026/09/royal-saudi-navy-akinci-ucav-deployment/",
-        "published": "2026-09-27T07:55:42Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Royal Saudi Naval Forces personnel have completed Bayraktar AKINCI training in Turkey, paving the way for maritime UCAV surveillance and stand-off strike operations.\nThe post Royal Saudi Navy Prepares to Deploy AKINCI UCAV Following Crew Graduation appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/HTDRPcPWQAAUOZE-1024x576.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options",
-        "url": "https://www.navalnews.com/naval-news/2026/09/dutch-aswf-frigate-program-delays-belgium-evaluates-options/",
-        "published": "2026-09-26T12:28:40Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Dutch Defence outlines ASWF frigate progress and a potential pivot to F126 industrial capacity following project delays, as Belgium weighs its options\nThe post Dutch ASWF Frigate Program Faces Further Delays as Belgium Evaluates Options appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability",
-        "url": "https://www.navalnews.com/naval-news/2026/09/tkms-and-edge-explore-collaboration-on-underwater-protection-and-surveillance-capability/",
-        "published": "2026-09-26T07:44:37Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "TKMS and EDGE Group have signed a Memorandum of Understanding (MoU) within the framework of the state visit of the United Arab Emirates (UAE) to Germany. The MoU is a part of an initiative agreed by the German government and the UAE for a closer cooperation in the area of defense and security and aims ...\nThe post TKMS and EDGE Explore Collaboration on Underwater Protection and Surveillance Capability appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Establishes New Deputy Chief Of Naval Operations to Support Failing Shore Infrastructure",
         "url": "https://news.usni.org/2026/09/25/navy-establishes-new-deputy-chief-of-naval-operations-to-support-failing-shore-infrastructure",
         "published": "2026-09-25T21:07:32Z",
@@ -281,26 +301,6 @@
         "language": "en",
         "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PNEAP2E7RNEX5DRMKKILVXNYFU.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
-        "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
-        "published": "2026-09-25T16:43:29Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "﻿﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In U.S. 7th Fleet Area of Operations The Abraham Lincoln Carrier Strike Group (CSG) is underway following a two-day stop in Guam last weekend. The strike group includes aircraft carrier USS Abraham Lincoln (CVN-72) with embarked Carrier Air Wing (CVW) and destroyer USS Frank E. Petersen Jr. (DDG-121).  As of Friday, Abraham Lincoln has been deployed for 308 days. In the Philippine Sea D",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "‘We Absolutely Need to Change,’ Says New Navy Maintenance Head",
-        "url": "https://news.usni.org/2026/09/24/we-absolutely-need-to-change-says-new-navy-maintenance-head",
-        "published": "2026-09-24T21:04:48Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "VIRGINIA BEACH, Va. — Not quite two months on the job, a submariner turned head of the Navy’s vast maintenance operation promised his office would create a more nimble organization that would better balance risk to speed ships back to the fleet. Program Acquisition Executive for Industrial Operations Rear Adm. Todd Weeks told a crowd of ship maintainers the service wants to reduce the barriers to get ships out of maintenance on time. “We absolutely need to change, and we&#8217;re not getting it ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
         "section": "nyheter"
       }
     ],
@@ -447,6 +447,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Historic first as Royal Navy launches torpedo from uncrewed submarine, XV Excalibur",
+        "url": "https://www.navalnews.com/naval-news/2026/09/historic-first-as-royal-navy-launches-torpedo-from-uncrewed-submarine-xv-excalibur/",
+        "published": "2026-09-30T11:53:34Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "For the first time, a Royal Navy robot submarine has successfully fired a torpedo in a milestone trial pushing the boundaries of undersea warfare off Scotland. Royal Navy press release XV Excalibur, an Extra-Large Uncrewed Underwater Vessel or XLUUV, was adapted with a specialist management system to successfully fire and control US Navy Mk48 Mod ...\nThe post Historic first as Royal Navy launches torpedo from uncrewed submarine, XV Excalibur appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/20260915-Trial-Iron-017-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "UPDATED: Four Injured After Growler Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered",
         "url": "https://news.usni.org/2026/09/28/four-injured-after-landing-mishap-aboard-uss-dwight-d-eisenhower-crew-safely-recovered",

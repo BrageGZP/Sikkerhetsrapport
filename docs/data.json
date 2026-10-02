@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-10-01T18:19:05Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-02T10:07:10Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Norway’s Fridtjof Nansen-class Frigate Fires ESSM Block 2 for First Time",
+        "url": "https://www.navalnews.com/naval-news/2026/10/norways-fridtjof-nansen-class-frigate-fires-essm-block-2-for-first-time/",
+        "published": "2026-10-02T08:21:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Norwegian Defence Materiel Agency has successfully conducted the first live ESSM Block 2 firing from the Fridtjof Nansen-class frigate KNM Otto Sverdrup.\nThe post Norway’s Fridtjof Nansen-class Frigate Fires ESSM Block 2 for First Time appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/knm-otto-sverdrup-1024x576.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+        "published": "2026-10-01T22:05:46Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TI4GBTVCMFGWHGVVCCTJ5634PI.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Brings In 45,112 Recruits in FY 2026",
+        "url": "https://news.usni.org/2026/10/01/navy-brings-in-45112-recruits-in-fy-2026",
+        "published": "2026-10-01T21:48:32Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy brought in at least 45,112 active-duty enlisted sailors in Fiscal Year 2026, according to the sea service’s final numbers, released Thursday. The Navy announced in July that it met its recruiting goal of 45,000, three months ahead of schedule, USNI News previously reported. It exceeded the goal by 112 sailors. The sea service will now aim to bring in 45,000 more sailors in Fiscal Year 2027, which began Thursday, according to a Navy release. The new goal is 9,000 more than the Navy budge",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/08/9842434.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "3 Navy Ships Decommissioned, Cruiser USS Robert Smalls Makes Final Homeport Change",
+        "url": "https://news.usni.org/2026/10/01/3-navy-ships-decommissioned-cruiser-uss-robert-smalls-makes-final-homeport-change",
+        "published": "2026-10-01T18:48:40Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Three warships were recently decommissioned as Fiscal Year 2026 came to a close on Wednesday. The Navy bid farewell to Whidbey Island-class dock landing ship USS Germantown (LSD-42 and Ticonderoga-class guided missile cruisers USS Lake Erie (CG-70) and USS Shiloh (CG-67).  The 40-year-old Germantown decommissioned on Sept. 24 during a ceremony held in San Diego. Germantown was the first dock landing ship to conduct Landing Craft Air Cushion amphibious operations and served during Desert Shield, ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9977196-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Naval Group Begins Production of Sweden’s First FDI Frigate Just One Month After Contract Signing",
         "url": "https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/",
@@ -81,26 +121,6 @@
         "language": "en",
         "summary": "This story has been updated to correct the spelling of USS Klakring (FFG-42).  The U.S. Navy and Royal Navy sunk decommissioned frigate USS Klakring (FFG-42) earlier this month as part of a sinking exercise with Royal Navy forces. Newly commissioned Virginia-class submarine USS Massachusetts (SSN-798) dealt the final blow to Klakring, sending it to the bottom of the Atlantic Ocean. Massachusetts fired an Mk48 Advanced Capability Torpedo at Klakring during the Sept. 20 exercise, sinking the decom",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/45338.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "White House names nominees for SPACECOM, Navy No. 2",
-        "url": "https://breakingdefense.com/2026/09/white-house-names-nominees-for-spacecom-navy-no-2/",
-        "published": "2026-09-30T17:01:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Overseeing the ongoing move of SPACECOM&#8217;s headquarters from Colorado to Alabama will be one of the first tasks Lt. Gen. David Miller will face if he is confirmed to lead the command.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/05/8268473-scaled-e1715017339303-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
-        "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
-        "published": "2026-09-30T16:21:59Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/f-15ex-1024x502.jpg",
         "section": "nyheter"
       },
       {
@@ -204,16 +224,6 @@
         "section": "nyheter"
       },
       {
-        "title": "SINKEX: U.S. and UK Forces Sink Decommissioned Frigate at Atlantic Thunder 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/09/sinkex-u-s-and-uk-forces-sink-decommissioned-frigate-at-atlantic-thunder-2026/",
-        "published": "2026-09-29T12:24:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Ships, aircraft, and a submarine from the United States and the United Kingdom concluded Exercise Atlantic Thunder 2026, a multi-domain sinking exercise (SINKEX) led by the U.S. 6th Fleet, in the North Atlantic, Sept. 25, 2026. U.S. Navy 6th Fleet press release During the SINKEX, participating forces assigned to U.S. Commander, Task Force 65, U.S. ...\nThe post SINKEX: U.S. and UK Forces Sink Decommissioned Frigate at Atlantic Thunder 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/FLEET-20260921-XQ0236-001-PortlandFiring0-1024x576.webp",
-        "section": "nyheter"
-      },
-      {
         "title": "New Zealand, Australia sign pact to deepen naval cooperation",
         "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation/",
         "published": "2026-09-29T10:25:20Z",
@@ -292,19 +302,19 @@
         "summary": "﻿﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In U.S. 7th Fleet Area of Operations The Abraham Lincoln Carrier Strike Group (CSG) is underway following a two-day stop in Guam last weekend. The strike group includes aircraft carrier USS Abraham Lincoln (CVN-72) with embarked Carrier Air Wing (CVW) and destroyer USS Frank E. Petersen Jr. (DDG-121).  As of Friday, Abraham Lincoln has been deployed for 308 days. In the Philippine Sea D",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "‘We Absolutely Need to Change,’ Says New Navy Maintenance Head",
-        "url": "https://news.usni.org/2026/09/24/we-absolutely-need-to-change-says-new-navy-maintenance-head",
-        "published": "2026-09-24T21:04:48Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "VIRGINIA BEACH, Va. — Not quite two months on the job, a submariner turned head of the Navy’s vast maintenance operation promised his office would create a more nimble organization that would better balance risk to speed ships back to the fleet. Program Acquisition Executive for Industrial Operations Rear Adm. Todd Weeks told a crowd of ship maintainers the service wants to reduce the barriers to get ships out of maintenance on time. “We absolutely need to change, and we&#8217;re not getting it ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Kysten i en urolig tid - sikkerhet og beredskap i nord",
+        "url": "https://www.kystverket.no/nyheter/kysten-i-en-urolig-tid---sikkerhet-og-beredskap-i-nord/",
+        "published": "2026-10-02T09:48:33Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Hvordan sikrer vi forsyninger, infrastruktur og verdiskaping langs norskekysten i en mer urolig...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "No startar rivingsarbeidet for Stad skipstunnel",
         "url": "https://www.kystverket.no/nyheter/no-startar-rivingsarbeidet-for-stad-skipstunnel/",

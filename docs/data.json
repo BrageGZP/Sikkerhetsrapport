@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-02T10:07:10Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-02T17:44:37Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "USNI News Western Pacific Pulse: Oct. 2, 2026",
+        "url": "https://news.usni.org/2026/10/02/usni-news-western-pacific-pulse-oct-2-2026",
+        "published": "2026-10-02T16:13:28Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Malacca Strait Destroyer USS Carl M. Levin (DDG-120) transited north through the Malacca Strait on Tuesday. The destroyer transited the Singapore Strait the day before. Carl M. Levin is now operating in the Indian Ocean. Homeported in Hawaii, Carl M. Levin is forward deployed and assigned to Destroyer Squadron (DESRON) 15 In Singapore Royal Navy offshore patrol vessel HMS Tamar (P23",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9974500-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/10/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates/",
+        "published": "2026-10-02T15:33:23Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, and In-Service Support (BAAINBw) have signed a contract for the adaptation development of IRIS-T SLM. The aim is to make the system mission-capable on the German Navy&#8217;s F125 frigates. Diehl Defence press release Diehl Defence and the Federal Office of Bundeswehr Equipment, Information Technology, ...\nThe post IRIS-T SLM for the German Navy: agreement on adaptation development for the F125 frigates appeare",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
+        "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
+        "published": "2026-10-02T15:29:29Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Italian military planners risk losing out on billions in funding as government and opposition parties seek to cut defense spending and Ukraine support.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CZ2NWXFG4VH7FBVSCJ5CVG3XF4.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy, Raytheon ink $24.4B deal for SM-6 ‘acceleration’",
+        "url": "https://breakingdefense.com/2026/10/navy-raytheon-ink-24-4b-deal-for-sm-6-acceleration/",
+        "published": "2026-10-02T13:49:31Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The deal covers at least five-years of production for an undisclosed number of missiles.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/8087683-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany",
+        "url": "https://www.navalnews.com/naval-news/2026/10/singapore-launches-first-sentinel-class-offshore-patrol-vessel-in-germany/",
+        "published": "2026-10-02T13:03:14Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 1, 2026, the Republic of Singapore Navy (RSN) has launched its first new Sentinel-class Offshore Patrol Vessel (OPV), Sentinel, in Germany. The launch ceremony was attended by Singapore’s Minister for Defence, Chan Chun Sing, and his wife, who served as the vessel’s Lady Sponsor and formally christened the ship. German Federal Minister of ...\nThe post Singapore Launches First Sentinel-class Offshore Patrol Vessel in Germany appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/05/P5070089-1024x742.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Norway’s Fridtjof Nansen-class Frigate Fires ESSM Block 2 for First Time",
         "url": "https://www.navalnews.com/naval-news/2026/10/norways-fridtjof-nansen-class-frigate-fires-essm-block-2-for-first-time/",
@@ -154,16 +204,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Boeing Wins U.S. Navy’s F/A-XX Next Generation Fighter Contract",
-        "url": "https://www.navalnews.com/naval-news/2026/09/boeing-wins-u-s-navys-f-a-xx-next-generation-fighter-contract/",
-        "published": "2026-09-30T06:20:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy announced its selection of Boeing to build the next-generation Navy fighter late on September 29th, with the reveal arriving after an over 18-month-long pause in news about the program and its progress. The initial contract for continued work on F/A-XX totals $20 billion dollars, likely covering several initial airframes as well as ...\nThe post Boeing Wins U.S. Navy&#8217;s F/A-XX Next Generation Fighter Contract appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/05/BI232269.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy selects Boeing to build next-generation F/A-XX fighter",
         "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
         "published": "2026-09-29T22:20:07Z",
@@ -224,16 +264,6 @@
         "section": "nyheter"
       },
       {
-        "title": "New Zealand, Australia sign pact to deepen naval cooperation",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/29/new-zealand-australia-sign-pact-to-deepen-naval-cooperation/",
-        "published": "2026-09-29T10:25:20Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The New Zealand and Australian navies signed “Plan Tasman” this month, formalizing a blueprint for integrating the two neighboring sea services.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2MLK3RU445BUJKVF6RQHDBL5RU.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
         "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
         "published": "2026-09-28T20:55:06Z",
@@ -271,36 +301,6 @@
         "language": "en",
         "summary": "VIRGINIA BEACH, Va. — Both U.S. and foreign designs for the next small-surface combatant are under consideration after the cancellation of the Constellation-class guided-missile frigate, the new head of the Navy’s shipbuilding enterprise said this week. A foreign design study is running in parallel with the development of HII Ingalls’ FF(X) Flight I patrol frigate, which was announced late last year following the Constellation cancellation, Portfolio Acquisition Executive Rear Adm. Casey Moton t",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/680018947_122110144148985384_3628097066774778081_n.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Establishes New Deputy Chief Of Naval Operations to Support Failing Shore Infrastructure",
-        "url": "https://news.usni.org/2026/09/25/navy-establishes-new-deputy-chief-of-naval-operations-to-support-failing-shore-infrastructure",
-        "published": "2026-09-25T21:07:32Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "WASHINGTON NAVY YARD – Navy shore infrastructure will be in failing condition by 2037 if the sea service continues to use its current funding schedule, the new deputy chief of naval operations told USNI News on Thursday.  As the newly created deputy chief of naval operations of sustainment, Vice Adm. Scott Gray, who will report on Oct. 5, will be tasked with continuously pushing for funding for shore infrastructure, including barracks and piers.  “The idea is to continue the efforts to revitaliz",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9902112-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
-        "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
-        "published": "2026-09-25T18:14:56Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Chinese warships and cutters blocked a Philippine resupply mission to Second Thomas Shoal on Thursday in the most significant development at the disputed South China Sea feature. The People’s Liberation Army Navy and China Coast Guard attempted to “hinder” the resupply mission, Manila’s National Task Force for the West Philippine Sea announced on Friday. &#8220;In doing so, they put Filipino personnel at risk and obstructed a legitimate humanitarian and sustainment operation,” reads the task for",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Seirra-Madre.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
-        "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
-        "published": "2026-09-25T16:43:29Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "﻿﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In U.S. 7th Fleet Area of Operations The Abraham Lincoln Carrier Strike Group (CSG) is underway following a two-day stop in Guam last weekend. The strike group includes aircraft carrier USS Abraham Lincoln (CVN-72) with embarked Carrier Air Wing (CVW) and destroyer USS Frank E. Petersen Jr. (DDG-121).  As of Friday, Abraham Lincoln has been deployed for 308 days. In the Philippine Sea D",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -495,16 +495,6 @@
         "language": "en",
         "summary": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI News has learned. The two-person crew of an EA-18G Growler assigned to the &#8220;Zappers&#8221; of Electronic Attack Squadron (VAQ) 130 were safely recovered after ejecting from the aircraft, the Navy said in a statement provided to USNI News. “At approximately 6:18 p.m. EDT on Sept. 28, a mishap involving an E/A-18G Growler, at",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/9667243-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "EU nails down five defense priority areas to channel common spending",
-        "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-        "published": "2026-09-28T14:59:45Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QRXYUNWA5NFS7JR5G4SJ5PSKF4.jpg",
         "section": "rov_teknologi"
       },
       {

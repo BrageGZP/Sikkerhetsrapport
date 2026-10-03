@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-03T09:29:45Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-03T16:03:57Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Desan Shipyard Launches First MPMS for Malaysian Coast Guard in Istanbul",
+        "url": "https://www.navalnews.com/naval-news/2026/10/desan-shipyard-launches-first-mpms-for-malaysian-coast-guard-in-istanbul/",
+        "published": "2026-10-03T14:17:03Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Malaysian Maritime Agency (Maritim Malaysia) has achieved another significant milestone through the launch of the Multi Purpose Mission Ship (MPMS 1) at the Desan Shipyard in Türkiye yesterday. Malaysian Maritime Agency press release The launch ceremony was attended by the Minister of Home Affairs, the Honorable Datuk Seri Saifuddin Nasution bin Ismail, along with ...\nThe post Desan Shipyard Launches First MPMS for Malaysian Coast Guard in Istanbul appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/mpms-1024x768.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Carrier USS Dwight D. Eisenhower to Return to Port After Growler Mishap",
+        "url": "https://news.usni.org/2026/10/03/carrier-uss-dwight-d-eisenhower-to-return-to-port-after-growler-mishap",
+        "published": "2026-10-03T12:31:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) is returning to Naval Station Norfolk, Va., after a Sept. 28 incident that injured four sailors and resulted in the loss of a EA-18G Growler, USNI News has learned. The return to port will, “allow for a comprehensive assessment of the ship’s aircraft launch and recovery equipment following the Sept. 28 aviation mishap,” reads an early Saturday morning statement from Naval Air Force Atlantic. “The decision reflects the Navy’s deliberate approach ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9639392-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Metal Shark Awarded Contract for 13 Patrol Boats for Vietnam",
         "url": "https://www.navalnews.com/naval-news/2026/10/metal-shark-awarded-contract-for-13-patrol-boats-for-vietnam/",
@@ -282,26 +302,6 @@
         "summary": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Q3ZA3FMXWVGXJM5XU7N3YUZ3TA.png",
         "section": "nyheter"
-      },
-      {
-        "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
-        "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
-        "published": "2026-09-28T20:55:06Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which is tasked with accompanying merchant ships in the Red Sea to protect them from Houthi attacks. “We need more vessels because literally there are commercial ships that are waiting in the queue to receive the escort that we do not have enough frigates that can do that,” EU High Representative Kaja Kallas said Monday, according to a transcript following a meeting of EU Defense ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/minerva_cp_31_8_logo.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone",
-        "url": "https://news.usni.org/2026/09/28/china-claims-expanded-zone-around-scarborough-shoal-deploys-new-drone",
-        "published": "2026-09-28T18:51:50Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Chinese forces rehearsed enforcing Beijing’s claim to Scarborough Shoal with drones and boarding drills on Sunday amid state media claims that China has extended its control of several contested maritime features beyond 24 nautical miles. The People’s Liberation Army Southern Theater Command and China Coast Guard held consecutive exercises within and around Scarborough Shoal, which is 120 nautical miles west of the Philippine island of Luzon. Chinese military forces publicly showcased the deploy",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-2.45.06-PM-scaled.png",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
@@ -475,16 +475,6 @@
         "language": "en",
         "summary": "The following is the Sept. 25, 2026, Government Accountability Office report, Naval Shipyards: Complete Information Needed for Decision-Making on Multibillion-Dollar, 50-Year Infrastructure Program. From the Report The Navy is taking on its largest-ever construction and restoration effort to improve poor conditions and outdated infrastructure at its 4 shipyards. These shipyards are essential to ensuring the Navy’s aircraft carriers and submarines are fit to fight in operations. This effort could",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Historic first as Royal Navy launches torpedo from uncrewed submarine, XV Excalibur",
-        "url": "https://www.navalnews.com/naval-news/2026/09/historic-first-as-royal-navy-launches-torpedo-from-uncrewed-submarine-xv-excalibur/",
-        "published": "2026-09-30T11:53:34Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "For the first time, a Royal Navy robot submarine has successfully fired a torpedo in a milestone trial pushing the boundaries of undersea warfare off Scotland. Royal Navy press release XV Excalibur, an Extra-Large Uncrewed Underwater Vessel or XLUUV, was adapted with a specialist management system to successfully fire and control US Navy Mk48 Mod ...\nThe post Historic first as Royal Navy launches torpedo from uncrewed submarine, XV Excalibur appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/20260915-Trial-Iron-017-1024x576.jpg",
         "section": "rov_teknologi"
       },
       {

@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-03T16:03:57Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-04T10:16:50Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Navy Commissions Flight III Destroyer USS Ted Stevens (DDG 128) in Alaska",
+        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-commissions-flight-iii-destroyer-uss-ted-stevens-ddg-128-in-alaska/",
+        "published": "2026-10-04T07:35:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy has officially commissioned the USS Ted Stevens (DDG 128), its newest Flight III Arleigh Burke-class guided-missile destroyer equipped with the SPY-6 radar and Aegis Baseline 10, during a ceremony in Whittier, Alaska. US Navy press release The U.S. Navy placed its newest Flight III Arleigh Burke-class guided-missile destroyer, USS Ted Stevens (DDG ...\nThe post U.S. Navy Commissions Flight III Destroyer USS Ted Stevens (DDG 128) in Alaska appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Desan Shipyard Launches First MPMS for Malaysian Coast Guard in Istanbul",
         "url": "https://www.navalnews.com/naval-news/2026/10/desan-shipyard-launches-first-mpms-for-malaysian-coast-guard-in-istanbul/",
@@ -204,16 +214,6 @@
         "section": "nyheter"
       },
       {
-        "title": "HD HHI Launches Third KDX-III Batch-II Destroyer for ROK Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hd-hhi-launches-third-kdx-iii-batch-ii-destroyer-for-rok-navy/",
-        "published": "2026-10-01T08:21:39Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "South Korea's HD Hyundai Heavy Industries launched ROKS Daeho Kim Jong-seo, the Republic of Korean (ROK) Navy's third next-generation Aegis destroyer, completing South Korea's six-ship Aegis fleet.\nThe post HD HHI Launches Third KDX-III Batch-II Destroyer for ROK Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/ROKS-Daeho-Kim-Jong-seo-1024x679.png",
-        "section": "nyheter"
-      },
-      {
         "title": "VIDEO: Former U.S. Frigate Sunk in Exercise with U.S., Royal Navies",
         "url": "https://news.usni.org/2026/09/30/video-former-u-s-frigate-sunk-in-exercise-with-u-s-royal-navies",
         "published": "2026-09-30T17:27:13Z",
@@ -221,16 +221,6 @@
         "language": "en",
         "summary": "This story has been updated to correct the spelling of USS Klakring (FFG-42).  The U.S. Navy and Royal Navy sunk decommissioned frigate USS Klakring (FFG-42) earlier this month as part of a sinking exercise with Royal Navy forces. Newly commissioned Virginia-class submarine USS Massachusetts (SSN-798) dealt the final blow to Klakring, sending it to the bottom of the Atlantic Ocean. Massachusetts fired an Mk48 Advanced Capability Torpedo at Klakring during the Sept. 20 exercise, sinking the decom",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/09/45338.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV Marketplace",
-        "url": "https://www.navalnews.com/naval-news/2026/09/saronic-awarded-production-contract-for-marauder-under-u-s-navys-musv-marketplace/",
-        "published": "2026-09-30T15:30:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saronic Technologies has been awarded a production Other Transaction (OT) under the U.S. Navy’s Medium Unmanned Surface Vessel (MUSV) Marketplace for Marauder, the company’s dual-use 180-foot autonomous ship. Saronic Technologies press release The Firm-Fixed Price award, executed under the authority of 10 U.S.C. § 4022(f), reflects a streamlined acquisition approach that enables the Navy to procure capabilities ...\nThe post Saronic Awarded Production Contract for Marauder Under U.S. Navy’s MUSV ",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -301,6 +291,16 @@
         "language": "en",
         "summary": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Q3ZA3FMXWVGXJM5XU7N3YUZ3TA.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
+        "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
+        "published": "2026-09-28T20:55:06Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which is tasked with accompanying merchant ships in the Red Sea to protect them from Houthi attacks. “We need more vessels because literally there are commercial ships that are waiting in the queue to receive the escort that we do not have enough frigates that can do that,” EU High Representative Kaja Kallas said Monday, according to a transcript following a meeting of EU Defense ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/minerva_cp_31_8_logo.jpg",
         "section": "nyheter"
       }
     ],

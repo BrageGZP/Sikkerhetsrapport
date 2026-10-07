@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-07T10:39:50Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-07T18:45:39Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Super Hornets Sortie with Blackbeard Missiles in Latest Test",
+        "url": "https://news.usni.org/2026/10/07/super-hornets-sortie-with-blackbeard-missiles-in-latest-test",
+        "published": "2026-10-07T16:20:10Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Navy’s first carrier aviation-based hypersonic missile is one step closer to achieving early operational capability following a recent flight test. An F/A-18E/F Super Hornet took off with a pair of the Castelion-made Mach 5+ missiles from Naval Air Station Patuxent, Maryland, the Navy announced Sept. 30. The test, which took place on Sept. 18, was meant to validate the missile’s capability to be carried aboard the fighter. Blackbeard, also known as the Multi-mission Affordable Capacity ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9976357-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multirole Corvettes and Expanded Maritime Cooperation",
         "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-signs-strategic-teaming-agreement-with-croatias-iskra-shipyard-for-multirole-corvettes-and-expanded-maritime-cooperation/",
@@ -264,16 +274,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
-        "url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
-        "published": "2026-10-01T15:01:55Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Belgium is pushing to get new naval frigates on time, as a joint procurement with the Netherlands is delayed by years.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2KD66FNFKJFPTLSZ3GZAFLPDYE.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "GAO Report on How the Coast Guard Can Address Marine Firefighting Challenges",
         "url": "https://news.usni.org/2026/10/01/gao-report-on-how-the-coast-guard-can-address-marine-firefighting-challenges",
         "published": "2026-10-01T14:00:05Z",
@@ -282,29 +282,19 @@
         "summary": "The following is the Sept. 29, 2026, Government Accountability Office report, Coast Guard: Additional Action Needed to Address Marine Firefighting Challenges. From the Report Fires on vessels are extremely dangerous and difficult for firefighters to respond to. In 2023, a marine vessel fire resulted in the deaths of 2 firefighters. After this, the U.S. Coast Guard worked to address firefighting risks—but it could do more. For example, the Coast Guard works with local port officials, land-based f",
         "image_url": "",
         "section": "nyheter"
-      },
-      {
-        "title": "VIDEO: Former U.S. Frigate Sunk in Exercise with U.S., Royal Navies",
-        "url": "https://news.usni.org/2026/09/30/video-former-u-s-frigate-sunk-in-exercise-with-u-s-royal-navies",
-        "published": "2026-09-30T17:27:13Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This story has been updated to correct the spelling of USS Klakring (FFG-42).  The U.S. Navy and Royal Navy sunk decommissioned frigate USS Klakring (FFG-42) earlier this month as part of a sinking exercise with Royal Navy forces. Newly commissioned Virginia-class submarine USS Massachusetts (SSN-798) dealt the final blow to Klakring, sending it to the bottom of the Atlantic Ocean. Massachusetts fired an Mk48 Advanced Capability Torpedo at Klakring during the Sept. 20 exercise, sinking the decom",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/45338.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. to Transfer Surveillance Aircraft to the Philippine Coast Guard",
-        "url": "https://news.usni.org/2026/09/30/u-s-to-transfer-surveillance-aircraft-to-the-philippine-coast-guard",
-        "published": "2026-09-30T14:04:22Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, PHILIPPINES – The U.S. will transfer three King Air turboprop planes equipped for maritime domain awareness operations to the Philippine Coast Guard, the Pentagon announced Monday. Technology Service Corp. was awarded $39 million for the procurement and integration of intelligence, surveillance and reconnaissance kits onto King Air 350 Extended Range aircraft, reads the contract announcement. Two of the three aircraft will receive the ISR hardware and software modifications. Work also in",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-9.55.45-AM-scaled.png",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Forslaget til statsbudsjett 2027 er lagt frem",
+        "url": "https://www.kystverket.no/nyheter/forslaget-til-statsbudsjett-2027-er-lagt-frem/",
+        "published": "2026-10-07T11:00:52Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Regjeringens forslag til statsbudsjett for 2027 kan bety endringer i utbyggingsporteføljen til...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kysten i en urolig tid - sikkerhet og beredskap i nord",
         "url": "https://www.kystverket.no/nyheter/kysten-i-en-urolig-tid---sikkerhet-og-beredskap-i-nord/",
@@ -467,6 +457,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
+        "url": "https://news.usni.org/2026/10/07/report-to-congress-on-marine-corps-amphibious-combat-vehicle-3",
+        "published": "2026-10-07T14:10:54Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
         "url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",

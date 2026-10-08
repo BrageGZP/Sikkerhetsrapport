@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-07T18:45:39Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-08T11:00:08Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Carrier Expected to Make Port Call in Yokosuka, First in 4 Years",
+        "url": "https://news.usni.org/2026/10/07/u-s-carrier-expected-to-make-port-call-in-yokosuka-first-in-4-years",
+        "published": "2026-10-07T19:56:34Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A U.S. Navy aircraft carrier is expected to make a port call in Yokosuka, Japan, for the first time in four years. Yokosuka Mayor Katsuaki Kamiji and other city officials were informed Wednesday that a U.S. nuclear powered aircraft carrier may visit the city, according to a news release from the Yokosuka City Council. The carrier was not identified in the release, nor were the dates of the port call disclosed. “While details such as the name of the U.S. nuclear-powered aircraft carrier, the spec",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/7226030-scaled.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Super Hornets Sortie with Blackbeard Missiles in Latest Test",
         "url": "https://news.usni.org/2026/10/07/super-hornets-sortie-with-blackbeard-missiles-in-latest-test",
@@ -11,26 +21,6 @@
         "language": "en",
         "summary": "The U.S. Navy’s first carrier aviation-based hypersonic missile is one step closer to achieving early operational capability following a recent flight test. An F/A-18E/F Super Hornet took off with a pair of the Castelion-made Mach 5+ missiles from Naval Air Station Patuxent, Maryland, the Navy announced Sept. 30. The test, which took place on Sept. 18, was meant to validate the missile’s capability to be carried aboard the fighter. Blackbeard, also known as the Multi-mission Affordable Capacity ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9976357-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multirole Corvettes and Expanded Maritime Cooperation",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-signs-strategic-teaming-agreement-with-croatias-iskra-shipyard-for-multirole-corvettes-and-expanded-maritime-cooperation/",
-        "published": "2026-10-07T10:20:09Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HD Hyundai Heavy Industries announced that it has formally executed a strategic teaming agreement with Croatia’s Iskra Shipyard, establishing an industrial partnership aimed at Croatia’s upcoming Multirole Corvette (MRC) procurement program and broader domestic naval collaboration. HD HHI press release The agreement, officially signed on October 1 in Šibenik, establishes a joint framework to support ...\nThe post HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multi",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Anduril, U.S. Navy Invest $6.6 Billion to Expand America’s Submarine Industrial Base",
-        "url": "https://www.navalnews.com/naval-news/2026/10/anduril-u-s-navy-invest-6-6-billion-to-expand-americas-submarine-industrial-base/",
-        "published": "2026-10-06T21:24:26Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On October 6, 2026, the U.S. President Donald J. Trump announced Arsenal-2, a new software-defined shipyard backed by a $3.7 billion private capital investment by Anduril Industries. The facility will manufacture critical components for the Virginia-class submarine, adding significant new capacity to America&#8217;s submarine industrial base in support of the Navy&#8217;s effort to increase attack ...\nThe post Anduril, U.S. Navy Invest $6.6 Billion to Expand America&#8217;s Submarine Industrial ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-23.13.33-1024x590.png",
         "section": "nyheter"
       },
       {
@@ -84,16 +74,6 @@
         "section": "nyheter"
       },
       {
-        "title": "French Navy Conducts Acceptance Firing of M51.3 missile From Le Vigilant SSBN",
-        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-conducts-acceptance-firing-of-m51-3-missile-from-le-vigilant-ssbn/",
-        "published": "2026-10-06T13:47:07Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On October 6, 2026, France&#8217;s Ministry of Defence announced the successful completion of the M51 ballistic missile&#8217;s M51.3 version from SSBN Le Vigilant. French MoD press release &#8211; Translated by Naval News The first firing of an M51 ballistic missile in its M51.3 version was carried out on 6 October 2026 from a nuclear-powered ballistic ...\nThe post French Navy Conducts Acceptance Firing of M51.3 missile From Le Vigilant SSBN appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/HT8eE3TWMAA1pt7-1024x683.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
         "url": "https://news.usni.org/2026/10/06/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury-2",
         "published": "2026-10-06T13:45:41Z",
@@ -101,16 +81,6 @@
         "language": "en",
         "summary": "The following is the Oct. 5, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress.  From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran initially under the designation Operation Epic Fury (OEF). The conflict has involved air, maritime, and missile combat engagements across the Middle East. The pace of combat activity declined amid a ceasefire in Apr",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
-        "published": "2026-10-06T05:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines\nThe post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/10/exocetsm39_page-0002-1024x195.jpg",
         "section": "nyheter"
       },
       {
@@ -141,56 +111,6 @@
         "language": "en",
         "summary": "&#160; These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 5, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 109 (USS 78, USNS 31) (46 FDNF, 63 Rotational) 79 (61 Deployed, 18 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/FT_10_05_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Completes Successful Test Flight of Blackbeard Long-range Hypersonic Strike Missile",
-        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-completes-successful-test-flight-of-blackbeard-long-range-hypersonic-strike-missile/",
-        "published": "2026-10-05T15:00:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Blackbeard, an air-launched, long-range hypersonic strike missile, successfully completed another milestone recently, with a flight test on an F/A-18E/F Super Hornet at Naval Air Station (NAS) Patuxent River, Maryland. This represents a key developmental test step in the program&#8217;s progression to Early Operational Capability (EOC). U.S. Navy press release Developed by Castelion and led by ...\nThe post U.S. Navy Completes Successful Test Flight of Blackbeard Long-range Hypersonic Strike Miss",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/10/kraken-and-saab-uk-develop-pioneering-autonomous-drone-seeker-vessel/",
-        "published": "2026-10-05T13:58:13Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Kraken and Saab UK are integrating K3 SCOUT with Giraffe 1X radar to develop a new rapidly deployable C-UAS seeker capability at sea. Kraken Robotics press release World-leading uncrewed surface vessel (USV) company Kraken Technology Group and defence prime Saab UK have developed and tested a pioneering prototype autonomous “drone seeker” vessel for maritime environments. ...\nThe post Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Philippines: The Coastal Defense Regiment 2026 BrahMos Update",
-        "url": "https://www.navalnews.com/naval-news/2026/10/philippines-the-coastal-defense-regiment-2026-brahmos-update/",
-        "published": "2026-10-05T08:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Philippine Marine Corps is working to fully operationalize its BrahMos supersonic anti-ship missiles amid tensions with China in the SCS.\nThe post Philippines: The Coastal Defense Regiment 2026 BrahMos Update appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/09/signal-2026-09-03-05-21-33-705_002-1024x897.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "French Navy and Naval Group test Rampart CIWS at sea during WILDFIRE Exercise",
-        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-and-naval-group-test-rampart-ciws-at-sea-during-wildfire-exercise/",
-        "published": "2026-10-05T05:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French Navy evaluated Naval Group's modular Rampart multi-purpose launching system at sea aboard an LHD during the WILDFIRE 26.2 counter-drone exercise.\nThe post French Navy and Naval Group test Rampart CIWS at sea during WILDFIRE Exercise appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/French-Navy-and-Naval-Group-test-Rampart-CIWS-at-sea-during-WILDFIRE-Exercise-2-1024x576.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Navy Commissions Flight III Destroyer USS Ted Stevens (DDG 128) in Alaska",
-        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-commissions-flight-iii-destroyer-uss-ted-stevens-ddg-128-in-alaska/",
-        "published": "2026-10-04T07:35:56Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy has officially commissioned the USS Ted Stevens (DDG 128), its newest Flight III Arleigh Burke-class guided-missile destroyer equipped with the SPY-6 radar and Aegis Baseline 10, during a ceremony in Whittier, Alaska. US Navy press release The U.S. Navy placed its newest Flight III Arleigh Burke-class guided-missile destroyer, USS Ted Stevens (DDG ...\nThe post U.S. Navy Commissions Flight III Destroyer USS Ted Stevens (DDG 128) in Alaska appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -464,16 +384,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
-        "published": "2026-10-06T18:13:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver mission-ready capability, moving over tides, terrains and obstacles, enabling access to 80% of the world’s coastline. Under the contract, Textron Systems will produce ...\nThe post Textron Systems to Provide Two Additional SSC Craft to US Navy appeared first on Naval News.",
         "image_url": "",
         "section": "rov_teknologi"
       },

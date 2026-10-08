@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-10-08T11:00:08Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-08T18:43:49Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "France Fires New Submarine-launched Ballistic Missile in First At-sea Test",
+        "url": "https://news.usni.org/2026/10/08/france-fires-new-submarine-launched-ballistic-missile-in-first-at-sea-test",
+        "published": "2026-10-08T16:05:10Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "France conducted the first at-sea firing of its latest submarine-launched ballistic missile on Tuesday. The French Navy’s nuclear powered ballistic missile submarine SNLE Le Vigilant (S618) launched an M51.3 SLBM – minus its nuclear warhead – off the coast of Finistère, France. The missile landed in the North Atlantic, several hundred kilometers from any coastline, reads a French Ministry of the Armed Forces and Veterans Affairs news release. The launch was the first time the M51.3, which entere",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/2026_10_NP_DPOL_SiO_GRPTD_Smertrios_COM1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy, Shield AI pour big bucks into X-BAT drone development",
+        "url": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development/",
+        "published": "2026-10-08T15:26:37Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Altogether, Shield AI and the US Navy are investing a combined $400 million into the X-BAT drone.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/19691231-SAS-Navy-League-2026-DSC04174-e1776794076958-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
+        "url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
+        "published": "2026-10-08T14:30:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hindustan Shipyard Launches First Fleet Support Ship ‘Surya’ for Indian Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/10/hindustan-shipyard-launches-first-fleet-support-ship-surya-for-indian-navy/",
+        "published": "2026-10-08T09:54:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "India’s Hindustan Shipyard Limited (HSL) launched the Indian Navy’s first Fleet Support Ship (FSS-1), Surya, on October 6, 2026, at a ceremony attended by Defence Minister Rajnath Singh as the chief guest. HSL also laid the keel of the fifth Fleet Support Ship (FSS-5) on October 6, 2026. The company also inaugurated several upgraded facilities, ...\nThe post Hindustan Shipyard Launches First Fleet Support Ship &#8216;Surya&#8217; for Indian Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/07/Indian-Navys-Fleet-Support-Ships-Take-Shape-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Japan Launches Seventh Taigei-Class Submarine as Nuclear Propulsion Debate Grows",
+        "url": "https://www.navalnews.com/naval-news/2026/10/japan-launches-seventh-taigei-class-submarine-as-nuclear-propulsion-debate-grows/",
+        "published": "2026-10-08T06:38:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 8, Japan’s Mitsubishi Heavy Industries (MHI) launched the seventh Taigei-class diesel-electric attack submarine, “Shogei” (しょうげい), for the Japan Maritime Self-Defense Force (JMSDF), as Japan considers nuclear propulsion as a possible option for its future submarines. The new 3,000-tonne submarine, with pennant number SS-519, entered the water during a naming and launching ceremony at ...\nThe post Japan Launches Seventh Taigei-Class Submarine as Nuclear Propulsion Debate Grows appeared",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/2610080202_dl-1024x683.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Carrier Expected to Make Port Call in Yokosuka, First in 4 Years",
         "url": "https://news.usni.org/2026/10/07/u-s-carrier-expected-to-make-port-call-in-yokosuka-first-in-4-years",
@@ -24,6 +74,26 @@
         "section": "nyheter"
       },
       {
+        "title": "HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multirole Corvettes and Expanded Maritime Cooperation",
+        "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-signs-strategic-teaming-agreement-with-croatias-iskra-shipyard-for-multirole-corvettes-and-expanded-maritime-cooperation/",
+        "published": "2026-10-07T10:20:09Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HD Hyundai Heavy Industries announced that it has formally executed a strategic teaming agreement with Croatia’s Iskra Shipyard, establishing an industrial partnership aimed at Croatia’s upcoming Multirole Corvette (MRC) procurement program and broader domestic naval collaboration. HD HHI press release The agreement, officially signed on October 1 in Šibenik, establishes a joint framework to support ...\nThe post HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multi",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Anduril, U.S. Navy Invest $6.6 Billion to Expand America’s Submarine Industrial Base",
+        "url": "https://www.navalnews.com/naval-news/2026/10/anduril-u-s-navy-invest-6-6-billion-to-expand-americas-submarine-industrial-base/",
+        "published": "2026-10-06T21:24:26Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 6, 2026, the U.S. President Donald J. Trump announced Arsenal-2, a new software-defined shipyard backed by a $3.7 billion private capital investment by Anduril Industries. The facility will manufacture critical components for the Virginia-class submarine, adding significant new capacity to America&#8217;s submarine industrial base in support of the Navy&#8217;s effort to increase attack ...\nThe post Anduril, U.S. Navy Invest $6.6 Billion to Expand America&#8217;s Submarine Industrial ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-23.13.33-1024x590.png",
+        "section": "nyheter"
+      },
+      {
         "title": "Anduril to Build New Submarine Component Facility",
         "url": "https://news.usni.org/2026/10/06/anduril-to-build-submarine-component-facility",
         "published": "2026-10-06T20:38:06Z",
@@ -31,16 +101,6 @@
         "language": "en",
         "summary": "Defense technology company Anduril will build a new facility in Maryland focused on submarine component construction for the U.S. Navy’s attack boats, according to a Tuesday announcement. While Anduril will start with components like torpedo tubes, the company wants to work toward building submarine modules and eventually entire sections of the hull, an industry official told reporters. “The very aspirational goal, kind of off in the future, is to be able to produce full ship sections, you know,",
         "image_url": "https://news.usni.org/wp-content/uploads/2025/11/USSMass.avif",
-        "section": "nyheter"
-      },
-      {
-        "title": "What it takes to succeed as Secretary of the Navy",
-        "url": "https://breakingdefense.com/2026/10/what-it-takes-to-succeed-as-secretary-of-the-navy/",
-        "published": "2026-10-06T17:41:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The US Navy faces its most challenging period since the end of the Cold War, and it needs someone with the right qualities to steer it back on course, says former SecNav John Lehman and AEI&#8217;s Anand Toprani.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/SPY-6LEAD-DDG125-SPY-6-2023-1-scaled-e1790869169629-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -74,6 +134,16 @@
         "section": "nyheter"
       },
       {
+        "title": "French Navy Conducts Acceptance Firing of M51.3 missile From Le Vigilant SSBN",
+        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-conducts-acceptance-firing-of-m51-3-missile-from-le-vigilant-ssbn/",
+        "published": "2026-10-06T13:47:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 6, 2026, France&#8217;s Ministry of Defence announced the successful completion of the M51 ballistic missile&#8217;s M51.3 version from SSBN Le Vigilant. French MoD press release &#8211; Translated by Naval News The first firing of an M51 ballistic missile in its M51.3 version was carried out on 6 October 2026 from a nuclear-powered ballistic ...\nThe post French Navy Conducts Acceptance Firing of M51.3 missile From Le Vigilant SSBN appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/HT8eE3TWMAA1pt7-1024x683.jpeg",
+        "section": "nyheter"
+      },
+      {
         "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
         "url": "https://news.usni.org/2026/10/06/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury-2",
         "published": "2026-10-06T13:45:41Z",
@@ -81,6 +151,16 @@
         "language": "en",
         "summary": "The following is the Oct. 5, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress.  From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran initially under the designation Operation Epic Fury (OEF). The conflict has involved air, maritime, and missile combat engagements across the Middle East. The pace of combat activity declined amid a ceasefire in Apr",
         "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/mbda-offers-sm39-block-2-mod-2-for-indonesias-scorpene-submarines/",
+        "published": "2026-10-06T05:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "MBDA confirmed that the company is offering its submarine-launched SM39 Exocet anti-ship missile for Indonesia’s future Scorpène Evolved submarines\nThe post MBDA Offers SM39 Block 2 Mod 2 for Indonesia’s Scorpène Submarines appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/10/exocetsm39_page-0002-1024x195.jpg",
         "section": "nyheter"
       },
       {
@@ -114,6 +194,26 @@
         "section": "nyheter"
       },
       {
+        "title": "U.S. Navy Completes Successful Test Flight of Blackbeard Long-range Hypersonic Strike Missile",
+        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-completes-successful-test-flight-of-blackbeard-long-range-hypersonic-strike-missile/",
+        "published": "2026-10-05T15:00:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Blackbeard, an air-launched, long-range hypersonic strike missile, successfully completed another milestone recently, with a flight test on an F/A-18E/F Super Hornet at Naval Air Station (NAS) Patuxent River, Maryland. This represents a key developmental test step in the program&#8217;s progression to Early Operational Capability (EOC). U.S. Navy press release Developed by Castelion and led by ...\nThe post U.S. Navy Completes Successful Test Flight of Blackbeard Long-range Hypersonic Strike Miss",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/10/kraken-and-saab-uk-develop-pioneering-autonomous-drone-seeker-vessel/",
+        "published": "2026-10-05T13:58:13Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Kraken and Saab UK are integrating K3 SCOUT with Giraffe 1X radar to develop a new rapidly deployable C-UAS seeker capability at sea. Kraken Robotics press release World-leading uncrewed surface vessel (USV) company Kraken Technology Group and defence prime Saab UK have developed and tested a pioneering prototype autonomous “drone seeker” vessel for maritime environments. ...\nThe post Kraken and Saab UK develop pioneering autonomous ‘drone seeker’ vessel appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
         "title": "Carrier USS Dwight D. Eisenhower to Return to Port After Growler Mishap",
         "url": "https://news.usni.org/2026/10/03/carrier-uss-dwight-d-eisenhower-to-return-to-port-after-growler-mishap",
         "published": "2026-10-03T12:31:58Z",
@@ -144,26 +244,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
-        "url": "https://www.defensenews.com/global/europe/2026/10/02/ukraine-war-fatigue-fuels-defense-spending-downgrade-plan-in-italy/",
-        "published": "2026-10-02T15:29:29Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Italian military planners risk losing out on billions in funding as government and opposition parties seek to cut defense spending and Ukraine support.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CZ2NWXFG4VH7FBVSCJ5CVG3XF4.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
-        "published": "2026-10-01T22:05:46Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TI4GBTVCMFGWHGVVCCTJ5634PI.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Brings In 45,112 Recruits in FY 2026",
         "url": "https://news.usni.org/2026/10/01/navy-brings-in-45112-recruits-in-fy-2026",
         "published": "2026-10-01T21:48:32Z",
@@ -181,26 +261,6 @@
         "language": "en",
         "summary": "Three warships were recently decommissioned as Fiscal Year 2026 came to a close on Wednesday. The Navy bid farewell to Whidbey Island-class dock landing ship USS Germantown (LSD-42 and Ticonderoga-class guided missile cruisers USS Lake Erie (CG-70) and USS Shiloh (CG-67).  The 40-year-old Germantown decommissioned on Sept. 24 during a ceremony held in San Diego. Germantown was the first dock landing ship to conduct Landing Craft Air Cushion amphibious operations and served during Desert Shield, ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9977196-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Army Picks 5 to Prototype Long-range Maritime Strike Missile",
-        "url": "https://news.usni.org/2026/10/01/u-s-army-picks-5-firms-to-prototype-long-range-maritime-strike-missile",
-        "published": "2026-10-01T17:44:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Five companies were selected to deliver prototypes of a missile capable of hitting moving, long-range maritime targets to the U.S. Army, the ground service announced Tuesday. Anduril, Castelion, Lockheed Martin Missiles and Fire Control, Mach Industries and RTX were awarded through five Other Transaction Authority agreements to develop and deliver their pitches for the ground service’s Precision Strike Missile Increment 4 program. The defense contractors are expected to deliver prototypes within",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/PrSM-Flight-Test.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "GAO Report on How the Coast Guard Can Address Marine Firefighting Challenges",
-        "url": "https://news.usni.org/2026/10/01/gao-report-on-how-the-coast-guard-can-address-marine-firefighting-challenges",
-        "published": "2026-10-01T14:00:05Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Sept. 29, 2026, Government Accountability Office report, Coast Guard: Additional Action Needed to Address Marine Firefighting Challenges. From the Report Fires on vessels are extremely dangerous and difficult for firefighters to respond to. In 2023, a marine vessel fire resulted in the deaths of 2 firefighters. After this, the U.S. Coast Guard worked to address firefighting risks—but it could do more. For example, the Coast Guard works with local port officials, land-based f",
-        "image_url": "",
         "section": "nyheter"
       }
     ],
@@ -378,12 +438,32 @@
     ],
     "rov_teknologi": [
       {
+        "title": "German Budget Committee approves procurement of four additional MEKO A-200 DEU-class frigates",
+        "url": "https://www.navalnews.com/naval-news/2026/10/german-budget-committee-approves-procurement-of-four-additional-meko-a-200-deu-class-frigates/",
+        "published": "2026-10-08T16:33:06Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 8, 2026, the Budget Committee of the German Bundestag approved the procurement of four additional MEKO A-200 DEU frigates from TKMS at its meeting. By Hartpunkt This brings the total number of identical MEKO frigates procured to eight, as stated in a press release from the Federal Ministry of Defense. According to well-informed ...\nThe post German Budget Committee approves procurement of four additional MEKO A-200 DEU-class frigates appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
         "url": "https://news.usni.org/2026/10/07/report-to-congress-on-marine-corps-amphibious-combat-vehicle-3",
         "published": "2026-10-07T14:10:54Z",
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
+        "published": "2026-10-06T18:13:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver mission-ready capability, moving over tides, terrains and obstacles, enabling access to 80% of the world’s coastline. Under the contract, Textron Systems will produce ...\nThe post Textron Systems to Provide Two Additional SSC Craft to US Navy appeared first on Naval News.",
         "image_url": "",
         "section": "rov_teknologi"
       },

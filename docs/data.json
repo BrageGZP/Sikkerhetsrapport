@@ -1,8 +1,28 @@
 {
-  "generated_at": "2026-10-09T18:14:24Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-10T10:11:42Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Coast Guard places $248 million order for first MQ-9B drones",
+        "url": "https://breakingdefense.com/2026/10/coast-guard-places-248-million-order-for-first-mq-9b-drones/",
+        "published": "2026-10-09T20:10:41Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The unarmed drones are meant to &#8220;give the Coast Guard crews a longer-range view of our maritime domain,&#8221; a senior official said.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261009-G-M0101-3001-scaled-e1791574788736-1024x577.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "October Sees Near Daily Strikes on Ships in Hormuz",
+        "url": "https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz",
+        "published": "2026-10-09T20:09:18Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A ship has been struck in the Strait of Hormuz nearly every day this month, according to the International Maritime Organization.  Between Oct. 1 and Tuesday, nine ships – mostly crude oil tankers – were struck in the Strait of Hormuz or off the coast of Oman, according to the IMO. Two additional ships were hit since, with one struck on Wednesday and another struck on Friday, according to the United Kingdom Maritime Trade Operations.  Wednesday’s attack was on an unnamed tanker off the coast of ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-3.45.20-PM.png",
+        "section": "nyheter"
+      },
       {
         "title": "Ideal Aerosmith debuts ‘Troublemaker’ for one-way attack",
         "url": "https://breakingdefense.com/2026/10/ideal-aerosmith-debuts-troublemaker-for-one-way-attack/",
@@ -231,16 +251,6 @@
         "language": "en",
         "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) is returning to Naval Station Norfolk, Va., after a Sept. 28 incident that injured four sailors and resulted in the loss of a EA-18G Growler, USNI News has learned. The return to port will, “allow for a comprehensive assessment of the ship’s aircraft launch and recovery equipment following the Sept. 28 aviation mishap,” reads an early Saturday morning statement from Naval Air Force Atlantic. “The decision reflects the Navy’s deliberate approach ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/04/9639392-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Contracts RTX for $24.4B Standard Missile-6 Deal",
-        "url": "https://news.usni.org/2026/10/02/navy-contracts-rtx-for-24-4b-standard-missile-6-deal",
-        "published": "2026-10-02T20:59:48Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy contracted RTX to produce more than 1,900 Standard Missile-6s over five years in a $24.4 billion deal announced on Thursday. “This SM-6 award gives industry the demand signal and stability to expand production, strengthen the munitions industrial base, and build the magazine depth our fleet needs. That is the foundry delivering for the fleet – and ensuring our sailors have the combat power to fight and win,” Chief of Naval Operations Adm. Daryl Caudle said in a Navy release on the ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/SM-6-1424623.jpg",
         "section": "nyheter"
       }
     ],

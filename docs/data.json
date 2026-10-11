@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-10T17:13:16Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-11T10:23:51Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Navy Seeks Information on SSN(X) Next Gen Submarine",
+        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-seeks-information-on-ssnx-next-gen-submarine/",
+        "published": "2026-10-11T08:26:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy published a Sources Sought Notice concerning SSN(X) late in the morning on October 9th, seeking information from industry on manufacturing capabilities for the submarine meant to succeed the vaunted Virginia-class fast attack boats. The notice represents one of the initial steps of getting a program off of the drawing board and into ...\nThe post U.S. Navy Seeks Information on SSN(X) Next Gen Submarine appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/05/SSNX-next-generation-US-Navy-Submarine-1024x576.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Coast Guard places $248 million order for first MQ-9B drones",
         "url": "https://breakingdefense.com/2026/10/coast-guard-places-248-million-order-for-first-mq-9b-drones/",
@@ -434,16 +444,6 @@
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Textron Systems to Provide Two Additional SSC Craft to US Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/textron-systems-to-provide-two-additional-ssc-craft-to-us-navy/",
-        "published": "2026-10-06T18:13:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Textron Systems Corporation announced it was awarded a $230M contract modification from the U.S. Navy to produce two Ship-to-Shore Connector (SSC) craft. Textron Systems press release The SSCs are designed to deliver mission-ready capability, moving over tides, terrains and obstacles, enabling access to 80% of the world’s coastline. Under the contract, Textron Systems will produce ...\nThe post Textron Systems to Provide Two Additional SSC Craft to US Navy appeared first on Naval News.",
         "image_url": "",
         "section": "rov_teknologi"
       },

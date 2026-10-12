@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-10-11T17:36:00Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-12T11:25:14Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "French MoD Selects Top Contenders for DANAE Armed Surface Drone Project",
+        "url": "https://www.navalnews.com/naval-news/2026/10/french-mod-selects-top-contenders-for-danae-armed-surface-drone-project/",
+        "published": "2026-10-12T08:22:51Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The French Navy and AID select three industrial teams to develop advanced armed autonomous surface drones for the DANAE armed USV project.\nThe post French MoD Selects Top Contenders for DANAE Armed Surface Drone Project appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "U.S. Navy Seeks Information on SSN(X) Next Gen Submarine",
         "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-seeks-information-on-ssnx-next-gen-submarine/",
@@ -154,26 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multirole Corvettes and Expanded Maritime Cooperation",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-signs-strategic-teaming-agreement-with-croatias-iskra-shipyard-for-multirole-corvettes-and-expanded-maritime-cooperation/",
-        "published": "2026-10-07T10:20:09Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HD Hyundai Heavy Industries announced that it has formally executed a strategic teaming agreement with Croatia’s Iskra Shipyard, establishing an industrial partnership aimed at Croatia’s upcoming Multirole Corvette (MRC) procurement program and broader domestic naval collaboration. HD HHI press release The agreement, officially signed on October 1 in Šibenik, establishes a joint framework to support ...\nThe post HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multi",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Anduril, U.S. Navy Invest $6.6 Billion to Expand America’s Submarine Industrial Base",
-        "url": "https://www.navalnews.com/naval-news/2026/10/anduril-u-s-navy-invest-6-6-billion-to-expand-americas-submarine-industrial-base/",
-        "published": "2026-10-06T21:24:26Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On October 6, 2026, the U.S. President Donald J. Trump announced Arsenal-2, a new software-defined shipyard backed by a $3.7 billion private capital investment by Anduril Industries. The facility will manufacture critical components for the Virginia-class submarine, adding significant new capacity to America&#8217;s submarine industrial base in support of the Navy&#8217;s effort to increase attack ...\nThe post Anduril, U.S. Navy Invest $6.6 Billion to Expand America&#8217;s Submarine Industrial ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-06-at-23.13.33-1024x590.png",
-        "section": "nyheter"
-      },
-      {
         "title": "Anduril to Build New Submarine Component Facility",
         "url": "https://news.usni.org/2026/10/06/anduril-to-build-submarine-component-facility",
         "published": "2026-10-06T20:38:06Z",
@@ -201,16 +191,6 @@
         "language": "en",
         "summary": "U.S. and Japanese forces will amass in Japan’s southwest region to rehearse island defense as part of the annual Keen Sword exercise later this month. Exercise Keen Sword, which runs from Oct. 19-29, will see integrated air and missile defense, surface warfare, amphibious landing, airborne operations, island deployment and reinforcement and live fire drills, according to documents released Friday by the Japan Ministry of Defense. The island defense exercise has been conducted on a mostly annual ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/8752486-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Anduril, US Navy invest $6.6 billion to boost submarine parts production",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/",
-        "published": "2026-10-06T14:15:29Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Anduril will invest $3.7 billion to develop a new shipyard in Maryland to build critical components for the Navy’s Virginia-class submarines.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GUFRKOVKURHX3HQYWXJSVYNRRA.JPG",
         "section": "nyheter"
       },
       {
@@ -417,6 +397,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-starts-production-of-unmanned-mcm-system-for-indonesian-navy/",
+        "published": "2026-10-12T06:50:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Exail has begun production of the Unmanned MCM System (UMIS) for the Indonesian Navy, featuring Inspector 90 USVs, third-party integrations, and training.\nThe post Exail Starts Production of Unmanned MCM System for Indonesian Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/01/Henriksen-HEMLIS-with-Exail-Inspector-90-1024x1024.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Exail Introduces Neptis Uncrewed Maritime Surveillance System",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-introduces-neptis-uncrewed-maritime-surveillance-system/",

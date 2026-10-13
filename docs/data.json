@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-13T11:14:59Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-13T19:08:16Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "Kongsberg to build new plant in Poland for counter-drone systems",
+        "url": "https://www.defensenews.com/global/europe/2026/10/13/kongsberg-to-build-new-plant-in-poland-for-counter-drone-systems/",
+        "published": "2026-10-13T18:08:19Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Norway’s Kongsberg has decided to build a new production facility for counter-drone systems in northern Poland.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GQRBCOS73NHKBOKKXNABFBDSQU.JPG",
+        "section": "nyheter"
+      },
+      {
+        "title": "French Navy Seizes Suspected Shadow Fleet Tanker in Indian Ocean",
+        "url": "https://news.usni.org/2026/10/13/french-navy-seizes-suspected-shadow-fleet-tanker-in-indian-ocean",
+        "published": "2026-10-13T16:01:52Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The French Navy on Monday seized a suspected shadow fleet tanker on Monday in the Indian Ocean, marking the fifth interception this year.  French forces intercepted and seized oil tanker MT DF Peak (IMO: 9341067), which was suspected of sailing a false flag and being involved in illicit fuel transportation activities. DF Peak was intercepted 450 nautical miles south of Réunion, a French territory island in the Indian Ocean located east of Madagascar and southwest of Mauritius.  DF Peak is sancti",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/HUc2EWNWkAE6C3C.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland",
+        "url": "https://www.navalnews.com/naval-news/2026/10/sweden-formalizes-interim-submarine-training-and-sodermanland-lease-for-poland/",
+        "published": "2026-10-13T11:39:15Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Poland and Sweden have finalized formal contracts for Polish submarine crew training and the lease of the interim A17-class boat HMS Södermanland, paving the way for the future delivery of Saab A26 submarines.\nThe post Sweden Formalizes Interim Submarine Training and Södermanland Lease for Poland appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Will The German Navy’s F127 Frigate Displace Other Procurements Over High Cost?",
         "url": "https://www.navalnews.com/naval-news/2026/10/will-the-german-navys-f127-frigate-displace-other-procurements-over-high-cost/",
@@ -161,26 +191,6 @@
         "language": "en",
         "summary": "Defense technology company Anduril will build a new facility in Maryland focused on submarine component construction for the U.S. Navy’s attack boats, according to a Tuesday announcement. While Anduril will start with components like torpedo tubes, the company wants to work toward building submarine modules and eventually entire sections of the hull, an industry official told reporters. “The very aspirational goal, kind of off in the future, is to be able to produce full ship sections, you know,",
         "image_url": "https://news.usni.org/wp-content/uploads/2025/11/USSMass.avif",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S., Japanese Forces to Rehearse Defense of Japan’s Southwest Islands",
-        "url": "https://news.usni.org/2026/10/06/u-s-japanese-forces-to-rehearse-defense-of-japans-southwest-islands",
-        "published": "2026-10-06T15:50:36Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "U.S. and Japanese forces will amass in Japan’s southwest region to rehearse island defense as part of the annual Keen Sword exercise later this month. Exercise Keen Sword, which runs from Oct. 19-29, will see integrated air and missile defense, surface warfare, amphibious landing, airborne operations, island deployment and reinforcement and live fire drills, according to documents released Friday by the Japan Ministry of Defense. The island defense exercise has been conducted on a mostly annual ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/8752486-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury",
-        "url": "https://news.usni.org/2026/10/06/report-to-congress-on-u-s-aircraft-combat-losses-in-operation-epic-fury-2",
-        "published": "2026-10-06T13:45:41Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Oct. 5, 2026, Congressional Research Service report, U.S. Aircraft Combat Losses in Operation Epic Fury: Considerations for Congress.  From the Report On February 28, 2026, the United States, in coordination with Israel, initiated military operations against Iran initially under the designation Operation Epic Fury (OEF). The conflict has involved air, maritime, and missile combat engagements across the Middle East. The pace of combat activity declined amid a ceasefire in Apr",
-        "image_url": "",
         "section": "nyheter"
       }
     ],
@@ -358,16 +368,6 @@
         "section": "rov_teknologi"
       },
       {
-        "title": "Mine hunting goes remote as the Navy replaces minesweepers with robots",
-        "url": "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots/",
-        "published": "2026-10-12T14:12:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "With minesweepers retired, the US is turning to remote and robotic mine-neutralization tactics.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Mine-hunting-1-1-e1791766951392-1024x577.jpg",
-        "section": "rov_teknologi"
-      },
-      {
         "title": "Exail Starts Production of Unmanned MCM System for Indonesian Navy",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-starts-production-of-unmanned-mcm-system-for-indonesian-navy/",
         "published": "2026-10-12T06:50:56Z",
@@ -378,32 +378,12 @@
         "section": "rov_teknologi"
       },
       {
-        "title": "Exail Introduces Neptis Uncrewed Maritime Surveillance System",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-introduces-neptis-uncrewed-maritime-surveillance-system/",
-        "published": "2026-10-09T06:57:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Exail introduced its Neptis uncrewed maritime surveillance system during the Euronaval press tour. Bringing together Oryx-family uncrewed surface vessels (USVs), mission-specific sensors and command-and-control software, the system can be configured for maritime surveillance, anti-submarine warfare and the protection of critical underwater infrastructure. Exail describes Neptis as a “system of systems” designed to support persistent operations ...\nThe post Exail Introduces Neptis Uncrewed Mariti",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/exail-neptis-c2-software-interface_2224x1254-1024x577.png",
-        "section": "rov_teknologi"
-      },
-      {
         "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
         "url": "https://news.usni.org/2026/10/07/report-to-congress-on-marine-corps-amphibious-combat-vehicle-3",
         "published": "2026-10-07T14:10:54Z",
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "GAO Report on the Navy’s Shipyard Infrastructure Optimization Program",
-        "url": "https://news.usni.org/2026/09/30/gao-report-on-the-navys-shipyard-infrastructure-optimization-program",
-        "published": "2026-09-30T18:13:38Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Sept. 25, 2026, Government Accountability Office report, Naval Shipyards: Complete Information Needed for Decision-Making on Multibillion-Dollar, 50-Year Infrastructure Program. From the Report The Navy is taking on its largest-ever construction and restoration effort to improve poor conditions and outdated infrastructure at its 4 shipyards. These shipyards are essential to ensuring the Navy’s aircraft carriers and submarines are fit to fight in operations. This effort could",
         "image_url": "",
         "section": "rov_teknologi"
       }

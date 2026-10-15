@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-10-15T08:39:32Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-15T16:44:29Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years",
+        "url": "https://news.usni.org/2026/10/15/north-korea-tests-first-submarine-launched-cruise-missile-in-nearly-3-years",
+        "published": "2026-10-15T16:40:30Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "North Korea fired two submarine-launched cruise missiles on Wednesday in the Sea of Japan, the first public disclosure of a SLCM test firing in nearly three years. North Korea’s Missile Administration fired two types of submarine-launched strategic cruise missiles, state media Korean Central News Agency reported on Thursday. North Korea uses the term “strategic” to describe nuclear weapons capability. “The test-fire aimed to examine the current mobilized posture of the underwater combat systems ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/KCNAsublaunch1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "AUKUS: HII Awarded Contract for Engineering and Design Support",
+        "url": "https://www.navalnews.com/naval-news/2026/10/aukus-hii-awarded-contract-for-engineering-and-design-support/",
+        "published": "2026-10-15T14:48:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HII announced that its Newport News Shipbuilding (NNS) division was awarded a $56 million contract by the U.S. Navy for shipbuilding engineering and design in support of&#160;the trilateral Australia, United Kingdom, and United States (AUKUS) partnership. HII press release The contract includes an option which, if exercised, would bring the cumulative value of this contract ...\nThe post AUKUS: HII Awarded Contract for Engineering and Design Support appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Shield AI Delivers First V-BAT to Taiwan Coast Guard",
+        "url": "https://www.navalnews.com/naval-news/2026/10/shield-ai-delivers-first-v-bat-to-taiwan-coast-guard/",
+        "published": "2026-10-15T13:28:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Shield AI delivers the first V-BAT autonomous aircraft to the Taiwan Coast Guard Administration, enhancing maritime domain awareness with partner AIDC.\nThe post Shield AI Delivers First V-BAT to Taiwan Coast Guard appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
       {
         "title": "Turkish Navy Deploys MALAMAN Smart Bottom Mine at Nusret 2026 Exercise",
         "url": "https://www.navalnews.com/naval-news/2026/10/turkish-navy-deploys-malaman-smart-mine-nusret-2026/",
@@ -34,12 +64,12 @@
         "section": "nyheter"
       },
       {
-        "title": "Chinese Carrier Strike Group Drills in the Philippine Sea",
+        "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills",
         "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea",
         "published": "2026-10-14T17:41:35Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group was operating in the Philippine Sea as of Wednesday, according to a Japan Joint Staff Office.  Led by aircraft carrier CNS Liaoning (16), the strike group was spotted 155 miles south of Japan’s Ishigaki Island launching and recovering aircraft. The strike group includes Liaoning, cruisers CNS Anshan (103) and CNS Wuxi (104) and destroyer CNS Huainen (123). The JSO previously observed the Liaoning CSG at 11 a.m. local time Tuesday sa",
+        "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group conducted drills in the Philippine Sea on Wednesday before sailing towards the South China Sea on Thursday, according to Japan&#8217;s Joint Staff Office. Led by aircraft carrier CNS Liaoning (16), the strike group was spotted 155 miles south of Japan’s Ishigaki Island launching and recovering aircraft. Liaoning conducted a total of 10 take-offs and landings of its embarked fighter aircraft and helicopters on Wednesday, the JSO said",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.02.16-PM.png",
         "section": "nyheter"
       },
@@ -91,16 +121,6 @@
         "language": "en",
         "summary": "HD Hyundai Heavy Industries has launched BRP Rajah Humabon, the third of six 2,400-ton Offshore Patrol Vessels (OPVs) built for the Philippine Navy.\nThe post HD HHI Launches Third 2,400-Ton OPV &#8216;BRP Rajah Humabon&#8217; for Philippine Navy appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/BRP-Rajah-Humabon-OPV-2.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Army, Navy research labs team up to combat Arctic cold",
-        "url": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
-        "published": "2026-10-14T01:00:00Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3ZULFZH5K5HXLIXVAZ6N3L5S3M.jpg",
         "section": "nyheter"
       },
       {
@@ -164,26 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Hanwha Highlights M38/M48 MUSV and Containerized Munitions at AUSA 2026",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-highlights-m38-m48-musv-and-containerized-munitions-at-ausa-2026/",
-        "published": "2026-10-12T19:36:17Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At AUSA 2026, Hanwha showcased its M38/M48 MUSV design with Magnet Defense alongside flexible containerized MLRS and VLS options.\nThe post Hanwha Highlights M38/M48 MUSV and Containerized Munitions at AUSA 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/IMG_8654-1024x575.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Video: Inside Naval Group’s Next-Gen SETIS Combat Management System",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/video-inside-naval-groups-next-gen-setis-combat-management-system/",
-        "published": "2026-10-12T14:50:55Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Inside Naval Group's next-gen SETIS Combat Management System. Watch our video report exploring AI-driven tactical decision support, at-sea upgrades, and cyber defense.\nThe post Video: Inside Naval Group’s Next-Gen SETIS Combat Management System appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "October Sees Near Daily Strikes on Ships in Hormuz",
         "url": "https://news.usni.org/2026/10/09/october-sees-near-daily-strikes-on-ships-in-hormuz",
         "published": "2026-10-09T20:09:18Z",
@@ -221,16 +221,6 @@
         "language": "en",
         "summary": "After 321 days, the Abraham Lincoln Carrier Strike Group is home. Flagship USS Abraham Lincoln (CVN-72) pulled into its berth at Naval Air Station North Island around 3:15 p.m. EST on Thursday. The record-breaking deployment, which saw the ship go 265 consecutive days at sea, is finally over. As the ship made its way through the busy San Diego Bay, sailors manned the rails in their dress whites – some were spotted on a live feed from the ship skipping and holding hands as they rushed to their po",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-2.30.08-PM-scaled.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "France Fires New Submarine-launched Ballistic Missile in First At-sea Test",
-        "url": "https://news.usni.org/2026/10/08/france-fires-new-submarine-launched-ballistic-missile-in-first-at-sea-test",
-        "published": "2026-10-08T16:05:10Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "France conducted the first at-sea firing of its latest submarine-launched ballistic missile on Tuesday. The French Navy’s nuclear powered ballistic missile submarine SNLE Le Vigilant (S618) launched an M51.3 SLBM – minus its nuclear warhead – off the coast of Finistère, France. The missile landed in the North Atlantic, several hundred kilometers from any coastline, reads a French Ministry of the Armed Forces and Veterans Affairs news release. The launch was the first time the M51.3, which entere",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/2026_10_NP_DPOL_SiO_GRPTD_Smertrios_COM1.jpg",
         "section": "nyheter"
       }
     ],

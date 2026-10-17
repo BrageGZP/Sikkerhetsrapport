@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T08:06:21Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-17T15:21:35Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM Fridtjof Nansen",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-17T08:06:26Z",
+        "published": "2026-10-17T15:21:41Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
@@ -141,16 +141,6 @@
         "language": "en",
         "summary": "Shield AI delivers the first V-BAT autonomous aircraft to the Taiwan Coast Guard Administration, enhancing maritime domain awareness with partner AIDC.\nThe post Shield AI Delivers First V-BAT to Taiwan Coast Guard appeared first on Naval News.",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Turkish Navy Deploys MALAMAN Smart Bottom Mine at Nusret 2026 Exercise",
-        "url": "https://www.navalnews.com/naval-news/2026/10/turkish-navy-deploys-malaman-smart-mine-nusret-2026/",
-        "published": "2026-10-15T08:28:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Turkish Navy has deployed its homegrown MALAMAN smart mine during the multinational Nusret 2026 exercise in the Gulf of Izmir and Black Sea.\nThe post Turkish Navy Deploys MALAMAN Smart Bottom Mine at Nusret 2026 Exercise appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/marlin-malaman-1024x572.webp",
         "section": "nyheter"
       },
       {
@@ -377,6 +367,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-first-multi-purpose-vessel-ins-samarthak/",
+        "published": "2026-10-17T08:27:02Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Indian Navy commissioned its first Multi-Purpose Vessel INS Samarthak at Naval Base, Karwar on October 16, 2026. Built by Larsen and Toubro, the MPV can conduct weapon trials, MCM and act as a mothership for uncrewed assets. INS Samarthak (A 10) is the first of two Multi-Purpose Vessels (MPV) being inducted into the Indian ...\nThe post Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/LT-MPV-1024x553.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Saab, FMV and the Swedish Armed Forces launch LUUV",
         "url": "https://www.navalnews.com/naval-news/2026/10/saab-fmv-and-the-swedish-armed-forces-launch-luuv/",

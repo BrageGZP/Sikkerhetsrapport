@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-10-19T09:23:19Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-19T18:36:50Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM Fridtjof Nansen",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-19T09:23:24Z",
+        "published": "2026-10-19T18:36:56Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
+        "url": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion",
+        "published": "2026-10-19T17:45:08Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The U.S. Marine Corps stood up its first Medium-range Missile Battalion last week as the service works to integrate longer range and maritime strike capabilities across the force. The 1st Battalion, 10th Regiment of the 2nd Marine Division redesignated as the branch’s first dedicated battalion to operate the Navy-Marine Expeditionary Ship Interdiction System last Wednesday. The unit was earmarked as a primary candidate to handle the II Marine Expeditionary Force’s NMESIS units on Oct. 9, accordi",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9983044-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: Oct. 19, 2026",
+        "url": "https://news.usni.org/2026/10/19/usni-news-fleet-and-marine-tracker-oct-19-2026",
+        "published": "2026-10-19T16:18:29Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 19, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. Aircraft carrier USS Theodore Roosevelt (CVN-71) arrived Friday and departed Monday from Yokosuka, Japan, according to ship spotter",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/FT_10_19_26.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines",
+        "url": "https://www.navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines/",
+        "published": "2026-10-19T12:34:20Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Jeumont Electric will supply three complete low-signature electric propulsion systems for the Polish Navy's A26 submarines under the Orka programme.\nThe post Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Exail USVs Set for U.S. Navy and Coast Guard Evaluations",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations/",
+        "published": "2026-10-19T09:34:54Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy and Coast Guard will evaluate Exail's newest USVs. The DriX H-9 will serve as a counter-drone testbed, while the Oryx O-16 heads to the USCG.\nThe post Exail USVs Set for U.S. Navy and Coast Guard Evaluations appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/exail-oryx-016-usv_1386x1162-1024x859.jpg",
         "section": "nyheter"
       },
       {
@@ -104,16 +144,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Fincantieri Cuts Steel for Italian Navy’s Final PPA",
-        "url": "https://www.navalnews.com/naval-news/2026/10/fincantieri-cuts-steel-for-italian-navys-final-ppa-patrol-vessel/",
-        "published": "2026-10-16T09:57:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Fincantieri has cut steel for the ninth Multipurpose Patrol Ship (PPA 9) at its Riva Trigoso shipyard, marking the start of construction on the Italian Navy’s final PPA vessel.\nThe post Fincantieri Cuts Steel for Italian Navy&#8217;s Final PPA appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Civilianizes Six Former Flag Billets, Reduces Six to Captains",
         "url": "https://news.usni.org/2026/10/15/navy-civilianizes-six-former-flag-billets-reduces-six-to-captains",
         "published": "2026-10-15T21:28:58Z",
@@ -181,16 +211,6 @@
         "language": "en",
         "summary": "The Naval Criminal Investigative Service is investigating the death of a sailor at Naval Base Kitsap-Bremerton, Wash. The sailor, who was assigned to the Ohio-class guided-missile submarine USS Michigan (SSGN-727), was found unresponsive at approximately 9:30 p.m. on Sunday following a single-vehicle crash at Naval Base Kitsap-Bremerton, Lt. Zachary Anderson, spokesperson for Submarine Group 9, told USNI News in an email. “We are deeply saddened by the loss of our shipmate, and our thoughts are ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/5382863-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Oct. 13, 2026",
-        "url": "https://news.usni.org/2026/10/13/usni-news-fleet-and-marine-tracker-oct-13-2026",
-        "published": "2026-10-13T19:11:00Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 13, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the Pacific Ocean Aircraft carrier USS Theodore Roosevelt (CVN-71) is transiting the Pacific Ocean in U.S. 7th Fleet westward on",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/FT_10_13_26.jpg",
         "section": "nyheter"
       },
       {
@@ -385,16 +405,6 @@
         "language": "en",
         "summary": "The Indian Navy commissioned its first Multi-Purpose Vessel INS Samarthak at Naval Base, Karwar on October 16, 2026. Built by Larsen and Toubro, the MPV can conduct weapon trials, MCM and act as a mothership for uncrewed assets. INS Samarthak (A 10) is the first of two Multi-Purpose Vessels (MPV) being inducted into the Indian ...\nThe post Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/LT-MPV-1024x553.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Saab, FMV and the Swedish Armed Forces launch LUUV",
-        "url": "https://www.navalnews.com/naval-news/2026/10/saab-fmv-and-the-swedish-armed-forces-launch-luuv/",
-        "published": "2026-10-16T08:08:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saab, the FMV and the Swedish Armed Forces have successfully developed, built and launched a demonstrator for a Large Uncrewed Underwater Vehicle (LUUV).\nThe post Saab, FMV and the Swedish Armed Forces launch LUUV appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

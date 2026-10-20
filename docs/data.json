@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-10-20T08:58:23Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-20T16:41:53Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM Fridtjof Nansen",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-20T08:58:28Z",
+        "published": "2026-10-20T16:41:57Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
+        "url": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
+        "published": "2026-10-20T15:55:24Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said. China claims the maritime feature under its 10-Dash Line territorial assertion. “The U.S. action infringes upon China&#8217;s sovereign rights and interests, jeopardiz",
+        "image_url": "https://news.usni.org/wp-content/uploads/2023/06/7618160-3-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Russia’s naval posture in the Mediterranean has ‘significantly decreased’: NATO official",
+        "url": "https://breakingdefense.com/2026/10/russias-naval-posture-in-the-mediterranean-has-significantly-decreased-nato-official/",
+        "published": "2026-10-20T15:45:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Russia&#8217;s maritime forces may be stretched thin now, but one analyst told Breaking Defense that&#8217;s unlikely to be the case &#8220;longer term.&#8221;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261019_DVIDS_med_sailor_lookout_7006347-scaled-e1792429783391-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+        "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+        "published": "2026-10-20T15:15:32Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
+        "url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
+        "published": "2026-10-20T13:39:53Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts.\nThe post Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away",
+        "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
+        "published": "2026-10-20T12:28:10Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Underway in the Pacific, USS Ronald Reagan remotely controlled an MQ-25A Stingray 2,100 miles away in Illinois via a pLEO satellite network.\nThe post US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -114,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Australia advances undersea warfare capabilities",
-        "url": "https://www.navalnews.com/naval-news/2026/10/australia-advances-undersea-warfare-capabilities/",
-        "published": "2026-10-19T07:16:24Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Australia announces a major milestone in advanced undersea warfare capabilities, unveiling payload integration for Ghost Shark, Speartooth, and BlueBottle uncrewed underwater vehicles.\nThe post Australia advances undersea warfare capabilities appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/20261019ran8620187_0003-1024x682.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: Oct. 16, 2026",
         "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
         "published": "2026-10-16T18:39:22Z",
@@ -221,16 +261,6 @@
         "language": "en",
         "summary": "The Naval Criminal Investigative Service is investigating the death of a sailor at Naval Base Kitsap-Bremerton, Wash. The sailor, who was assigned to the Ohio-class guided-missile submarine USS Michigan (SSGN-727), was found unresponsive at approximately 9:30 p.m. on Sunday following a single-vehicle crash at Naval Base Kitsap-Bremerton, Lt. Zachary Anderson, spokesperson for Submarine Group 9, told USNI News in an email. “We are deeply saddened by the loss of our shipmate, and our thoughts are ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/5382863-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "French Navy Seizes Suspected Shadow Fleet Tanker in Indian Ocean",
-        "url": "https://news.usni.org/2026/10/13/french-navy-seizes-suspected-shadow-fleet-tanker-in-indian-ocean",
-        "published": "2026-10-13T16:01:52Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The French Navy on Monday seized a suspected shadow fleet tanker on Monday in the Indian Ocean, marking the fifth interception this year.  French forces intercepted and seized oil tanker MT DF Peak (IMO: 9341067), which was suspected of sailing a false flag and being involved in illicit fuel transportation activities. DF Peak was intercepted 450 nautical miles south of Réunion, a French territory island in the Indian Ocean located east of Madagascar and southwest of Mauritius.  DF Peak is sancti",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/HUc2EWNWkAE6C3C.jpeg",
         "section": "nyheter"
       }
     ],
@@ -398,13 +428,33 @@
     ],
     "rov_teknologi": [
       {
-        "title": "Second Possible Chinese UUV Mothership Appears In Guangzhou",
-        "url": "https://www.navalnews.com/naval-news/2026/10/second-possible-chinese-uuv-mothership-appears-in-guangzhou/",
-        "published": "2026-10-18T15:54:12Z",
-        "source": "Naval News",
+        "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
+        "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027/",
+        "published": "2026-10-20T14:46:17Z",
+        "source": "Breaking Defense",
         "language": "en",
-        "summary": "Imagery from Guangzhou reveals a second suspected Chinese UUV mothership, designed to launch and recover massive underwater drones.\nThe post Second Possible Chinese UUV Mothership Appears In Guangzhou appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/N_HU5Z-cxaAAA5Jmb.jpg",
+        "summary": "Turkey’s proposed budget calls for $44.5 billion in defense spending and a separate $25.2 billion for internal security, pending parliamentary approval.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/M60-T-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "CNO Caudle’s ‘Fit to Fight’ C-Note to the Fleet",
+        "url": "https://news.usni.org/2026/10/20/cno-caudles-fit-to-fight-c-note-to-the-fleet",
+        "published": "2026-10-20T14:42:20Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The following is the Oct. 19, 2026, CNO Note – or “C-Note” – to the fleet from Chief of Naval Operations Adm. Daryl Caudle. The “Total Sailor: Fit to Fight” C-Note is the 13th in a series of messages from Caudle to provide guidance and direction to the Navy. From the Report CLASSIFICATION: UNCLASSIFIED FM CNO WASHINGTON DC TO NAVADMIN SUBJ/C-NOte #13: TOTAL SAILOR: FIT TO FIGHT// RMKS/1. Our profession is combat. We exist to fight and win at sea. That demands a Navy capable of out-thinking, out-",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Ghost Shark with teeth: Australia unveils underwater drone payloads",
+        "url": "https://breakingdefense.com/2026/10/ghost-shark-with-teeth-australia-unveils-underwater-drone-payloads/",
+        "published": "2026-10-20T14:01:23Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The modular payloads will be integrated onto Anduril&#8217;s Ghost Shark and C2 Robotics&#8217; Speartooth unmanned underwater vehicles as well as Ocius&#8217;s Bluebottle unmanned surface vessel (USV), the Australian DoD said in an announcement.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/RAN_Ghost_Shark_XL-AUV_20250910ADF8654564_7428-e1757518856388-1024x577.jpg",
         "section": "rov_teknologi"
       },
       {
@@ -415,16 +465,6 @@
         "language": "en",
         "summary": "Royal Navy (RN) destroyer HMS Dragon (D35) returned home to Portsmouth on Friday following a seven-month deployment to the Mediterranean and Middle East. The destroyer initially deploying to Cyprus and subsequently crossed the Suez Canal to operate in the Red Sea and Indian Ocean. Dragon’s return leaves mine countermeasures mothership RFA Lyme Bay (L3007), currently in the Indian Ocean, as the only RN presence near the Strait of Hormuz. Dragon deployed on short notice in March. The ship was unde",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/FRPUE-20261009-DRG01-573-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
-        "url": "https://news.usni.org/2026/10/07/report-to-congress-on-marine-corps-amphibious-combat-vehicle-3",
-        "published": "2026-10-07T14:10:54Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amphibious Combat Vehicle (ACV) as a: next-generation, eight-wheeled vehicle designed to move Marines from ship to shore. The vehicle will be the primary means of tactical mobility for the Marine infantry battalion at sea and ashore, replacing the Corps&#8217; aging Assault Amphibious Vehicle. The ACV provides organic, direct fire s",
-        "image_url": "",
         "section": "rov_teknologi"
       }
     ]

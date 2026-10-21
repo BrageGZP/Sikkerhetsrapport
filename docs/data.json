@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-10-21T08:57:09Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-21T16:59:50Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM Fridtjof Nansen",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-21T08:57:15Z",
+        "published": "2026-10-21T16:59:57Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "NATO Kicks Off Neptune Strike Across European Waters",
+        "url": "https://news.usni.org/2026/10/21/nato-kicks-off-neptune-strike-across-european-waters",
+        "published": "2026-10-21T16:59:35Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "NATO kicked off enhanced Vigilance Activity Neptune Strike 26-4 on Friday, the fourth and final iteration this year.  The enhanced Vigilance Activity will feature the U.K and Italian carrier strike groups and the Turkish Anadolu Naval Task Group will span Northern, Central and Southern Europe until Nov. 5. In total, 17 NATO nations will participate in NEST 26-4. Drills will be held from the Mediterranean to the Baltic regions, with operations extending across all three NATO Joint Operations Area",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Cavour.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+        "url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
+        "published": "2026-10-21T14:17:06Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group contributed planning expertise, host facilities and operational assets, with EDGE specialists working alongside both navies on its design and execution. EDGE Group press ...\nThe post EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces ap",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+        "url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
+        "published": "2026-10-21T13:32:56Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems.\nThe post Leading Navy Selects Exail Navigation Systems for USV Fleet appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
+        "url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
+        "published": "2026-10-21T11:50:01Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel programme for the Kuwait Naval Force. According to ST Engineering Marine, representatives from the Kuwait Naval ...\nThe post ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -134,26 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos",
-        "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-to-equip-legacy-kashin-and-veer-classes-with-brahmos/",
-        "published": "2026-10-20T07:37:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "India’s MoD has signed a $68 million contract to retrofit ageing Kashin-class destroyers and Veer-class corvettes with BrahMos supersonic missiles.\nThe post Indian Navy to Equip Legacy Kashin and Veer Classes with BrahMos appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Rana-1024x682.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "HD Hyundai and Anduril Demonstrate Integrated VAone and Lattice USV Autonomy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-and-anduril-demonstrate-integrated-vaone-and-lattice-usv-autonomy/",
-        "published": "2026-10-19T20:36:32Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HD Hyundai and Anduril successfully demonstrated integrated USV operations off California, combining the VAone ship platform with Lattice mission software.\nThe post HD Hyundai and Anduril Demonstrate Integrated VAone and Lattice USV Autonomy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/HD-Hyundai-Anduril_2-1024x640.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "U.S. Marine Corps Stands Up First NMESIS Anti-ship Missile Battalion",
         "url": "https://news.usni.org/2026/10/19/u-s-marine-corps-stands-up-first-nmesis-anti-ship-missile-battalion",
         "published": "2026-10-19T17:45:08Z",
@@ -174,16 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines",
-        "url": "https://www.navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines/",
-        "published": "2026-10-19T12:34:20Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Jeumont Electric will supply three complete low-signature electric propulsion systems for the Polish Navy's A26 submarines under the Orka programme.\nThe post Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: Oct. 16, 2026",
         "url": "https://news.usni.org/2026/10/16/usni-news-western-pacific-pulse-oct-16-2026",
         "published": "2026-10-16T18:39:22Z",
@@ -191,16 +201,6 @@
         "language": "en",
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.  The strike group includes aircraft carrier USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73). The Theodore Roosevelt CSG also depl",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10023181-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
-        "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
-        "published": "2026-10-16T16:28:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from a reusable drone interceptor to a low-cost cruise missile.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Zone-5-eclipse-e1792079717288-1024x577.jpeg",
         "section": "nyheter"
       },
       {
@@ -261,16 +261,6 @@
         "language": "en",
         "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group conducted drills in the Philippine Sea on Wednesday before sailing towards the South China Sea on Thursday, according to Japan&#8217;s Joint Staff Office. Led by aircraft carrier CNS Liaoning (16), the strike group was spotted 155 miles south of Japan’s Ishigaki Island launching and recovering aircraft. Liaoning conducted a total of 10 take-offs and landings of its embarked fighter aircraft and helicopters on Wednesday, the JSO said",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.02.16-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy Contracts Ursa Major to Develop Rocket Motors for Next-gen Missile Programs",
-        "url": "https://news.usni.org/2026/10/14/navy-contracts-ursa-major-to-develop-rocket-motors-for-next-gen-missile-programs",
-        "published": "2026-10-14T13:56:30Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The U.S. Navy contracted Ursa Major to develop solid rocket motors for the sea service’s future Naval Modular Missile and Compact Air-to-Air Missile, the defense firm announced last week. The Colorado-based missile firm was awarded $137 million across two separate contracts covering the propulsion development of the fleet’s next-generation missiles. Ursa Major was contracted by the Navy in July to develop its design for the MK 104, a key dual-thrust rocket motor on Standard Missile-2 and 6 inter",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/8326257.jpg",
         "section": "nyheter"
       }
     ],

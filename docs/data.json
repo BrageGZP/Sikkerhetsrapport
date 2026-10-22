@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-10-21T16:59:50Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-22T08:59:17Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
-        "title": "På tokt til Svalbard med KNM Fridtjof Nansen",
+        "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-21T16:59:57Z",
+        "published": "2026-10-22T08:59:23Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy/",
+        "published": "2026-10-22T08:25:21Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Under a recent FMS program, MSI Defense successfully integrated a 20mm LIONFISH weapon systems onto ex-USCG cutters bound for the Hellenic Navy.\nThe post MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Lionfish-20-Island-class-Hellenic-Navy-2-1024x768.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
+        "url": "https://www.navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod/",
+        "published": "2026-10-22T07:51:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Voyant has successfully demonstrated its advanced navigation software to the UK Ministry of Defence (MOD), marking an important step in the development of resilient Position, Navigation and Timing (PNT) capabilities for autonomous maritime systems operating in contested environments. Voyant press release In a real-life scenario, this capability would enable autonomous systems to continue navigating when ...\nThe post Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD  appeared fir",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Voyant-GNSS-denied-Navigation-1024x647.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "OCIUS’ New Bluebottle Hybrid USV Demonstrates Capability at Maritime Big Play Pacific",
+        "url": "https://www.navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific/",
+        "published": "2026-10-21T20:50:30Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Two diesel-hybrid variants of Ocius&#8217; renewably powered Bluebottle Uncrewed Surface Vessel (USV), &#8216;Bluebottle Hybrid&#8217;, are participating in the US Navy-led Maritime Big Play Pacific exercise, which runs throughout October. Ocius press release The exercise will mark the first time the&#160;Bluebottle Hybrid&#160;has participated in a Navy exercise anywhere in the world. The vessels will carry ThayerMahan ...\nThe post OCIUS&#8217; New Bluebottle Hybrid USV Demonstrates Capability ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/OCIUS-Bluebottle-Hybrid-from-Above-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -94,16 +124,6 @@
         "section": "nyheter"
       },
       {
-        "title": "HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime Operations",
-        "url": "https://www.navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations/",
-        "published": "2026-10-20T18:40:15Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HAVELSAN has demonstrated its ability to integrate unmanned air and maritime platforms for coordinated missions. HAVELSAN press release The demonstration brought together the&#160;USV-12&#160;unmanned surface vessel (USV), manufactured by VN MARITIME, and the SAGAN unmanned aerial vehicle (UAV), developed by ASİSGUARD. During the demonstration, the USV navigated autonomously. The UAV took off autonomously from the vessel, ...\nThe post HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime O",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
         "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
         "published": "2026-10-20T16:57:56Z",
@@ -141,36 +161,6 @@
         "language": "en",
         "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
         "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-        "url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-        "published": "2026-10-20T13:39:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Norway' has revealed the acquisition model for Project P1118, splitting up to 20 ocean-going standardized vessels for Norway, the UK, and Lithuania across two parallel contracts.\nThe post Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away",
-        "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
-        "published": "2026-10-20T12:28:10Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Underway in the Pacific, USS Ronald Reagan remotely controlled an MQ-25A Stingray 2,100 miles away in Illinois via a pLEO satellite network.\nThe post US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile",
-        "url": "https://www.navalnews.com/naval-news/2026/10/u-s-army-anti-a2-ad-maritime-strike-unit-fires-tomahawk-missile/",
-        "published": "2026-10-20T08:42:29Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A U.S. Army unit assigned to European Command, tasked with breaking area denial networks and sinking maritime targets, fired a Tomahawk cruise missile.\nThe post U.S. Army Anti-A2/AD, Maritime Strike Unit Fires Tomahawk Missile appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/9182187-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -241,26 +231,6 @@
         "language": "en",
         "summary": "North Korea fired two submarine-launched cruise missiles on Wednesday in the Sea of Japan, the first public disclosure of a SLCM test firing in nearly three years. North Korea’s Missile Administration fired two types of submarine-launched strategic cruise missiles, state media Korean Central News Agency reported on Thursday. North Korea uses the term “strategic” to describe nuclear weapons capability. “The test-fire aimed to examine the current mobilized posture of the underwater combat systems ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/KCNAsublaunch1.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "VIDEO: F-35C Lands on New Navy Aircraft Carrier Class for First Time",
-        "url": "https://news.usni.org/2026/10/14/video-f-35c-lands-on-new-navy-aircraft-carrier-class-for-first-time",
-        "published": "2026-10-14T20:06:45Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "A fifth-generation fighter landed on the Navy’s new class of aircraft carriers for the first time on Tuesday. An F-35C Joint Strike Fighter Lightning II trapped on the future USS John F. Kennedy (CVN-79), according to U.S. Navy video and imagery. The “Salty Dogs” of Air Test and Evaluation Squadron (VX) 23 also launched an F-35C off the carrier for the first time. The benchmark comes after the Navy took partial acceptance of the carrier last month, USNI News reported. JFK, which has faced years ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10009973-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "UPDATED: Chinese Carrier Strike Group Heads to South China Sea After Philippine Sea Drills",
-        "url": "https://news.usni.org/2026/10/14/chinese-carrier-strike-group-drills-in-the-philippine-sea",
-        "published": "2026-10-14T17:41:35Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group conducted drills in the Philippine Sea on Wednesday before sailing towards the South China Sea on Thursday, according to Japan&#8217;s Joint Staff Office. Led by aircraft carrier CNS Liaoning (16), the strike group was spotted 155 miles south of Japan’s Ishigaki Island launching and recovering aircraft. Liaoning conducted a total of 10 take-offs and landings of its embarked fighter aircraft and helicopters on Wednesday, the JSO said",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.02.16-PM.png",
         "section": "nyheter"
       }
     ],
@@ -427,6 +397,36 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
+        "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
+        "published": "2026-10-22T06:19:52Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The German Navy is in the process of procuring eight F128 anti-submarine frigates in two production batches, replacing the aborted F126-effort. The F128-program intends rapid introduction into the German Navy from 2029, in order to compensate for delays resulting from the cancellation of F126. The equipment-contract for MSI-DS further reflects this urgency, as the MSI ...\nThe post Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/04/MSI-DEFENCE-SEAHAWK-30mm-1024x768.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Royal Australian Navy’s Ghost Shark UUVs Will Have Minelaying, UAV Payloads",
+        "url": "https://news.usni.org/2026/10/21/royal-australian-navys-ghost-shark-uuvs-will-have-minelaying-uav-payloads",
+        "published": "2026-10-21T19:12:27Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Royal Australian Navy’s Ghost Shark will be equipped with sea mine, aerial drone swarms and supply payloads in the coming years as the new systems are integrated aboard the unmanned underwater vessels, defense officials announced Monday.  Supply caches, sea mines and Altius 600 unmanned aerial vehicles were among the capabilities highlighted by Australian defense officials and Anduril Australia representatives that will be paired with the extra-large UUV.  The announcement occurred ahead of ",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-2.45.19-PM-scaled.png",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Israel’s Elbit acquires Canadian company focused on autonomous underwater systems",
+        "url": "https://breakingdefense.com/2026/10/israels-elbit-acquires-canadian-company-focused-on-autonomous-underwater-systems/",
+        "published": "2026-10-21T17:29:24Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "“ISE’s underwater technologies will further strengthen our position as a global provider of comprehensive, integrated maritime solutions,” Elbit President and CEO Bezhalel Machlis said in a company statement.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ISE-1-e1792603672888-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
         "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027/",

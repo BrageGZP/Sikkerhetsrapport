@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-10-23T08:54:17Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-23T16:51:05Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-23T08:54:25Z",
+        "published": "2026-10-23T16:51:13Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Kongsberg demonstrates containerised ‘NSM in a box’",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/",
+        "published": "2026-10-23T13:29:33Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Kongsberg has successfully demonstrated a containerised Naval Strike Missile (NSM) transportation and launch system...\nThe post Kongsberg demonstrates containerised ‘NSM in a box’ appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/NSM_MM03-1024x768.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Spanish Navy and Navantia design an IAMD frigate aiming to extend F110 class",
+        "url": "https://www.navalnews.com/naval-news/2026/10/spanish-navy-and-navantia-design-an-iamd-frigate-aiming-to-extend-f110-class/",
+        "published": "2026-10-23T08:57:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Spanish Navy and Navantia are developing the new F110 IAMD frigate. This evolution of the Bonifaz class features advanced integrated air and missile defense capabilities\nThe post Spanish Navy and Navantia design an IAMD frigate aiming to extend F110 class  appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/08/F-110-Flight-II-IAMD-3-1024x685.jpg",
         "section": "nyheter"
       },
       {
@@ -134,36 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
-        "url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
-        "published": "2026-10-21T14:17:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "EDGE has led the integration of sovereign autonomous systems for a UAE Navy demonstration of national and allied unmanned maritime capabilities, conducted with the participation of the United States Navy. The Group contributed planning expertise, host facilities and operational assets, with EDGE specialists working alongside both navies on its design and execution. EDGE Group press ...\nThe post EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces ap",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-        "url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-        "published": "2026-10-21T13:32:56Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Exail secures a major contract to equip a leading navy's fleet of uncrewed surface vessels (USVs) with its resilient Marins inertial navigation systems.\nThe post Leading Navy Selects Exail Navigation Systems for USV Fleet appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
-        "url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
-        "published": "2026-10-21T11:50:01Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "ST Engineering laid the keel for the third Al Dorra-class vessel and cut steel for the fourth and fifth vessels at its Benoi Yard in Singapore on October 20, 2026. The three missile boats form part of an eight-vessel programme for the Kuwait Naval Force. According to ST Engineering Marine, representatives from the Kuwait Naval ...\nThe post ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
         "url": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
         "published": "2026-10-20T20:56:35Z",
@@ -174,16 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-        "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-        "published": "2026-10-20T16:57:56Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PWFEX2V4IZHOVHWX4EO475J6RE.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
         "url": "https://news.usni.org/2026/10/20/chinese-navy-shadows-uss-charleston-near-contested-sabina-shoal",
         "published": "2026-10-20T15:55:24Z",
@@ -191,16 +171,6 @@
         "language": "en",
         "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South China Sea maritime feature, according to Beijing. Chinese forces were dispatched to monitor the Independence-class LCS near Sabina Shoal early Tuesday, the PLA said. China claims the maritime feature under its 10-Dash Line territorial assertion. “The U.S. action infringes upon China&#8217;s sovereign rights and interests, jeopardiz",
         "image_url": "https://news.usni.org/wp-content/uploads/2023/06/7618160-3-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-        "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-        "published": "2026-10-20T15:15:32Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
-        "image_url": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/N7Z7GGRNJ5F6NMMJLQOEQWV35Y.png",
         "section": "nyheter"
       },
       {
@@ -232,19 +202,19 @@
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Group docked Friday at Commander Fleet Activities Yokosuka. This marks the first time in four years that a non-forward deployed carrier has pulled into CFAY.  The strike group includes aircraft carrier USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73). The Theodore Roosevelt CSG also depl",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10023181-scaled.jpg",
         "section": "nyheter"
-      },
-      {
-        "title": "Carrier USS Theodore Roosevelt Arrives in Japan Ahead of Keen Sword Exercise",
-        "url": "https://news.usni.org/2026/10/16/carrier-uss-theodore-roosevelt-arrives-in-japan-ahead-of-keen-sword-exercise",
-        "published": "2026-10-16T12:32:29Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73) docked at Commander Fleet Activities Yokosuka (CFAY) at 9.20 a.m. local time on Friday ahead of its participation in exercise Keen Sword 27. Theodore Roosevelt is the first non-Forward Deployed Naval Forces-Japan (FDNF-J) carrier in four years to dock in CFAY since USS Abraham Lincoln (CVN-72) in 2022. The Yokosuka City Council also noted that this is the first time Roosevelt has visited the port. The ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10023181-scaled.jpg",
-        "section": "nyheter"
       }
     ],
     "regelverk": [
+      {
+        "title": "Kystverket lyser ut avtaler om isbryting langs norskekysten",
+        "url": "https://www.kystverket.no/nyheter/kystverket-lyser-ut-avtaler-om-isbryting-langs-norskekysten/",
+        "published": "2026-10-23T13:12:48Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "Kystverket skal inngå avtaler med rederier og fartøyeiere som kan stille med egnede fartøy når is...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Ny kunnskap om vannutskiftningen i indre Oslofjord",
         "url": "https://www.kystverket.no/nyheter/ny-kunnskap-om-vannutskiftningen-i-indre-oslofjord/",

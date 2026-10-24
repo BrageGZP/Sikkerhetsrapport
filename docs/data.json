@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-24T08:27:47Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-24T15:44:06Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-24T08:27:55Z",
+        "published": "2026-10-24T15:44:17Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization",
+        "url": "https://www.navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization/",
+        "published": "2026-10-24T11:59:17Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "USS Pinckney becomes the first U.S. Navy destroyer to enter Phase Two of the DDG MOD 2.0 program, adding advanced SPY-6 radars to counter growing global threats.\nThe post First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/06/9775035-edited-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -403,8 +413,8 @@
         "published": "2026-10-23T20:57:28Z",
         "source": "USNI News",
         "language": "en",
-        "summary": "SAN DIEGO, Calif. — At first glance, the Hadalus-XL unmanned underwater vehicle and its dark flat panels might not catch the curious eye like a go-fast boat or sleek fighter jet. But its value is in what it does, said Ben Rosenthal, chief technology officer with Composite Energy Technologies, a Rhode Island-based company. The 34-foot underwater vehicle can haul several tons of cargo. Its panels and components fold flat for transport in a 20-foot container, packaged for quick assembly or disassem",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Hadalus-XL.jpeg",
+        "summary": "This post has been updated to include photos from the AUKUS Pillar II “Maritime Big Play-Pacific” demonstration in Southern California.  SAN DIEGO, Calif. — At first glance, the Hadalus-XL unmanned underwater vehicle and its dark flat panels might not catch the curious eye like a go-fast boat or sleek fighter jet. But its value is in what it does, said Ben Rosenthal, chief technology officer with Composite Energy Technologies, a Rhode Island-based company. The 34-foot underwater vehicle can haul",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/261020-N-UG095-1208-scaled.jpg",
         "section": "rov_teknologi"
       },
       {
@@ -415,16 +425,6 @@
         "language": "en",
         "summary": "The Intelligent Perception System will help sailors understand a flood of sensor feeds while collecting data to train improved AI models, the company said.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/GuidedMissileDestroyer-scaled-e1781631074540-1024x577.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
-        "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
-        "published": "2026-10-22T06:19:52Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The German Navy is in the process of procuring eight F128 anti-submarine frigates in two production batches, replacing the aborted F126-effort. The F128-program intends rapid introduction into the German Navy from 2029, in order to compensate for delays resulting from the cancellation of F126. The equipment-contract for MSI-DS further reflects this urgency, as the MSI ...\nThe post Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/04/MSI-DEFENCE-SEAHAWK-30mm-1024x768.jpg",
         "section": "rov_teknologi"
       },
       {

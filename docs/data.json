@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-25T08:47:27Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-25T15:55:33Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-25T08:47:38Z",
+        "published": "2026-10-25T15:55:44Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Coast Guard Icebreakers and the Finland Model: A Blueprint for the U.S. Navy?",
+        "url": "https://www.navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model/",
+        "published": "2026-10-25T09:28:34Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Naval News visits Helsinki Shipyard to examine how the \"Finland model\" is driving icebreaker production, and questions if this strategy could solve the U.S. Navy's surface combatant crisis.\nThe post Coast Guard Icebreakers and the Finland Model: A Blueprint for the U.S. Navy? appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/02/Arctic_Security_Cutter-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -151,16 +161,6 @@
         "language": "en",
         "summary": "[Sponsored] Think of sensing and detection as a network as opposed to individual unmanned surface vessels.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Lyntris-1-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy/",
-        "published": "2026-10-22T08:25:21Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Under a recent FMS program, MSI Defense successfully integrated a 20mm LIONFISH weapon systems onto ex-USCG cutters bound for the Hellenic Navy.\nThe post MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Lionfish-20-Island-class-Hellenic-Navy-2-1024x768.jpg",
         "section": "nyheter"
       },
       {

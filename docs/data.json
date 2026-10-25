@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-24T15:44:06Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-25T08:47:27Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-24T15:44:17Z",
+        "published": "2026-10-25T08:47:38Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "SH Defence strengthens cooperation with Naval Group",
+        "url": "https://www.navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group/",
+        "published": "2026-10-25T07:31:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "SH Defence, a part of SH Group, has signed a Memorandum of Understanding with Naval Group, strengthening the cooperation between the two companies within modular solutions for modern naval operations. SH Defence press release The agreement establishes a framework for cooperation between SH Defence and Naval Group, enabling the companies to explore opportunities within mission ...\nThe post SH Defence strengthens cooperation with Naval Group appeared first on Naval News.",
+        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -151,16 +161,6 @@
         "language": "en",
         "summary": "Under a recent FMS program, MSI Defense successfully integrated a 20mm LIONFISH weapon systems onto ex-USCG cutters bound for the Hellenic Navy.\nThe post MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Lionfish-20-Island-class-Hellenic-Navy-2-1024x768.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
-        "url": "https://www.navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod/",
-        "published": "2026-10-22T07:51:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Voyant has successfully demonstrated its advanced navigation software to the UK Ministry of Defence (MOD), marking an important step in the development of resilient Position, Navigation and Timing (PNT) capabilities for autonomous maritime systems operating in contested environments. Voyant press release In a real-life scenario, this capability would enable autonomous systems to continue navigating when ...\nThe post Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD  appeared fir",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Voyant-GNSS-denied-Navigation-1024x647.jpg",
         "section": "nyheter"
       },
       {

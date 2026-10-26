@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-10-25T15:55:33Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-26T09:27:05Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "På tokt til Svalbard med KNM «Fridtjof Nansen»",
         "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen",
-        "published": "2026-10-25T15:55:44Z",
+        "published": "2026-10-26T09:27:14Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "Hvert år seiler en fregatt til Svalbard for å hevde norsk suverenitet over øygruppa og trene i et tøft arktisk klima",
         "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/pa-tokt-til-svalbard-med-knm-fridtjof-nansen/_/image/0c6a8473-ce18-4fd0-8d25-7e67825bb870:a172410a76f6eab0216aacea61301b1c22eb0a6b/block-1200-630/_DSF1616_ny.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Aksungur UCAV drops aselBUOY sonobuoys for the first time",
+        "url": "https://www.navalnews.com/naval-news/2026/10/aksungur-ucav-drops-aselbuoy-sonobuoys-for-the-first-time/",
+        "published": "2026-10-26T06:57:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Turkish Aerospace&#8217;s Aksungur unmanned aerial vehicle released three ASELSAN aselBUOY 100P passive sonobuoys into the Mediterranean during the Turkish Navy&#8217;s TURNAs-26 unmanned systems exercise. The UCAV took off from Ankara and transited to the exercise area off Antalya (around 400 km) under satellite control, powered by the indigenous TEI-PD170 engine. In the mission area, it ...\nThe post Aksungur UCAV drops aselBUOY sonobuoys for the first time appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-25-at-15.49.32-1-1024x579.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+        "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+        "published": "2026-10-25T20:18:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On October 25, 2026, Navantia launched the seventh corvette built for the Royal Saudi Naval Forces at its shipyards in the Bay of Cádiz. The ship, to be named Neom, is the second in the batch contracted in 2025, following the five units built between 2019 and 2024. Navantia press release The ceremony was presided ...\nThe post Navantia launches seventh Avante corvette for Saudi Arabia appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot_20261025_151300_Photos-1024x473.jpg",
         "section": "nyheter"
       },
       {
@@ -131,36 +151,6 @@
         "language": "en",
         "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27. The Theodore Roosevelt CSG steamed alongside ships from the Japan Maritime Self-Defense Force Royal Australian Navy, Royal Canadian Navy and French Navy on Wednesday in the Philippine Sea, according to a Pentagon imagery release. The imagery shows flagship USS Theodore Roosevelt (CVN-71) and USS Chosin (CG-65) sa",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10039280-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Euronaval 2026: Global Naval Shipbuilding Surges 50%",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50/",
-        "published": "2026-10-22T13:51:41Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Euronaval 2026 report reveals a 50% surge in global naval shipbuilding, with China now vastly outproducing the US.\nThe post Euronaval 2026: Global Naval Shipbuilding Surges 50% appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/World-Defense-Shipbuilding-2026-study-1024x639.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE",
-        "url": "https://www.navalnews.com/naval-news/2026/10/elbit-systems-expands-underwater-and-maritime-autonomy-capabilities-with-acquisition-of-ise/",
-        "published": "2026-10-22T13:20:51Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Elbit Systems Ltd. has completed the acquisition of International Submarine Engineering Ltd. (ISE), a Canada-based company specializing in advanced autonomous underwater and remotely operated systems for the maritime domain. The acquisition was completed for a purchase price that is not material to Elbit Systems. Elbit Systems press release Headquartered in the Vancouver area, ISE is ...\nThe post Elbit Systems Expands Underwater and Maritime Autonomy Capabilities with Acquisition of ISE appeared",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "How uncrewed surface vessels performing ISR help build persistent maritime awareness",
-        "url": "https://breakingdefense.com/2026/10/how-uncrewed-surface-vessels-performing-isr-help-build-persistent-maritime-awareness/",
-        "published": "2026-10-22T12:23:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "[Sponsored] Think of sensing and detection as a network as opposed to individual unmanned surface vessels.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Lyntris-1-1024x683.jpg",
         "section": "nyheter"
       },
       {

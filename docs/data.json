@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-10-29T10:31:29Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-29T18:19:39Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-10-29T10:31:38Z",
+        "published": "2026-10-29T18:19:48Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
+        "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+        "published": "2026-10-29T16:45:18Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan&#8217;s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260929_DVIDS_amraam_closeup_9245688-scaled-e1790693990165-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean",
+        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-evaluates-exail-drix-o-16-usv/",
+        "published": "2026-10-29T15:26:30Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The French Navy and DGA are conducting extensive at-sea evaluations of the Exail DriX O-16 USV in the Mediterranean for ASW and maritime surveillance missions.\nThe post French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/10/rauma-launches-third-pohjanmaa-class-corvette-finnish-navy/",
+        "published": "2026-10-29T14:51:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Rauma Marine Constructions (RMC) launched the third of four Pohjanmaa-class multi-purpose corvettes for the Finnish Navy's Squadron 2020 program\nThe post Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Rauma-Shipyard-Launches-Third-Pohjanmaa-Class-Corvette-for-the-Finnish-Navy-2-1024x486.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
+        "url": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+        "published": "2026-10-29T14:04:32Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
+        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/09/musv.jpg.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fairbanks Morse Defense Awarded $100M Contract to Accelerate Global Submarine Availability",
+        "url": "https://www.navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability/",
+        "published": "2026-10-29T13:18:19Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fairbanks Morse Defense (FMD), a portfolio company of Arcline Investment Management, was awarded a $99.09 million contract to ensure the availability of U.S. attack submarines (SSNs) and ballistic missile submarines (SSBNs) into the 2030s by enacting critical life extension services. Fairbanks Morse Defense press release Under a Naval Sea Systems Command (NAVSEA) contract, FMD will ...\nThe post Fairbanks Morse Defense Awarded $100M Contract to Accelerate Global Submarine Availability appeared fi",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "BAE Systems successfully tests Adaptable Deck Launcher",
+        "url": "https://www.navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher/",
+        "published": "2026-10-29T13:13:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "BAE Systems demonstrates a scalable missile launching solution that doubles combat capabilities for U.S. Navy and allied fleets, enhancing survivability and firepower through rapid, deck-mounted deployment. BAE Systems press release BAE Systems successfully completed the first live-fire test of the Adaptable Deck Launcher (ADL), a missile launching solution that significantly increases combat capabilities and operational ...\nThe post BAE Systems successfully tests Adaptable Deck Launcher appeare",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/01/BAE-Systems-Adaptable-Deck-Launcher.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+        "url": "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
+        "published": "2026-10-29T10:50:56Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The meeting signals a coordinated approach by the three NATO littoral states to the growing risks to commercial shipping and maritime infrastructure arising from the Russia-Ukraine war.",
+        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2299573510.jpg",
         "section": "nyheter"
       },
       {
@@ -94,62 +164,12 @@
         "section": "nyheter"
       },
       {
-        "title": "Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype",
-        "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/",
-        "published": "2026-10-27T17:41:05Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Lockheed Martin&#8217;s Precision Strike Missile (PrSM) Increment 4 prototype will use ramjet technology and an advanced sensor suite to strike moving ships over 1,000 kilometers away. &#8220;As threats evolve throughout the global theater, the Army needs a modernized precision missile that can perform at ranges far beyond current capabilities. When fired from a HIMARS launcher, ...\nThe post Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Another Michigan auto firm enters defense industry as state tries to revive ‘Arsenal of Democracy’",
-        "url": "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/",
-        "published": "2026-10-27T17:00:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "JVIS is one of the latest Michigan-based automotive commercial companies to become involved in the defense sector.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10020429-scaled-e1793119484255-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hanwha Defense USA to Acquire Hanwha Philly Shipyard",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/",
-        "published": "2026-10-27T15:51:23Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Hanwha Defense USA (HDUSA) announced it is acquiring a controlling stake in Hanwha Philly Shipyard, bringing the shipyard under HDUSA’s leadership and governance structure and strengthening its presence in the U.S. shipbuilding and defense market. Hanwha Defense press release The announcement follows HDUSA establishing a presence at the shipyard earlier this year to transition it ...\nThe post Hanwha Defense USA to Acquire Hanwha Philly Shipyard appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Japan’s 2026 Defense White Paper",
         "url": "https://news.usni.org/2026/10/27/japans-2026-defense-white-paper",
         "published": "2026-10-27T13:52:12Z",
         "source": "USNI News",
         "language": "en",
         "summary": "The following is the full English translation of Japan’s 2026 Defense White Paper, released Oct. 26, 2026. From the Report Security Environment Surrounding Japan Overview International Community amid the Greatest Trial of the Postwar Era States that do not share universal values or political and economic systems based on such values are expanding their influence. Unilateral changes to the status quo by force and such attempts represent a serious challenge to the existing international order. The",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Canada modifies River-class Destroyer combat system design to focus on Aegis and MOTS solutions",
-        "url": "https://www.navalnews.com/features/2026/10/canada-river-class-destroyer-aegis-mots/",
-        "published": "2026-10-27T09:41:21Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Canada updates its River Class Destroyer combat system design, replacing custom gear with Aegis and Type 26 MOTS solutions to curb risk.\nThe post Canada modifies River-class Destroyer combat system design to focus on Aegis and MOTS solutions appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/River-class-new-model-1-1024x407.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "AUKUS: USS Colorado Announced as First Submarine for SRF – West",
-        "url": "https://www.navalnews.com/naval-news/2026/10/aukus-uss-colorado-announced-as-first-submarine-for-srf-west/",
-        "published": "2026-10-26T22:11:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "U.S. Secretary of War Pete Hegseth, Australian Deputy Prime Minister and Minister for Defence Richard Marles, and UK Secretary of State for Defence Wes Streeting are pleased to announce the designation of the USS Colorado (SSN 788) as the first U.S. Navy Virginia-class fast-attack submarine assigned to Submarine Rotational Force-West (SRF-West) beginning in late 2027. ...\nThe post AUKUS: USS Colorado Announced as First Submarine for SRF – West appeared first on Naval News.",
         "image_url": "",
         "section": "nyheter"
       },
@@ -211,16 +231,6 @@
         "language": "en",
         "summary": "NEW YORK — October has had the highest number of ship attacks since the war between Iran and the U.S. began in late February.  There have been 27 attacks on commercial ships so far in October, according to the International Maritime Organization. There were 22 in March, as well as attacks on an offshore rig and two tugs, according to a list of attacks compiled by USNI News.  Despite the number of attacks, ships are continuing to sail through the strait. There were 104 non-Iranian-linked vessels ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-4.48.52-PM.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
-        "url": "https://news.usni.org/2026/10/22/theodore-roosevelt-carrier-strike-group-sails-in-the-philippine-sea-for-keen-sword-drills",
-        "published": "2026-10-22T16:02:08Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercise Keen Sword 27. The Theodore Roosevelt CSG steamed alongside ships from the Japan Maritime Self-Defense Force Royal Australian Navy, Royal Canadian Navy and French Navy on Wednesday in the Philippine Sea, according to a Pentagon imagery release. The imagery shows flagship USS Theodore Roosevelt (CVN-71) and USS Chosin (CG-65) sa",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10039280-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -418,6 +428,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "DATUM LÜFER Reconnaissance & Attack UUV Showcased in Turkish Naval Exercise",
+        "url": "https://www.navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise/",
+        "published": "2026-10-29T13:26:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Turkish naval special forces employed DATUM’s LÜFER fibre-optic-guided underwater reconnaissance and attack vehicle during the TURNAs-2026 unmanned maritime systems exercise. The exercise took place in Antalya Bay between October 19 and 27, 2026. Developed by Istanbul Technical University-based DATUM Denizaltı Teknolojileri Uygulama ve Mühendislik AŞ for Turkish Navy commandos, LÜFER combines underwater reconnaissance and surveillance ...\nThe post DATUM LÜFER Reconnaissance &amp; Attack UUV Show",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/20261020_154258-1024x768.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
         "url": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",
         "published": "2026-10-28T19:09:15Z",
@@ -425,16 +445,6 @@
         "language": "en",
         "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/FRPUW-20260309-ZJ0142-029-e1793204228450-1024x577.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Houthi Ballistic Missile Intercepted Near Belgian Minehunter in Bab el-Mandeb",
-        "url": "https://www.navalnews.com/naval-news/2026/10/houthi-ballistic-missile-intercepted-near-belgian-minehunter-in-bab-el-mandeb/",
-        "published": "2026-10-27T14:22:15Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A French Navy warship reportedly intercepted a ballistic missile launched in the vicinity of the Belgian minehunter BNS Primula while operating in the Bab el-Mandeb Strait in mid-October 2026. The incident, believed to involve Houthi forces, highlights the continuing security risks facing military and commercial shipping in the Red Sea region. On 26 October 2026, ...\nThe post Houthi Ballistic Missile Intercepted Near Belgian Minehunter in Bab el-Mandeb appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

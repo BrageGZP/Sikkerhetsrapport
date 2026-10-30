@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-10-30T10:31:00Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-30T17:54:37Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-10-30T10:31:06Z",
+        "published": "2026-10-30T17:54:47Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+        "url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
+        "published": "2026-10-30T17:40:22Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group. The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat capabilities associated with the Standard 2 configuration. Naval Group press release On October 30, in Lorient, Naval Group delivered the second FDI ...\nThe post Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/0001_400_image00067-13-1024x681.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
+        "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
+        "published": "2026-10-30T16:45:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The new policy is due to come into effect in April 2027 and make sure that “British workers and businesses still benefit,” from contracts inked with foreign firms, according to the UK Ministry of Defence",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
+        "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
+        "published": "2026-10-30T16:16:18Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)",
+        "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/",
+        "published": "2026-10-30T14:16:41Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "TOTE Services has selected Hanwha Defense USA to build the U.S. Navy's first Medium Landing Ship (LSM) at Hanwha Philly Shipyard in a $269 million deal.\nThe post Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Hanwha Philly Shipyard to Build Navy Landing Ship Mediums",
+        "url": "https://news.usni.org/2026/10/30/hanwha-philly-shipyard-to-build-navy-landing-ship-mediums",
+        "published": "2026-10-30T13:41:37Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel construction manager. TOTE Services, which won a $2.2 billion contract in July to function as the LSM vessel construction manager, awarded Hanwha the contract after putting out a request for proposals in July. “Hanwha Defense USA (HDUSA) is the first shipbuilder selected through that process, based on its competitive pricing and accep",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Four Decades of Naval Expertise, A New Global Chapter for Hanwha Ocean",
+        "url": "https://www.navalnews.com/features/2026/10/four-decades-of-naval-expertise-a-new-global-chapter-for-hanwha-ocean/",
+        "published": "2026-10-30T09:33:04Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Around the world, governments are reassessing fleet requirements against a more uncertain security environment. At the same time, the pressures facing naval procurement have broadened. Performance remains fundamental, but increasingly it is only part of the equation. Navies also need to know who can build at scale, who can deliver when promised, who can sustain ...\nThe post Four Decades of Naval Expertise, A New Global Chapter for Hanwha Ocean  appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Hanwha_Ocean_Logo.svg_-1024x800.webp",
+        "section": "nyheter"
+      },
+      {
+        "title": "China Expands Construction Of Type 071 Amphibious Warfare Ships To Guangzhou",
+        "url": "https://www.navalnews.com/naval-news/2026/10/china-expands-construction-of-type-071-amphibious-warfare-ships-to-guangzhou/",
+        "published": "2026-10-30T08:58:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "New satellite imagery shows two new Type 071 amphibious warfare ships for the Chinese Navy under construction at a shipyard in Guangzhou.\nThe post China Expands Construction Of Type 071 Amphibious Warfare Ships To Guangzhou appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-28-144725-1024x713.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "New Details on PT PAL’s Very Light Attack Craft (KSSR)",
+        "url": "https://www.navalnews.com/naval-news/2026/10/new-details-on-pt-pals-very-light-attack-craft-kssr/",
+        "published": "2026-10-30T07:41:09Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "New details have emerged about Very Light Attack Craft (Kapal Serang Sangat Ringan / KSSR), developed by PT PAL Indonesia\nThe post New Details on PT PAL’s Very Light Attack Craft (KSSR) appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/A-KSSR-displayed-during-the-Indonesian-defence-ministers-visit-to-PT-PAL-shipyard-on-27-October.-TNI-AL-picture-1024x576.png",
         "section": "nyheter"
       },
       {
@@ -54,13 +134,23 @@
         "section": "nyheter"
       },
       {
-        "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
-        "url": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
-        "published": "2026-10-29T14:04:32Z",
-        "source": "Defense News",
+        "title": "French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean",
+        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-evaluates-exail-drix-o-16-usv/",
+        "published": "2026-10-29T15:26:30Z",
+        "source": "Naval News",
         "language": "en",
-        "summary": "The U.S. Navy's No. 2 officer shed new light on the value that medium unmanned surface vessels could bring to the fleet.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/09/musv.jpg.jpg",
+        "summary": "The French Navy and DGA are conducting extensive at-sea evaluations of the Exail DriX O-16 USV in the Mediterranean for ASW and maritime surveillance missions.\nThe post French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy",
+        "url": "https://www.navalnews.com/naval-news/2026/10/rauma-launches-third-pohjanmaa-class-corvette-finnish-navy/",
+        "published": "2026-10-29T14:51:12Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Rauma Marine Constructions (RMC) launched the third of four Pohjanmaa-class multi-purpose corvettes for the Finnish Navy's Squadron 2020 program\nThe post Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Rauma-Shipyard-Launches-Third-Pohjanmaa-Class-Corvette-for-the-Finnish-Navy-2-1024x486.jpg",
         "section": "nyheter"
       },
       {
@@ -318,13 +408,33 @@
     ],
     "rov_teknologi": [
       {
-        "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
-        "url": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",
-        "published": "2026-10-28T19:09:15Z",
-        "source": "Breaking Defense",
+        "title": "KONGSBERG secures US government contract for underwater capabilities",
+        "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
+        "published": "2026-10-30T13:53:45Z",
+        "source": "Naval News",
         "language": "en",
-        "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/FRPUW-20260309-ZJ0142-029-e1793204228450-1024x577.jpg",
+        "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other Transaction Agreement, valued at USD 54 million, is primarily driven by the delivery of a broad range of autonomous underwater vehicles (AUVs), alongside associated ...\nThe post KONGSBERG secures US government contract for underwater capabilities appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "€1.786 Billion for the EPC Programme: Now Spain Must Explain Which Corvettes the Armada Will Get",
+        "url": "https://www.navalnews.com/naval-news/2026/10/e1-786-billion-for-the-epc-programme-now-spain-must-explain-which-corvettes-the-armada-will-get/",
+        "published": "2026-10-30T08:31:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Spanish government approved the pre-financing for Spain’s participation in the European Patrol Corvette programme to develop and build six corvettes. This is a step forward that deserves recognition, but several questions remain unanswered. By Jorge Estévez-Bujez / Defensa y Seguridad If there are decisions that allow us to look towards the future of the ...\nThe post €1.786 Billion for the EPC Programme: Now Spain Must Explain Which Corvettes the Armada Will Get appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/epc2-1024x522.jpeg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "DATUM LÜFER Reconnaissance & Attack UUV Showcased in Turkish Naval Exercise",
+        "url": "https://www.navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise/",
+        "published": "2026-10-29T13:26:18Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Turkish naval special forces employed DATUM’s LÜFER fibre-optic-guided underwater reconnaissance and attack vehicle during the TURNAs-2026 unmanned maritime systems exercise. The exercise took place in Antalya Bay between October 19 and 27, 2026. Developed by Istanbul Technical University-based DATUM Denizaltı Teknolojileri Uygulama ve Mühendislik AŞ for Turkish Navy commandos, LÜFER combines underwater reconnaissance and surveillance ...\nThe post DATUM LÜFER Reconnaissance &amp; Attack UUV Show",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/20261020_154258-1024x768.jpg",
         "section": "rov_teknologi"
       },
       {

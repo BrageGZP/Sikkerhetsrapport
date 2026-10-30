@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-10-29T18:19:39Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-10-30T10:31:00Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-10-29T18:19:48Z",
+        "published": "2026-10-30T10:31:06Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
+        "url": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
+        "published": "2026-10-29T20:41:01Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday.  As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.  The longer extensions started in 2023 with the Dwight D. Eisenhower Carrier Strike Group seeing a nine-month deployment as a result of the Houthi campaig",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+        "url": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
+        "published": "2026-10-29T20:03:43Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week.  Malabar 2026 will take place south of the Kanto region on the main island of Honshu from Nov. 5-12, according to a Japan Maritime Self-Defense Force news release published on Tuesday.  “The JMSDF will conduct a multilateral exercise ‘MALABAR 2026’ with the U.S. Navy , the Indian Navy, the Royal Australian Navy and the Royal Australian Air Fo",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
+        "url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+        "published": "2026-10-29T19:15:42Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
+        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/08/spruance.jpg.jpg",
         "section": "nyheter"
       },
       {
@@ -24,26 +54,6 @@
         "section": "nyheter"
       },
       {
-        "title": "French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean",
-        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-evaluates-exail-drix-o-16-usv/",
-        "published": "2026-10-29T15:26:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French Navy and DGA are conducting extensive at-sea evaluations of the Exail DriX O-16 USV in the Mediterranean for ASW and maritime surveillance missions.\nThe post French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/rauma-launches-third-pohjanmaa-class-corvette-finnish-navy/",
-        "published": "2026-10-29T14:51:12Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Rauma Marine Constructions (RMC) launched the third of four Pohjanmaa-class multi-purpose corvettes for the Finnish Navy's Squadron 2020 program\nThe post Rauma Shipyard Launches Third Pohjanmaa-Class Corvette for the Finnish Navy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Rauma-Shipyard-Launches-Third-Pohjanmaa-Class-Corvette-for-the-Finnish-Navy-2-1024x486.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "US Navy wants more visible role for drone boats as one deploys for the first time",
         "url": "https://www.defensenews.com/naval/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
         "published": "2026-10-29T14:04:32Z",
@@ -54,96 +64,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Fairbanks Morse Defense Awarded $100M Contract to Accelerate Global Submarine Availability",
-        "url": "https://www.navalnews.com/naval-news/2026/10/fairbanks-morse-defense-awarded-100m-contract-to-accelerate-global-submarine-availability/",
-        "published": "2026-10-29T13:18:19Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Fairbanks Morse Defense (FMD), a portfolio company of Arcline Investment Management, was awarded a $99.09 million contract to ensure the availability of U.S. attack submarines (SSNs) and ballistic missile submarines (SSBNs) into the 2030s by enacting critical life extension services. Fairbanks Morse Defense press release Under a Naval Sea Systems Command (NAVSEA) contract, FMD will ...\nThe post Fairbanks Morse Defense Awarded $100M Contract to Accelerate Global Submarine Availability appeared fi",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "BAE Systems successfully tests Adaptable Deck Launcher",
-        "url": "https://www.navalnews.com/naval-news/2026/10/bae-systems-successfully-tests-adaptable-deck-launcher/",
-        "published": "2026-10-29T13:13:25Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "BAE Systems demonstrates a scalable missile launching solution that doubles combat capabilities for U.S. Navy and allied fleets, enhancing survivability and firepower through rapid, deck-mounted deployment. BAE Systems press release BAE Systems successfully completed the first live-fire test of the Adaptable Deck Launcher (ADL), a missile launching solution that significantly increases combat capabilities and operational ...\nThe post BAE Systems successfully tests Adaptable Deck Launcher appeare",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2021/01/BAE-Systems-Adaptable-Deck-Launcher.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
-        "url": "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
-        "published": "2026-10-29T10:50:56Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The meeting signals a coordinated approach by the three NATO littoral states to the growing risks to commercial shipping and maritime infrastructure arising from the Russia-Ukraine war.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2299573510.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Saab’s Ocean Barrier Concept Builds Multi-layered Sensing Construct for Maritime Border Security",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/saabs-ocean-barrier-concept-builds-multi-layered-sensing-construct-for-maritime-border-security/",
-        "published": "2026-10-29T09:32:36Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saab has released details of a new construct it has developed – and demonstrated – for protecting maritime borders, including particular sites and assets and/or broader at-sea areas: Ocean Barrier.\nThe post Saab’s Ocean Barrier Concept Builds Multi-layered Sensing Construct for Maritime Border Security appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/NavNews-Saab-OB2-Saab-1024x727.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "PT PAL and Naval Group Explore Submarine MRO Cooperation",
-        "url": "https://www.navalnews.com/naval-news/2026/10/pt-pal-and-naval-group-explore-submarine-mro-cooperation/",
-        "published": "2026-10-29T08:23:01Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "PT PAL Indonesia and Naval Group have signed a MoU for the maintenance, repair, and overhaul (MRO) of Indonesian Navy’s (TNI AL) Nagapasa-class submarines\nThe post PT PAL and Naval Group Explore Submarine MRO Cooperation appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Signing-of-the-submarine-MRO-MoU-between-PT-PAL-and-Naval-Group.-PT-PAL-picture-1024x682.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
-        "url": "https://www.defensenews.com/naval/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
-        "published": "2026-10-28T23:02:32Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/08/9604038-1.jpg.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navy faces ‘years-long’ maintenance crunch amid record-breaking, extended deployments",
-        "url": "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/",
-        "published": "2026-10-28T14:44:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Extended deployments in the Middle East could compound existing maintenance delays, with Navy leaders warning that returning ships will strain shipyard capacity and force trade-offs between repairs and modernization.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9545934-scaled-e1793137878546-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
-        "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
-        "published": "2026-10-28T09:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "China is building more submarines, of more classes, than any other country. It has several brand-new ambitious design readying for series production and is forging ahead in the uncrewed space. But this unique trimaran design appears the strangest of them all. Somewhere in the Eastern Pacific, a snorkel mast skims the ocean’s surface, the only ...\nThe post China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/China-Trimaran-Vantor-1024x574.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "French Parliamentary Report Urges Construction of a Second Aircraft Carrier by 2029",
-        "url": "https://www.navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029/",
-        "published": "2026-10-28T06:52:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A French parliamentary report urges ordering a second next-generation aircraft carrier by 2029 to ensure a permanent Carrier Strike Group presence at sea.\nThe post French Parliamentary Report Urges Construction of a Second Aircraft Carrier by 2029 appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
         "url": "https://news.usni.org/2026/10/27/navy-sees-10-year-high-for-class-a-aviation-afloat-mishaps",
         "published": "2026-10-27T20:22:10Z",
@@ -151,16 +71,6 @@
         "language": "en",
         "summary": "The Navy saw the most Class A aviation and afloat mishaps in at least in a decade, according to Fiscal Year 2026 data recently released by the Navy Safety Command.  The Navy had 16 aviation Class A mishaps, which include manned and unmanned flights, as well as ground aviation, between Oct. 1, 2025 and Sept. 30, 2026. A Class A mishap is defined by the Naval Safety Command as one that causes at least $2.5 million in damage and/or aircraft to be destroyed. A permanent disability or fatality would ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/05/IMG_7208.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule",
-        "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
-        "published": "2026-10-27T18:26:23Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Navantia has successfully launched the second F110-class frigate, Roger de Lauria (F112), for the Spanish Navy four months ahead of schedule in Ferrol.\nThe post Navantia Launches Second F110 Frigate &#8216;Roger de Lauria&#8217; Four Months Ahead of Schedule appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/F112-Launch-Navantia-2-1024x771.jpg",
         "section": "nyheter"
       },
       {
@@ -221,16 +131,6 @@
         "language": "en",
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In the Philippine Sea The Theodore Roosevelt Carrier Strike Group was in the Philippine Sea as of Wednesday as part of U.S.-Japan Exercise Keen Sword 27.  Aircraft carrier USS Theodore Roosevelt (CVN-71) with embarked Carrier Air Wing (CVW) 11 and cruiser USS Chosin (CG-65) is leading Japan Maritime Self-Defense Force helicopter destroyer JS Ise (DDH-182),destroyers JS Kongo (DDG-173) and",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10039280-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "October Marks Highest Number of Strait of Hormuz Attacks",
-        "url": "https://news.usni.org/2026/10/22/october-marks-highest-number-of-strait-of-hormuz-attacks",
-        "published": "2026-10-22T21:23:38Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "NEW YORK — October has had the highest number of ship attacks since the war between Iran and the U.S. began in late February.  There have been 27 attacks on commercial ships so far in October, according to the International Maritime Organization. There were 22 in March, as well as attacks on an offshore rig and two tugs, according to a list of attacks compiled by USNI News.  Despite the number of attacks, ships are continuing to sail through the strait. There were 104 non-Iranian-linked vessels ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-4.48.52-PM.png",
         "section": "nyheter"
       }
     ],
@@ -414,29 +314,9 @@
         "summary": "Kystverket har i dag oversendt rapport om ubåtvraket U-864 til Nærings- og fiskeridepartementet.",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Her finner du Kystverket på Maritim uke",
-        "url": "https://www.kystverket.no/nyheter/her-finner-du-kystverket-pa-maritim-uke/",
-        "published": "2026-08-31T07:21:34Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Det nærmer seg Maritim uke, og vi ser frem til en uke med læring, samarbeid og erfaringsutvekslin...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
-      {
-        "title": "DATUM LÜFER Reconnaissance & Attack UUV Showcased in Turkish Naval Exercise",
-        "url": "https://www.navalnews.com/naval-news/2026/10/datum-lufer-reconnaissance-attack-uuv-showcased-in-turkish-naval-exercise/",
-        "published": "2026-10-29T13:26:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Turkish naval special forces employed DATUM’s LÜFER fibre-optic-guided underwater reconnaissance and attack vehicle during the TURNAs-2026 unmanned maritime systems exercise. The exercise took place in Antalya Bay between October 19 and 27, 2026. Developed by Istanbul Technical University-based DATUM Denizaltı Teknolojileri Uygulama ve Mühendislik AŞ for Turkish Navy commandos, LÜFER combines underwater reconnaissance and surveillance ...\nThe post DATUM LÜFER Reconnaissance &amp; Attack UUV Show",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/20261020_154258-1024x768.jpg",
-        "section": "rov_teknologi"
-      },
       {
         "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
         "url": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",

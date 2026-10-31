@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T10:00:11Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-10-31T17:07:00Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-10-31T10:00:19Z",
+        "published": "2026-10-31T17:07:07Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
@@ -402,16 +402,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Kystverket har vedtatt endringer i de statlige fartsgrensene i Måsøy, Frosta, Stranda og Asker...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Ny rapport om U-864 overlevert til Nærings- og fiskeridepartementet",
-        "url": "https://www.kystverket.no/nyheter/ny-rapport-om-u-864-overlevert-til-narings--og-fiskeridepartementet/",
-        "published": "2026-09-01T16:54:31Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har i dag oversendt rapport om ubåtvraket U-864 til Nærings- og fiskeridepartementet.",
         "image_url": "",
         "section": "regelverk"
       }

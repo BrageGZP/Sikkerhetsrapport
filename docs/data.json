@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-31T17:07:00Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-01T10:52:10Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-10-31T17:07:07Z",
+        "published": "2026-11-01T10:52:18Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
@@ -161,16 +161,6 @@
         "language": "en",
         "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan&#8217;s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260929_DVIDS_amraam_closeup_9245688-scaled-e1790693990165-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean",
-        "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-evaluates-exail-drix-o-16-usv/",
-        "published": "2026-10-29T15:26:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French Navy and DGA are conducting extensive at-sea evaluations of the Exail DriX O-16 USV in the Mediterranean for ASW and maritime surveillance missions.\nThe post French Navy and DGA Evaluate Exail DriX O-16 USV in the Mediterranean appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -407,6 +397,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy",
+        "url": "https://www.navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled/",
+        "published": "2026-11-01T08:05:55Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Russian Navy has canceled modernization plans for the Kirov-class battlecruiser Pyotr Velikiy. Read how budget constraints are reshaping Russia's surface fleet.\nThe post Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/02/Russia-battlecruiser-Admiral-Nakhimov-upgraded-1024x575.jpg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy",
         "url": "https://www.navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy/",

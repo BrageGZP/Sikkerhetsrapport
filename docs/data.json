@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-11-02T11:46:22Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-11-02T21:37:36Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-02T11:46:33Z",
+        "published": "2026-11-02T21:37:45Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "CNO Caudle Gets Up-Close Look at U.S. Navy’s Newest Hypersonic Missile",
+        "url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/",
+        "published": "2026-11-02T20:20:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Chief of Naval Operations Adm. Daryl Caudle got an up-close look at the U.S. Navy&#8217;s new Blackbeard air-launched hypersonic missile during a visit to Naval Air Station Patuxent River, Maryland, on Oct. 28, offering a rare glimpse into the service&#8217;s efforts to develop new long-range strike capabilities for its carrier-based fighter fleet. Caudle toured Air ...\nThe post CNO Caudle Gets Up-Close Look at U.S. Navy&#8217;s Newest Hypersonic Missile appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/FA18-with-blackbeard-1024x588.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "China’s New Drone Carrier Launches, Recovers First Autonomous Combat Aircraft",
+        "url": "https://news.usni.org/2026/11/02/chinas-new-drone-carrier-launches-recovers-first-autonomous-combat-aircraft",
+        "published": "2026-11-02T19:22:17Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Chinese Navy’s new Type 076 drone carrier launched and recovered a stealthy unmanned combat aerial vehicle for the first time last week in the service’s latest effort to bring the new vessel online. Sichuan (51) carried out flight operations with the GJ-21 stealth reconnaissance-strike drone, according to a People’s Liberation Army Navy news release on Friday. Aside from a graphic, no media of the event has been released. “Since beginning its maiden sea trial in November 2025, Sichuan has st",
+        "image_url": "https://news.usni.org/wp-content/uploads/2025/11/Hull51PLANamphib.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Saab unveils new speed assault boat for Swedish Navy",
+        "url": "https://breakingdefense.com/2026/11/saab-unveils-new-speed-assault-boat-for-swedish-navy/",
+        "published": "2026-11-02T17:10:08Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "&#8220;The CB90CX is designed for uncrewed operations from the outset,&#8221; Anders Hellman, head of Saab’s business unit in Docksta, told Breaking Defense.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-02-a-16.51.07-1024x566.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Enterprise Hulk Towed from Newport News Shipbuilding",
+        "url": "https://news.usni.org/2026/11/02/enterprise-hulk-towed-from-newport-news-shipbuilding",
+        "published": "2026-11-02T16:32:40Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The hulk of former nuclear aircraft carrier USS Enterprise (CVN-65) was towed from a pier at Newport News Shipbuilding on Monday, almost 15 years after its final deployment, USNI News has learned. “Ex-Enterprise began its final transit this morning, departing Newport News Shipbuilding for Mobile, Alabama, where the ship will be dismantled,” reads a Monday statement from PAE Maritime. The remnant “Big E” is now in route to Mobile, Ala., after a court battle between environmental disposal contract",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/886059725_1776463593607178_6063694546539408851_n.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+        "url": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+        "published": "2026-11-02T14:42:00Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+        "image_url": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
+        "section": "nyheter"
+      },
+      {
+        "title": "Naval Group Unveils Seaquest M MUSV as French Navy Weighs Armed Surface Drones",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-seaquest-m-musv/",
+        "published": "2026-11-02T12:30:22Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Naval Group unveiled the design of its new 37-meter Seaquest M Medium Unmanned Surface Vessel (MUSV), an autonomous platform featuring a fully containerized combat system and Steeris mission management, ahead of Euronaval.\nThe post Naval Group Unveils Seaquest M MUSV as French Navy Weighs Armed Surface Drones appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Seaquest-M-MUSV-Seaquest-L-LUSV-Naval-Group-1024x511.jpg",
         "section": "nyheter"
       },
       {
@@ -114,16 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/",
-        "published": "2026-10-30T14:16:41Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "TOTE Services has selected Hanwha Defense USA to build the U.S. Navy's first Medium Landing Ship (LSM) at Hanwha Philly Shipyard in a $269 million deal.\nThe post Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM) appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "Hanwha Philly Shipyard to Build Navy Landing Ship Mediums",
         "url": "https://news.usni.org/2026/10/30/hanwha-philly-shipyard-to-build-navy-landing-ship-mediums",
         "published": "2026-10-30T13:41:37Z",
@@ -154,26 +204,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Record deployment for destroyer USS Spruance casts doubt over US Navy maintenance",
-        "url": "https://www.defensenews.com/naval/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
-        "published": "2026-10-29T19:15:42Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance work that could follow its eventual return.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/08/spruance.jpg.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-        "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
-        "published": "2026-10-29T16:45:18Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will also strengthen Japan&#8217;s defense industry base,” said Japanese Defense Minister Shinjiro Koizumi.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260929_DVIDS_amraam_closeup_9245688-scaled-e1790693990165-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
         "url": "https://news.usni.org/2026/10/27/navy-sees-10-year-high-for-class-a-aviation-afloat-mishaps",
         "published": "2026-10-27T20:22:10Z",
@@ -191,46 +221,6 @@
         "language": "en",
         "summary": "The following is the full English translation of Japan’s 2026 Defense White Paper, released Oct. 26, 2026. From the Report Security Environment Surrounding Japan Overview International Community amid the Greatest Trial of the Postwar Era States that do not share universal values or political and economic systems based on such values are expanding their influence. Unilateral changes to the status quo by force and such attempts represent a serious challenge to the existing international order. The",
         "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "UPDATED: U.S. Navy Taps Attack Boat for 2027 Australian AUKUS Assignment",
-        "url": "https://news.usni.org/2026/10/26/u-s-navy-taps-attack-boat-for-2027-australian-aukus-assignment",
-        "published": "2026-10-26T20:46:28Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated to include that USS Colorado (SSN-788) arrived in Australia on Oct. 26. The Pentagon announced Monday the Virginia-class submarine that will be the lead nuclear attack boat in western Australia. USS Colorado (SSN-788) will be assigned to Submarine Rotational Force-West, which will be based HMAS Stirling outside of Perth starting in 2027. “The selection of USS Colorado as the first submarine assigned to SRF-West in 2027 marks a significant milestone for AUKUS Pillar I a",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9974076-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Royal Navy Lacks Ships, Capabilities to Defend High North from Russia, Says U.K. Committee Report",
-        "url": "https://news.usni.org/2026/10/26/royal-navy-lacks-ships-capabilities-to-defend-high-north-from-russia-says-u-k-committee-report",
-        "published": "2026-10-26T18:56:40Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Royal Navy currently lacks the ships and capabilities needed to defend the High North from Russia, the bipartisan House of Commons Defense Committee warned on Thursday.  In its “Defense in the High North” report issued on Thursday, the committee described the Royal Navy as being plagued by shipbuilding delays, maintenance backlogs and an atrophying submarine force. “The U.K. needs to be willing to address a hard truth: it does not currently have all the capabilities to operate successfully i",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Russian-kilo-sub.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Oct. 26, 2026",
-        "url": "https://news.usni.org/2026/10/26/usni-news-fleet-and-marine-tracker-oct-26-2026",
-        "published": "2026-10-26T17:13:04Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 26, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 105 (USS 74, USNS 31) (46 FDNF, 59 Rotational) 70 (61 Deployed, 9 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/FT_10_26_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "New Philippine Coast Guard Vessel Shadows Chinese Carrier Strike Group off Mindanao",
-        "url": "https://news.usni.org/2026/10/26/new-philippine-coast-guard-vessel-shadows-chinese-carrier-strike-group-off-mindanao",
-        "published": "2026-10-26T14:45:41Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "MANILA, Philippines — The Philippine Coast Guard’s new patrol vessel from Taiwan shadowed the Chinese Navy’s Liaoning Carrier Strike Group on Friday off Mindanao.  BRP Sarangani (6177) shadowed the 60,000-ton Chinese aircraft carrier Liaoning (16) and its guided-missile destroyer escorts Anshan (101), Wuxi (104) and Huainan (123) in the Basilan Strait, local media outlet Bilyonaryo News Channel reported Saturday. Philippine Navy frigate BRP Diego Silang (FFG-7) and patrol vessel BRP Emilio Jacin",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/6177.jpeg",
         "section": "nyheter"
       }
     ],
@@ -444,16 +434,6 @@
         "source": "Naval News",
         "language": "en",
         "summary": "Belgium has transferred the first of four Tripartite-class minehunters, BNS Bellis, to the Bulgarian Navy to strengthen NATO security in the Black Sea.\nThe post Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy appeared first on Naval News.",
-        "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "KONGSBERG secures US government contract for underwater capabilities",
-        "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
-        "published": "2026-10-30T13:53:45Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Kongsberg Gruppen ASA has been awarded a major contract modification by the Department of War Innovation Unit (DIU) for autonomous underwater capabilities. Kongsberg press release The modification to the Prototype Other Transaction Agreement, valued at USD 54 million, is primarily driven by the delivery of a broad range of autonomous underwater vehicles (AUVs), alongside associated ...\nThe post KONGSBERG secures US government contract for underwater capabilities appeared first on Naval News.",
         "image_url": "",
         "section": "rov_teknologi"
       },

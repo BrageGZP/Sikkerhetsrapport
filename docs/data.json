@@ -1,16 +1,76 @@
 {
-  "generated_at": "2026-11-02T21:37:36Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-03T11:26:44Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-02T21:37:45Z",
+        "published": "2026-11-03T11:26:53Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "DGA, Thales, and Lacroix Unveil DAUPHIN Off-Board Active Decoy for French Navy",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy/",
+        "published": "2026-11-03T09:30:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The French Defense Procurement Agency (DGA) is partnering with Thales and Lacroix to develop a new Off-Board Active Decoy (OBAD) for the French Navy\nThe post DGA, Thales, and Lacroix Unveil DAUPHIN Off-Board Active Decoy for French Navy appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "From Naval to Underwater Capabilities",
+        "url": "https://www.navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities/",
+        "published": "2026-11-03T08:00:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Connecting adaptable naval platforms, underwater systems and layered protection offers a more flexible response to threats that no longer respect the waterline. Sponsored by A maritime challenge across domains Maritime security is no longer defined solely by the contest between fleets. A naval base may face aerial drones, fast surface craft, combat divers and underwater ...\nThe post From Naval to Underwater Capabilities appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/05/Fincantieri_logo.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Leonardo’s AWHero and Proteus rotorcraft show strong focus on RUAS and Autonomy capabilities for naval applications",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/leonardos-awhero-and-proteus-rotorcraft-show-strong-focus-on-ruas-and-autonomy-capabilities-for-naval-applications/",
+        "published": "2026-11-03T06:30:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Leonardo’s focus on uncrewed and autonomous systems is increasingly covering a range of air and surface solutions, and rotorcraft make no exception, particularly with the 200 kg-class AWHero and 3-ton-class Proteus rotorcraft uncrewed systems. Sponsored by The two systems have been designed to meet evolving defence UAS requirements rapidly, ideally suited in particular for naval ...\nThe post Leonardo’s AWHero and Proteus rotorcraft show strong focus on RUAS and Autonomy capabilities for naval ap",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/Leonardo-Logo-scaled-e1793263905380.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Indian Navy Places Orders for Eight Next Generation Corvettes",
+        "url": "https://www.navalnews.com/naval-news/2026/11/indian-navy-places-orders-for-eight-next-generation-corvettes/",
+        "published": "2026-11-03T05:28:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On November 2, 2026, India’s Ministry of Defence signed contracts worth ₹53,866.5 crore ($5.7 billion) with Garden Reach Shipbuilders &#38; Engineers Limited (GRSE) and Goa Shipyard Limited (GSL) for the acquisition of a total of eight Next Generation Corvettes (NGCs) for the Indian Navy. Under the contracts, GRSE will construct five corvettes for about ₹32,000 ...\nThe post Indian Navy Places Orders for Eight Next Generation Corvettes appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/NGC.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
+        "url": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
+        "published": "2026-11-02T21:46:18Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 104 (USS 73, USNS 31) (46 FDNF, 58 Rotational) 76 (58 Deployed, 18 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_02_26-1.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Safran’s NGDS Decoy Launcher Spotted Aboard JMSDF Test Ship JS Asuka",
+        "url": "https://www.navalnews.com/naval-news/2026/11/safrans-ngds-decoy-launcher-spotted-aboard-jmsdf-test-ship-js-asuka/",
+        "published": "2026-11-02T21:43:21Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Japan Maritime Self-Defense Force (JMSDF) test ship JS Asuka has been spotted featuring a Safran NGDS (New Generation Dagaie System) trainable decoy launcher.\nThe post Safran&#8217;s NGDS Decoy Launcher Spotted Aboard JMSDF Test Ship JS Asuka appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/10/NGDS-four-configurations-1024x263.jpg",
         "section": "nyheter"
       },
       {
@@ -104,26 +164,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense",
-        "url": "https://www.navalnews.com/naval-news/2026/11/sarawat-and-tuwaiq-strategic-projects-strengthen-royal-saudi-naval-forces-localize-maritime-defense/",
-        "published": "2026-11-01T13:11:27Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Saudi Ministry of Defense is accelerating the development of a modern naval force equipped with advanced combat systems, high operational efficiency, and qualified national personnel. This drive stems from the Ministry of Defense Development Program, launched under the vision of His Royal Highness Prince Mohammed bin Salman bin Abdulaziz Al Saud, Crown Prince and ...\nThe post Sarawat and Tuwaiq Strategic Projects Strengthen Royal Saudi Naval Forces, Localize Maritime Defense appeared first o",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/12/First-Saudi-MMSC-launched-by-Fincantieri-in-Wisconsin-1-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates",
-        "url": "https://www.navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates/",
-        "published": "2026-10-31T07:48:30Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "UK-based Chess Dynamics announced on October 28 that it had secured a contract worth around £ 3 million from Indonesian state-owned defense electronics company PT Len Industri to supply SeaEagle Fire Control Electro-Optical (FCEO) systems for two Indonesian Navy (TNI AL) Bung Tomo-class light frigates/corvettes. According to Chess Dynamics, this latest order completes the planned ...\nThe post Chess Dynamics Wins £3M Contract for Indonesian Bung Tomo-Class Frigates appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/SeaEagle-installed-on-KRI-Usman-Harun.-Chess-Dynamics-picture-1-1024x696.png",
-        "section": "nyheter"
-      },
-      {
         "title": "Russia, North Korea Test Missiles in the Western Pacific",
         "url": "https://news.usni.org/2026/10/30/russia-north-korea-test-missiles-in-the-western-pacific",
         "published": "2026-10-30T20:50:34Z",
@@ -141,16 +181,6 @@
         "language": "en",
         "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-71) conducted a passenger exchange on Monday with Royal Canadian Navy frigate HMCS Regina (FFH 334) during exercise Keen Sword 27 (KS27). The U.S.-Japan bilateral Exercise Keen Sword 27 closed on Thursday, having begun on Oct. 19 with the majority of activities taking place in Japan’s southwest region.  The Theodore Roosevelt Car",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10054392-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
-        "url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
-        "published": "2026-10-30T17:40:22Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Hellenic Navy has received the second of four Defense and Intervention Frigates (FDI HN) built by Naval Group.&#160;The second frigate, Nearchos (F602), differs from the lead ship, Kimon, by featuring enhanced combat capabilities associated with the Standard 2 configuration. Naval Group press release On October 30, in Lorient, Naval Group delivered the second FDI ...\nThe post Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/0001_400_image00067-13-1024x681.jpeg",
         "section": "nyheter"
       },
       {
@@ -394,16 +424,6 @@
         "summary": "Kystverket og NCC gjør seg nå klare for oppstart av utbyggingen av Kjøllefjord fiskerihavn....",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Kystverket endrer fartsgrenser i fire kommuner",
-        "url": "https://www.kystverket.no/nyheter/ny-sidekystverket-endrer-fartsgrenser-i-fire-kommuner/",
-        "published": "2026-09-04T08:45:44Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har vedtatt endringer i de statlige fartsgrensene i Måsøy, Frosta, Stranda og Asker...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
@@ -415,26 +435,6 @@
         "language": "en",
         "summary": "The Australian Navy recently lifted the veil on some payloads the service is fielding on its Ghost Shark extra-large autonomous underwater vehicles.",
         "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2300407469.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy",
-        "url": "https://www.navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled/",
-        "published": "2026-11-01T08:05:55Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Russian Navy has canceled modernization plans for the Kirov-class battlecruiser Pyotr Velikiy. Read how budget constraints are reshaping Russia's surface fleet.\nThe post Russian Navy Cancels Modernization of Kirov-Class Battlecruiser Pyotr Velikiy appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/02/Russia-battlecruiser-Admiral-Nakhimov-upgraded-1024x575.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy",
-        "url": "https://www.navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy/",
-        "published": "2026-10-31T09:54:43Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Belgium has transferred the first of four Tripartite-class minehunters, BNS Bellis, to the Bulgarian Navy to strengthen NATO security in the Black Sea.\nThe post Belgium Transfers First Tripartite Minehunter BNS Bellis to Bulgarian Navy appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

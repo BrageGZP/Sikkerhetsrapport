@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-11-04T11:41:51Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-11-04T19:37:38Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-04T11:42:05Z",
+        "published": "2026-11-04T19:37:51Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+        "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+        "published": "2026-11-04T18:27:06Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
+        "image_url": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
+        "section": "nyheter"
+      },
+      {
+        "title": "Naval Group unveils new drone carrier concept",
+        "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept/",
+        "published": "2026-11-04T18:25:58Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "“The return of high-intensity conflict and the emergence of hybrid naval warfare require a new vision. Naval Group answers with a new concept ship: SCX 26,” the company stated.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-04-a-18.05.03-e1793816720777-1024x569.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "India taps two domestic shipbuilders for $5.7B corvette program",
+        "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program/",
+        "published": "2026-11-04T17:37:32Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "India awarded Garden Reach Shipbuilders &#038; Engineers and Goa Shipyard Limited contracts to build five and three corvettes, respectively, for the country&#8217;s navy.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Indian_Next_Generation_Corvette-e1793813764242-1024x577.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy Taps Career Submariner to Lead PAE Maritime",
+        "url": "https://news.usni.org/2026/11/04/navy-taps-career-submariner-to-lead-pae-maritime",
+        "published": "2026-11-04T17:10:53Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Navy tapped career submariner Rear Adm. Jonathan Rucker to lead the service’s new surface shipbuilding acquisition office, Acting Navy Secretary Hung Cao announced Wednesday. Rucker will lead the Portfolio Acquisition Executive Maritime, the new office the Trump administration created in a department-wide overhaul of how the Navy buys weapons. “Rucker has served as the Director of Design and Construction for Direct Reporting Portfolio Manager, Submarines since April 2026, where he has been r",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/Rucker-scaled-e1793812151367.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
+        "url": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+        "published": "2026-11-04T16:45:40Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean. Prince of Wales recently participated in a U.S.-led nuclear command and control exercise near Norway while aircraft carrier Queen Elizabeth carried out interoperability exercises with Royal Air Force Chinook heavy lift helicopters off Gibraltar. The Royal Navy alternates the two carriers with one acting as the high readiness carrier, condu",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/888620081_2024342051562288_3043454668547549054_n.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "EDGE Europe and Novamarine to Explore Joint Development of USVs",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/edge-europe-and-novamarine-to-explore-joint-development-of-usvs/",
+        "published": "2026-11-04T15:24:49Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On November 2, 2026, EDGE Europe announced the signing of an MoU with Novamarine on joint development of unmanned surface vessels at the Euronaval 2026 exhibition in Paris. EDGE press release EDGE Europe, the Paris-headquartered European company of EDGE, has signed a Memorandum of Understanding (MoU) with Novamarine, a company active in the design, production ...\nThe post EDGE Europe and Novamarine to Explore Joint Development of USVs appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Leonardo, Fincanteri revamp joint venture, aiming to trim frigate build time by 18 months",
+        "url": "https://breakingdefense.com/2026/11/leonardo-fincanteri-revamp-joint-venture-aiming-to-trim-frigate-build-time-by-18-months/",
+        "published": "2026-11-04T14:35:07Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Fincantieri CEO Pierroberto Folgiero said his company&#8217;s joint venture with Leonardo, the Orrizonte Sistemi Navali, now aims to cut down frigate production time by 18 months.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/FMM_FolgieroVisit_020123_Web-16-e1675782738153-1024x575.jpg",
         "section": "nyheter"
       },
       {
@@ -84,16 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-        "url": "https://www.defensenews.com/video/2026/11/03/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-        "published": "2026-11-03T20:00:49Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-        "image_url": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
-        "section": "nyheter"
-      },
-      {
         "title": "France investing in naval power as military ambition is ‘to be feared’: Armed forces minister",
         "url": "https://breakingdefense.com/2026/11/france-investing-in-naval-power-as-military-ambition-is-to-be-feared-armed-forces-minister/",
         "published": "2026-11-03T19:45:00Z",
@@ -124,16 +184,6 @@
         "section": "nyheter"
       },
       {
-        "title": "BAE Systems launches new Sea Tridon naval gun series",
-        "url": "https://breakingdefense.com/2026/11/bae-systems-launches-new-sea-tridon-naval-gun-series/",
-        "published": "2026-11-03T17:33:28Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "These variants are designed to adapt to newer, unmanned threats, and also feature some new technology upgrades.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/RS310132_SeaTridon_group_web-e1793725434697-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "French defense minister kicks off ‘pact’ with industry in rush to field naval drones",
         "url": "https://www.defensenews.com/global/europe/2026/11/03/french-defense-minister-kicks-off-pact-with-industry-in-rush-to-field-naval-drones/",
         "published": "2026-11-03T15:14:13Z",
@@ -151,46 +201,6 @@
         "language": "en",
         "summary": "MKE&#8217;s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new USV variant at its Euronaval debut. Informed by internal company concepts and real-life lessons learned from the trials with the Turkish Navy, ...\nThe post Türkiye&#8217;s MKE Debuts PIRANA Armed USV Variant with Drone Payload appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-12.14.18-1-ink-1024x587.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Raytheon continues ESSM Block 2 production ramp-up as programme marks 1,000th missile delivery",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/raytheon-continues-essm-block-2-production-ramp-up-as-programme-marks-1000th-missile-delivery/",
-        "published": "2026-11-03T12:57:57Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "A Raytheon-led industry team has completed the handover of the 1,000th Evolved SeaSparrow Missile (ESSM) Block 2 all-up-round, the US Navy announced on 2 November.  “Delivery of the 1,000th ESSM Block 2 missile is a significant achievement for the NATO SeaSparrow Consortium, PMX-312 [the US Navy’s NATO SEASPARROW Program], our industry partners, and, most importantly, ...\nThe post Raytheon continues ESSM Block 2 production ramp-up as programme marks 1,000th missile delivery appeared first on Nav",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "India orders next-gen corvettes for $5.7b under broad naval modernization push",
-        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/03/india-orders-next-gen-corvettes-for-5-7b-under-broad-naval-modernization-push/",
-        "published": "2026-11-03T12:56:27Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "New Delhi is spending big money on new corvettes from domestic shipbuilders, carrier-capable fighters from France and submarines from Germany.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-1248032936.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "DGA, Thales, and Lacroix Unveil DAUPHIN Off-Board Active Decoy for French Navy",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy/",
-        "published": "2026-11-03T09:30:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French Defense Procurement Agency (DGA) is partnering with Thales and Lacroix to develop a new Off-Board Active Decoy (OBAD) for the French Navy\nThe post DGA, Thales, and Lacroix Unveil DAUPHIN Off-Board Active Decoy for French Navy appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "From Naval to Underwater Capabilities",
-        "url": "https://www.navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities/",
-        "published": "2026-11-03T08:00:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Connecting adaptable naval platforms, underwater systems and layered protection offers a more flexible response to threats that no longer respect the waterline. Sponsored by A maritime challenge across domains Maritime security is no longer defined solely by the contest between fleets. A naval base may face aerial drones, fast surface craft, combat divers and underwater ...\nThe post From Naval to Underwater Capabilities appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/05/Fincantieri_logo.jpg",
         "section": "nyheter"
       },
       {
@@ -285,6 +295,16 @@
       }
     ],
     "regelverk": [
+      {
+        "title": "Losfaglige anbefalinger blir lettere tilgjengelige",
+        "url": "https://www.kystverket.no/nyheter/lostjenestens-anbefalinger-i-nytt-format/",
+        "published": "2026-11-04T13:56:57Z",
+        "source": "Kystverket.no",
+        "language": "no",
+        "summary": "En ny digital løsning vil gi skip som seiler langs norskekysten enkel tilgang til viktig...",
+        "image_url": "",
+        "section": "regelverk"
+      },
       {
         "title": "Kystverket inngår kunnskapssamarbeid med SINTEF Ocean",
         "url": "https://www.kystverket.no/nyheter/kystverket-inngar-kunnskapssamarbeid-med-sintef-ocean/",
@@ -467,6 +487,26 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
+        "url": "https://www.navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence/",
+        "published": "2026-11-04T17:44:06Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On November 2, 2026, Safran Electronics announced a new contract to provide inertial navigation systems for the French Navy&#8217;s submarines. Safran press release Safran Electronics &#38; Defense has been selected this year for three inertial navigation programs supporting France’s strategic nuclear deterrence, equipping three main platforms with its HRG (Hemispherical Resonator Gyroscope) technology: Sub-Surface Ballistic ...\nThe post Safran Secures Inertial Navigation Contracts for French Nu",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/04/Le-Terrible-SSBN.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Babcock launches transformative digital platform to connect shipbuilding, fleet operations and support",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-launches-transformative-digital-platform-to-connect-shipbuilding-fleet-operations-and-support/",
+        "published": "2026-11-04T15:58:05Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Babcock International Group has launched Pelorus, a transformative digital platform designed to connect the build, operation and support of maritime assets across their entire lifecycle. Babcock press release The whole-life digital management platform provides real-time insight and intelligence across individual vessels, fleets and programmes, creating a connected ecosystem of information that supports assets from initial ...\nThe post Babcock launches transformative digital platform to connect s",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/pelorus2-ink-1024x586.jpeg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "France tasks Naval Group to develop large oceangoing underwater drone",
         "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",

@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-11-04T19:37:38Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-05T11:41:47Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-04T19:37:51Z",
+        "published": "2026-11-05T11:41:59Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fincantieri and Leonardo sign an agreement to further strengthen the role of Orizzonte Sistemi Navali",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali/",
+        "published": "2026-11-05T11:06:41Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "During Euronaval, Europe’s leading naval defense exhibition currently underway in Paris, Fincantieri and Leonardo signed a Letter of Intent (LoI) aimed at, among other things, further strengthening the role of Orizzonte Sistemi Navali (OSN), a joint venture owned by Fincantieri (51%) and Leonardo (49%). Fincantieri press release Representing the companies were Fincantieri’s Chief Executive Officer ...\nThe post Fincantieri and Leonardo sign an agreement to further strengthen the role of Orizzonte",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "MKE Reveals TOLGA 20mm Dual Gun System",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system/",
+        "published": "2026-11-05T09:26:39Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "During Euronaval 2026, Turkish defence company MKE showcased the TOLGA 20mm Dual Gun System, a naval remotely operated weapon (RWS) station with high rates of fire designed for close-range defence against surface and aerial threats. Low-cost FPV drones and loitering munitions are increasingly challenging conventional air defence systems through coordinated swarm attacks. Meanwhile, the low ...\nThe post MKE Reveals TOLGA 20mm Dual Gun System appeared first on Naval News.",
+        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "General Atomics Concept Eyes Vektrex in Air-Launched Missile",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/",
+        "published": "2026-11-05T08:14:07Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "General Atomics hinted at another potential submunition deployment method for its Vektrex maneuvering projectiles from an air-launched missile. A graphic from General Atomics&#8217; booth at Euronaval 2026 shows a F/A-18E/F Super Hornet launching a missile loaded with seven Vektrex projectiles. The American defense firm did not comment on the missile type. However, the conceptual graphic ...\nThe post General Atomics Concept Eyes Vektrex in Air-Launched Missile appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-025834-1024x624.png",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
+        "url": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds/",
+        "published": "2026-11-04T23:23:22Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "The court found that the Navy &#8220;engaged in disparate treatment&#8221; toward Saildrone&#8217;s MUSV proposal, according to an opinion unsealed Wednesday.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_4-1024x565.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future/",
+        "published": "2026-11-04T21:39:47Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Babcock International Group (Babcock), the defence company, has announced that seven leading technology and defence partners have joined its ARMOR Force (Autonomous and Remote Maritime Operational Response &#8211; Force) Framework, creating the first end-to-end ecosystem designed to deliver coherent Hybrid Navy capability at scale. Babcock press release The new partners, CUBEDIN, Exail, Hensoldt, Kraken Technology ...\nThe post Babcock assembles industry-leading ecosystem to deliver the Hybrid Na",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/ARMORForceEuronaval-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-navantia-and-naval-group-sign-epc2-consortium-agreement-at-euronaval-2026/",
+        "published": "2026-11-04T21:24:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fincantieri, Navantia and Naval Group have signed the consortium agreement for the second phase of EPC (EPC2) during Euronaval 2026. The ceremony, held in the presence of representatives from OCCAR (Organization for Joint Armament Cooperation), marks a significant step forward in the development of the European Patrol Corvette (EPC). Fincantieri press release The signing ceremony ...\nThe post Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026 appeared first on",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/zodiac-milpro-unveils-equinox-930-its-first-autonomous-modular-and-multi-mission-usv/",
+        "published": "2026-11-04T20:00:16Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Zodiac Milpro announces the launch of the EQUINOX 930 USV, its first Uncrewed Surface Vessel (USV), at Euronaval 2026. Zodiac Milpro press release Building on its recognised expertise in the design and production of military and professional boats, Zodiac Milpro is extending its know-how to uncrewed naval platforms. The EQUINOX 930 USV combines a robust, ...\nThe post Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV appeared first on Naval News.",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy appoints Rucker as new PAE Maritime lead",
+        "url": "https://breakingdefense.com/2026/11/navy-appoints-rucker-as-new-pae-maritime-lead/",
+        "published": "2026-11-04T19:43:20Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Rear Adm. Jonathan Rucker is the second person to hold the position since PAE Maritime was established in March.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260721_DVIDS_carrier_hormuz_8138563-scaled-e1784663487566-1024x577.jpg",
         "section": "nyheter"
       },
       {
@@ -94,36 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE",
-        "url": "https://www.navalnews.com/naval-news/2026/11/edge-launches-second-corvette-for-angolan-navy-first-of-its-class-built-in-uae/",
-        "published": "2026-11-04T09:25:42Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "EDGE has launched NRA Nimi-ya-Lukeni (F301), the second BR71 MK II multi-mission corvette for the Angolan Navy, at the Abu Dhabi shipyard of its naval shipbuilding entity, Abu Dhabi Ship Building (ADSB), on 29 October 2026. Edge press release The launch ceremony was attended by His Excellency Júlio Belarmino Gomes Maiato, Ambassador of the Republic ...\nThe post EDGE Launches Second Corvette for Angolan Navy, First of Its Class Built in UAE appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/03/First-BR71-MKII-Corvette-for-Angola-3-1024x771.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Lacroix Unveils ARTISSOUM IN Submarine Decoy and Signalling System at Euronaval 2026",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/lacroix-unveils-artissoum-in-submarine-decoy-and-signalling-system-at-euronaval-2026/",
-        "published": "2026-11-04T08:52:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Euronaval 2026, Lacroix unveils ARTISSOUM IN, a new range of advanced submarine decoy and signalling devices now compatible with internal launch systems.\nThe post Lacroix Unveils ARTISSOUM IN Submarine Decoy and Signalling System at Euronaval 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-11-04-at-09.20.21-1-ink-1024x771.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Euronaval 2026: French Navy Underpins Enduring Missions with New Capabilities to Counter Emerging Threats",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-french-navy-underpins-enduring-missions-with-new-capabilities-to-counter-emerging-threats/",
-        "published": "2026-11-04T06:55:01Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The French Navy is continuing to reinforce its core operational concepts and capabilities as it responds to continuing evolutions in threats at sea, according to senior officials speaking at the Euronaval exposition’s opening conference, in Paris on 2 November. These operational concepts and capabilities are projected in its primary operational missions. According to Alexandre Lahousse, ...\nThe post Euronaval 2026: French Navy Underpins Enduring Missions with New Capabilities to Counter Emerging",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-16.42.03-1-1024x682.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "EXCLUSIVE: SNC pulls out of Navy’s trainer jet competition, leaving Textron likely winner",
         "url": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
         "published": "2026-11-03T23:19:46Z",
@@ -144,36 +194,6 @@
         "section": "nyheter"
       },
       {
-        "title": "South Korea Launches Second KSS-III Batch-II Submarine, ROKS Seo Hui",
-        "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui/",
-        "published": "2026-11-03T21:39:19Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Republic of Korea Navy held a launching ceremony for Seo Hui, the second Jang Bogo(KSS)-III Batch-II submarine, at Hanwha Ocean’s shipyard in Geoje on November 3. The submarine features 70 types of domestically developed equipment to support follow-on logistics and strengthen the foundation for defense exports. ROK Navy and Defense Acquisition Program Administration(DAPA) joint ...\nThe post South Korea Launches Second KSS-III Batch-II Submarine, ROKS Seo Hui appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/ROKS-Seo-Hui-Launch-Ceremony2-1024x556.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "France investing in naval power as military ambition is ‘to be feared’: Armed forces minister",
-        "url": "https://breakingdefense.com/2026/11/france-investing-in-naval-power-as-military-ambition-is-to-be-feared-armed-forces-minister/",
-        "published": "2026-11-03T19:45:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Macron has previously used similar words during his nuclear strategy address in March, when he announced in Brittany an increase in the country’s nuclear warhead stockpile.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/02/240228_french_ship_red_sea_GettyImages-1947286571-scaled-e1709135018440-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Defense contractors to demo cargo drones for US Marine Corps",
-        "url": "https://www.defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
-        "published": "2026-11-03T17:56:13Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "An event early next year in Huntsville, Alabama, will allow contractors to display their solutions for a Marine battlefield cargo drone.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/8296222.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "U.K. Forces Track Russian Warships in 3 Operations Spanning 2 Weeks",
         "url": "https://news.usni.org/2026/11/03/u-k-forces-track-russian-warships-in-3-operations-spanning-2-weeks",
         "published": "2026-11-03T17:46:33Z",
@@ -181,26 +201,6 @@
         "language": "en",
         "summary": "The Royal Navy and Royal Air Force tracked Russian ships operating near the U.K. over three operations spanning a two-week period last month, the services announced Monday. Royal Navy destroyer HMS Dauntless (D33), offshore patrol vessel HMS Tyne (P281) shadowed Russian Navy frigate RFS Neustrashimy (177) from Oct. 1-14 as the Russian ship escorted sanctioned cargo ships through the English Channel. Monitoring of Neustrashimy was conducted as part of three focused operations carried out by the R",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/RN-20261013-002.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "French defense minister kicks off ‘pact’ with industry in rush to field naval drones",
-        "url": "https://www.defensenews.com/global/europe/2026/11/03/french-defense-minister-kicks-off-pact-with-industry-in-rush-to-field-naval-drones/",
-        "published": "2026-11-03T15:14:13Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "The French government is kicking off a new “pact” with the defense industry aimed at fostering a national ecosystem of drone makers that can quickly make new equipment tailored to its navy’s requirements.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-14.33.12.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/turkiyes-mke-debuts-pirana-armed-usv-variant-with-drone-payload/",
-        "published": "2026-11-03T13:44:24Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "MKE&#8217;s latest PIRANA unmanned surface vessel variant is designed to enable enhanced control of kamikaze drone swarms and deliver strikes against targets through a payload bay. The Turkish defense firm revealed the new USV variant at its Euronaval debut. Informed by internal company concepts and real-life lessons learned from the trials with the Turkish Navy, ...\nThe post Türkiye&#8217;s MKE Debuts PIRANA Armed USV Variant with Drone Payload appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-12.14.18-1-ink-1024x587.jpeg",
         "section": "nyheter"
       },
       {
@@ -488,6 +488,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Euronaval 2026: BAE Systems Sea Tridon Gun Offers Containerised C-UAS Capability for Navies",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-bae-systems-sea-tridon-gun-offers-containerised-c-uas-capability-for-navies/",
+        "published": "2026-11-04T21:41:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "BAE Systems has launched a new family of naval guns, which provide capability to conduct counter-uncrewed aerial system (c-UAS) self-defence activities including onboard smaller naval vessels. The launch of what is called the Sea Tridon programme was announced at the Euronaval exposition in Paris, France on 3 November. The programme is based around the company’s ...\nThe post Euronaval 2026: BAE Systems Sea Tridon Gun Offers Containerised C-UAS Capability for Navies appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/NavNews-EN26-BAES-Sea-Tridon2-LW-802x1024.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
         "url": "https://www.navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence/",
         "published": "2026-11-04T17:44:06Z",
@@ -525,26 +535,6 @@
         "language": "en",
         "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/image003-e1793743253636-1024x577.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Naval Air Defence Without Platform Boundaries: ASELSAN Takes GÖKDENİZ and GÖKSUR VLS to New Platforms",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-air-defence-without-platform-boundaries-aselsan-takes-gokdeniz-and-goksur-vls-to-new-platforms/",
-        "published": "2026-11-03T17:48:39Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "From containerised close-in weapon systems to deployable vertical-launch missile defense, ASELSAN is adapting proven naval technologies to address emerging security needs, including the protection of civilian vessels navigating critical maritime chokepoints. Sponsored by Naval security requirements can change faster than ships can be built or upgraded. Commercial vessels passing through sensitive straits, offshore assets and ...\nThe post Naval Air Defence Without Platform Boundaries: ASELSAN Tak",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/05/aselsan-logo-e1793373589484.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
-        "url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
-        "published": "2026-11-03T14:56:18Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "HII, America&#8217;s largest military shipbuilder and the global leader in autonomous seapower, and Thales, a global leader in advanced technologies, have successfully demonstrated an end-to-end autonomous mine countermeasure capability. HII press release This demonstration leveraged Thales&#8217; Expeditionary Pathmaster, an open and modular expeditionary mine countermeasure architecture designed to integrate autonomous platforms, sensors, mission management systems ...\nThe post HII and Thales ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/HII_Thales_03_09f769cf57.webp",
         "section": "rov_teknologi"
       },
       {

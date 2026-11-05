@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-11-05T11:41:47Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-11-05T19:46:39Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-05T11:41:59Z",
+        "published": "2026-11-05T19:46:48Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fairbanks Morse Defense in talks with Navy about Seawolf-class submarine repairs",
+        "url": "https://breakingdefense.com/2026/11/fairbanks-morse-defense-in-talks-with-navy-about-seawolf-class-submarine-repairs/",
+        "published": "2026-11-05T17:00:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Fairbanks Morse Defense is already conducting repairs on the Ohio- and Los Angeles-class submarines.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/04/USS-Jimmy-Carter-scaled-e1698349222344-1024x577.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "USS Stout Loses Power During Port Visit Due to ‘Engineering Casualty’",
+        "url": "https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty",
+        "published": "2026-11-05T16:06:54Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "A deployed destroyer recently lost power during a port visit to Italy, USNI News understands. USS Stout (DDG-55) was in port in Augusta Bay, Italy, for a scheduled port visit on Oct. 25 when it experienced an engineering casualty, causing the ship to lose power, Cmdr. Lauren Spaziano, U.S. 6th Fleet spokesperson, told USNI News. The Navy restored power for critical systems within 36 hours, with full power restored within three days. “While the U.S. Navy conducted repairs, the crew had continuous",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/10008295.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
+        "published": "2026-11-05T13:20:37Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "HGH announced that its SPYNEL-F maritime surveillance system has been awarded the Perséus Label, a distinction recognizing innovative technologies tested in real-world conditions with the French Navy. HGH press release The award recognizes an experiment conducted in January 2026, during which HGH’s SPYNEL-F system was tested aboard a French Maritime Gendarmerie patrol vessel. By taking ...\nThe post HGH receives the French Navy&#8217;s Perséus label for its SPYNEL-F Maritime Surveillance System a",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/perseus_spynel_f-1-1024x775.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/elt-group-and-thales-announce-the-establishment-of-a-joint-venture-in-naval-electronic-warfare-for-the-export-market/",
+        "published": "2026-11-05T12:07:48Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "ELT Group and Thales DMS formally announce the establishment of a joint venture, equally owned by the two companies. ELT Group press release The joint venture, named &#8216;Thales ELT Naval EW Solutions&#8217;, is set to strengthen ELT and Thales position and to be a leading European company in Naval Electronic Warfare (EW), to address the ...\nThe post ELT Group and Thales announce the establishment of a Joint Venture in naval Electronic Warfare for the export market appeared first on Naval News",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/ELT-Group-and-Thales-1024x682.jpg",
         "section": "nyheter"
       },
       {
@@ -51,36 +91,6 @@
         "language": "en",
         "summary": "The court found that the Navy &#8220;engaged in disparate treatment&#8221; toward Saildrone&#8217;s MUSV proposal, according to an opinion unsealed Wednesday.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_4-1024x565.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Babcock assembles industry-leading ecosystem to deliver the Hybrid Navy of the future",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-assembles-industry-leading-ecosystem-to-deliver-the-hybrid-navy-of-the-future/",
-        "published": "2026-11-04T21:39:47Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Babcock International Group (Babcock), the defence company, has announced that seven leading technology and defence partners have joined its ARMOR Force (Autonomous and Remote Maritime Operational Response &#8211; Force) Framework, creating the first end-to-end ecosystem designed to deliver coherent Hybrid Navy capability at scale. Babcock press release The new partners, CUBEDIN, Exail, Hensoldt, Kraken Technology ...\nThe post Babcock assembles industry-leading ecosystem to deliver the Hybrid Na",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/ARMORForceEuronaval-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-navantia-and-naval-group-sign-epc2-consortium-agreement-at-euronaval-2026/",
-        "published": "2026-11-04T21:24:25Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Fincantieri, Navantia and Naval Group have signed the consortium agreement for the second phase of EPC (EPC2) during Euronaval 2026. The ceremony, held in the presence of representatives from OCCAR (Organization for Joint Armament Cooperation), marks a significant step forward in the development of the European Patrol Corvette (EPC). Fincantieri press release The signing ceremony ...\nThe post Fincantieri, Navantia and Naval Group sign EPC2 Consortium Agreement at Euronaval 2026 appeared first on",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/zodiac-milpro-unveils-equinox-930-its-first-autonomous-modular-and-multi-mission-usv/",
-        "published": "2026-11-04T20:00:16Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Zodiac Milpro announces the launch of the EQUINOX 930 USV, its first Uncrewed Surface Vessel (USV), at Euronaval 2026. Zodiac Milpro press release Building on its recognised expertise in the design and production of military and professional boats, Zodiac Milpro is extending its know-how to uncrewed naval platforms. The EQUINOX 930 USV combines a robust, ...\nThe post Zodiac Milpro Unveils Equinox 930, Its First Autonomous, Modular, And Multi-mission USV appeared first on Naval News.",
-        "image_url": "",
         "section": "nyheter"
       },
       {
@@ -144,26 +154,6 @@
         "section": "nyheter"
       },
       {
-        "title": "EDGE Europe and Novamarine to Explore Joint Development of USVs",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/edge-europe-and-novamarine-to-explore-joint-development-of-usvs/",
-        "published": "2026-11-04T15:24:49Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On November 2, 2026, EDGE Europe announced the signing of an MoU with Novamarine on joint development of unmanned surface vessels at the Euronaval 2026 exhibition in Paris. EDGE press release EDGE Europe, the Paris-headquartered European company of EDGE, has signed a Memorandum of Understanding (MoU) with Novamarine, a company active in the design, production ...\nThe post EDGE Europe and Novamarine to Explore Joint Development of USVs appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
-        "title": "Leonardo, Fincanteri revamp joint venture, aiming to trim frigate build time by 18 months",
-        "url": "https://breakingdefense.com/2026/11/leonardo-fincanteri-revamp-joint-venture-aiming-to-trim-frigate-build-time-by-18-months/",
-        "published": "2026-11-04T14:35:07Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Fincantieri CEO Pierroberto Folgiero said his company&#8217;s joint venture with Leonardo, the Orrizonte Sistemi Navali, now aims to cut down frigate production time by 18 months.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/FMM_FolgieroVisit_020123_Web-16-e1675782738153-1024x575.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Babcock launches digital platform to link warship construction and fleet support",
         "url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
         "published": "2026-11-04T10:26:16Z",
@@ -171,16 +161,6 @@
         "language": "en",
         "summary": "U.K-based Babcock International has launched Pelorus, a digital platform intended to connect warship construction, operations and maintenance data.",
         "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Pelorus-.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "EXCLUSIVE: SNC pulls out of Navy’s trainer jet competition, leaving Textron likely winner",
-        "url": "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
-        "published": "2026-11-03T23:19:46Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The service is now planning to issue an award for the UJTS program between July and the end of September 2027.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/20260420-SAS-Navy-League-2026-DSC04006-SNC-Freedom-Trainer-e1776718855337-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -488,6 +468,26 @@
     ],
     "rov_teknologi": [
       {
+        "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
+        "published": "2026-11-05T15:49:45Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At Euronaval 2026, the Morbihan-based RTsys Group announced the sale of several SEMA training targets to two Canadian defense agencies: Defense Research and Development Canada (DRDC) and the Naval Engineering Test Establishment (NETE). This marks a new international milestone for its anti-submarine warfare (ASW) solution, further solidifying its presence in the North American naval defense ...\nThe post RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets ",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/rtsys-sema-euronaval-2026-2-ink-1024x589.jpeg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26",
+        "url": "https://www.navalnews.com/naval-news/2026/11/submarine-isaac-peral-sinks-the-old-patrol-vessel-infanta-elena-during-the-live-fire-exercise-sinkex-26/",
+        "published": "2026-11-05T14:51:46Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Spanish Navy has successfully completed the SINKEX 26 naval exercise in waters of the Atlantic Ocean —a periodic training event involving live-fire weaponry— during which the submarine ‘Isaac Peral’ (S-81) sank the decommissioned offshore patrol vessel ‘Infanta Elena’ by firing a single torpedo. Spanish Navy press release This exercise provided an opportunity to put ...\nThe post Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26 appear",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/spanish-sinkex-2-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "Euronaval 2026: BAE Systems Sea Tridon Gun Offers Containerised C-UAS Capability for Navies",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-bae-systems-sea-tridon-gun-offers-containerised-c-uas-capability-for-navies/",
         "published": "2026-11-04T21:41:25Z",
@@ -498,26 +498,6 @@
         "section": "rov_teknologi"
       },
       {
-        "title": "Safran Secures Inertial Navigation Contracts for French Nuclear Deterrence",
-        "url": "https://www.navalnews.com/naval-news/2026/11/safran-secures-inertial-navigation-contracts-for-french-nuclear-deterrence/",
-        "published": "2026-11-04T17:44:06Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "On November 2, 2026, Safran Electronics announced a new contract to provide inertial navigation systems for the French Navy&#8217;s submarines. Safran press release Safran Electronics &#38; Defense has been selected this year for three inertial navigation programs supporting France’s strategic nuclear deterrence, equipping three main platforms with its HRG (Hemispherical Resonator Gyroscope) technology: Sub-Surface Ballistic ...\nThe post Safran Secures Inertial Navigation Contracts for French Nu",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2023/04/Le-Terrible-SSBN.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Babcock launches transformative digital platform to connect shipbuilding, fleet operations and support",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-launches-transformative-digital-platform-to-connect-shipbuilding-fleet-operations-and-support/",
-        "published": "2026-11-04T15:58:05Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Babcock International Group has launched Pelorus, a transformative digital platform designed to connect the build, operation and support of maritime assets across their entire lifecycle. Babcock press release The whole-life digital management platform provides real-time insight and intelligence across individual vessels, fleets and programmes, creating a connected ecosystem of information that supports assets from initial ...\nThe post Babcock launches transformative digital platform to connect s",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/pelorus2-ink-1024x586.jpeg",
-        "section": "rov_teknologi"
-      },
-      {
         "title": "France tasks Naval Group to develop large oceangoing underwater drone",
         "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
         "published": "2026-11-04T09:51:15Z",
@@ -525,36 +505,6 @@
         "language": "en",
         "summary": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028.",
         "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2208951806.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Thales subsidiary lands US Navy contract for remote mine hunting modules",
-        "url": "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
-        "published": "2026-11-03T22:40:45Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The contract, awarded to Advanced Acoustic Concepts, is worth $53.9 million and also covers engineering support for the modules.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/image003-e1793743253636-1024x577.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "USS McFaul Returns to Norfolk After 332 Day Deployment",
-        "url": "https://news.usni.org/2026/10/23/uss-mcfaul-returns-to-norfolk-after-332-day-deployment",
-        "published": "2026-10-23T21:34:16Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Guided-missile destroyer USS McFaul (DDG-74) returned Friday to Naval Station Norfolk, Va., after 11 months deployed. McFaul left Norfolk on Nov. 25, 2026, for an independent deployment and spent the bulk of the time away in the Middle East. &#8220;The sailors of USS McFaul have performed exceptionally well during this demanding combat deployment, proving themselves as a true warfighting powerhouse. Operating in a highly volatile region, this crew has repeatedly demonstrated the grit, technical ",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/10043770-scaled.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Collaboration on Autonomous Undersea Warfare is on Track, AUKUS Officials Say",
-        "url": "https://news.usni.org/2026/10/23/collaboration-on-autonomous-undersea-warfare-is-on-track-aukus-officials-say",
-        "published": "2026-10-23T20:57:28Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "This post has been updated to include photos from the AUKUS Pillar II “Maritime Big Play-Pacific” demonstration in Southern California.  SAN DIEGO, Calif. — At first glance, the Hadalus-XL unmanned underwater vehicle and its dark flat panels might not catch the curious eye like a go-fast boat or sleek fighter jet. But its value is in what it does, said Ben Rosenthal, chief technology officer with Composite Energy Technologies, a Rhode Island-based company. The 34-foot underwater vehicle can haul",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/261020-N-UG095-1208-scaled.jpg",
         "section": "rov_teknologi"
       }
     ]

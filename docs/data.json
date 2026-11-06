@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-11-05T19:46:39Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-06T11:40:10Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
         "title": "NRK-reporteren sto midt i et folkehav av desperate mennesker",
         "url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal",
-        "published": "2026-11-05T19:46:48Z",
+        "published": "2026-11-06T11:40:23Z",
         "source": "Forsvaret.no",
         "language": "no",
         "summary": "NRKs krigsreporter Yama Wolasmal er midt i et folkehav av desperate mennesker. Alle vil ut av Kabul, og redningen er en stengt port. Alt virker håpløst. Så, fra intet, grabber en norsk soldat tak i ham og roper «He is mine!».",
         "image_url": "https://www.forsvaret.no/veteraner/veterandagen/8mai2025/wolasmal/_/image/f6b47310-d08d-45b2-9a09-f76379e9bfef:b05667d66f9fa7b053ccf0c90326c9e1fcb13da3/block-1200-630/20210823_005.jpg?quality=85",
+        "section": "nyheter"
+      },
+      {
+        "title": "How a French frigate’s radical bow design makes for smooth sailing",
+        "url": "https://www.defensenews.com/global/europe/2026/11/06/how-a-french-frigates-radical-bow-design-makes-for-smooth-sailing/",
+        "published": "2026-11-06T10:33:39Z",
+        "source": "Defense News",
+        "language": "en",
+        "summary": "The inverted bow on the new FDI frigates makes for better seakeeping, said the former French Navy captain who commanded the lead ship of the class during sea trials.",
+        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2297348977.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fincantieri unveils new Multi-Mission Modular Vessel at Euronaval 2026",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-unveils-new-multi-mission-modular-vessel-at-euronaval-2026/",
+        "published": "2026-11-06T10:00:06Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "On November 5, 2026, Italian shipbuilder Fincantieri unveiled the Multi-Mission Modular Vessel, claiming a new generation of adaptable and modular platforms for future naval operations. Fincantieri press release The Multi-Mission Modular Vessel (MMMV) introduces a new approach to naval platform design: “one hull, many missions”: rather than building a vessel around a predefined mission, Fincantieri ...\nThe post Fincantieri unveils new Multi-Mission Modular Vessel at Euronaval 2026 appeared first",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-22.00.20-2-ink-1024x768.jpeg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Fincantieri and J.A. Solutions Sign LoI to Advance Modularity for Next-Generation Naval Vessels",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-and-j-a-solutions-sign-loi-to-advance-modularity-for-next-generation-naval-vessels/",
+        "published": "2026-11-06T09:18:28Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Fincantieri and J.A. Solutions have signed a Letter of Intent (LoI) aimed at developing a strategic industrial collaboration in the field of advanced modular and containerized systems for reconfigurable naval vessels. Fincantieri press release The agreement was signed in Paris, during Euronaval 2026, by Pierroberto Folgiero, CEO and Managing Director of Fincantieri, and René Bertelsen, ...\nThe post Fincantieri and J.A. Solutions Sign LoI to Advance Modularity for Next-Generation Naval Vessels ap",
+        "image_url": "",
+        "section": "nyheter"
+      },
+      {
+        "title": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard",
+        "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard",
+        "published": "2026-11-05T22:02:14Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "North Korea leader Kim Jong Un inspected the ongoing construction of a new warship that is larger than the country&#8217;s 5,000-ton destroyers on Monday during a visit to North Korea’s Nampho Shipyard, state media reported Wednesday. The under-construction warship is believed to be a 10,000-ton cruiser. An image released by state media Korean Central News Agency (KCNA) shows Kim and North Korean officials in front of a ship hull at Nampho Shipyard. The hull shown is significantly larger than th",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/KimJongUnshipyard2.jpg",
         "section": "nyheter"
       },
       {
@@ -64,26 +104,6 @@
         "section": "nyheter"
       },
       {
-        "title": "MKE Reveals TOLGA 20mm Dual Gun System",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/mke-reveals-tolga-20mm-dual-gun-system/",
-        "published": "2026-11-05T09:26:39Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "During Euronaval 2026, Turkish defence company MKE showcased the TOLGA 20mm Dual Gun System, a naval remotely operated weapon (RWS) station with high rates of fire designed for close-range defence against surface and aerial threats. Low-cost FPV drones and loitering munitions are increasingly challenging conventional air defence systems through coordinated swarm attacks. Meanwhile, the low ...\nThe post MKE Reveals TOLGA 20mm Dual Gun System appeared first on Naval News.",
-        "image_url": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "General Atomics Concept Eyes Vektrex in Air-Launched Missile",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/",
-        "published": "2026-11-05T08:14:07Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "General Atomics hinted at another potential submunition deployment method for its Vektrex maneuvering projectiles from an air-launched missile. A graphic from General Atomics&#8217; booth at Euronaval 2026 shows a F/A-18E/F Super Hornet launching a missile loaded with seven Vektrex projectiles. The American defense firm did not comment on the missile type. However, the conceptual graphic ...\nThe post General Atomics Concept Eyes Vektrex in Air-Launched Missile appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-025834-1024x624.png",
-        "section": "nyheter"
-      },
-      {
         "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
         "url": "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds/",
         "published": "2026-11-04T23:23:22Z",
@@ -101,16 +121,6 @@
         "language": "en",
         "summary": "Rear Adm. Jonathan Rucker is the second person to hold the position since PAE Maritime was established in March.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260721_DVIDS_carrier_hormuz_8138563-scaled-e1784663487566-1024x577.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-        "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-        "published": "2026-11-04T18:27:06Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-        "image_url": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
         "section": "nyheter"
       },
       {
@@ -151,16 +161,6 @@
         "language": "en",
         "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean. Prince of Wales recently participated in a U.S.-led nuclear command and control exercise near Norway while aircraft carrier Queen Elizabeth carried out interoperability exercises with Royal Air Force Chinook heavy lift helicopters off Gibraltar. The Royal Navy alternates the two carriers with one acting as the high readiness carrier, condu",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/888620081_2024342051562288_3043454668547549054_n.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Babcock launches digital platform to link warship construction and fleet support",
-        "url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
-        "published": "2026-11-04T10:26:16Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "U.K-based Babcock International has launched Pelorus, a digital platform intended to connect warship construction, operations and maintenance data.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Pelorus-.jpg",
         "section": "nyheter"
       },
       {
@@ -251,26 +251,6 @@
         "language": "en",
         "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel construction manager. TOTE Services, which won a $2.2 billion contract in July to function as the LSM vessel construction manager, awarded Hanwha the contract after putting out a request for proposals in July. “Hanwha Defense USA (HDUSA) is the first shipbuilder selected through that process, based on its competitive pricing and accep",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
-        "url": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
-        "published": "2026-10-29T20:41:01Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday.  As sailors deploy with carrier strike groups, they are being told to expect a deployment that is between 10-11 months, MCPON John Perryman said while speaking at the Navy Memorial.  The longer extensions started in 2023 with the Dwight D. Eisenhower Carrier Strike Group seeing a nine-month deployment as a result of the Houthi campaig",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
-        "url": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
-        "published": "2026-10-29T20:03:43Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week.  Malabar 2026 will take place south of the Kanto region on the main island of Honshu from Nov. 5-12, according to a Japan Maritime Self-Defense Force news release published on Tuesday.  “The JMSDF will conduct a multilateral exercise ‘MALABAR 2026’ with the U.S. Navy , the Indian Navy, the Royal Australian Navy and the Royal Australian Air Fo",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -468,6 +448,16 @@
     ],
     "rov_teknologi": [
       {
+        "title": "Naval Group Unveils a Larger, More Powerful FDI Frigate",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate/",
+        "published": "2026-11-05T22:20:21Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "During Euronaval 2026, Naval Group presented its FDI frigate family, which now includes a new, larger and more powerful variant alongside the existing FDI in its various configurations. This development highlights the continuous evolution of the FDI frigate design, made possible by the inherent flexibility of its naval architecture and the provisions incorporated into the ...\nThe post Naval Group Unveils a Larger, More Powerful FDI Frigate appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Stretched-FDI-Frigate-Naval-Group-2-1024x537.jpg",
+        "section": "rov_teknologi"
+      },
+      {
         "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
         "published": "2026-11-05T15:49:45Z",
@@ -485,26 +475,6 @@
         "language": "en",
         "summary": "The Spanish Navy has successfully completed the SINKEX 26 naval exercise in waters of the Atlantic Ocean —a periodic training event involving live-fire weaponry— during which the submarine ‘Isaac Peral’ (S-81) sank the decommissioned offshore patrol vessel ‘Infanta Elena’ by firing a single torpedo. Spanish Navy press release This exercise provided an opportunity to put ...\nThe post Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26 appear",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/spanish-sinkex-2-1024x576.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Euronaval 2026: BAE Systems Sea Tridon Gun Offers Containerised C-UAS Capability for Navies",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-bae-systems-sea-tridon-gun-offers-containerised-c-uas-capability-for-navies/",
-        "published": "2026-11-04T21:41:25Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "BAE Systems has launched a new family of naval guns, which provide capability to conduct counter-uncrewed aerial system (c-UAS) self-defence activities including onboard smaller naval vessels. The launch of what is called the Sea Tridon programme was announced at the Euronaval exposition in Paris, France on 3 November. The programme is based around the company’s ...\nThe post Euronaval 2026: BAE Systems Sea Tridon Gun Offers Containerised C-UAS Capability for Navies appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/NavNews-EN26-BAES-Sea-Tridon2-LW-802x1024.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "France tasks Naval Group to develop large oceangoing underwater drone",
-        "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
-        "published": "2026-11-04T09:51:15Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2208951806.jpg",
         "section": "rov_teknologi"
       }
     ]

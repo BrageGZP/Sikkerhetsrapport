@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T19:10:58Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-07T10:45:51Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -181,16 +181,6 @@
         "language": "en",
         "summary": "The hulk of former nuclear aircraft carrier USS Enterprise (CVN-65) was towed from a pier at Newport News Shipbuilding on Monday, almost 15 years after its final deployment, USNI News has learned. “Ex-Enterprise began its final transit this morning, departing Newport News Shipbuilding for Mobile, Alabama, where the ship will be dismantled,” reads a Monday statement from PAE Maritime. The remnant “Big E” is now in route to Mobile, Ala., after a court battle between environmental disposal contract",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/886059725_1776463593607178_6063694546539408851_n.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Russia, North Korea Test Missiles in the Western Pacific",
-        "url": "https://news.usni.org/2026/10/30/russia-north-korea-test-missiles-in-the-western-pacific",
-        "published": "2026-10-30T20:50:34Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Russia and North Korea carried out ballistic missile launches this week with Russia conducting a launch of a Submarine-Launched Ballistic Missile (SLBM) from the Western Pacific to Russia arctic region, according to a Russian Ministry of Defence (MOD) release on Wednesday while North Korea carried out launches of Short-Range Ballistic Missiles (SRBMs) as part of a firepower demonstration for North Korea leader Kim Jong Un during an exhibition of unmanned aerial vehicle technology. Nuclear powere",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/0e055e1f78d2513958769c999314b2da8b71a3a606a118a94eadd53d04472abb61.jpg",
         "section": "nyheter"
       }
     ],
@@ -374,19 +364,19 @@
         "summary": "Visste du at Kystverket deler historiske data om sjøtrafikk åpent? Bruken av slik informasjon kan...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Nå starter utbyggingen av Kjøllefjord fiskerihavn – inviterer til folkemøte",
-        "url": "https://www.kystverket.no/nyheter/na-starter-utbyggingen-av-kjollefjord-fiskerihavn--inviterer-til-folkemote/",
-        "published": "2026-09-08T08:10:30Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket og NCC gjør seg nå klare for oppstart av utbyggingen av Kjøllefjord fiskerihavn....",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "The Future of French Fleet Close-in Defense",
+        "url": "https://news.usni.org/2026/11/06/the-future-of-french-fleet-close-in-defense",
+        "published": "2026-11-06T21:54:51Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "TOULON, France — Behind the bridge wings of one of Europe’s most modern combat supply ships, a team of French sailors donned gloves and flash hoods. The group were preparing for a close-in defense drill aboard Bâtiment ravitailleur de forces-class (BRF) resupply ship FS Jacques Stosskopf (A726) last month. At its Toulon naval base berthing, the modern logistics vessel was flanked by the anti-aircraft and anti-submarine escorts of France’s sole carrier strike group. Its size is considerable compa",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/HA5OB30bsAQkT3T-scaled.jpeg",
+        "section": "rov_teknologi"
+      },
       {
         "title": "KONGSBERG expands Aegir SSA sonar family alongside virtual operator for maritime security and navigation",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/kongsberg-expands-aegir-ssa-sonar-family-alongside-virtual-operator-for-maritime-security-and-navigation/",

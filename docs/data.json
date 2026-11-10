@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T22:11:11Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-10T11:55:25Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
       {
@@ -114,16 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard",
-        "url": "https://www.navalnews.com/naval-news/2026/11/viking-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
-        "published": "2026-11-09T09:07:40Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "VIKING Life-Saving Equipment has signed a €23.8 million contract, through its Greek company VIKING Life-Saving Equipment Hellas, to supply seven new high-speed patrol vessels to the Hellenic Coast Guard. Viking press release The contract was signed by Greece&#8217;s Minister of Maritime Affairs and Insular Policy, Vassilis Kikilias, at a ceremony at the Ministry in Athens, ...\nThe post VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard appeared first on Naval News.",
-        "image_url": "",
-        "section": "nyheter"
-      },
-      {
         "title": "USNI News Western Pacific Pulse: Nov. 6, 2026",
         "url": "https://news.usni.org/2026/11/06/usni-news-western-pacific-pulse-nov-6-2026",
         "published": "2026-11-06T18:35:17Z",
@@ -201,16 +191,6 @@
         "language": "en",
         "summary": "The Royal Navy and Royal Air Force tracked Russian ships operating near the U.K. over three operations spanning a two-week period last month, the services announced Monday. Royal Navy destroyer HMS Dauntless (D33), offshore patrol vessel HMS Tyne (P281) shadowed Russian Navy frigate RFS Neustrashimy (177) from Oct. 1-14 as the Russian ship escorted sanctioned cargo ships through the English Channel. Monitoring of Neustrashimy was conducted as part of three focused operations carried out by the R",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/RN-20261013-002.webp",
-        "section": "nyheter"
-      },
-      {
-        "title": "Norge har formannskapet i North Atlantic Coast Guard Forum",
-        "url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/norge-har-formannskapet-i-north-atlantic-coast-guard-forum",
-        "published": "2026-11-03T00:00:00Z",
-        "source": "Forsvaret.no",
-        "language": "no",
-        "summary": "I oktober 2026 overtok Norge formannskapet i North Atlantic Coast Guard Forum (NACGF) etter Island. Dermed får Kystvakten ansvaret for å lede samarbeidet mellom kystvakt- og maritime myndigheter i Nord-Atlanteren det kommende året.",
-        "image_url": "https://www.forsvaret.no/aktuelt-og-presse/aktuelt/norge-har-formannskapet-i-north-atlantic-coast-guard-forum/_/image/57795eb1-2890-47e6-b9a9-811cc2222fb6:9334b0ab1685ec56bb728328449651720eb99759/block-1200-630/2026.08.08_EDCO_ARCTIC-COHESION-ISL-FREYJA-157.jpg?quality=85",
         "section": "nyheter"
       }
     ],
@@ -374,19 +354,29 @@
         "summary": "Hvordan skal cruisenæringen møte fremtidens krav til beredskap, bærekraft og sikkerhet? 28. janua...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Sikker kyst – sterk beredskap i nord",
-        "url": "https://www.kystverket.no/nyheter/kyst--og-havnekonferansen-2026--sikker-kyst--sterk-beredskap/",
-        "published": "2026-09-11T08:36:36Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Hvordan setter vi havnene og sjøveien i stand til å ivareta sikkerhet, beredskap og verdiskapning...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Alseamar’s Sonusia Builds Layers in CUI and Wider Underwater Surveillance",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/alseamars-sonusia-builds-layers-in-cui-and-wider-underwater-surveillance/",
+        "published": "2026-11-10T09:28:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Alseamar has launched Sonusia, a modular, distributed network of acoustic and non-acoustic sensors and associated data processing capacity designed to build persistent underwater surveillance, from surface to seabed, to enable maritime threat detection and environment monitoring. Announcing the launch on 3 November 2026 at the Euronaval exposition in Paris, the French defence and commercial specialist ...\nThe post Alseamar’s Sonusia Builds Layers in CUI and Wider Underwater Surveillance appeared",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/NN-Alseamar2-alseamar_seamonitor-01_HD-surf-pic-Alseamar-1024x576.jpg",
+        "section": "rov_teknologi"
+      },
+      {
+        "title": "Saab launches next generation 9LV naval combat system",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-launches-next-generation-9lv-naval-combat-system/",
+        "published": "2026-11-10T07:09:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At Euronaval 2026, Saab is introducing the next generation of its naval 9LV Combat System, Combat Management System and Fire Control System with Ceros, in a design built for the realities of modern naval warfare in multiple domains.&#160;&#160; Saab press release By integrating sensors, weapons and command-and-control functions into a single system, 9LV provides crews ...\nThe post Saab launches next generation 9LV naval combat system appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
         "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
@@ -395,16 +385,6 @@
         "language": "en",
         "summary": "At Euronaval 2026, General Atomics revealed its Ranger and GA-Ray long-range UUVs, built for multi-year missions and launching sub-drones and payloads.\nThe post General Atomics Ranger UUV to Support Large Payloads, UAVs appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/image-1024x575.png",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/seaber-unveils-raven-compact-auv-for-mine-warfare-missions/",
-        "published": "2026-11-09T09:27:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "French AUV manufacturer SEABER announces the launch of RAVEN®, a new generation of compact autonomous underwater vehicles for mine countermeasures (MCM) and survey. Designed to compete with established market leaders, RAVEN® challenges their cost structure.&#160; SEABER press release Weighing 13 kg with a 12 cm diameter, RAVEN® can be deployed by a single operator, while ...\nThe post SEABER Unveils RAVEN Compact AUV for Mine Warfare Missions appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

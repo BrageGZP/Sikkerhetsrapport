@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-11-12T19:45:34Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-13T11:41:00Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
+        "url": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
+        "published": "2026-11-13T09:25:44Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "At Euronaval 2026, French Navy Chief Admiral Christophe Cluzel outlined France's \"reasoned\" hybrid fleet doctrine, pairing heavy capital ships with maritime drones.\nThe post Beyond the Hype: French Navy Chief Advocates for a &#8216;Reasoned&#8217; Hybrid Fleet appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/SCX26-Naval-Group-Euronaval-2026-1024x771.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show",
+        "url": "https://www.navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show/",
+        "published": "2026-11-13T06:29:00Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The Taiwan Marine Tech &#38; Unmanned Robotics Expo (MATURE Taiwan), held from November 3 to 5, 2026, in Tainan, southern Taiwan’s second-largest city and the island’s former capital, showcased a range of emerging marine technologies and unmanned robotic systems for both civilian and military applications, including naval unmanned systems. Here is an overview of some ...\nThe post Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/CSBC-ENDEAVOR-MANTA01-1024x683.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
+        "url": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
+        "published": "2026-11-12T23:00:43Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday. The service is finalizing the analysis of alternatives of the SSN(X), the submarine class that will follow the Virginia-class attack boats, Rear Adm. Andrew Miller said during the Naval Submarine League’s annual conference. The Navy completed its own AoA in Nov",
+        "image_url": "https://news.usni.org/wp-content/uploads/2023/10/8057123-scaled-3.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
+        "url": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
+        "published": "2026-11-12T21:24:58Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay. “Today marks another meaningful step in our continuing effort to strengthen the capabilities of the Philippine Marine Corps, particularly in the field of arch",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/8090402-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Delivering first Columbia-class sub in 2028 is ‘absolutely achievable’, sub czar says",
+        "url": "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says/",
+        "published": "2026-11-12T21:12:00Z",
+        "source": "Breaking Defense",
+        "language": "en",
+        "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for Submarines, said that delivering the first Columbia-class submarine in 2028 is still a &#8216;heavy lift.&#8217;",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/03/The-Columbia-class-ballistic-missile-submarine-shown-in-an-artists-conception-will-have-an-electric-drive-power-propulsion-system-developed-by-Leonardo-DRS.-scaled-e1770905428524-1024x576.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Royal Navy to Trial Northrop Grumman Test Aircraft on Carrier in 2027",
+        "url": "https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027",
+        "published": "2026-11-12T20:27:56Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The Royal Navy will trial Northrop Grumman’s Talon IQ autonomous testbed demonstrator off a Queen Elizabeth-class carrier next year, the First Sea Lord announced Tuesday. The trials will serve as the initial stage of the Royal Navy’s Collaborative Combat Aircraft (CCA) program, which will see attack drones operate alongside its embarked F-35 Lightning II fighter aircraft. The Talon IQ demonstrator is one of two air vehicles currently operating under Norththrop Grumman’s internally funded Project",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/talon-iq-taking-off-from-a-runway-hero2_Original-file-scaled.webp",
+        "section": "nyheter"
+      },
       {
         "title": "Navy Quietly Removed USS Michael Murphy Commander in September",
         "url": "https://news.usni.org/2026/11/12/navy-quietly-removes-uss-michael-murphy-commander",
@@ -34,7 +94,7 @@
         "section": "nyheter"
       },
       {
-        "title": "BREAKING: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
+        "title": "UPDATED: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
         "url": "https://news.usni.org/2026/11/12/breaking-uss-south-dakota-command-triad-relieved-after-october-grounding-congressman-says",
         "published": "2026-11-12T17:00:31Z",
         "source": "USNI News",
@@ -114,26 +174,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
-        "url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
-        "published": "2026-11-12T07:26:26Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Australian government has announced a contract for Perth-based naval propulsion specialist VEEM, supplying parts for US submarines.\nThe post Australian naval propulsion specialist VEEM wins work on US Navy submarines appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-130529-1024x652.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Philippine Marines Receives MARTAC T38 USV via U.S. Aid",
-        "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/",
-        "published": "2026-11-11T20:41:44Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Philippine Marine Corps now operates MARTAC T38 Devil Ray USVs in Washington's latest effort to bolster Manila's sea drone force.\nThe post Philippine Marines Receives MARTAC T38 USV via U.S. Aid appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/05/Devil-Ray-USV-PHN-Subic-1024x768.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
         "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending/",
         "published": "2026-11-11T18:22:56Z",
@@ -191,16 +231,6 @@
         "language": "en",
         "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week.  In Singapore The Theodore Roosevelt Carrier Strike Group pulled into Singapore on Friday for a port visit. The strike group includes aircraft carrier USS Theodore Roosevelt (CVN-71) with embarked carrier air wing (CVW) 11, cruiser USS Chosin (CG-65) and destroyers USS Paul Hamilton (DDG-60) and USS Decatur (DDG-73). Theodore Roosevelt, Chosin and Paul Hamilton docked into Changi Naval Bas",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/10069530-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard",
-        "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard",
-        "published": "2026-11-05T22:02:14Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "North Korea leader Kim Jong Un inspected the ongoing construction of a new warship that is larger than the country&#8217;s 5,000-ton destroyers on Monday during a visit to North Korea’s Nampho Shipyard, state media reported Wednesday. The under-construction warship is believed to be a 10,000-ton cruiser. An image released by state media Korean Central News Agency (KCNA) shows Kim and North Korean officials in front of a ship hull at Nampho Shipyard. The hull shown is significantly larger than th",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/KimJongUnshipyard2.jpg",
         "section": "nyheter"
       }
     ],
@@ -367,6 +397,16 @@
       }
     ],
     "rov_teknologi": [
+      {
+        "title": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%",
+        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
+        "published": "2026-11-13T08:45:16Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Saab has reinvigorated its Sea Giraffe Agile Multi Beam (AMB) G-band radar line with the launch of the fourth-generation Sea Giraffe AMB D system. Featuring a GaN AESA antenna and digital architecture, it boosts range by 50% to 250km. Designed providing naval forces with enhanced 3D surveillance and tracking of air and surface targets in ...\nThe post Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50% appeared first on Naval News.",
+        "image_url": "",
+        "section": "rov_teknologi"
+      },
       {
         "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
         "url": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",

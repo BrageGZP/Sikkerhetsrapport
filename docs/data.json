@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-14T17:51:44Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-15T11:36:49Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships",
+        "url": "https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/",
+        "published": "2026-11-15T08:27:22Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Malaysia picks Roketsan’s ATMACA anti-ship missile to replace Kongsberg’s NSM on its LCS vessels, with French SETIS CMS integration still unresolved.\nThe post Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/maharaja-lela-28-april-2026-sea-trials-cropped-1024x509.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "Lead Columbia-class SSBN Claws Back from Delay Risk",
         "url": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/",
@@ -181,16 +191,6 @@
         "language": "en",
         "summary": "At Euronaval 2026, French shipbuilder CMN (Constructions Mécaniques de Normandie) unveiled its largest and most heavily armed warship design to date: a 107-meter multi-mission corvette. The new design marks the first time CMN has presented a warship of this size. The new design is based on the CL75 Mk II multirole offshore patrol vessel with ...\nThe post Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette appeared first on Naval News.",
         "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/CMN-Naval-107-Meter-Multi-Mission-Corvette-2-1024x683.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-        "url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-        "published": "2026-11-12T12:50:24Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Royal Navy has awarded Saab a £15 million contract for its Sea Giraffe 1X radar system as part of the development of an autonomous &#8220;drone seeker&#8221; capability first unveiled earlier this year. Saab press release The contract will see the Royal Navy buy several of Saab’s industry leading Counter-UAS radar systems for integration with ...\nThe post Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/frpue-20261105-zj0193-026-1024x576.jpg",
         "section": "nyheter"
       },
       {
@@ -382,16 +382,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Fra nye energibærere til erfaringer fra faktiske aksjoner: Hvordan sikrer vi at beredskapen mot...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "Den norske Cruisekonferansen 2027: Påmeldingen er åpnet",
-        "url": "https://www.kystverket.no/nyheter/den-norske-cruisekonferansen-2027-pameldingen-er-apnet/",
-        "published": "2026-09-16T09:17:56Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Hvordan skal cruisenæringen møte fremtidens krav til beredskap, bærekraft og sikkerhet? 28. janua...",
         "image_url": "",
         "section": "regelverk"
       }

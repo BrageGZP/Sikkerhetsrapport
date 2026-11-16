@@ -1,56 +1,46 @@
 {
-  "generated_at": "2026-11-16T12:10:38Z",
+  "generated_at": "2026-11-16T21:52:11Z",
   "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
       {
-        "title": "Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/",
-        "published": "2026-11-16T10:48:40Z",
-        "source": "Naval News",
+        "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
+        "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
+        "published": "2026-11-16T19:55:16Z",
+        "source": "USNI News",
         "language": "en",
-        "summary": "Unveiled at Euronaval 2026, the Safran NGDS HK launcher carries up to 88 guided or unguided rockets paired with the new PASEO Master D designator.\nThe post Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026 appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/Safran-PASEO-Master-D-1024x771.jpg",
+        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 102 (USS 71, USNS 31) (46 FDNF, 56 Rotational) 87 (64 Deployed, 23 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japa",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_16_26.jpg",
         "section": "nyheter"
       },
       {
-        "title": "French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean",
-        "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
-        "published": "2026-11-16T10:02:37Z",
-        "source": "Naval News",
+        "title": "Italy unveils plans to develop a new naval missile launcher",
+        "url": "https://breakingdefense.com/2026/11/italy-unveils-plans-to-develop-a-new-naval-missile-launcher/",
+        "published": "2026-11-16T18:07:01Z",
+        "source": "Breaking Defense",
         "language": "en",
-        "summary": "The French Navy intercepted a cocaine-laden Narco-Sub in the Atlantic Ocean on November 12, 2026, recovering 146 kg before the semi-submersible was scuttled.\nThe post French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean appeared first on Naval News.",
-        "image_url": "",
+        "summary": "The 2026-2028 Documento Programmatico Pluriennale outlined that the new system must be able to fire the Stratus LO, a land-strike cruise missile under development by MBDA for the French, British, and Italian militaries.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/7797356-e1794847247350-1024x576.jpg",
         "section": "nyheter"
       },
       {
-        "title": "HD HHI and Anduril Launch 600-Ton Autonomous Surface Vessel ‘ASV Alpha’",
-        "url": "https://www.navalnews.com/naval-news/2026/11/hd-hhi-anduril-launch-600-ton-asv-alpha/",
-        "published": "2026-11-16T09:08:51Z",
-        "source": "Naval News",
+        "title": "China has ‘normalized’ naval presence near Japan since political spat of 2025",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/16/china-has-normalized-naval-presence-near-japan-since-political-spat-of-2025/",
+        "published": "2026-11-16T17:02:51Z",
+        "source": "Defense News",
         "language": "en",
-        "summary": "HD HHI and Anduril have launched ASV Alpha, a 600-ton autonomous surface vessel built in Ulsan with VAone and Lattice ahead of 2027 U.S. trials.\nThe post HD HHI and Anduril Launch 600-Ton Autonomous Surface Vessel ‘ASV Alpha’ appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/HD-HHI-and-Anduril-Launch-600-Ton-Autonomous-Surface-Vessel-‘ASV-Alpha-2-1024x598.jpg",
+        "summary": "Given its scale, the massive Chinese flotilla that included coast guard vessels alongside navy warships may have had Taiwan’s maritime neighbor Japan in its sights, military experts say.",
+        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2285568855.jpg",
         "section": "nyheter"
       },
       {
-        "title": "Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships",
-        "url": "https://www.navalnews.com/naval-news/2026/11/malaysia-selects-roketsans-atmaca-to-replace-nsm-on-littoral-combat-ships/",
-        "published": "2026-11-15T08:27:22Z",
-        "source": "Naval News",
+        "title": "Navy Weapons Division to Make Tomahawk Components in 2027",
+        "url": "https://news.usni.org/2026/11/16/navy-weapons-division-to-make-tomahawk-components-in-2027",
+        "published": "2026-11-16T16:41:29Z",
+        "source": "USNI News",
         "language": "en",
-        "summary": "Malaysia picks Roketsan’s ATMACA anti-ship missile to replace Kongsberg’s NSM on its LCS vessels, with French SETIS CMS integration still unresolved.\nThe post Malaysia Selects Roketsan’s ATMACA to Replace NSM on Littoral Combat Ships appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/04/maharaja-lela-28-april-2026-sea-trials-cropped-1024x509.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Lead Columbia-class SSBN Claws Back from Delay Risk",
-        "url": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/",
-        "published": "2026-11-14T16:39:23Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The U.S. Navy's lead Columbia-class SSBN, USS District of Columbia (SSBN-826), is back on track for 2028 delivery after work rates more than doubled.\nThe post Lead Columbia-class SSBN Claws Back from Delay Risk appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/01/Screenshot-2026-01-06-at-15-44-35-585534131_1324141103077032_203544480535893070_n.jpg-JPEG-Image-1013-×-1350-pixels-—-Scaled-96-1.png",
+        "summary": "The Naval Air Warfare Center Weapons Division will begin making a component for Tomahawk cruise missile warheads in June of 2027 when a new explosive and propellant mixer comes online, the division announced last week.  A new 300 gallon mixer, built by B&#38;P Littleford was inaugurated in a ribbon cutting ceremony on Nov. 9 at the China Lake Propulsion Laboratory in California. Once the mixer is online, NAWCD’s warhead production team will work to have warheads ready before manufacturer Raytheo",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/9675422-1.jpg",
         "section": "nyheter"
       },
       {
@@ -74,16 +64,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Turkey and Egypt weigh joint naval shipbuilding projects",
-        "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/turkey-and-egypt-weigh-joint-naval-shipbuilding-projects/",
-        "published": "2026-11-13T14:22:17Z",
-        "source": "Defense News",
-        "language": "en",
-        "summary": "Turkey and Egypt are taking steps to strengthen their cooperation in the maritime domain, with joint shipbuilding opportunities on the table.",
-        "image_url": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2303853845.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "UK to buy three new mine-hunting drone motherships under Norway agreement",
         "url": "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement/",
         "published": "2026-11-13T14:16:31Z",
@@ -91,36 +71,6 @@
         "language": "en",
         "summary": "The decision, for which £90 million ($119.1 million) has been allocated, was formalized on Thursday by British Defense Secretary Wes Streeting and his Norwegian counterpart, Tore O. Sandvik, at the Atlantic Future Forum in Oslo.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-13-a-11.22.17-1024x593.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
-        "url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/",
-        "published": "2026-11-13T12:59:29Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "U.S. Pacific Fleet (SUBPAC) Commander Rear Adm. Chris Cavanaugh outlines the rapid expansion and growing undersea threats of the PLAN and Russian submarine fleets.\nThe post SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2024/10/006Gzorxgy1hujt44u6nej30ue14itbw-1024x779.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
-        "url": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
-        "published": "2026-11-13T09:25:44Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "At Euronaval 2026, French Navy Chief Admiral Christophe Cluzel outlined France's \"reasoned\" hybrid fleet doctrine, pairing heavy capital ships with maritime drones.\nThe post Beyond the Hype: French Navy Chief Advocates for a &#8216;Reasoned&#8217; Hybrid Fleet appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/SCX26-Naval-Group-Euronaval-2026-1024x771.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show",
-        "url": "https://www.navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show/",
-        "published": "2026-11-13T06:29:00Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "The Taiwan Marine Tech &#38; Unmanned Robotics Expo (MATURE Taiwan), held from November 3 to 5, 2026, in Tainan, southern Taiwan’s second-largest city and the island’s former capital, showcased a range of emerging marine technologies and unmanned robotic systems for both civilian and military applications, including naval unmanned systems. Here is an overview of some ...\nThe post Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/CSBC-ENDEAVOR-MANTA01-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -144,16 +94,6 @@
         "section": "nyheter"
       },
       {
-        "title": "Delivering first Columbia-class sub in 2028 is ‘absolutely achievable’, sub czar says",
-        "url": "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says/",
-        "published": "2026-11-12T21:12:00Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for Submarines, said that delivering the first Columbia-class submarine in 2028 is still a &#8216;heavy lift.&#8217;",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/03/The-Columbia-class-ballistic-missile-submarine-shown-in-an-artists-conception-will-have-an-electric-drive-power-propulsion-system-developed-by-Leonardo-DRS.-scaled-e1770905428524-1024x576.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "Royal Navy to Trial Northrop Grumman Test Aircraft on Carrier in 2027",
         "url": "https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027",
         "published": "2026-11-12T20:27:56Z",
@@ -174,16 +114,6 @@
         "section": "nyheter"
       },
       {
-        "title": "AUKUS on track, even ‘ahead of schedule’ for some parts, admiral says",
-        "url": "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says/",
-        "published": "2026-11-12T18:12:43Z",
-        "source": "Breaking Defense",
-        "language": "en",
-        "summary": "The USS Colorado will serve as the first submarine assigned to Submarine Rotational Force-West in support of AUKUS Pillar I.",
-        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/271027-N-NR343-9270-e1794506945842-1024x577.jpeg",
-        "section": "nyheter"
-      },
-      {
         "title": "UPDATED: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
         "url": "https://news.usni.org/2026/11/12/breaking-uss-south-dakota-command-triad-relieved-after-october-grounding-congressman-says",
         "published": "2026-11-12T17:00:31Z",
@@ -201,36 +131,6 @@
         "language": "en",
         "summary": "The U.K. will invest $120 million on a network of drones, sensors and AI systems for the Royal Navy to counter Russian submarines in the North Atlantic, the Ministry of Defense announced Tuesday. Dubbed “Atlantic Net,” the network is meant to enable the Royal Navy to better protect undersea cables and energy networks from Russian threats. “The UK will be more secure from Russian undersea threats in the North Atlantic following a new £90 million investment in new drones, sensors and AI systems fo",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/db55340b0eebcb73f86c0405f5b8ae54a8e4f412.png",
-        "section": "nyheter"
-      },
-      {
-        "title": "Hegseth Calls for Sweeping Military Education Changes in Naval War College Address",
-        "url": "https://news.usni.org/2026/11/09/hegseth-calls-for-sweeping-military-education-changes-in-naval-war-college-address",
-        "published": "2026-11-09T20:42:15Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "Defense Secretary Pete Hegseth announced sweeping education directives supporting his effort to de-civilianize military higher education and align it with warfighting priorities on Monday at the Naval War College. A total of 33 directives were unveiled on Monday. Among key changes were an AI-aided capstone wargame in lieu of a written thesis for graduates and expanded access to classified information for course instruction. To facilitate greater use of classified information in the study of war,",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/Naval-War-College.jpeg",
-        "section": "nyheter"
-      },
-      {
-        "title": "USNI News Fleet and Marine Tracker: Nov. 9, 2026",
-        "url": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
-        "published": "2026-11-09T19:18:38Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship.  In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. In the Sea of Japan Amphibious assault ship USS Makin Island (LHD-8) departed Saturday from Yokosuka, Japan, according to ship spot",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_9_26.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
-        "url": "https://news.usni.org/2026/11/09/royal-navy-commissions-first-unmanned-surface-vehicle-squadron",
-        "published": "2026-11-09T18:11:43Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The Royal Navy commissioned its first unmanned surface vessel squadron last week as it transforms into a hybrid fleet, the service announced Monday. The 1st Autonomous Squadron was formally commissioned in a ceremony on Thursday at His Majesty’s Naval Base, in Portsmouth, England, according to a news release. The unit is the Royal Navy’s first ever autonomous squadron. “That makes this a genuinely historic occasion. For generations, the fleet has been built around ships, submarines and aircraft,",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/FRPUE-20261105-ZJ0193-038-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -394,27 +294,17 @@
         "summary": "Kystverket har gitt tilsagn til 11 nye prosjekter gjennom den statlige tilskuddsordningen for...",
         "image_url": "",
         "section": "regelverk"
-      },
-      {
-        "title": "Bli med på beredskapsseminar i oktober",
-        "url": "https://www.kystverket.no/nyheter/bli-med-pa-beredskapsseminar-i-oktober/",
-        "published": "2026-09-17T12:13:48Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Fra nye energibærere til erfaringer fra faktiske aksjoner: Hvordan sikrer vi at beredskapen mot...",
-        "image_url": "",
-        "section": "regelverk"
       }
     ],
     "rov_teknologi": [
       {
-        "title": "Naval Group Unveils SCX 26 ‘Hybrid Fleet’ Drone Mothership Concept",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-presents-scx-26-combatant-as-naval-drone-hub/",
-        "published": "2026-11-14T08:57:28Z",
-        "source": "Naval News",
+        "title": "Navy eyes ‘operational employment’ of key UUV programs, admiral says",
+        "url": "https://breakingdefense.com/2026/11/navy-eyes-operational-employment-of-key-uuv-programs-admiral-says/",
+        "published": "2026-11-16T14:47:07Z",
+        "source": "Breaking Defense",
         "language": "en",
-        "summary": "French shipbuilder Naval Group unveiled a new conceptual surface warship design at Euronaval 2026 dubbed “SCX 26.” Naval News provides an overview covering the key technical characteristics and wider operational concept, explaining how SCX 26 fits into the company’s vision for the future of naval warfare. Standing for “Surface Combatant Xperimental,” Naval Group’s SCX 26 ...\nThe post Naval Group Unveils SCX 26 ‘Hybrid Fleet’ Drone Mothership Concept appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/DSC05456_WM-1024x625.jpg",
+        "summary": "The Navy is expected to receive its third Orca prototype vessel &#8220;soon,&#8221; according to a service official.",
+        "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2020/06/Boeing-ORCA-XLUUV-e1794840313551-1024x575.jpg",
         "section": "rov_teknologi"
       },
       {
@@ -425,16 +315,6 @@
         "language": "en",
         "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for submarines, said that the Navy faced roughly 780 days of maintenance delay for subs in FY26.",
         "image_url": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/PNSY-Hampton-superflood-basin-250308-N-QV316-1001-e1752845079436-1024x575.jpg",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%",
-        "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
-        "published": "2026-11-13T08:45:16Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Saab has reinvigorated its Sea Giraffe Agile Multi Beam (AMB) G-band radar line with the launch of the fourth-generation Sea Giraffe AMB D system. Featuring a GaN AESA antenna and digital architecture, it boosts range by 50% to 250km. Designed providing naval forces with enhanced 3D surveillance and tracking of air and surface targets in ...\nThe post Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50% appeared first on Naval News.",
-        "image_url": "",
         "section": "rov_teknologi"
       },
       {

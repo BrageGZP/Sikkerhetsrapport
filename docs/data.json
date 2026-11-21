@@ -1,8 +1,18 @@
 {
-  "generated_at": "2026-11-21T11:52:57Z",
-  "next_update_utc": "12:00 UTC",
+  "generated_at": "2026-11-21T18:58:33Z",
+  "next_update_utc": "04:00 UTC (tomorrow)",
   "sections": {
     "nyheter": [
+      {
+        "title": "U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
+        "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-prepares-for-third-zumwalt-hypersonic-upgrade/",
+        "published": "2026-11-21T16:14:42Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "The U.S. Navy plans a 2028 overhaul to equip Zumwalt-class destroyer USS Michael Monsoor (DDG-1001) with Conventional Prompt Strike hypersonic missiles.\nThe post U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2025/01/Screenshot-2025-01-15-173952-1024x764.png",
+        "section": "nyheter"
+      },
       {
         "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
         "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
@@ -201,16 +211,6 @@
         "language": "en",
         "summary": "TOULON, France — The French Navy’s submarine quay resides within covered dry docks and behind thick concrete walls at Paris’ largest naval base. Concealed from prying eyes, this closely guarded facility is home to the Squadron of Nuclear Attack Submarines’ most capable and modern attack boats. Last month, USNI News visited one of the French Navy’s Suffren-class nuclear attack submarines, FS Duguay-Trouin (S636), while the boat was undergoing maintenance. Commissioned in 2023, the nuclear attack ",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/DSC02747-Copy-scaled.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
-        "url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
-        "published": "2026-11-19T09:51:57Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Today, Abu Dhabi Ship Building (ADSB) has three major shipbuilding contracts from three different nations. These projects are keeping the workforce almost fully occupied but, with future expansion in mind, ADSB is already planning a new shipyard that will permit construction of more and larger vessels. ADSB’s obvious core function is shipbuilding, which is its ...\nThe post ADSB to relocate shipyard as it eyes shipbuilding expansion appeared first on Naval News.",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/2-1024x683.jpg",
         "section": "nyheter"
       },
       {
@@ -422,16 +422,6 @@
         "source": "Kystverket.no",
         "language": "no",
         "summary": "Maritim uke i Haugesund har vært innholdsrik, med gode møter, nyttige diskusjoner og lærerike...",
-        "image_url": "",
-        "section": "regelverk"
-      },
-      {
-        "title": "208 millioner til havneprosjekter som styrker sjøtransporten",
-        "url": "https://www.kystverket.no/nyheter/xxx-millioner-til-havneprosjekter-som-styrker-sjotransporten/",
-        "published": "2026-09-22T12:29:20Z",
-        "source": "Kystverket.no",
-        "language": "no",
-        "summary": "Kystverket har gitt tilsagn til 11 nye prosjekter gjennom den statlige tilskuddsordningen for...",
         "image_url": "",
         "section": "regelverk"
       }

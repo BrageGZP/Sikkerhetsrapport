@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-11-20T19:52:53Z",
-  "next_update_utc": "04:00 UTC (tomorrow)",
+  "generated_at": "2026-11-21T11:52:57Z",
+  "next_update_utc": "12:00 UTC",
   "sections": {
     "nyheter": [
+      {
+        "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
+        "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
+        "published": "2026-11-21T10:18:51Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "France’s fourth Suffren-class SSN, De Grasse, has officially entered active service with the French Navy under the Barracuda submarine program.\nThe post French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service appeared first on Naval News.",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/De-Grasse-French-Navy-1024x681.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine",
+        "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/",
+        "published": "2026-11-21T08:46:25Z",
+        "source": "Naval News",
+        "language": "en",
+        "summary": "Built in the UK, the two 30-meter Fast Attack Craft will carry advanced air defense and missile systems to help the Ukrainian Navy protect the Black Sea Grain Corridor. UK Prime Minister&#8217;s office press release Two advanced fast attack boats for&#160;Ukraine are being jointly funded by the&#160;UK&#160;and&#160;Norway&#160;to boost&#160;Ukrainian defence and apply further pressure on Russia. ...\nThe post UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine appeared firs",
+        "image_url": "https://www.navalnews.com/wp-content/uploads/2022/02/P-50U-Fast-Inshore-Attack-Craft-FIAC-Babcock-Ukraine-2-1024x768.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
+        "url": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
+        "published": "2026-11-20T20:57:51Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "Increasing the size of the Navy&#8217;s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service&#8217;s annual budget and exceed the Navy&#8217;s own budget estimates by about 18 percent – a total delta of some $234 billion.  That&#8217;s according to a new analysis from the Congressional Budget Office, released Wednesday. The report evaluates the 30-year shipbuilding plan for Fiscal Year 2027 that the Navy submitted to Congress in May, which would t",
+        "image_url": "https://news.usni.org/wp-content/uploads/2026/10/AM1A8909-scaled.jpg",
+        "section": "nyheter"
+      },
+      {
+        "title": "Pearl Harbor Hero Doris Miller Will Stay Namesake of CVN-81",
+        "url": "https://news.usni.org/2026/11/20/pearl-harbor-hero-doris-miller-will-stay-namesake-of-cvn-81",
+        "published": "2026-11-20T20:36:54Z",
+        "source": "USNI News",
+        "language": "en",
+        "summary": "The future aircraft carrier CVN-81 will keep its name of USS Doris Miller, USNI News has learned. HII’s Newport News Shipbuilding will lay the ceremonial keel for the future Doris Miller on Dec. 5, according to an invitation to the ceremony reviewed by USNI News. The ship is named after the enlisted sailor who received the Navy Cross for his heroics during the attack on Pearl Harbor. Miller, 25, died in the Battle of Makin.  Earlier this year, CNN reported that the Navy was considering naming CV",
+        "image_url": "https://news.usni.org/wp-content/uploads/2020/01/image-3.jpg",
+        "section": "nyheter"
+      },
       {
         "title": "USNI News Western Pacific Pulse: Nov. 20, 2026",
         "url": "https://news.usni.org/2026/11/20/usni-news-western-pacific-pulse-nov-20-2026",
@@ -184,16 +224,6 @@
         "section": "nyheter"
       },
       {
-        "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
-        "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
-        "published": "2026-11-18T21:24:48Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Hanwha Ocean launched South Korea’s fifth FFX Batch-III frigate, ROKS Pyeongtaek (FFG-833), featuring upgraded electronic warfare and cybersecurity systems. ROK Navy and Defense Acquisition Program Administration(DAPA) joint press release translated by Naval News The Republic of Korea Navy and the Defense Acquisition Program Administration (DAPA) held a launch ceremony for ROKS Pyeongtaek (FFG-833) at Hanwha ...\nThe post South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek appeared ",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/11/ROKS-Pyeongtaek_3-1024x629.jpg",
-        "section": "nyheter"
-      },
-      {
         "title": "U.K. Carrier Strike Group Concludes 6-month Operation Firecrest Deployment",
         "url": "https://news.usni.org/2026/11/18/u-k-carrier-strike-group-concludes-6-month-operation-firecrest-deployment",
         "published": "2026-11-18T18:23:31Z",
@@ -201,16 +231,6 @@
         "language": "en",
         "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) returned Monday to its homeport of Portsmouth, concluding the U.K. Carrier Strike Group’s two-phase Operation Firecrest deployment.  The deployment spanned six months and took the carrier strike group the Atlantic and High North.  “From conducting complex air operations alongside Norwegian and U.S. forces to hosting strategic engagements with military and political leaders in Oslo, this deployment has showcased the carrier strike group&#8217;",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/FLEET-20261103-ZE0232-003.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
-        "url": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
-        "published": "2026-11-18T15:42:53Z",
-        "source": "Naval News",
-        "language": "en",
-        "summary": "Senate appropriators have unveiled their reconciliation-free $1.1 trillion Pentagon budget with a number of budget overhauls, including a near-total rejection of the Navy&#8217;s prized 34,000 ton guided missile battleship, dealing a major setback to one of the Trump administration&#8217;s most ambitious shipbuilding initiatives. Senate appropriators are moving to strip nearly $1.84 billion in funding for ...\nThe post Congress Rebukes U.S. Navy Battleship in New Budget Proposal appeared first on",
-        "image_url": "https://www.navalnews.com/wp-content/uploads/2026/01/IMG_0228-1024x575.png",
         "section": "nyheter"
       },
       {
@@ -241,26 +261,6 @@
         "language": "en",
         "summary": "The Naval Air Warfare Center Weapons Division will begin making a component for Tomahawk cruise missile warheads in June of 2027 when a new explosive and propellant mixer comes online, the division announced last week.  A new 300 gallon mixer, built by B&#38;P Littleford was inaugurated in a ribbon cutting ceremony on Nov. 9 at the China Lake Propulsion Laboratory in California. Once the mixer is online, NAWCD’s warhead production team will work to have warheads ready before manufacturer Raytheo",
         "image_url": "https://news.usni.org/wp-content/uploads/2026/11/9675422-1.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "The New Six Frigates",
-        "url": "https://news.usni.org/2026/11/13/the-new-six-frigates",
-        "published": "2026-11-13T22:41:48Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the Type-31 Arrowhead sailed on a display table at the Babcock International booth at Euronaval 2026 last week. It was one of a half a dozen contenders for the U.S. Navy’s foreign frigate competition designed by the White House to jumpstart a new wave of shipbuilding and investment in the U.S. With the Trump administration’s ongoing p",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/1_Type-31-Graphic_2021.jpg",
-        "section": "nyheter"
-      },
-      {
-        "title": "Peacoat Evicted from Navy Seabags After a Century at Sea",
-        "url": "https://news.usni.org/2026/11/13/peacoat-evicted-from-navy-sea-bags-after-a-century-at-sea",
-        "published": "2026-11-13T20:44:55Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "The traditional Navy peacoat will be no more. A new Navy uniform policy released on Friday removes the peacoat, acrylic V-neck sweater and dinner dress white jacket from a sailor’s seabag beginning on Oct. 1, 2027. Sailors may still wear the wool V-neck sweater. Instead of the dinner dress white jacket, sailors will now use the dinner dress blue jacket as the standard formal uniform year-round, according to the policy. The changes to the seabag come from Chief of Naval Operation Adm. Daryl Caudl",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/5097776-scaled.jpg",
         "section": "nyheter"
       }
     ],
@@ -455,16 +455,6 @@
         "language": "en",
         "summary": "The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on Nov. 17, 2026. From the Report The hearing saw testimony from Cao, who has served in an acting capacity since April. Below are also prepared advance policy questions from Cao. Watch the full hearing here. Download the remarks here. Download the advance policy questions here.",
         "image_url": "",
-        "section": "rov_teknologi"
-      },
-      {
-        "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
-        "url": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
-        "published": "2026-11-10T22:07:42Z",
-        "source": "USNI News",
-        "language": "en",
-        "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program. Judge Philip Hadji, who sits on the Federal Court of Claims, asserts the court is a venue to challenge Other Transaction Authorities, providing a check against OTA awards from the Pentagon, according to the Oct. 30 ruling that was unsealed last week. Other transaction authority, an acquisition tool developed dur",
-        "image_url": "https://news.usni.org/wp-content/uploads/2026/11/6ae843d4920e5504fa89c534_Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_3_blog-hero.jpg",
         "section": "rov_teknologi"
       }
     ]
